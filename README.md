@@ -16,24 +16,26 @@ the goal of this project is to:
 * TODO:run Dutch pipeline to add NER, NEL, newest alpino, SRL, timex and many more..
 
 ## USAGE
-There are two main purposes of this github
-*convert a folia xml file to NAF containing wf and term layer.
+There are two main purposes of this github:
+* convert a folia xml file to NAF containing wf and term layer.
 cd to the scripts folder and call python FoliaToNaf.py -h for information
 on how to use it.
-*convert DutchSemcor to NAF. cd to the scripts folder and call python main.py -h
+* convert DutchSemcor to NAF. cd to the scripts folder and call python main.py -h
 for more information on how to use it.
 
-##Contents
-*folder 'scripts': contains python scripts to perform conversion
-*folder 'resources': contains 'base_naf.xml' which is used for the NAF conversion
+## Contents
+Contents of this github:
+* folder 'scripts': contains python scripts to perform conversion
+* folder 'resources': contains 'base_naf.xml' which is used for the NAF conversion
 and 'cdb_syn_FILT.xml.lu-map', which is a mapping from Cornetto to ODWN1.0
 
 ## TODO list (in this order)
+TODO list includes:
 * obtain correct files all words in folia
 * create github 
 * run full conversion to naf
 * run all files through dutch pipeline
 
-##Code Documentation
+## Code Documentation
 All python code has been documented with the epydoc package (http://epydoc.sourceforge.net/)
 open script/html/index.html to inspect the documentation.
