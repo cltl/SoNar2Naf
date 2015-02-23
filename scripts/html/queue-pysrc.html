@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>queue</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        Module&nbsp;queue
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="queue-pysrc.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h1 class="epydoc">Source Code for <a href="queue-module.html">Module queue</a></h1>
+<pre class="py-src">
+<a name="L1"></a><tt class="py-lineno"> 1</tt>  <tt class="py-line"><tt class="py-comment">#import general modules</tt> </tt>
+<a name="L2"></a><tt class="py-lineno"> 2</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">threading</tt> </tt>
+<a name="L3"></a><tt class="py-lineno"> 3</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">os</tt> </tt>
+<a name="L4"></a><tt class="py-lineno"> 4</tt>  <tt class="py-line"> </tt>
+<a name="L5"></a><tt class="py-lineno"> 5</tt>  <tt class="py-line"><tt class="py-comment">#import modules from this folder</tt> </tt>
+<a name="L6"></a><tt class="py-lineno"> 6</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt id="link-0" class="py-name" targets="Module utils=utils-module.html"><a title="utils" class="py-name" href="#" onclick="return doclink('link-0', 'utils', 'link-0');">utils</a></tt> </tt>
+<a name="L7"></a><tt class="py-lineno"> 7</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt id="link-1" class="py-name" targets="Module FoliaToNaf=FoliaToNaf-module.html,Class FoliaToNaf.FoliaToNaf=FoliaToNaf.FoliaToNaf-class.html"><a title="FoliaToNaf
+FoliaToNaf.FoliaToNaf" class="py-name" href="#" onclick="return doclink('link-1', 'FoliaToNaf', 'link-1');">FoliaToNaf</a></tt> <tt class="py-keyword">import</tt> <tt id="link-2" class="py-name"><a title="FoliaToNaf
+FoliaToNaf.FoliaToNaf" class="py-name" href="#" onclick="return doclink('link-2', 'FoliaToNaf', 'link-1');">FoliaToNaf</a></tt> </tt>
+<a name="L8"></a><tt class="py-lineno"> 8</tt>  <tt class="py-line"> </tt>
+<a name="Worker"></a><div id="Worker-def"><a name="L9"></a><tt class="py-lineno"> 9</tt> <a class="py-toggle" href="#" id="Worker-toggle" onclick="return toggle('Worker');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="queue.Worker-class.html">Worker</a><tt class="py-op">(</tt><tt class="py-base-class">threading</tt><tt class="py-op">.</tt><tt class="py-base-class">Thread</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="Worker-collapsed" style="display:none;" pad="++" indent="++++"></div><div id="Worker-expanded"><a name="L10"></a><tt class="py-lineno">10</tt>  <tt class="py-line">    <tt class="py-docstring">'''</tt> </tt>
+<a name="L11"></a><tt class="py-lineno">11</tt>  <tt class="py-line"><tt class="py-docstring">    this is a class which makes it multiples to run multiple </tt> </tt>
+<a name="L12"></a><tt class="py-lineno">12</tt>  <tt class="py-line"><tt class="py-docstring">    files in parallel</tt> </tt>
+<a name="L13"></a><tt class="py-lineno">13</tt>  <tt class="py-line"><tt class="py-docstring">    '''</tt> </tt>
+<a name="Worker.__init__"></a><div id="Worker.__init__-def"><a name="L14"></a><tt class="py-lineno">14</tt> <a class="py-toggle" href="#" id="Worker.__init__-toggle" onclick="return toggle('Worker.__init__');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="queue.Worker-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt> <tt class="py-param">queue</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="Worker.__init__-collapsed" style="display:none;" pad="++" indent="++++++++"></div><div id="Worker.__init__-expanded"><a name="L15"></a><tt class="py-lineno">15</tt>  <tt class="py-line">        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">__queue</tt> <tt class="py-op">=</tt> <tt id="link-3" class="py-name" targets="Variable main.queue=main-module.html#queue,Module queue=queue-module.html"><a title="main.queue
+queue" class="py-name" href="#" onclick="return doclink('link-3', 'queue', 'link-3');">queue</a></tt> </tt>
+<a name="L16"></a><tt class="py-lineno">16</tt>  <tt class="py-line">        <tt class="py-name">threading</tt><tt class="py-op">.</tt><tt class="py-name">Thread</tt><tt class="py-op">.</tt><tt id="link-4" class="py-name" targets="Method FoliaToNaf.FoliaToNaf.__init__()=FoliaToNaf.FoliaToNaf-class.html#__init__,Method queue.Worker.__init__()=queue.Worker-class.html#__init__"><a title="FoliaToNaf.FoliaToNaf.__init__
+queue.Worker.__init__" class="py-name" href="#" onclick="return doclink('link-4', '__init__', 'link-4');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L17"></a><tt class="py-lineno">17</tt>  <tt class="py-line"> </tt>
+<a name="Worker.run"></a><div id="Worker.run-def"><a name="L18"></a><tt class="py-lineno">18</tt> <a class="py-toggle" href="#" id="Worker.run-toggle" onclick="return toggle('Worker.run');">-</a><tt class="py-line">    <tt class="py-keyword">def</tt> <a class="py-def-name" href="queue.Worker-class.html#run">run</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="Worker.run-collapsed" style="display:none;" pad="++" indent="++++++++"></div><div id="Worker.run-expanded"><a name="L19"></a><tt class="py-lineno">19</tt>  <tt class="py-line">        <tt class="py-keyword">while</tt> <tt class="py-number">1</tt><tt class="py-op">:</tt> </tt>
+<a name="L20"></a><tt class="py-lineno">20</tt>  <tt class="py-line">            <tt class="py-name">item</tt> <tt class="py-op">=</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">__queue</tt><tt class="py-op">.</tt><tt class="py-name">get</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L21"></a><tt class="py-lineno">21</tt>  <tt class="py-line">            <tt class="py-keyword">if</tt> <tt class="py-name">item</tt> <tt class="py-keyword">is</tt> <tt class="py-name">None</tt><tt class="py-op">:</tt> </tt>
+<a name="L22"></a><tt class="py-lineno">22</tt>  <tt class="py-line">                <tt class="py-keyword">break</tt> <tt class="py-comment"># reached end of queue</tt> </tt>
+<a name="L23"></a><tt class="py-lineno">23</tt>  <tt class="py-line">             </tt>
+<a name="L24"></a><tt class="py-lineno">24</tt>  <tt class="py-line">            <tt class="py-comment">#do the magic here</tt> </tt>
+<a name="L25"></a><tt class="py-lineno">25</tt>  <tt class="py-line">             </tt>
+<a name="L26"></a><tt class="py-lineno">26</tt>  <tt class="py-line">            <tt class="py-comment">#extract variables from 'item'</tt> </tt>
+<a name="L27"></a><tt class="py-lineno">27</tt>  <tt class="py-line">            <tt class="py-name">path</tt>                  <tt class="py-op">=</tt> <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'path'</tt><tt class="py-op">]</tt><tt class="py-op">[</tt><tt class="py-op">:</tt><tt class="py-op">-</tt><tt class="py-number">4</tt><tt class="py-op">]</tt> </tt>
+<a name="L28"></a><tt class="py-lineno">28</tt>  <tt class="py-line">            <tt class="py-name">output</tt>                <tt class="py-op">=</tt> <tt id="link-5" class="py-name"><a title="utils" class="py-name" href="#" onclick="return doclink('link-5', 'utils', 'link-0');">utils</a></tt><tt class="py-op">.</tt><tt id="link-6" class="py-name" targets="Function utils.output_path()=utils-module.html#output_path"><a title="utils.output_path" class="py-name" href="#" onclick="return doclink('link-6', 'output_path', 'link-6');">output_path</a></tt><tt class="py-op">(</tt><tt class="py-name">path</tt><tt class="py-op">,</tt>  </tt>
+<a name="L29"></a><tt class="py-lineno">29</tt>  <tt class="py-line">                                                      <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'base_dir'</tt><tt class="py-op">]</tt><tt class="py-op">,</tt>  </tt>
+<a name="L30"></a><tt class="py-lineno">30</tt>  <tt class="py-line">                                                      <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'output_dir'</tt><tt class="py-op">]</tt><tt class="py-op">)</tt> </tt>
+<a name="L31"></a><tt class="py-lineno">31</tt>  <tt class="py-line">            <tt id="link-7" class="py-name" targets="Variable main.cwd=main-module.html#cwd"><a title="main.cwd" class="py-name" href="#" onclick="return doclink('link-7', 'cwd', 'link-7');">cwd</a></tt>                   <tt class="py-op">=</tt> <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'cwd'</tt><tt class="py-op">]</tt> </tt>
+<a name="L32"></a><tt class="py-lineno">32</tt>  <tt class="py-line">            <tt id="link-8" class="py-name" targets="Variable main.mapping_cornetto_odwn=main-module.html#mapping_cornetto_odwn"><a title="main.mapping_cornetto_odwn" class="py-name" href="#" onclick="return doclink('link-8', 'mapping_cornetto_odwn', 'link-8');">mapping_cornetto_odwn</a></tt> <tt class="py-op">=</tt> <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'mapping_cornetto_odwn'</tt><tt class="py-op">]</tt> </tt>
+<a name="L33"></a><tt class="py-lineno">33</tt>  <tt class="py-line">            <tt id="link-9" class="py-name" targets="Variable main.prefix_folia=main-module.html#prefix_folia"><a title="main.prefix_folia" class="py-name" href="#" onclick="return doclink('link-9', 'prefix_folia', 'link-9');">prefix_folia</a></tt>          <tt class="py-op">=</tt> <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'prefix_folia'</tt><tt class="py-op">]</tt> </tt>
+<a name="L34"></a><tt class="py-lineno">34</tt>  <tt class="py-line">            <tt id="link-10" class="py-name" targets="Variable main.overwrite=main-module.html#overwrite"><a title="main.overwrite" class="py-name" href="#" onclick="return doclink('link-10', 'overwrite', 'link-10');">overwrite</a></tt>             <tt class="py-op">=</tt> <tt class="py-name">item</tt><tt class="py-op">[</tt><tt class="py-string">'overwrite'</tt><tt class="py-op">]</tt> </tt>
+<a name="L35"></a><tt class="py-lineno">35</tt>  <tt class="py-line">             </tt>
+<a name="L36"></a><tt class="py-lineno">36</tt>  <tt class="py-line">            <tt class="py-comment">#convert to NAF if output does not exist and/or overwrite is true</tt> </tt>
+<a name="L37"></a><tt class="py-lineno">37</tt>  <tt class="py-line">            <tt class="py-keyword">if</tt> <tt class="py-name">any</tt><tt class="py-op">(</tt><tt class="py-op">[</tt><tt id="link-11" class="py-name"><a title="main.overwrite" class="py-name" href="#" onclick="return doclink('link-11', 'overwrite', 'link-10');">overwrite</a></tt> <tt class="py-op">==</tt> <tt class="py-string">'yes'</tt><tt class="py-op">,</tt> </tt>
+<a name="L38"></a><tt class="py-lineno">38</tt>  <tt class="py-line">                    <tt class="py-name">os</tt><tt class="py-op">.</tt><tt class="py-name">path</tt><tt class="py-op">.</tt><tt class="py-name">exists</tt><tt class="py-op">(</tt><tt class="py-name">output</tt><tt class="py-op">+</tt><tt class="py-string">".bz2"</tt><tt class="py-op">)</tt> <tt class="py-op">==</tt> <tt class="py-name">False</tt> </tt>
+<a name="L39"></a><tt class="py-lineno">39</tt>  <tt class="py-line">                    <tt class="py-op">]</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+<a name="L40"></a><tt class="py-lineno">40</tt>  <tt class="py-line">                 </tt>
+<a name="L41"></a><tt class="py-lineno">41</tt>  <tt class="py-line">                 </tt>
+<a name="L42"></a><tt class="py-lineno">42</tt>  <tt class="py-line">                <tt class="py-comment">#unzip input_file</tt> </tt>
+<a name="L43"></a><tt class="py-lineno">43</tt>  <tt class="py-line">                <tt id="link-12" class="py-name"><a title="utils" class="py-name" href="#" onclick="return doclink('link-12', 'utils', 'link-0');">utils</a></tt><tt class="py-op">.</tt><tt id="link-13" class="py-name" targets="Function utils.b_un_zip2()=utils-module.html#b_un_zip2"><a title="utils.b_un_zip2" class="py-name" href="#" onclick="return doclink('link-13', 'b_un_zip2', 'link-13');">b_un_zip2</a></tt><tt class="py-op">(</tt><tt class="py-name">path</tt><tt class="py-op">+</tt><tt class="py-string">".bz2"</tt><tt class="py-op">,</tt> <tt class="py-name">False</tt><tt class="py-op">)</tt> </tt>
+<a name="L44"></a><tt class="py-lineno">44</tt>  <tt class="py-line"> </tt>
+<a name="L45"></a><tt class="py-lineno">45</tt>  <tt class="py-line">                <tt id="link-14" class="py-name"><a title="FoliaToNaf
+FoliaToNaf.FoliaToNaf" class="py-name" href="#" onclick="return doclink('link-14', 'FoliaToNaf', 'link-1');">FoliaToNaf</a></tt><tt class="py-op">(</tt><tt class="py-name">path</tt><tt class="py-op">,</tt>  </tt>
+<a name="L46"></a><tt class="py-lineno">46</tt>  <tt class="py-line">                           <tt class="py-name">output</tt><tt class="py-op">,</tt>  </tt>
+<a name="L47"></a><tt class="py-lineno">47</tt>  <tt class="py-line">                           <tt id="link-15" class="py-name"><a title="main.cwd" class="py-name" href="#" onclick="return doclink('link-15', 'cwd', 'link-7');">cwd</a></tt><tt class="py-op">,</tt> </tt>
+<a name="L48"></a><tt class="py-lineno">48</tt>  <tt class="py-line">                           <tt id="link-16" class="py-name"><a title="main.prefix_folia" class="py-name" href="#" onclick="return doclink('link-16', 'prefix_folia', 'link-9');">prefix_folia</a></tt><tt class="py-op">,</tt> </tt>
+<a name="L49"></a><tt class="py-lineno">49</tt>  <tt class="py-line">                           <tt id="link-17" class="py-name"><a title="main.mapping_cornetto_odwn" class="py-name" href="#" onclick="return doclink('link-17', 'mapping_cornetto_odwn', 'link-8');">mapping_cornetto_odwn</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L50"></a><tt class="py-lineno">50</tt>  <tt class="py-line">             </tt>
+<a name="L51"></a><tt class="py-lineno">51</tt>  <tt class="py-line">                <tt class="py-comment">#bzip2 input_file</tt> </tt>
+<a name="L52"></a><tt class="py-lineno">52</tt>  <tt class="py-line">                <tt id="link-18" class="py-name"><a title="utils" class="py-name" href="#" onclick="return doclink('link-18', 'utils', 'link-0');">utils</a></tt><tt class="py-op">.</tt><tt id="link-19" class="py-name"><a title="utils.b_un_zip2" class="py-name" href="#" onclick="return doclink('link-19', 'b_un_zip2', 'link-13');">b_un_zip2</a></tt><tt class="py-op">(</tt><tt class="py-name">path</tt><tt class="py-op">,</tt>  <tt class="py-name">True</tt><tt class="py-op">)</tt> </tt>
+<a name="L53"></a><tt class="py-lineno">53</tt>  <tt class="py-line">                 </tt>
+<a name="L54"></a><tt class="py-lineno">54</tt>  <tt class="py-line">                <tt class="py-comment">#bzip2 output_file</tt> </tt>
+<a name="L55"></a><tt class="py-lineno">55</tt>  <tt class="py-line">                <tt id="link-20" class="py-name"><a title="utils" class="py-name" href="#" onclick="return doclink('link-20', 'utils', 'link-0');">utils</a></tt><tt class="py-op">.</tt><tt id="link-21" class="py-name"><a title="utils.b_un_zip2" class="py-name" href="#" onclick="return doclink('link-21', 'b_un_zip2', 'link-13');">b_un_zip2</a></tt><tt class="py-op">(</tt><tt class="py-name">output</tt><tt class="py-op">,</tt><tt class="py-name">True</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L56"></a><tt class="py-lineno">56</tt>  <tt class="py-line"> </tt><script type="text/javascript">
+<!--
+expandto(location.href);
+// -->
+</script>
+</pre>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+      <th class="navbar" width="100%"></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Mon Feb 23 22:25:17 2015
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>
