@@ -18,11 +18,15 @@ basename=$(basename $input_file)
 cwd=/${PWD#*/}
 tmp=$cwd/tmp/
 tmp_folder=$tmp$basename
+base_naf=$tmp_folder/$basename
 
 #rm if exists and create tmp folder based on basename
 rm -rf $tmp_folder && mkdir $tmp_folder
 
 #call dep
+cd $cwd/dependency-parser-nl/
+cat $input_file | python alpino_dependency_parser.py > $base_naf.dep
+cd $cwd
 
 #call const
 

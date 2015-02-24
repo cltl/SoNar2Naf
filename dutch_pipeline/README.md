@@ -19,3 +19,8 @@ and then to the other layers of the pipedemo. During the process, a tmp folder
 will be created that will be removed afterwards.
 
 ## Info about installing
+* dependency parser:
+    * git clone https://github.com/cltl/dependency-parser-nl.git
+    * mv config.kyoto.cfg config.cfg
+    * cat input.naf | python alpino_dependency_parser.py > output.naf 2> /dev/null
+
