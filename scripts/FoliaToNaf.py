@@ -137,6 +137,10 @@ class FoliaToNaf():
         @type  w_el: lxml.etree._Element
         @param w_el: lxml w_el element (<w element in folia)
         '''
+        
+        #put quotes on hyphen, because it's forbidden in xml
+        word = word.replace("-","\"-\"")
+
         #create new element and add attributes
         new_t_el                      = etree.SubElement(self.t_els, "term")
         new_t_el.append(etree.Comment(word))
