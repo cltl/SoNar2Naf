@@ -25,10 +25,15 @@ rm -rf $tmp_folder && mkdir $tmp_folder
 
 #call dep
 cd $cwd/dependency-parser-nl/
-cat $input_file | python alpino_dependency_parser.py > $base_naf.dep
+cat $input_file | python alpino_dependency_parser.py > $base_naf.dep    2> /dev/null
 cd $cwd
 
-#call const
+#NOT WORKING: call const
+#export ALPINO_HOME=/home/izquierdo/tools/Alpino
+#cd constituent-parser-nl/core/
+#echo $base_naf.dep
+#cat $base_naf.dep | python alpino_parser.py          > $base_naf.dep.con
+#cd $cwd
 
 #call dproc starting from the lower layers of NAF
 

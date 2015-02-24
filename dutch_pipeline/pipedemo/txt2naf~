@@ -1,0 +1,42 @@
+#!/bin/bash
+ROOT=/home/paul/projecten/cltl/pipelines/dutch-nlp-modules-on-Lisa
+BIND=$ROOT/bin
+INTEXT=$1
+FILTRUNK=${INTEXT%.txt}
+#FILTRUNK=${INFIL%.naf}
+INFIL=$FILTRUNK.in.naf
+TOKFIL=$FILTRUNK.tok.naf
+MORFIL=$FILTRUNK.mor.naf
+NERCFIL=$FILTRUNK.nerc.naf
+WSDFIL=$FILTRUNK.wsd.naf
+NEDFIL=$FILTRUNK.ned.naf
+ONTOFIL=$FILTRUNK.onto.naf
+TIMESFIL=$FILTRUNK.times.naf
+SRLFIL=$FILTRUNK.srl.naf
+ECRFFIL=$FILTRUNK.ecrf.naf
+OUTFIL=$FILTRUNK.out.naf
+
+#echo text to naf
+#gawk -f ./txt2naf.awk $INTEXT   > $INFIL
+#echo Tokenize:
+#cat $INFIL   | $BIND/tok        > $TOKFIL
+#echo Morph:
+#cat $TOKFIL  | $BIND/mor        > $MORFIL
+##cat $INFIL  | $BIND/mor        > $MORFIL
+#echo NERC:
+#cat $MORFIL  | $BIND/nerc       > $NERCFIL
+#echo wsd:
+#cat $NERCFIL | $BIND/wsd        > $WSDFIL   
+#echo NED:
+#cat $WSDFIL  | $BIND/ned        > $NEDFIL   
+#echo  Onto:
+#cat $NEDFIL  | $BIND/onto       > $ONTOFIL  
+#echo Heideltime:
+#cat $ONTOFIL | $BIND/heideltime > $TIMESFIL 
+#echo SRL:
+#cat $TIMESFIL| $BIND/srl        > $SRLFIL   
+#echo Evcoref:
+#cat $SRLFIL  | $BIND/evcoref    > $ECRFFIL  
+echo framesrl:
+cat $ECRFFIL | $BIND/framesrl    > $OUTFIL   
+
