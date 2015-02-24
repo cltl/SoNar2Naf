@@ -70,7 +70,7 @@ for counter,path in enumerate(paths):
             'overwrite'             : overwrite}
     queue.put(item)
     
-    if counter == 1000:
+    if counter == 10:
         break 
     
 #add end-of-queue markers    

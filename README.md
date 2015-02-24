@@ -32,9 +32,8 @@ and 'cdb_syn_FILT.xml.lu-map', which is a mapping from Cornetto to ODWN1.0
 ## TODO list (in this order)
 TODO list includes:
 * obtain correct files all words in folia
-* create github 
+* run all words part through dutch pipeline for testing
 * run full conversion to naf
-* run all files through dutch pipeline
 
 ## Code Documentation
 All python code has been documented with the epydoc package (http://epydoc.sourceforge.net/)
