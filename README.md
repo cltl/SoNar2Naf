@@ -28,6 +28,8 @@ Contents of this github:
 * folder 'scripts': contains python scripts to perform conversion
 * folder 'resources': contains 'base_naf.xml' which is used for the NAF conversion
 and 'cdb_syn_FILT.xml.lu-map', which is a mapping from Cornetto to ODWN1.0
+* folder 'dutch_pipeline': contains scripts to run naf file through dutch pipeline. only created for use
+on our personal server.
 
 ## TODO list (in this order)
 TODO list includes:

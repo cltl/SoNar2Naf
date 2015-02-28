@@ -23,11 +23,5 @@ will be created that will be removed afterwards.
     * git clone https://github.com/cltl/dependency-parser-nl.git
     * mv config.kyoto.cfg config.cfg
     * cat input.naf | python alpino_dependency_parser.py > output.naf 2> /dev/null
-* NOT WORKING:constituent parser:
-    * git clone https://github.com/opener-project/constituent-parser-nl.git
-    * cd constituent-parser-nl/
-    * git clone https://github.com/opener-project/VU-kaf-parser.git
-        * cd VU-kaf-parser/
-        * python setup.py install --prefix=$(pwd)
-        * cp -r VUKafParserPy/ ../core
-        
+
+
