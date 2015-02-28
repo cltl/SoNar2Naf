@@ -23,5 +23,6 @@ will be created that will be removed afterwards.
     * git clone https://github.com/cltl/dependency-parser-nl.git
     * mv config.kyoto.cfg config.cfg
     * cat input.naf | python alpino_dependency_parser.py > output.naf 2> /dev/null
-
+* constituent parser
+    * git clone https://github.com/rubenIzquierdo/constituency_parser_nl.git
 

@@ -15,14 +15,14 @@ FILTRUNK=$INFIL
 
 #TOKFIL=$FILTRUNK.tok.naf
 MORFIL=$FILTRUNK
-NERCFIL=$FILTRUNK.nerc.naf
-WSDFIL=$FILTRUNK.wsd.naf
-NEDFIL=$FILTRUNK.ned.naf
-ONTOFIL=$FILTRUNK.onto.naf
-TIMESFIL=$FILTRUNK.times.naf
-SRLFIL=$FILTRUNK.srl.naf
-ECRFFIL=$FILTRUNK.ecrf.naf
-OUTFIL=$FILTRUNK.out.naf
+NERCFIL=$FILTRUNK.nerc
+#WSDFIL=$FILTRUNK.wsd
+NEDFIL=$FILTRUNK.nerc.ned.naf
+#ONTOFIL=$FILTRUNK.onto.naf
+#TIMESFIL=$FILTRUNK.times.naf
+#SRLFIL=$FILTRUNK.srl.naf
+#ECRFFIL=$FILTRUNK.ecrf.naf
+#OUTFIL=$FILTRUNK.out.naf
 
 #echo text to naf
 #gawk -f ./txt2naf.awk $INTEXT   > $OUTFIL
@@ -31,19 +31,19 @@ OUTFIL=$FILTRUNK.out.naf
 #echo Morph:
 #cat $TOKFIL  | $BIND/mor        > $MORFIL
 echo NERC:
-cat $MORFIL  | $BIND/nerc       > $NERCFIL
-echo wsd:
-cat $NERCFIL | $BIND/wsd        > $WSDFIL   
+cat $MORFIL  | $BIND/nerc       > $NERCFIL 2> /dev/null
+#echo wsd:
+#cat $NERCFIL | $BIND/wsd        > $WSDFIL   
 echo NED:
-cat $WSDFIL  | $BIND/ned        > $NEDFIL   
-echo  Onto:
-cat $NEDFIL  | $BIND/onto       > $ONTOFIL  
-echo Heideltime:
-cat $ONTOFIL | $BIND/heideltime > $TIMESFIL 
-echo SRL:
-cat $TIMESFIL| $BIND/srl        > $SRLFIL   
-echo Evcoref:
-cat $SRLFIL  | $BIND/evcoref    > $ECRFFIL  
-echo framesrl:
-cat $ECRFFIL | $BIND/framesrl    > $OUTFIL   
+cat $NERCFIL  | $BIND/ned        > $NEDFIL 2> /dev/null   
+#echo  Onto:
+#cat $NEDFIL  | $BIND/onto       > $ONTOFIL  
+#echo Heideltime:
+#cat $ONTOFIL | $BIND/heideltime > $TIMESFIL 
+#echo SRL:
+#cat $TIMESFIL| $BIND/srl        > $SRLFIL   
+#echo Evcoref:
+#cat $SRLFIL  | $BIND/evcoref    > $ECRFFIL  
+#echo framesrl:
+#cat $ECRFFIL | $BIND/framesrl    > $OUTFIL   
 

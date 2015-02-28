@@ -25,19 +25,21 @@ rm -rf $tmp_folder && mkdir $tmp_folder
 
 #call dep
 cd $cwd/dependency-parser-nl/
-cat $input_file | python alpino_dependency_parser.py > $base_naf.dep    2> /dev/null
+cat $input_file | python alpino_dependency_parser.py > $base_naf.dep     2> /dev/null
 cd $cwd
 
-#NOT WORKING: call const
-#export ALPINO_HOME=/home/izquierdo/tools/Alpino
-#cd constituent-parser-nl/core/
-#echo $base_naf.dep
-#cat $base_naf.dep | python alpino_parser.py          > $base_naf.dep.con
-#cd $cwd
+#call const
+cd $cwd/constituency_parser_nl
+cat $base_naf.dep | python constituency_parser.py   >  $base_naf.dep.con 2> /dev/null
+cd $cwd 
 
 #call dproc starting from the lower layers of NAF
+cd $cwd/pipedemo/
+bash dproc $base_naf.dep.con
+cd $cwd
 
 #mv final output to output_file
+cp $base_naf.dep.con.nerc.ned.naf $output_file
 
-#rm tmp file (TODO: uncomment)
-#rm -rf $tmp_folder
+#rm tmp file
+rm -rf $tmp_folder
