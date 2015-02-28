@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="1">
+  <nafHeader>
+    <linguisticProcessors layer="text">
+      <lp timestamp="*" version="1.0" name="Open-nlp sentence splitter"/>
+      <lp timestamp="*" version="1.0" name="Open-nlp tokenizer"/>
+    </linguisticProcessors>
+    <linguisticProcessor layer="term">
+      <lp timestamp="2013-12-20T17:47:28CET" version="1.0" name="Open nlp pos tagger"/>
+    </linguisticProcessor>
+  </nafHeader>
+  <text>
+    <wf sent="1" id="w1">Mijn</wf>
+    <wf sent="1" id="w2">hond</wf>
+    <wf sent="1" id="w3">is</wf>
+    <wf sent="1" id="w4">erg</wf>
+    <wf sent="1" id="w5">mooi</wf>
+    <wf sent="1" id="w6">.</wf>
+    <wf sent="2" id="w7">Mijn</wf>
+    <wf sent="2" id="w8">huis</wf>
+    <wf sent="2" id="w9">is</wf>
+    <wf sent="2" id="w10">erg</wf>
+    <wf sent="2" id="w11">mooi</wf>
+    <wf sent="2" id="w12">.</wf>
+  </text>
+  <terms>
+    <term lemma="Mijn" morphofeat="Pron" pos="Q" type="close" id="t1">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term lemma="hond" morphofeat="N" pos="N" type="open" id="t2">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" type="open" id="t3">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term lemma="erg" morphofeat="Adj" pos="G" type="open" id="t4">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term lemma="mooi" morphofeat="Adj" pos="G" type="open" id="t5">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" type="open" id="t6">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term lemma="Mijn" morphofeat="Pron" pos="Q" type="close" id="t7">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term lemma="huis" morphofeat="N" pos="N" type="open" id="t8">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" type="open" id="t9">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term lemma="erg" morphofeat="Adj" pos="G" type="open" id="t10">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term lemma="mooi" morphofeat="Adj" pos="G" type="open" id="t11">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" type="open" id="t12">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+  </terms>
+</NAF>

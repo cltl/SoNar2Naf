@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="nl">
+  <kafHeader>
+    <linguisticProcessors layer="text">
+      <lp timestamp="*" version="1.0" name="Open-nlp sentence splitter"/>
+      <lp timestamp="*" version="1.0" name="Open-nlp tokenizer"/>
+    </linguisticProcessors>
+    <linguisticProcessor layer="term">
+      <lp timestamp="2013-12-20T18:21:40CET" version="1.0" name="Open nlp pos tagger"/>
+    </linguisticProcessor>
+  </kafHeader>
+  <text>
+    <wf wid="w_1" sent="1">Beatrix</wf>
+    <wf wid="w_2" sent="1">Wilhelmina</wf>
+    <wf wid="w_3" sent="1">Armgard</wf>
+    <wf wid="w_4" sent="1">van</wf>
+    <wf wid="w_5" sent="1">Oranje-Nassau</wf>
+    <wf wid="w_6" sent="1">(</wf>
+    <wf wid="w_7" sent="1">Baarn</wf>
+    <wf wid="w_8" sent="1">,</wf>
+    <wf wid="w_9" sent="1">31</wf>
+    <wf wid="w_10" sent="1">januari</wf>
+    <wf wid="w_11" sent="1">1938</wf>
+    <wf wid="w_12" sent="1">)</wf>
+    <wf wid="w_13" sent="1">is</wf>
+    <wf wid="w_14" sent="1">sinds</wf>
+    <wf wid="w_15" sent="1">30</wf>
+    <wf wid="w_16" sent="1">april</wf>
+    <wf wid="w_17" sent="1">1980</wf>
+    <wf wid="w_18" sent="1">Koningin</wf>
+    <wf wid="w_19" sent="1">der</wf>
+    <wf wid="w_20" sent="1">Nederlanden</wf>
+    <wf wid="w_21" sent="1">.</wf>
+    <wf wid="w_22" sent="2">Zij</wf>
+    <wf wid="w_23" sent="2">regeert</wf>
+    <wf wid="w_24" sent="2">onder</wf>
+    <wf wid="w_25" sent="2">de</wf>
+    <wf wid="w_26" sent="2">naam</wf>
+    <wf wid="w_27" sent="2">Beatrix</wf>
+    <wf wid="w_28" sent="2">en</wf>
+    <wf wid="w_29" sent="2">draagt</wf>
+    <wf wid="w_30" sent="2">onder</wf>
+    <wf wid="w_31" sent="2">meer</wf>
+    <wf wid="w_32" sent="2">de</wf>
+    <wf wid="w_33" sent="2">titels</wf>
+    <wf wid="w_34" sent="2">prinses</wf>
+    <wf wid="w_35" sent="2">van</wf>
+    <wf wid="w_36" sent="2">Oranje-Nassau</wf>
+    <wf wid="w_37" sent="2">,</wf>
+    <wf wid="w_38" sent="2">prinses</wf>
+    <wf wid="w_39" sent="2">der</wf>
+    <wf wid="w_40" sent="2">Nederlanden</wf>
+    <wf wid="w_41" sent="2">en</wf>
+    <wf wid="w_42" sent="2">prinses</wf>
+    <wf wid="w_43" sent="2">van</wf>
+    <wf wid="w_44" sent="2">Lippe-Biesterfeld</wf>
+    <wf wid="w_45" sent="2">.</wf>
+    <wf wid="w_46" sent="3">Beatrix</wf>
+    <wf wid="w_47" sent="3">is</wf>
+    <wf wid="w_48" sent="3">sinds</wf>
+    <wf wid="w_49" sent="3">2002</wf>
+    <wf wid="w_50" sent="3">weduwe</wf>
+    <wf wid="w_51" sent="3">van</wf>
+    <wf wid="w_52" sent="3">prins</wf>
+    <wf wid="w_53" sent="3">Claus</wf>
+    <wf wid="w_54" sent="3">van</wf>
+    <wf wid="w_55" sent="3">Amsberg</wf>
+    <wf wid="w_56" sent="3">.</wf>
+  </text>
+  <terms>
+    <term lemma="Beatrix" morphofeat="N" pos="N" tid="t1" type="open">
+      <span>
+        <target id="w_1"/>
+      </span>
+    </term>
+    <term lemma="Wilhelmina" morphofeat="N" pos="N" tid="t2" type="open">
+      <span>
+        <target id="w_2"/>
+      </span>
+    </term>
+    <term lemma="Armgard" morphofeat="N" pos="N" tid="t3" type="open">
+      <span>
+        <target id="w_3"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="Prep" pos="P" tid="t4" type="close">
+      <span>
+        <target id="w_4"/>
+      </span>
+    </term>
+    <term lemma="Oranje-Nassau" morphofeat="N" pos="N" tid="t5" type="open">
+      <span>
+        <target id="w_5"/>
+      </span>
+    </term>
+    <term lemma="(" morphofeat="Punc" pos="O" tid="t6" type="open">
+      <span>
+        <target id="w_6"/>
+      </span>
+    </term>
+    <term lemma="Baarn" morphofeat="N" pos="N" tid="t7" type="open">
+      <span>
+        <target id="w_7"/>
+      </span>
+    </term>
+    <term lemma="," morphofeat="Punc" pos="O" tid="t8" type="open">
+      <span>
+        <target id="w_8"/>
+      </span>
+    </term>
+    <term lemma="31" morphofeat="Num" pos="O" tid="t9" type="open">
+      <span>
+        <target id="w_9"/>
+      </span>
+    </term>
+    <term lemma="januari" morphofeat="N" pos="N" tid="t10" type="open">
+      <span>
+        <target id="w_10"/>
+      </span>
+    </term>
+    <term lemma="1938" morphofeat="Num" pos="O" tid="t11" type="open">
+      <span>
+        <target id="w_11"/>
+      </span>
+    </term>
+    <term lemma=")" morphofeat="Punc" pos="O" tid="t12" type="open">
+      <span>
+        <target id="w_12"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" tid="t13" type="open">
+      <span>
+        <target id="w_13"/>
+      </span>
+    </term>
+    <term lemma="sinds" morphofeat="Prep" pos="P" tid="t14" type="close">
+      <span>
+        <target id="w_14"/>
+      </span>
+    </term>
+    <term lemma="30" morphofeat="Num" pos="O" tid="t15" type="open">
+      <span>
+        <target id="w_15"/>
+      </span>
+    </term>
+    <term lemma="april" morphofeat="N" pos="N" tid="t16" type="open">
+      <span>
+        <target id="w_16"/>
+      </span>
+    </term>
+    <term lemma="1980" morphofeat="Num" pos="O" tid="t17" type="open">
+      <span>
+        <target id="w_17"/>
+      </span>
+    </term>
+    <term lemma="Koningin" morphofeat="N" pos="N" tid="t18" type="open">
+      <span>
+        <target id="w_18"/>
+      </span>
+    </term>
+    <term lemma="der" morphofeat="Art" pos="D" tid="t19" type="close">
+      <span>
+        <target id="w_19"/>
+      </span>
+    </term>
+    <term lemma="Nederlanden" morphofeat="N" pos="N" tid="t20" type="open">
+      <span>
+        <target id="w_20"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" tid="t21" type="open">
+      <span>
+        <target id="w_21"/>
+      </span>
+    </term>
+    <term lemma="Zij" morphofeat="Pron" pos="Q" tid="t22" type="close">
+      <span>
+        <target id="w_22"/>
+      </span>
+    </term>
+    <term lemma="regeert" morphofeat="V" pos="V" tid="t23" type="open">
+      <span>
+        <target id="w_23"/>
+      </span>
+    </term>
+    <term lemma="onder" morphofeat="Prep" pos="P" tid="t24" type="close">
+      <span>
+        <target id="w_24"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="Art" pos="D" tid="t25" type="close">
+      <span>
+        <target id="w_25"/>
+      </span>
+    </term>
+    <term lemma="naam" morphofeat="N" pos="N" tid="t26" type="open">
+      <span>
+        <target id="w_26"/>
+      </span>
+    </term>
+    <term lemma="Beatrix" morphofeat="N" pos="N" tid="t27" type="open">
+      <span>
+        <target id="w_27"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="Conj" pos="C" tid="t28" type="close">
+      <span>
+        <target id="w_28"/>
+      </span>
+    </term>
+    <term lemma="draagt" morphofeat="V" pos="V" tid="t29" type="open">
+      <span>
+        <target id="w_29"/>
+      </span>
+    </term>
+    <term lemma="onder" morphofeat="Prep" pos="P" tid="t30" type="close">
+      <span>
+        <target id="w_30"/>
+      </span>
+    </term>
+    <term lemma="meer" morphofeat="Num" pos="O" tid="t31" type="open">
+      <span>
+        <target id="w_31"/>
+      </span>
+    </term>
+    <term lemma="de" morphofeat="Art" pos="D" tid="t32" type="close">
+      <span>
+        <target id="w_32"/>
+      </span>
+    </term>
+    <term lemma="titels" morphofeat="N" pos="N" tid="t33" type="open">
+      <span>
+        <target id="w_33"/>
+      </span>
+    </term>
+    <term lemma="prinses" morphofeat="N" pos="N" tid="t34" type="open">
+      <span>
+        <target id="w_34"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="Prep" pos="P" tid="t35" type="close">
+      <span>
+        <target id="w_35"/>
+      </span>
+    </term>
+    <term lemma="Oranje-Nassau" morphofeat="N" pos="N" tid="t36" type="open">
+      <span>
+        <target id="w_36"/>
+      </span>
+    </term>
+    <term lemma="," morphofeat="Punc" pos="O" tid="t37" type="open">
+      <span>
+        <target id="w_37"/>
+      </span>
+    </term>
+    <term lemma="prinses" morphofeat="N" pos="N" tid="t38" type="open">
+      <span>
+        <target id="w_38"/>
+      </span>
+    </term>
+    <term lemma="der" morphofeat="Art" pos="D" tid="t39" type="close">
+      <span>
+        <target id="w_39"/>
+      </span>
+    </term>
+    <term lemma="Nederlanden" morphofeat="N" pos="N" tid="t40" type="open">
+      <span>
+        <target id="w_40"/>
+      </span>
+    </term>
+    <term lemma="en" morphofeat="Conj" pos="C" tid="t41" type="close">
+      <span>
+        <target id="w_41"/>
+      </span>
+    </term>
+    <term lemma="prinses" morphofeat="N" pos="N" tid="t42" type="open">
+      <span>
+        <target id="w_42"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="Prep" pos="P" tid="t43" type="close">
+      <span>
+        <target id="w_43"/>
+      </span>
+    </term>
+    <term lemma="Lippe-Biesterfeld" morphofeat="N" pos="N" tid="t44" type="open">
+      <span>
+        <target id="w_44"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" tid="t45" type="open">
+      <span>
+        <target id="w_45"/>
+      </span>
+    </term>
+    <term lemma="Beatrix" morphofeat="N" pos="N" tid="t46" type="open">
+      <span>
+        <target id="w_46"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" tid="t47" type="open">
+      <span>
+        <target id="w_47"/>
+      </span>
+    </term>
+    <term lemma="sinds" morphofeat="Prep" pos="P" tid="t48" type="close">
+      <span>
+        <target id="w_48"/>
+      </span>
+    </term>
+    <term lemma="2002" morphofeat="Num" pos="O" tid="t49" type="open">
+      <span>
+        <target id="w_49"/>
+      </span>
+    </term>
+    <term lemma="weduwe" morphofeat="N" pos="N" tid="t50" type="open">
+      <span>
+        <target id="w_50"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="Prep" pos="P" tid="t51" type="close">
+      <span>
+        <target id="w_51"/>
+      </span>
+    </term>
+    <term lemma="prins" morphofeat="N" pos="N" tid="t52" type="open">
+      <span>
+        <target id="w_52"/>
+      </span>
+    </term>
+    <term lemma="Claus" morphofeat="N" pos="N" tid="t53" type="open">
+      <span>
+        <target id="w_53"/>
+      </span>
+    </term>
+    <term lemma="van" morphofeat="Prep" pos="P" tid="t54" type="close">
+      <span>
+        <target id="w_54"/>
+      </span>
+    </term>
+    <term lemma="Amsberg" morphofeat="N" pos="N" tid="t55" type="open">
+      <span>
+        <target id="w_55"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" tid="t56" type="open">
+      <span>
+        <target id="w_56"/>
+      </span>
+    </term>
+  </terms>
+</KAF>

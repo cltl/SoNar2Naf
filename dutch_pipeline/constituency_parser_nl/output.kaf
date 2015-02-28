@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="nl" version="1">
+  <kafHeader>
+    <linguisticProcessors layer="text">
+      <lp timestamp="*" version="1.0" name="Open-nlp sentence splitter"/>
+      <lp timestamp="*" version="1.0" name="Open-nlp tokenizer"/>
+    </linguisticProcessors>
+    <linguisticProcessor layer="term">
+      <lp timestamp="2013-12-20T17:47:28CET" version="1.0" name="Open nlp pos tagger"/>
+    </linguisticProcessor>
+    <linguisticProcessors layer="constituents">
+      <lp name="alpino KAF/NAF constituency parser" version="1.0_27Feb2015" timestamp="2015-02-28T15:41:21CET" beginTimestamp="2015-02-28T15:41:21CET" endTimestamp="2015-02-28T15:41:21CET" hostname="kyoto"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf wid="w1" sent="1">Mijn</wf>
+    <wf wid="w2" sent="1">hond</wf>
+    <wf wid="w3" sent="1">is</wf>
+    <wf wid="w4" sent="1">erg</wf>
+    <wf wid="w5" sent="1">mooi</wf>
+    <wf wid="w6" sent="1">.</wf>
+    <wf wid="w7" sent="2">Mijn</wf>
+    <wf wid="w8" sent="2">huis</wf>
+    <wf wid="w9" sent="2">is</wf>
+    <wf wid="w10" sent="2">erg</wf>
+    <wf wid="w11" sent="2">mooi</wf>
+    <wf wid="w12" sent="2">.</wf>
+  </text>
+  <terms>
+    <term lemma="Mijn" morphofeat="Pron" pos="Q" tid="t1" type="close">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term lemma="hond" morphofeat="N" pos="N" tid="t2" type="open">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" tid="t3" type="open">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term lemma="erg" morphofeat="Adj" pos="G" tid="t4" type="open">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term lemma="mooi" morphofeat="Adj" pos="G" tid="t5" type="open">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" tid="t6" type="open">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term lemma="Mijn" morphofeat="Pron" pos="Q" tid="t7" type="close">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term lemma="huis" morphofeat="N" pos="N" tid="t8" type="open">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term lemma="is" morphofeat="V" pos="V" tid="t9" type="open">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term lemma="erg" morphofeat="Adj" pos="G" tid="t10" type="open">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term lemma="mooi" morphofeat="Adj" pos="G" tid="t11" type="open">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term lemma="." morphofeat="Punc" pos="O" tid="t12" type="open">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+  </terms>
+  <constituency>
+    <tree>
+      <nt id="nter0" label="top"/>
+      <nt id="nter1" label="smain"/>
+      <nt id="nter2" label="np"/>
+      <nt id="nter3" label="det"/>
+      <nt id="nter4" label="noun"/>
+      <nt id="nter5" label="verb"/>
+      <nt id="nter6" label="ap"/>
+      <nt id="nter7" label="adj"/>
+      <nt id="nter8" label="adj"/>
+      <nt id="nter9" label="punct"/>
+      <t id="ter0">
+        <span>
+          <target id="t1"/>
+        </span>
+      </t>
+      <t id="ter1">
+        <span>
+          <target id="t2"/>
+        </span>
+      </t>
+      <t id="ter2">
+        <span>
+          <target id="t3"/>
+        </span>
+      </t>
+      <t id="ter3">
+        <span>
+          <target id="t4"/>
+        </span>
+      </t>
+      <t id="ter4">
+        <span>
+          <target id="t5"/>
+        </span>
+      </t>
+      <t id="ter5">
+        <span>
+          <target id="t6"/>
+        </span>
+      </t>
+      <!--  tre0  top <- smain -->
+      <edge from="nter1" id="tre0" to="nter0"/>
+      <!--  tre1  smain <- np -->
+      <edge from="nter2" id="tre1" to="nter1"/>
+      <!--  tre2  np <- det -->
+      <edge from="nter3" id="tre2" to="nter2"/>
+      <!--  tre3  det <- Mijn -->
+      <edge from="ter0" id="tre3" to="nter3"/>
+      <!--  tre4  np <- noun -->
+      <edge from="nter4" id="tre4" to="nter2" head="yes"/>
+      <!--  tre5  noun <- hond -->
+      <edge from="ter1" id="tre5" to="nter4"/>
+      <!--  tre6  smain <- verb -->
+      <edge from="nter5" id="tre6" to="nter1" head="yes"/>
+      <!--  tre7  verb <- is -->
+      <edge from="ter2" id="tre7" to="nter5"/>
+      <!--  tre8  smain <- ap -->
+      <edge from="nter6" id="tre8" to="nter1"/>
+      <!--  tre9  ap <- adj -->
+      <edge from="nter7" id="tre9" to="nter6"/>
+      <!--  tre10  adj <- erg -->
+      <edge from="ter3" id="tre10" to="nter7"/>
+      <!--  tre11  ap <- adj -->
+      <edge from="nter8" id="tre11" to="nter6" head="yes"/>
+      <!--  tre12  adj <- mooi -->
+      <edge from="ter4" id="tre12" to="nter8"/>
+      <!--  tre13  top <- punct -->
+      <edge from="nter9" id="tre13" to="nter0"/>
+      <!--  tre14  punct <- . -->
+      <edge from="ter5" id="tre14" to="nter9"/>
+    </tree>
+    <tree>
+      <nt id="nter10" label="top"/>
+      <nt id="nter11" label="smain"/>
+      <nt id="nter12" label="np"/>
+      <nt id="nter13" label="det"/>
+      <nt id="nter14" label="noun"/>
+      <nt id="nter15" label="verb"/>
+      <nt id="nter16" label="ap"/>
+      <nt id="nter17" label="adj"/>
+      <nt id="nter18" label="adj"/>
+      <nt id="nter19" label="punct"/>
+      <t id="ter6">
+        <span>
+          <target id="t7"/>
+        </span>
+      </t>
+      <t id="ter7">
+        <span>
+          <target id="t8"/>
+        </span>
+      </t>
+      <t id="ter8">
+        <span>
+          <target id="t9"/>
+        </span>
+      </t>
+      <t id="ter9">
+        <span>
+          <target id="t10"/>
+        </span>
+      </t>
+      <t id="ter10">
+        <span>
+          <target id="t11"/>
+        </span>
+      </t>
+      <t id="ter11">
+        <span>
+          <target id="t12"/>
+        </span>
+      </t>
+      <!--  tre15  top <- smain -->
+      <edge from="nter11" id="tre15" to="nter10"/>
+      <!--  tre16  smain <- np -->
+      <edge from="nter12" id="tre16" to="nter11"/>
+      <!--  tre17  np <- det -->
+      <edge from="nter13" id="tre17" to="nter12"/>
+      <!--  tre18  det <- Mijn -->
+      <edge from="ter6" id="tre18" to="nter13"/>
+      <!--  tre19  np <- noun -->
+      <edge from="nter14" id="tre19" to="nter12" head="yes"/>
+      <!--  tre20  noun <- huis -->
+      <edge from="ter7" id="tre20" to="nter14"/>
+      <!--  tre21  smain <- verb -->
+      <edge from="nter15" id="tre21" to="nter11" head="yes"/>
+      <!--  tre22  verb <- is -->
+      <edge from="ter8" id="tre22" to="nter15"/>
+      <!--  tre23  smain <- ap -->
+      <edge from="nter16" id="tre23" to="nter11"/>
+      <!--  tre24  ap <- adj -->
+      <edge from="nter17" id="tre24" to="nter16"/>
+      <!--  tre25  adj <- erg -->
+      <edge from="ter9" id="tre25" to="nter17"/>
+      <!--  tre26  ap <- adj -->
+      <edge from="nter18" id="tre26" to="nter16" head="yes"/>
+      <!--  tre27  adj <- mooi -->
+      <edge from="ter10" id="tre27" to="nter18"/>
+      <!--  tre28  top <- punct -->
+      <edge from="nter19" id="tre28" to="nter10"/>
+      <!--  tre29  punct <- . -->
+      <edge from="ter11" id="tre29" to="nter19"/>
+    </tree>
+  </constituency>
+</KAF>
