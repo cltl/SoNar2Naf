@@ -24,7 +24,12 @@ class Worker(threading.Thread):
             #do the magic here
             
             #extract variables from 'item'
-            path                  = item['path'][:-4]
+            path                  = item['path']
+            
+            #remove .bz2 is necessary
+            if path.endswith(".bz2"):
+                path = path[:-4]
+                
             output                = utils.output_path(path, 
                                                       item['base_dir'], 
                                                       item['output_dir'])
@@ -32,6 +37,7 @@ class Worker(threading.Thread):
             mapping_cornetto_odwn = item['mapping_cornetto_odwn']
             prefix_folia          = item['prefix_folia']
             overwrite             = item['overwrite']
+            mapping_allwords      = item['mapping_allwords']
             
             #convert to NAF if output does not exist and/or overwrite is true
             if any([overwrite == 'yes',
@@ -40,16 +46,20 @@ class Worker(threading.Thread):
                 
                 
                 #unzip input_file
-                utils.b_un_zip2(path+".bz2", False)
+                if item['path'].endswith("bz2"):
+                    utils.b_un_zip2(path+".bz2", False)
 
                 FoliaToNaf(path, 
                            output, 
                            cwd,
                            prefix_folia,
-                           mapping_cornetto_odwn)
+                           mapping_cornetto_odwn,
+                           mapping_allwords)
             
                 #bzip2 input_file
-                utils.b_un_zip2(path,  True)
+                if item['path'].endswith("bz2"):
+                    utils.b_un_zip2(path,  True)
                 
                 #bzip2 output_file
-                utils.b_un_zip2(output,True)
+                if item['path'].endswith("bz2"):
+                    utils.b_un_zip2(output,True)

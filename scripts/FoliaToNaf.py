@@ -29,6 +29,10 @@ class FoliaToNaf():
     
     @type  mapping_cornetto_odwn: dict
     @param mapping_cornetto_odwn: mapping from cornetto to odwn identifier
+    
+    @type  mapping_allwords_annotations: dict
+    @param mapping_allwords_annotations: mapping from folia token_id to
+    cornetto sense identifier
     '''
     
     def __init__(self,
@@ -36,13 +40,15 @@ class FoliaToNaf():
                       output,
                       cwd,
                       prefix,
-                      mapping_cornetto_odwn):
+                      mapping_cornetto_odwn,
+                      mapping_allwords_annotations):
         
         #set args to class attributes
         [setattr(self, name, value) for name,value in [('path',    path),
                                                        ('output',  output),
                                                        ('prefix',  prefix),
-                                                       ('mapping', mapping_cornetto_odwn)]
+                                                       ('mapping', mapping_cornetto_odwn),
+                                                       ('allwords',mapping_allwords_annotations)]
          ]
         
         #parse basenaf
@@ -158,24 +164,36 @@ class FoliaToNaf():
         #add senses in folia to external references NAF
         new_external_references_el = etree.SubElement(new_t_el, "externalReferences")
         for sense_el in w_el.iterfind("{prefix}sense".format(prefix=self.prefix)):
-            reference  = sense_el.get('class')
-            attributes = {'resource'      : 'Cornetto',
-                          'reference'     : reference,
-                          'confidence'    : "1.0",
-                          'annotatortype' : sense_el.get('annotatortype'),
-                          'annotator'     : sense_el.get('annotator')
-                          }
-            new_ext_ref_el = new_external_references_el.makeelement('externalRef',
-                                                                    attrib=attributes)
-            new_external_references_el.insert(0,new_ext_ref_el)
             
-            #also add mapped odwn reference
-            if reference in self.mapping:
-                attributes['resource']  = 'ODWN1.0'
-                attributes['reference'] = self.mapping[reference]
-                new_ext_ref_el = new_external_references_el.makeelement('externalRef',
-                                                                        attrib=attributes)
-                new_external_references_el.insert(0,new_ext_ref_el)
+            #obtain relevant info to put in ext_ref_el
+            reference      = sense_el.get('class')
+            annotator_type = sense_el.get("annotatortype")
+            annotator      = sense_el.get("annotator")
+            
+            #create
+            ext_ref_el_cornetto,ext_ref_el_odwn = utils.create_new_ext_ref_el(reference,
+                                                                              annotator_type,
+                                                                              annotator,
+                                                                              self.mapping,
+                                                                             new_external_references_el)
+            for el in [ext_ref_el_cornetto,ext_ref_el_odwn]:
+                if el is not False:
+                    new_external_references_el.insert(0,el)
+        
+        #check if identifier in all words and cornetto and odwn sense
+        
+        if identifier in self.allwords:
+            ext_ref_el_cornetto,ext_ref_el_odwn = utils.create_new_ext_ref_el(self.allwords[identifier],
+                                                                             'manual',
+                                                                             'unknown',
+                                                                             self.mapping,
+                                                                             new_external_references_el)
+            
+            for el in [ext_ref_el_cornetto,ext_ref_el_odwn]:
+                if el is not False:
+                    new_external_references_el.insert(0,el)
+            
+            
                 
             
               
@@ -215,6 +233,7 @@ class FoliaToNaf():
         method loops through paragraphs,sentences and words
         and calls to self.process_w_el
         '''
+        
         #create string to find element in folia
         #with one variable to be filled base on whether is a CGN file or not
         string = "/".join([self.prefix+"text",
@@ -222,10 +241,13 @@ class FoliaToNaf():
                            self.prefix+"s",
                                ])
         in_between = ""
-        if "CGN-comp" not in self.path:
+        
+        if all(["CGN-comp" not in self.path,
+                os.path.basename(self.path).startswith("allwords") == False]):
             in_between = "/".join([self.prefix+"div",
                                    self.prefix+"p"])
             
+        
         #loop through words
         for w_el in self.doc.iterfind("/".join([string % in_between,
                                                 self.prefix+"w"])):
@@ -255,11 +277,16 @@ if __name__ == "__main__":
     cwd                        = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
     path_mapping_cornetto_odwn = os.path.join(cwd,"resources/cdb_syn_FILT.xml.lu-map")
     mapping_cornetto_odwn      = utils.load_mapping_cornetto_odwn(path_mapping_cornetto_odwn)
-
+    
+    #load all words mapping
+    path_allwords_annotations    = os.path.join(cwd,"resources/1.3.1.ALLWORDS_DSC")
+    mapping_allwords_annotations = utils.load_mapping_allwords(path_allwords_annotations)
+    
 
     FoliaToNaf(args['input_file'], 
                args['output_file'], 
                cwd, 
                args['prefix_folia'], 
-               mapping_cornetto_odwn)
+               mapping_cornetto_odwn,
+               mapping_allwords_annotations)
 

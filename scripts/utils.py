@@ -1,4 +1,5 @@
 import os
+import glob
 import subprocess
 from lxml import etree
 
@@ -106,6 +107,10 @@ def output_path(input_path,base_dir,output_dir):
     if os.path.exists(directory) == False:
         os.makedirs(directory)
     
+    #add .naf to output_path if needed
+    if output_path.endswith(".naf") == False:
+        output_path = output_path + ".naf"
+        
     return output_path
     
 
@@ -130,3 +135,91 @@ def par_sent_number(identifier):
         sent     = strip[2]
         
     return par,sent
+
+
+def load_mapping_allwords(all_words_folder):
+    '''
+    given three xml files containing the all words annotations in DutchSemcor
+    this method create a mapping from the identifier to the Cornetto sense
+    
+    @type  all_words_folder: str
+    @param all_words_folder: full path to all_words_folder
+    
+    @rtype: dict
+    @return: mappping from identifier to cornetto sense
+    '''
+    #set mapping
+    prefixes = {'allwords': all_words_folder}
+    mapping  = {}
+    
+    #loop files
+    for xml_file in glob.glob("{allwords}/*.xml".format(**prefixes)):
+        
+        #parse doc
+        doc = etree.parse(xml_file)
+        
+        #update dict
+        for token_el in doc.iterfind("token"):
+
+            #extract token_id and sense from token_el xml element
+            token_id = token_el.get("token_id")
+            sense    = token_el.get('sense')
+            
+            #update mapping
+            mapping[token_id] = sense
+    
+    return mapping
+
+
+def create_new_ext_ref_el(reference,
+                          annotator_type,
+                          annotator,
+                          mapping,
+                          new_external_references_el):
+    '''
+    new external reference el is created
+    
+    @type  reference: str
+    @param reference: cornetto sense
+    
+    @type  annotator_type: str
+    @param annotator_type: manual | auto
+    
+    @type  annotator: str
+    @param annotator: person or system who annotated the sense
+    
+    @type  mapping: dict
+    @param mapping: mapping from cornetto sense to odwn sense
+    
+    @type  new_external_references_el: lxml.etree element
+    @param new_external_references_el: lxml.etree element in which a new child
+    will be created
+    
+    @rtype: tuple
+    @return: (ext_ref_el_cornetto,ext_ref_el_odwn), if no succes, elements value
+    is False.
+    '''
+    ext_ref_el_cornetto = False
+    ext_ref_el_odwn     = False
+    
+    #set attributes
+    attributes = {'resource'      : 'Cornetto',
+              'reference'         : reference,
+              'confidence'        : "1.0",
+              'annotatortype'     : annotator_type,
+              'annotator'         : annotator}
+    
+    #create new ext_ref_el
+    ext_ref_el_cornetto = new_external_references_el.makeelement('externalRef',
+                                                            attrib=attributes)
+    
+    #also add mapped odwn reference
+    if reference in mapping:
+        attributes['resource']  = 'ODWN1.0'
+        attributes['reference'] = mapping[reference]
+        ext_ref_el_odwn = new_external_references_el.makeelement('externalRef',
+                                                                attrib=attributes)
+    
+    return (ext_ref_el_cornetto,ext_ref_el_odwn)
+    
+    
