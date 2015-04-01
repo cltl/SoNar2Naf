@@ -1,0 +1,5542 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3">
+  <nafHeader>
+  </nafHeader>
+  <text>
+    <wf id="w1" length="2" offset="0" para="1" sent="1">De</wf>
+    <wf id="w2" length="10" offset="3" para="1" sent="1">resultaten</wf>
+    <wf id="w3" length="2" offset="14" para="1" sent="2">Na</wf>
+    <wf id="w4" length="2" offset="17" para="1" sent="2">15</wf>
+    <wf id="w5" length="4" offset="20" para="1" sent="2">jaar</wf>
+    <wf id="w6" length="10" offset="25" para="1" sent="2">inspanning</wf>
+    <wf id="w7" length="2" offset="36" para="1" sent="2">en</wf>
+    <wf id="w8" length="12" offset="39" para="1" sent="2">aanwezigheid</wf>
+    <wf id="w9" length="2" offset="52" para="1" sent="2">op</wf>
+    <wf id="w10" length="3" offset="55" para="1" sent="2">het</wf>
+    <wf id="w11" length="7" offset="59" para="1" sent="2">terrein</wf>
+    <wf id="w12" length="3" offset="67" para="1" sent="2">kan</wf>
+    <wf id="w13" length="7" offset="71" para="1" sent="2">terecht</wf>
+    <wf id="w14" length="2" offset="79" para="1" sent="2">de</wf>
+    <wf id="w15" length="5" offset="82" para="1" sent="2">vraag</wf>
+    <wf id="w16" length="6" offset="88" para="1" sent="2">worden</wf>
+    <wf id="w17" length="7" offset="95" para="1" sent="2">gesteld</wf>
+    <wf id="w18" length="3" offset="103" para="1" sent="2">tot</wf>
+    <wf id="w19" length="5" offset="107" para="1" sent="2">welke</wf>
+    <wf id="w20" length="10" offset="113" para="1" sent="2">resultaten</wf>
+    <wf id="w21" length="3" offset="124" para="1" sent="2">het</wf>
+    <wf id="w22" length="9" offset="128" para="1" sent="2">programma</wf>
+    <wf id="w23" length="4" offset="138" para="1" sent="2">voor</wf>
+    <wf id="w24" length="8" offset="143" para="1" sent="2">toezicht</wf>
+    <wf id="w25" length="6" offset="152" para="1" sent="2">vanuit</wf>
+    <wf id="w26" length="2" offset="159" para="1" sent="2">de</wf>
+    <wf id="w27" length="5" offset="162" para="1" sent="2">lucht</wf>
+    <wf id="w28" length="9" offset="168" para="1" sent="2">inmiddels</wf>
+    <wf id="w29" length="5" offset="178" para="1" sent="2">heeft</wf>
+    <wf id="w30" length="6" offset="184" para="1" sent="2">geleid</wf>
+    <wf id="w31" length="1" offset="191" para="1" sent="2">.</wf>
+    <wf id="w32" length="1" offset="193" para="1" sent="3">-</wf>
+    <wf id="w33" length="2" offset="195" para="1" sent="3">Op</wf>
+    <wf id="w34" length="1" offset="198" para="1" sent="3">6</wf>
+    <wf id="w35" length="4" offset="200" para="1" sent="3">juni</wf>
+    <wf id="w36" length="4" offset="205" para="1" sent="3">2006</wf>
+    <wf id="w37" length="1" offset="210" para="1" sent="3">,</wf>
+    <wf id="w38" length="3" offset="212" para="1" sent="3">had</wf>
+    <wf id="w39" length="4" offset="216" para="1" sent="3">onze</wf>
+    <wf id="w40" length="5" offset="221" para="1" sent="3">ploeg</wf>
+    <wf id="w41" length="4" offset="227" para="1" sent="3">voor</wf>
+    <wf id="w42" length="13" offset="232" para="1" sent="3">luchttoezicht</wf>
+    <wf id="w43" length="2" offset="246" para="1" sent="3">zo</wf>
+    <wf id="w44" length="4" offset="249" para="1" sent="3">goed</wf>
+    <wf id="w45" length="3" offset="254" para="1" sent="3">als</wf>
+    <wf id="w46" length="5" offset="258" para="1" sent="3">4.800</wf>
+    <wf id="w47" length="4" offset="264" para="1" sent="3">uren</wf>
+    <wf id="w48" length="8" offset="269" para="1" sent="3">gevlogen</wf>
+    <wf id="w49" length="7" offset="278" para="1" sent="3">waarvan</wf>
+    <wf id="w50" length="8" offset="286" para="1" sent="3">ongeveer</wf>
+    <wf id="w51" length="1" offset="295" para="1" sent="3">3</wf>
+    <wf id="w52" length="1" offset="297" para="1" sent="3">.</wf>
+    <wf id="w53" length="3" offset="299" para="1" sent="4">500</wf>
+    <wf id="w54" length="5" offset="303" para="1" sent="4">boven</wf>
+    <wf id="w55" length="2" offset="309" para="1" sent="4">de</wf>
+    <wf id="w56" length="3" offset="312" para="1" sent="4">zee</wf>
+    <wf id="w57" length="1" offset="316" para="1" sent="4">.</wf>
+    <wf id="w58" length="3" offset="318" para="1" sent="5">Zij</wf>
+    <wf id="w59" length="6" offset="322" para="1" sent="5">voerde</wf>
+    <wf id="w60" length="5" offset="329" para="1" sent="5">2.783</wf>
+    <wf id="w61" length="8" offset="335" para="1" sent="5">vluchten</wf>
+    <wf id="w62" length="3" offset="344" para="1" sent="5">uit</wf>
+    <wf id="w63" length="1" offset="348" para="1" sent="5">,</wf>
+    <wf id="w64" length="7" offset="350" para="1" sent="5">waarvan</wf>
+    <wf id="w65" length="2" offset="358" para="1" sent="5">12</wf>
+    <wf id="w66" length="1" offset="361" para="1" sent="5">%</wf>
+    <wf id="w67" length="2" offset="363" para="1" sent="5">'s</wf>
+    <wf id="w68" length="6" offset="366" para="1" sent="5">nachts</wf>
+    <wf id="w69" length="2" offset="373" para="1" sent="5">of</wf>
+    <wf id="w70" length="7" offset="376" para="1" sent="5">tijdens</wf>
+    <wf id="w71" length="3" offset="384" para="1" sent="5">het</wf>
+    <wf id="w72" length="7" offset="388" para="1" sent="5">weekend</wf>
+    <wf id="w73" length="1" offset="396" para="1" sent="5">.</wf>
+    <wf id="w74" length="6" offset="398" para="1" sent="6">Aantal</wf>
+    <wf id="w75" length="10" offset="405" para="1" sent="6">vluchturen</wf>
+    <wf id="w76" length="9" offset="416" para="1" sent="6">jaarlijks</wf>
+    <wf id="w77" length="8" offset="426" para="1" sent="6">verdeeld</wf>
+    <wf id="w78" length="1" offset="435" para="1" sent="7">-</wf>
+    <wf id="w79" length="3" offset="437" para="1" sent="7">Het</wf>
+    <wf id="w80" length="9" offset="441" para="1" sent="7">vliegtuig</wf>
+    <wf id="w81" length="4" offset="451" para="1" sent="7">kwam</wf>
+    <wf id="w82" length="2" offset="456" para="1" sent="7">in</wf>
+    <wf id="w83" length="5" offset="459" para="1" sent="7">actie</wf>
+    <wf id="w84" length="3" offset="465" para="1" sent="7">bij</wf>
+    <wf id="w85" length="2" offset="469" para="1" sent="7">23</wf>
+    <wf id="w86" length="17" offset="472" para="1" sent="7">scheepsongelukken</wf>
+    <wf id="w87" length="1" offset="490" para="1" sent="7">.</wf>
+    <wf id="w88" length="3" offset="492" para="1" sent="8">Het</wf>
+    <wf id="w89" length="7" offset="496" para="1" sent="8">laatste</wf>
+    <wf id="w90" length="2" offset="504" para="1" sent="8">is</wf>
+    <wf id="w91" length="3" offset="507" para="1" sent="8">dat</wf>
+    <wf id="w92" length="3" offset="511" para="1" sent="8">van</wf>
+    <wf id="w93" length="2" offset="515" para="1" sent="8">de</wf>
+    <wf id="w94" length="8" offset="518" para="1" sent="8">Tricolor</wf>
+    <wf id="w95" length="1" offset="527" para="1" sent="8">,</wf>
+    <wf id="w96" length="3" offset="529" para="1" sent="8">dat</wf>
+    <wf id="w97" length="9" offset="533" para="1" sent="8">gedurende</wf>
+    <wf id="w98" length="4" offset="543" para="1" sent="8">meer</wf>
+    <wf id="w99" length="3" offset="548" para="1" sent="8">dan</wf>
+    <wf id="w100" length="3" offset="552" para="1" sent="8">een</wf>
+    <wf id="w101" length="4" offset="556" para="1" sent="8">jaar</wf>
+    <wf id="w102" length="2" offset="561" para="1" sent="8">de</wf>
+    <wf id="w103" length="6" offset="564" para="1" sent="8">Franse</wf>
+    <wf id="w104" length="2" offset="571" para="1" sent="8">en</wf>
+    <wf id="w105" length="9" offset="574" para="1" sent="8">Belgische</wf>
+    <wf id="w106" length="8" offset="584" para="1" sent="8">diensten</wf>
+    <wf id="w107" length="12" offset="593" para="1" sent="8">mobiliseerde</wf>
+    <wf id="w108" length="1" offset="606" para="1" sent="8">.</wf>
+    <wf id="w109" length="1" offset="608" para="1" sent="9">-</wf>
+    <wf id="w110" length="3" offset="610" para="1" sent="9">Het</wf>
+    <wf id="w111" length="4" offset="614" para="1" sent="9">kwam</wf>
+    <wf id="w112" length="2" offset="619" para="1" sent="9">13</wf>
+    <wf id="w113" length="8" offset="622" para="1" sent="9">lozingen</wf>
+    <wf id="w114" length="2" offset="631" para="1" sent="9">op</wf>
+    <wf id="w115" length="3" offset="634" para="1" sent="9">het</wf>
+    <wf id="w116" length="5" offset="638" para="1" sent="9">spoor</wf>
+    <wf id="w117" length="3" offset="644" para="1" sent="9">die</wf>
+    <wf id="w118" length="4" offset="648" para="1" sent="9">door</wf>
+    <wf id="w119" length="3" offset="653" para="1" sent="9">het</wf>
+    <wf id="w120" length="14" offset="657" para="1" sent="9">internationale</wf>
+    <wf id="w121" length="5" offset="672" para="1" sent="9">recht</wf>
+    <wf id="w122" length="4" offset="678" para="1" sent="9">zijn</wf>
+    <wf id="w123" length="10" offset="683" para="1" sent="9">toegestaan</wf>
+    <wf id="w124" length="1" offset="694" para="1" sent="9">-</wf>
+    <wf id="w125" length="5" offset="696" para="1" sent="9">omdat</wf>
+    <wf id="w126" length="3" offset="702" para="1" sent="9">het</wf>
+    <wf id="w127" length="4" offset="706" para="1" sent="9">ging</wf>
+    <wf id="w128" length="2" offset="711" para="1" sent="9">om</wf>
+    <wf id="w129" length="4" offset="714" para="1" sent="9">niet</wf>
+    <wf id="w130" length="8" offset="719" para="1" sent="9">toxische</wf>
+    <wf id="w131" length="12" offset="728" para="1" sent="9">plantaardige</wf>
+    <wf id="w132" length="5" offset="741" para="1" sent="9">oliën</wf>
+    <wf id="w133" length="1" offset="747" para="1" sent="9">-</wf>
+    <wf id="w134" length="2" offset="749" para="1" sent="9">en</wf>
+    <wf id="w135" length="3" offset="752" para="1" sent="9">611</wf>
+    <wf id="w136" length="13" offset="756" para="1" sent="9">overtredingen</wf>
+    <wf id="w137" length="1" offset="770" para="1" sent="9">,</wf>
+    <wf id="w138" length="7" offset="772" para="1" sent="9">waarvan</wf>
+    <wf id="w139" length="3" offset="780" para="1" sent="9">572</wf>
+    <wf id="w140" length="6" offset="784" para="1" sent="9">werden</wf>
+    <wf id="w141" length="15" offset="791" para="1" sent="9">geïdentificeerd</wf>
+    <wf id="w142" length="3" offset="807" para="1" sent="9">als</wf>
+    <wf id="w143" length="8" offset="811" para="1" sent="9">minerale</wf>
+    <wf id="w144" length="10" offset="820" para="1" sent="9">olieresten</wf>
+    <wf id="w145" length="2" offset="831" para="1" sent="9">en</wf>
+    <wf id="w146" length="2" offset="834" para="1" sent="9">39</wf>
+    <wf id="w147" length="3" offset="837" para="1" sent="9">als</wf>
+    <wf id="w148" length="11" offset="841" para="1" sent="9">substanties</wf>
+    <wf id="w149" length="3" offset="853" para="1" sent="9">van</wf>
+    <wf id="w150" length="9" offset="857" para="1" sent="9">chemische</wf>
+    <wf id="w151" length="2" offset="867" para="1" sent="9">of</wf>
+    <wf id="w152" length="9" offset="870" para="1" sent="9">onbekende</wf>
+    <wf id="w153" length="9" offset="880" para="1" sent="9">oorsprong</wf>
+    <wf id="w154" length="1" offset="890" para="1" sent="9">.</wf>
+    <wf id="w155" length="1" offset="892" para="1" sent="10">-</wf>
+    <wf id="w156" length="2" offset="894" para="1" sent="10">Er</wf>
+    <wf id="w157" length="6" offset="897" para="1" sent="10">werden</wf>
+    <wf id="w158" length="2" offset="904" para="1" sent="10">31</wf>
+    <wf id="w159" length="10" offset="907" para="1" sent="10">bezwarende</wf>
+    <wf id="w160" length="8" offset="918" para="1" sent="10">dossiers</wf>
+    <wf id="w161" length="5" offset="927" para="1" sent="10">tegen</wf>
+    <wf id="w162" length="7" offset="933" para="1" sent="10">schepen</wf>
+    <wf id="w163" length="9" offset="941" para="1" sent="10">opgesteld</wf>
+    <wf id="w164" length="1" offset="951" para="1" sent="10">.</wf>
+    <wf id="w165" length="2" offset="953" para="1" sent="11">12</wf>
+    <wf id="w166" length="3" offset="956" para="1" sent="11">van</wf>
+    <wf id="w167" length="4" offset="960" para="1" sent="11">deze</wf>
+    <wf id="w168" length="17" offset="965" para="1" sent="11">processen-verbaal</wf>
+    <wf id="w169" length="6" offset="983" para="1" sent="11">werden</wf>
+    <wf id="w170" length="11" offset="990" para="1" sent="11">overgemaakt</wf>
+    <wf id="w171" length="3" offset="1002" para="1" sent="11">aan</wf>
+    <wf id="w172" length="3" offset="1006" para="1" sent="11">het</wf>
+    <wf id="w173" length="6" offset="1010" para="1" sent="11">parket</wf>
+    <wf id="w174" length="1" offset="1017" para="1" sent="11">,</wf>
+    <wf id="w175" length="3" offset="1019" para="1" sent="11">dat</wf>
+    <wf id="w176" length="2" offset="1023" para="1" sent="11">op</wf>
+    <wf id="w177" length="4" offset="1026" para="1" sent="11">deze</wf>
+    <wf id="w178" length="6" offset="1031" para="1" sent="11">manier</wf>
+    <wf id="w179" length="3" offset="1038" para="1" sent="11">kon</wf>
+    <wf id="w180" length="8" offset="1042" para="1" sent="11">overgaan</wf>
+    <wf id="w181" length="3" offset="1051" para="1" sent="11">tot</wf>
+    <wf id="w182" length="12" offset="1055" para="1" sent="11">vervolgingen</wf>
+    <wf id="w183" length="2" offset="1068" para="1" sent="11">in</wf>
+    <wf id="w184" length="6" offset="1071" para="1" sent="11">België</wf>
+    <wf id="w185" length="1" offset="1078" para="1" sent="11">.</wf>
+    <wf id="w186" length="2" offset="1080" para="1" sent="12">De</wf>
+    <wf id="w187" length="7" offset="1083" para="1" sent="12">overige</wf>
+    <wf id="w188" length="2" offset="1091" para="1" sent="12">19</wf>
+    <wf id="w189" length="6" offset="1094" para="1" sent="12">werden</wf>
+    <wf id="w190" length="11" offset="1101" para="1" sent="12">overgemaakt</wf>
+    <wf id="w191" length="3" offset="1113" para="1" sent="12">aan</wf>
+    <wf id="w192" length="12" offset="1117" para="1" sent="12">buitenlandse</wf>
+    <wf id="w193" length="9" offset="1130" para="1" sent="12">overheden</wf>
+    <wf id="w194" length="1" offset="1140" para="1" sent="12">,</wf>
+    <wf id="w195" length="6" offset="1142" para="1" sent="12">hetzij</wf>
+    <wf id="w196" length="3" offset="1149" para="1" sent="12">aan</wf>
+    <wf id="w197" length="3" offset="1153" para="1" sent="12">het</wf>
+    <wf id="w198" length="4" offset="1157" para="1" sent="12">land</wf>
+    <wf id="w199" length="5" offset="1162" para="1" sent="12">onder</wf>
+    <wf id="w200" length="5" offset="1168" para="1" sent="12">wiens</wf>
+    <wf id="w201" length="4" offset="1174" para="1" sent="12">vlag</wf>
+    <wf id="w202" length="2" offset="1179" para="1" sent="12">de</wf>
+    <wf id="w203" length="7" offset="1182" para="1" sent="12">schepen</wf>
+    <wf id="w204" length="2" offset="1190" para="1" sent="12">in</wf>
+    <wf id="w205" length="7" offset="1193" para="1" sent="12">kwestie</wf>
+    <wf id="w206" length="6" offset="1201" para="1" sent="12">voeren</wf>
+    <wf id="w207" length="1" offset="1208" para="1" sent="12">,</wf>
+    <wf id="w208" length="6" offset="1210" para="1" sent="12">hetzij</wf>
+    <wf id="w209" length="3" offset="1217" para="1" sent="12">aan</wf>
+    <wf id="w210" length="3" offset="1221" para="1" sent="12">het</wf>
+    <wf id="w211" length="4" offset="1225" para="1" sent="12">land</wf>
+    <wf id="w212" length="3" offset="1230" para="1" sent="12">van</wf>
+    <wf id="w213" length="2" offset="1234" para="1" sent="12">de</wf>
+    <wf id="w214" length="5" offset="1237" para="1" sent="12">haven</wf>
+    <wf id="w215" length="3" offset="1243" para="1" sent="12">van</wf>
+    <wf id="w216" length="10" offset="1247" para="1" sent="12">bestemming</wf>
+    <wf id="w217" length="1" offset="1258" para="1" sent="12">.</wf>
+    <wf id="w218" length="2" offset="1260" para="1" sent="13">31</wf>
+    <wf id="w219" length="17" offset="1263" para="1" sent="13">processen-verbaal</wf>
+    <wf id="w220" length="2" offset="1281" para="1" sent="13">op</wf>
+    <wf id="w221" length="3" offset="1284" para="1" sent="13">611</wf>
+    <wf id="w222" length="11" offset="1288" para="1" sent="13">opsporingen</wf>
+    <wf id="w223" length="1" offset="1300" para="1" sent="13">,</wf>
+    <wf id="w224" length="3" offset="1302" para="1" sent="13">dat</wf>
+    <wf id="w225" length="5" offset="1306" para="1" sent="13">staat</wf>
+    <wf id="w226" length="4" offset="1312" para="1" sent="13">voor</wf>
+    <wf id="w227" length="7" offset="1317" para="1" sent="13">slechts</wf>
+    <wf id="w228" length="1" offset="1325" para="1" sent="13">5</wf>
+    <wf id="w229" length="7" offset="1327" para="1" sent="13">procent</wf>
+    <wf id="w230" length="3" offset="1335" para="1" sent="13">van</wf>
+    <wf id="w231" length="2" offset="1339" para="1" sent="13">de</wf>
+    <wf id="w232" length="8" offset="1342" para="1" sent="13">gevallen</wf>
+    <wf id="w233" length="1" offset="1351" para="1" sent="13">!</wf>
+    <wf id="w234" length="7" offset="1353" para="1" sent="14">Spijtig</wf>
+    <wf id="w235" length="6" offset="1361" para="1" sent="14">genoeg</wf>
+    <wf id="w236" length="3" offset="1368" para="1" sent="14">wil</wf>
+    <wf id="w237" length="3" offset="1372" para="1" sent="14">dit</wf>
+    <wf id="w238" length="6" offset="1376" para="1" sent="14">zeggen</wf>
+    <wf id="w239" length="3" offset="1383" para="1" sent="14">dat</wf>
+    <wf id="w240" length="2" offset="1387" para="1" sent="14">in</wf>
+    <wf id="w241" length="2" offset="1390" para="1" sent="14">95</wf>
+    <wf id="w242" length="7" offset="1393" para="1" sent="14">procent</wf>
+    <wf id="w243" length="3" offset="1401" para="1" sent="14">van</wf>
+    <wf id="w244" length="2" offset="1405" para="1" sent="14">de</wf>
+    <wf id="w245" length="8" offset="1408" para="1" sent="14">gevallen</wf>
+    <wf id="w246" length="1" offset="1417" para="1" sent="14">,</wf>
+    <wf id="w247" length="3" offset="1419" para="1" sent="14">het</wf>
+    <wf id="w248" length="5" offset="1423" para="1" sent="14">schip</wf>
+    <wf id="w249" length="3" offset="1429" para="1" sent="14">dat</wf>
+    <wf id="w250" length="2" offset="1433" para="1" sent="14">de</wf>
+    <wf id="w251" length="11" offset="1436" para="1" sent="14">overtreding</wf>
+    <wf id="w252" length="6" offset="1448" para="1" sent="14">beging</wf>
+    <wf id="w253" length="5" offset="1455" para="1" sent="14">reeds</wf>
+    <wf id="w254" length="3" offset="1461" para="1" sent="14">ver</wf>
+    <wf id="w255" length="3" offset="1465" para="1" sent="14">weg</wf>
+    <wf id="w256" length="3" offset="1469" para="1" sent="14">was</wf>
+    <wf id="w257" length="4" offset="1473" para="1" sent="14">toen</wf>
+    <wf id="w258" length="2" offset="1478" para="1" sent="14">de</wf>
+    <wf id="w259" length="6" offset="1481" para="1" sent="14">lozing</wf>
+    <wf id="w260" length="4" offset="1488" para="1" sent="14">door</wf>
+    <wf id="w261" length="3" offset="1493" para="1" sent="14">het</wf>
+    <wf id="w262" length="9" offset="1497" para="1" sent="14">vliegtuig</wf>
+    <wf id="w263" length="4" offset="1507" para="1" sent="14">werd</wf>
+    <wf id="w264" length="9" offset="1512" para="1" sent="14">opgemerkt</wf>
+    <wf id="w265" length="1" offset="1522" para="1" sent="14">.</wf>
+    <wf id="w266" length="1" offset="1524" para="1" sent="15">-</wf>
+    <wf id="w267" length="8" offset="1526" para="1" sent="15">Nochtans</wf>
+    <wf id="w268" length="4" offset="1535" para="1" sent="15">zijn</wf>
+    <wf id="w269" length="2" offset="1540" para="1" sent="15">er</wf>
+    <wf id="w270" length="7" offset="1543" para="1" sent="15">redenen</wf>
+    <wf id="w271" length="2" offset="1551" para="1" sent="15">om</wf>
+    <wf id="w272" length="2" offset="1554" para="1" sent="15">te</wf>
+    <wf id="w273" length="6" offset="1557" para="1" sent="15">denken</wf>
+    <wf id="w274" length="3" offset="1564" para="1" sent="15">dat</wf>
+    <wf id="w275" length="4" offset="1568" para="1" sent="15">deze</wf>
+    <wf id="w276" length="12" offset="1573" para="1" sent="15">vervolgingen</wf>
+    <wf id="w277" length="3" offset="1586" para="1" sent="15">een</wf>
+    <wf id="w278" length="9" offset="1590" para="1" sent="15">ontradend</wf>
+    <wf id="w279" length="6" offset="1600" para="1" sent="15">effect</wf>
+    <wf id="w280" length="6" offset="1607" para="1" sent="15">hebben</wf>
+    <wf id="w281" length="5" offset="1614" para="1" sent="15">gehad</wf>
+    <wf id="w282" length="2" offset="1620" para="1" sent="15">op</wf>
+    <wf id="w283" length="2" offset="1623" para="1" sent="15">de</wf>
+    <wf id="w284" length="10" offset="1626" para="1" sent="15">potentiële</wf>
+    <wf id="w285" length="10" offset="1637" para="1" sent="15">vervuilers</wf>
+    <wf id="w286" length="1" offset="1648" para="1" sent="15">.</wf>
+    <wf id="w287" length="3" offset="1650" para="1" sent="16">Het</wf>
+    <wf id="w288" length="6" offset="1654" para="1" sent="16">aantal</wf>
+    <wf id="w289" length="10" offset="1661" para="1" sent="16">opgemerkte</wf>
+    <wf id="w290" length="8" offset="1672" para="1" sent="16">lozingen</wf>
+    <wf id="w291" length="5" offset="1681" para="1" sent="16">loopt</wf>
+    <wf id="w292" length="5" offset="1687" para="1" sent="16">terug</wf>
+    <wf id="w293" length="1" offset="1693" para="1" sent="16">:</wf>
+    <wf id="w294" length="2" offset="1695" para="1" sent="16">in</wf>
+    <wf id="w295" length="2" offset="1698" para="1" sent="16">de</wf>
+    <wf id="w296" length="5" offset="1701" para="1" sent="16">jaren</wf>
+    <wf id="w297" length="2" offset="1707" para="1" sent="16">90</wf>
+    <wf id="w298" length="6" offset="1710" para="1" sent="16">werden</wf>
+    <wf id="w299" length="9" offset="1717" para="1" sent="16">jaarlijks</wf>
+    <wf id="w300" length="8" offset="1727" para="1" sent="16">ongeveer</wf>
+    <wf id="w301" length="2" offset="1736" para="1" sent="16">50</wf>
+    <wf id="w302" length="12" offset="1739" para="1" sent="16">olielozingen</wf>
+    <wf id="w303" length="9" offset="1752" para="1" sent="16">opgemerkt</wf>
+    <wf id="w304" length="1" offset="1762" para="1" sent="16">(</wf>
+    <wf id="w305" length="9" offset="1764" para="1" sent="16">gemiddeld</wf>
+    <wf id="w306" length="2" offset="1774" para="1" sent="16">is</wf>
+    <wf id="w307" length="3" offset="1777" para="1" sent="16">dat</wf>
+    <wf id="w308" length="4" offset="1781" para="1" sent="16">0,23</wf>
+    <wf id="w309" length="11" offset="1786" para="1" sent="16">opsporingen</wf>
+    <wf id="w310" length="3" offset="1798" para="1" sent="16">per</wf>
+    <wf id="w311" length="8" offset="1802" para="1" sent="16">vlieguur</wf>
+    <wf id="w312" length="2" offset="1811" para="1" sent="16">of</wf>
+    <wf id="w313" length="3" offset="1814" para="1" sent="16">één</wf>
+    <wf id="w314" length="9" offset="1818" para="1" sent="16">opsporing</wf>
+    <wf id="w315" length="2" offset="1828" para="1" sent="16">om</wf>
+    <wf id="w316" length="2" offset="1831" para="1" sent="16">de</wf>
+    <wf id="w317" length="3" offset="1834" para="1" sent="16">4.5</wf>
+    <wf id="w318" length="3" offset="1838" para="1" sent="16">uur</wf>
+    <wf id="w319" length="1" offset="1842" para="1" sent="16">)</wf>
+    <wf id="w320" length="1" offset="1844" para="1" sent="16">.</wf>
+    <wf id="w321" length="5" offset="1846" para="1" sent="17">Sinds</wf>
+    <wf id="w322" length="4" offset="1852" para="1" sent="17">2000</wf>
+    <wf id="w323" length="6" offset="1857" para="1" sent="17">worden</wf>
+    <wf id="w324" length="9" offset="1864" para="1" sent="17">jaarlijks</wf>
+    <wf id="w325" length="3" offset="1874" para="1" sent="17">nog</wf>
+    <wf id="w326" length="7" offset="1878" para="1" sent="17">slechts</wf>
+    <wf id="w327" length="3" offset="1886" para="1" sent="17">een</wf>
+    <wf id="w328" length="9" offset="1890" para="1" sent="17">dertigtal</wf>
+    <wf id="w329" length="8" offset="1900" para="1" sent="17">lozingen</wf>
+    <wf id="w330" length="9" offset="1909" para="1" sent="17">opgemerkt</wf>
+    <wf id="w331" length="1" offset="1919" para="1" sent="17">(</wf>
+    <wf id="w332" length="3" offset="1921" para="1" sent="17">dit</wf>
+    <wf id="w333" length="5" offset="1925" para="1" sent="17">stemt</wf>
+    <wf id="w334" length="7" offset="1931" para="1" sent="17">overeen</wf>
+    <wf id="w335" length="3" offset="1939" para="1" sent="17">met</wf>
+    <wf id="w336" length="4" offset="1943" para="1" sent="17">0,11</wf>
+    <wf id="w337" length="11" offset="1948" para="1" sent="17">opsporingen</wf>
+    <wf id="w338" length="3" offset="1960" para="1" sent="17">per</wf>
+    <wf id="w339" length="8" offset="1964" para="1" sent="17">vlieguur</wf>
+    <wf id="w340" length="1" offset="1973" para="1" sent="17">,</wf>
+    <wf id="w341" length="2" offset="1975" para="1" sent="17">of</wf>
+    <wf id="w342" length="3" offset="1978" para="1" sent="17">één</wf>
+    <wf id="w343" length="2" offset="1982" para="1" sent="17">om</wf>
+    <wf id="w344" length="2" offset="1985" para="1" sent="17">de</wf>
+    <wf id="w345" length="1" offset="1988" para="1" sent="17">9</wf>
+    <wf id="w346" length="9" offset="1990" para="1" sent="17">vlieguren</wf>
+    <wf id="w347" length="1" offset="2000" para="1" sent="17">)</wf>
+    <wf id="w348" length="1" offset="2002" para="1" sent="17">.</wf>
+    <wf id="w349" length="3" offset="2004" para="1" sent="18">Ook</wf>
+    <wf id="w350" length="3" offset="2008" para="1" sent="18">het</wf>
+    <wf id="w351" length="6" offset="2012" para="1" sent="18">totale</wf>
+    <wf id="w352" length="6" offset="2019" para="1" sent="18">volume</wf>
+    <wf id="w353" length="3" offset="2026" para="1" sent="18">van</wf>
+    <wf id="w354" length="2" offset="2030" para="1" sent="18">de</wf>
+    <wf id="w355" length="8" offset="2033" para="1" sent="18">lozingen</wf>
+    <wf id="w356" length="5" offset="2042" para="1" sent="18">loopt</wf>
+    <wf id="w357" length="5" offset="2048" para="1" sent="18">terug</wf>
+    <wf id="w358" length="1" offset="2054" para="1" sent="18">.</wf>
+    <wf id="w359" length="11" offset="2056" para="1" sent="19">Localisatie</wf>
+    <wf id="w360" length="2" offset="2068" para="1" sent="19">en</wf>
+    <wf id="w361" length="6" offset="2071" para="1" sent="19">volume</wf>
+    <wf id="w362" length="1" offset="2078" para="1" sent="19">(</wf>
+    <wf id="w363" length="2" offset="2080" para="1" sent="19">m³</wf>
+    <wf id="w364" length="1" offset="2083" para="1" sent="19">)</wf>
+    <wf id="w365" length="3" offset="2085" para="1" sent="19">van</wf>
+    <wf id="w366" length="4" offset="2089" para="1" sent="19">alle</wf>
+    <wf id="w367" length="12" offset="2094" para="1" sent="19">operationele</wf>
+    <wf id="w368" length="8" offset="2107" para="1" sent="19">lozingen</wf>
+    <wf id="w369" length="4" offset="2116" para="1" sent="19">door</wf>
+    <wf id="w370" length="3" offset="2121" para="1" sent="19">het</wf>
+    <wf id="w371" length="9" offset="2125" para="1" sent="19">vliegtuig</wf>
+    <wf id="w372" length="7" offset="2135" para="1" sent="19">ontdekt</wf>
+    <wf id="w373" length="6" offset="2143" para="1" sent="19">tussen</wf>
+    <wf id="w374" length="4" offset="2150" para="1" sent="19">1991</wf>
+    <wf id="w375" length="2" offset="2155" para="1" sent="19">en</wf>
+    <wf id="w376" length="4" offset="2158" para="1" sent="19">2005</wf>
+    <wf id="w377" length="1" offset="2163" para="1" sent="19">.</wf>
+    <wf id="w378" length="5" offset="2165" para="1" sent="20">Groen</wf>
+    <wf id="w379" length="3" offset="2171" para="1" sent="20">van</wf>
+    <wf id="w380" length="1" offset="2175" para="1" sent="20">0</wf>
+    <wf id="w381" length="3" offset="2177" para="1" sent="20">tot</wf>
+    <wf id="w382" length="1" offset="2181" para="1" sent="20">1</wf>
+    <wf id="w383" length="1" offset="2183" para="1" sent="20">,</wf>
+    <wf id="w384" length="6" offset="2185" para="1" sent="20">oranje</wf>
+    <wf id="w385" length="3" offset="2192" para="1" sent="20">van</wf>
+    <wf id="w386" length="1" offset="2196" para="1" sent="20">1</wf>
+    <wf id="w387" length="3" offset="2198" para="1" sent="20">tot</wf>
+    <wf id="w388" length="2" offset="2202" para="1" sent="20">10</wf>
+    <wf id="w389" length="1" offset="2205" para="1" sent="20">,</wf>
+    <wf id="w390" length="4" offset="2207" para="1" sent="20">rood</wf>
+    <wf id="w391" length="3" offset="2212" para="1" sent="20">van</wf>
+    <wf id="w392" length="2" offset="2216" para="1" sent="20">10</wf>
+    <wf id="w393" length="3" offset="2219" para="1" sent="20">tot</wf>
+    <wf id="w394" length="3" offset="2223" para="1" sent="20">100</wf>
+    <wf id="w395" length="6" offset="2227" para="1" sent="21">Aantal</wf>
+    <wf id="w396" length="11" offset="2234" para="1" sent="21">opsporingen</wf>
+    <wf id="w397" length="3" offset="2246" para="1" sent="21">van</wf>
+    <wf id="w398" length="18" offset="2250" para="1" sent="21">zeeverontreiniging</wf>
+    <wf id="w399" length="3" offset="2269" para="1" sent="21">per</wf>
+    <wf id="w400" length="8" offset="2273" para="1" sent="21">vlieguur</wf>
+    <wf id="w401" length="9" offset="2282" para="1" sent="22">Jaarlijks</wf>
+    <wf id="w402" length="9" offset="2292" para="1" sent="22">geschatte</wf>
+    <wf id="w403" length="11" offset="2302" para="1" sent="22">olievolumes</wf>
+    <wf id="w404" length="3" offset="2314" para="1" sent="22">van</wf>
+    <wf id="w405" length="8" offset="2318" para="1" sent="22">illegale</wf>
+    <wf id="w406" length="12" offset="2327" para="1" sent="22">olielozingen</wf>
+    <wf id="w407" length="1" offset="2340" para="1" sent="22">,</wf>
+    <wf id="w408" length="7" offset="2342" para="1" sent="22">volgens</wf>
+    <wf id="w409" length="2" offset="2350" para="1" sent="22">de</wf>
+    <wf id="w410" length="11" offset="2353" para="1" sent="22">kleurencode</wf>
+    <wf id="w411" length="1" offset="2365" para="1" sent="22">(</wf>
+    <wf id="w412" length="5" offset="2367" para="1" sent="22">blauw</wf>
+    <wf id="w413" length="1" offset="2373" para="1" sent="22">)</wf>
+    <wf id="w414" length="1" offset="2375" para="1" sent="22">.</wf>
+    <wf id="w415" length="10" offset="2377" para="1" sent="23">Olievolume</wf>
+    <wf id="w416" length="3" offset="2388" para="1" sent="23">dat</wf>
+    <wf id="w417" length="9" offset="2392" para="1" sent="23">mogelijks</wf>
+    <wf id="w418" length="4" offset="2402" para="1" sent="23">werd</wf>
+    <wf id="w419" length="9" offset="2407" para="1" sent="23">beïnvloed</wf>
+    <wf id="w420" length="4" offset="2417" para="1" sent="23">door</wf>
+    <wf id="w421" length="3" offset="2422" para="1" sent="23">het</wf>
+    <wf id="w422" length="8" offset="2426" para="1" sent="23">Tricolor</wf>
+    <wf id="w423" length="8" offset="2435" para="1" sent="23">incident</wf>
+    <wf id="w424" length="1" offset="2444" para="1" sent="23">(</wf>
+    <wf id="w425" length="4" offset="2446" para="1" sent="23">roze</wf>
+    <wf id="w426" length="1" offset="2451" para="1" sent="23">)</wf>
+    <wf id="w427" length="1" offset="2453" para="1" sent="23">.</wf>
+    <wf id="w428" length="4" offset="2455" para="1" sent="24">1991</wf>
+    <wf id="w429" length="2" offset="2460" para="1" sent="24">en</wf>
+    <wf id="w430" length="4" offset="2463" para="1" sent="24">2005</wf>
+    <wf id="w431" length="4" offset="2468" para="1" sent="24">zijn</wf>
+    <wf id="w432" length="14" offset="2473" para="1" sent="24">overgangsjaren</wf>
+    <wf id="w433" length="4" offset="2488" para="1" sent="24">naar</wf>
+    <wf id="w434" length="3" offset="2493" para="1" sent="24">een</wf>
+    <wf id="w435" length="6" offset="2497" para="1" sent="24">nieuwe</wf>
+    <wf id="w436" length="9" offset="2504" para="1" sent="24">programma</wf>
+    <wf id="w437" length="3" offset="2514" para="1" sent="24">van</wf>
+    <wf id="w438" length="13" offset="2518" para="1" sent="24">luchttoezicht</wf>
+    <wf id="w439" length="2" offset="2532" para="1" sent="25">In</wf>
+    <wf id="w440" length="3" offset="2535" para="1" sent="25">het</wf>
+    <wf id="w441" length="4" offset="2539" para="1" sent="25">jaar</wf>
+    <wf id="w442" length="4" offset="2544" para="1" sent="25">1999</wf>
+    <wf id="w443" length="4" offset="2549" para="1" sent="25">werd</wf>
+    <wf id="w444" length="3" offset="2554" para="1" sent="25">een</wf>
+    <wf id="w445" length="9" offset="2558" para="1" sent="25">strengere</wf>
+    <wf id="w446" length="9" offset="2568" para="1" sent="25">wetgeving</wf>
+    <wf id="w447" length="3" offset="2578" para="1" sent="25">van</wf>
+    <wf id="w448" length="6" offset="2582" para="1" sent="25">kracht</wf>
+    <wf id="w449" length="6" offset="2589" para="1" sent="25">inzake</wf>
+    <wf id="w450" length="8" offset="2596" para="1" sent="25">illegale</wf>
+    <wf id="w451" length="18" offset="2605" para="1" sent="25">zeeverontreiniging</wf>
+    <wf id="w452" length="4" offset="2624" para="1" sent="25">door</wf>
+    <wf id="w453" length="7" offset="2629" para="1" sent="25">schepen</wf>
+    <wf id="w454" length="1" offset="2637" para="1" sent="25">.</wf>
+    <wf id="w455" length="2" offset="2639" para="1" sent="26">De</wf>
+    <wf id="w456" length="14" offset="2642" para="1" sent="26">internationale</wf>
+    <wf id="w457" length="6" offset="2657" para="1" sent="26">normen</wf>
+    <wf id="w458" length="4" offset="2664" para="1" sent="26">voor</wf>
+    <wf id="w459" length="12" offset="2669" para="1" sent="26">operationele</wf>
+    <wf id="w460" length="12" offset="2682" para="1" sent="26">olielozingen</wf>
+    <wf id="w461" length="2" offset="2695" para="1" sent="26">in</wf>
+    <wf id="w462" length="2" offset="2698" para="1" sent="26">de</wf>
+    <wf id="w463" length="8" offset="2701" para="1" sent="26">Noordzee</wf>
+    <wf id="w464" length="6" offset="2710" para="1" sent="26">werden</wf>
+    <wf id="w465" length="8" offset="2717" para="1" sent="26">strenger</wf>
+    <wf id="w466" length="1" offset="2726" para="1" sent="26">.</wf>
+    <wf id="w467" length="2" offset="2728" para="1" sent="27">Op</wf>
+    <wf id="w468" length="9" offset="2731" para="1" sent="27">nationaal</wf>
+    <wf id="w469" length="4" offset="2741" para="1" sent="27">vlak</wf>
+    <wf id="w470" length="6" offset="2746" para="1" sent="27">kwamen</wf>
+    <wf id="w471" length="2" offset="2753" para="1" sent="27">er</wf>
+    <wf id="w472" length="2" offset="2756" para="1" sent="27">de</wf>
+    <wf id="w473" length="3" offset="2759" para="1" sent="27">wet</wf>
+    <wf id="w474" length="1" offset="2763" para="1" sent="27">"</wf>
+    <wf id="w475" length="6" offset="2765" para="1" sent="27">marien</wf>
+    <wf id="w476" length="6" offset="2772" para="1" sent="27">milieu</wf>
+    <wf id="w477" length="1" offset="2779" para="1" sent="27">"</wf>
+    <wf id="w478" length="1" offset="2781" para="1" sent="27">(</wf>
+    <wf id="w479" length="7" offset="2783" para="1" sent="27">MMM-wet</wf>
+    <wf id="w480" length="1" offset="2791" para="1" sent="27">)</wf>
+    <wf id="w481" length="2" offset="2793" para="1" sent="27">en</wf>
+    <wf id="w482" length="2" offset="2796" para="1" sent="27">de</wf>
+    <wf id="w483" length="3" offset="2799" para="1" sent="27">wet</wf>
+    <wf id="w484" length="1" offset="2803" para="1" sent="27">"</wf>
+    <wf id="w485" length="9" offset="2805" para="1" sent="27">exclusief</wf>
+    <wf id="w486" length="11" offset="2815" para="1" sent="27">economische</wf>
+    <wf id="w487" length="4" offset="2827" para="1" sent="27">zone</wf>
+    <wf id="w488" length="1" offset="2832" para="1" sent="27">"</wf>
+    <wf id="w489" length="1" offset="2834" para="1" sent="27">(</wf>
+    <wf id="w490" length="7" offset="2836" para="1" sent="27">EEZ-wet</wf>
+    <wf id="w491" length="1" offset="2844" para="1" sent="27">)</wf>
+    <wf id="w492" length="3" offset="2846" para="1" sent="27">die</wf>
+    <wf id="w493" length="7" offset="2850" para="1" sent="27">zorgden</wf>
+    <wf id="w494" length="3" offset="2858" para="1" sent="27">dat</wf>
+    <wf id="w495" length="7" offset="2862" para="1" sent="27">schepen</wf>
+    <wf id="w496" length="6" offset="2870" para="1" sent="27">binnen</wf>
+    <wf id="w497" length="3" offset="2877" para="1" sent="27">het</wf>
+    <wf id="w498" length="9" offset="2881" para="1" sent="27">volledige</wf>
+    <wf id="w499" length="8" offset="2891" para="1" sent="27">Belgisch</wf>
+    <wf id="w500" length="9" offset="2900" para="1" sent="27">zeegebied</wf>
+    <wf id="w501" length="8" offset="2910" para="1" sent="27">vervolgd</wf>
+    <wf id="w502" length="6" offset="2919" para="1" sent="27">kunnen</wf>
+    <wf id="w503" length="6" offset="2926" para="1" sent="27">worden</wf>
+    <wf id="w504" length="1" offset="2933" para="1" sent="27">.</wf>
+    <wf id="w505" length="6" offset="2935" para="1" sent="28">Aantal</wf>
+    <wf id="w506" length="12" offset="2942" para="1" sent="28">operationele</wf>
+    <wf id="w507" length="8" offset="2955" para="1" sent="28">lozingen</wf>
+    <wf id="w508" length="11" offset="2964" para="1" sent="28">waargenomen</wf>
+    <wf id="w509" length="2" offset="2976" para="1" sent="28">in</wf>
+    <wf id="w510" length="4" offset="2979" para="1" sent="28">elke</wf>
+    <wf id="w511" length="4" offset="2984" para="1" sent="28">zone</wf>
+    <wf id="w512" length="3" offset="2989" para="1" sent="28">van</wf>
+    <wf id="w513" length="3" offset="2993" para="1" sent="28">een</wf>
+    <wf id="w514" length="3" offset="2997" para="1" sent="28">km²</wf>
+    <wf id="w515" length="6" offset="3001" para="1" sent="28">tussen</wf>
+    <wf id="w516" length="4" offset="3008" para="1" sent="28">1991</wf>
+    <wf id="w517" length="2" offset="3013" para="1" sent="28">en</wf>
+    <wf id="w518" length="4" offset="3016" para="1" sent="28">2005</wf>
+    <wf id="w519" length="6" offset="3021" para="1" sent="29">Aantal</wf>
+    <wf id="w520" length="12" offset="3028" para="1" sent="29">operationele</wf>
+    <wf id="w521" length="8" offset="3041" para="1" sent="29">lozingen</wf>
+    <wf id="w522" length="11" offset="3050" para="1" sent="29">waargenomen</wf>
+    <wf id="w523" length="2" offset="3062" para="1" sent="29">in</wf>
+    <wf id="w524" length="4" offset="3065" para="1" sent="29">elke</wf>
+    <wf id="w525" length="4" offset="3070" para="1" sent="29">zone</wf>
+    <wf id="w526" length="3" offset="3075" para="1" sent="29">van</wf>
+    <wf id="w527" length="3" offset="3079" para="1" sent="29">een</wf>
+    <wf id="w528" length="3" offset="3083" para="1" sent="29">km²</wf>
+    <wf id="w529" length="6" offset="3087" para="1" sent="29">tussen</wf>
+    <wf id="w530" length="4" offset="3094" para="1" sent="29">1991</wf>
+    <wf id="w531" length="2" offset="3099" para="1" sent="29">en</wf>
+    <wf id="w532" length="4" offset="3102" para="1" sent="29">1998</wf>
+    <wf id="w533" length="6" offset="3107" para="1" sent="30">Aantal</wf>
+    <wf id="w534" length="12" offset="3114" para="1" sent="30">operationele</wf>
+    <wf id="w535" length="8" offset="3127" para="1" sent="30">lozingen</wf>
+    <wf id="w536" length="11" offset="3136" para="1" sent="30">waargenomen</wf>
+    <wf id="w537" length="2" offset="3148" para="1" sent="30">in</wf>
+    <wf id="w538" length="4" offset="3151" para="1" sent="30">elke</wf>
+    <wf id="w539" length="4" offset="3156" para="1" sent="30">zone</wf>
+    <wf id="w540" length="3" offset="3161" para="1" sent="30">van</wf>
+    <wf id="w541" length="3" offset="3165" para="1" sent="30">een</wf>
+    <wf id="w542" length="3" offset="3169" para="1" sent="30">km²</wf>
+    <wf id="w543" length="6" offset="3173" para="1" sent="30">tussen</wf>
+    <wf id="w544" length="4" offset="3180" para="1" sent="30">1999</wf>
+    <wf id="w545" length="2" offset="3185" para="1" sent="30">en</wf>
+    <wf id="w546" length="4" offset="3188" para="1" sent="30">2005</wf>
+    <wf id="w547" length="9" offset="3193" para="1" sent="31">Daarnaast</wf>
+    <wf id="w548" length="6" offset="3203" para="1" sent="31">kunnen</wf>
+    <wf id="w549" length="2" offset="3210" para="1" sent="31">we</wf>
+    <wf id="w550" length="4" offset="3213" para="1" sent="31">deze</wf>
+    <wf id="w551" length="10" offset="3218" para="1" sent="31">resultaten</wf>
+    <wf id="w552" length="11" offset="3229" para="1" sent="31">vergelijken</wf>
+    <wf id="w553" length="3" offset="3241" para="1" sent="31">met</wf>
+    <wf id="w554" length="14" offset="3245" para="1" sent="31">internationale</wf>
+    <wf id="w555" length="12" offset="3260" para="1" sent="31">statistieken</wf>
+    <wf id="w556" length="1" offset="3273" para="1" sent="31">.</wf>
+    <wf id="w557" length="4" offset="3275" para="1" sent="32">Alle</wf>
+    <wf id="w558" length="8" offset="3280" para="1" sent="32">Europese</wf>
+    <wf id="w559" length="19" offset="3289" para="1" sent="32">toezichtvliegtuigen</wf>
+    <wf id="w560" length="3" offset="3309" para="1" sent="32">die</wf>
+    <wf id="w561" length="8" offset="3313" para="1" sent="32">opereren</wf>
+    <wf id="w562" length="5" offset="3322" para="1" sent="32">boven</wf>
+    <wf id="w563" length="2" offset="3328" para="1" sent="32">de</wf>
+    <wf id="w564" length="8" offset="3331" para="1" sent="32">Noordzee</wf>
+    <wf id="w565" length="2" offset="3340" para="1" sent="32">en</wf>
+    <wf id="w566" length="2" offset="3343" para="1" sent="32">de</wf>
+    <wf id="w567" length="9" offset="3346" para="1" sent="32">Baltische</wf>
+    <wf id="w568" length="3" offset="3356" para="1" sent="32">Zee</wf>
+    <wf id="w569" length="13" offset="3360" para="1" sent="32">registreerden</wf>
+    <wf id="w570" length="5" offset="3374" para="1" sent="32">samen</wf>
+    <wf id="w571" length="2" offset="3380" para="1" sent="32">in</wf>
+    <wf id="w572" length="4" offset="3383" para="1" sent="32">2000</wf>
+    <wf id="w573" length="1" offset="3388" para="1" sent="32">,</wf>
+    <wf id="w574" length="5" offset="3390" para="1" sent="32">1.233</wf>
+    <wf id="w575" length="8" offset="3396" para="1" sent="32">lozingen</wf>
+    <wf id="w576" length="2" offset="3405" para="1" sent="32">en</wf>
+    <wf id="w577" length="2" offset="3408" para="1" sent="32">in</wf>
+    <wf id="w578" length="4" offset="3411" para="1" sent="32">2004</wf>
+    <wf id="w579" length="1" offset="3416" para="1" sent="32">,</wf>
+    <wf id="w580" length="7" offset="3418" para="1" sent="32">slechts</wf>
+    <wf id="w581" length="3" offset="3426" para="1" sent="32">771</wf>
+    <wf id="w582" length="1" offset="3430" para="1" sent="32">,</wf>
+    <wf id="w583" length="3" offset="3432" para="1" sent="32">een</wf>
+    <wf id="w584" length="6" offset="3436" para="1" sent="32">daling</wf>
+    <wf id="w585" length="3" offset="3443" para="1" sent="32">van</wf>
+    <wf id="w586" length="2" offset="3447" para="1" sent="32">37</wf>
+    <wf id="w587" length="7" offset="3450" para="1" sent="32">procent</wf>
+    <wf id="w588" length="2" offset="3458" para="1" sent="32">op</wf>
+    <wf id="w589" length="4" offset="3461" para="1" sent="32">vier</wf>
+    <wf id="w590" length="4" offset="3466" para="1" sent="32">jaar</wf>
+    <wf id="w591" length="4" offset="3471" para="1" sent="32">tijd</wf>
+    <wf id="w592" length="1" offset="3476" para="1" sent="32">.</wf>
+    <wf id="w593" length="2" offset="3478" para="1" sent="33">De</wf>
+    <wf id="w594" length="8" offset="3481" para="1" sent="33">algemene</wf>
+    <wf id="w595" length="10" offset="3490" para="1" sent="33">inspanning</wf>
+    <wf id="w596" length="1" offset="3501" para="1" sent="33">,</wf>
+    <wf id="w597" length="3" offset="3503" para="1" sent="33">die</wf>
+    <wf id="w598" length="5" offset="3507" para="1" sent="33">wordt</wf>
+    <wf id="w599" length="11" offset="3513" para="1" sent="33">ondersteund</wf>
+    <wf id="w600" length="4" offset="3525" para="1" sent="33">door</wf>
+    <wf id="w601" length="14" offset="3530" para="1" sent="33">internationale</wf>
+    <wf id="w602" length="9" offset="3545" para="1" sent="33">verdragen</wf>
+    <wf id="w603" length="1" offset="3555" para="1" sent="33">,</wf>
+    <wf id="w604" length="5" offset="3557" para="1" sent="33">werpt</wf>
+    <wf id="w605" length="3" offset="3563" para="1" sent="33">dus</wf>
+    <wf id="w606" length="9" offset="3567" para="1" sent="33">duidelijk</wf>
+    <wf id="w607" length="8" offset="3577" para="1" sent="33">vruchten</wf>
+    <wf id="w608" length="2" offset="3586" para="1" sent="33">af</wf>
+    <wf id="w609" length="1" offset="3589" para="1" sent="33">.</wf>
+    <wf id="w610" length="14" offset="3591" para="1" sent="34">Oorspronkelijk</wf>
+    <wf id="w611" length="3" offset="3606" para="1" sent="34">was</wf>
+    <wf id="w612" length="3" offset="3610" para="1" sent="34">het</wf>
+    <wf id="w613" length="9" offset="3614" para="1" sent="34">programma</wf>
+    <wf id="w614" length="4" offset="3624" para="1" sent="34">voor</wf>
+    <wf id="w615" length="13" offset="3629" para="1" sent="34">luchttoezicht</wf>
+    <wf id="w616" length="7" offset="3643" para="1" sent="34">bedoeld</wf>
+    <wf id="w617" length="2" offset="3651" para="1" sent="34">om</wf>
+    <wf id="w618" length="2" offset="3654" para="1" sent="34">de</wf>
+    <wf id="w619" length="7" offset="3657" para="1" sent="34">rijkdom</wf>
+    <wf id="w620" length="3" offset="3665" para="1" sent="34">van</wf>
+    <wf id="w621" length="2" offset="3669" para="1" sent="34">de</wf>
+    <wf id="w622" length="3" offset="3672" para="1" sent="34">zee</wf>
+    <wf id="w623" length="2" offset="3676" para="1" sent="34">te</wf>
+    <wf id="w624" length="10" offset="3679" para="1" sent="34">beschermen</wf>
+    <wf id="w625" length="5" offset="3690" para="1" sent="34">tegen</wf>
+    <wf id="w626" length="12" offset="3696" para="1" sent="34">operationele</wf>
+    <wf id="w627" length="8" offset="3709" para="1" sent="34">lozingen</wf>
+    <wf id="w628" length="4" offset="3718" para="1" sent="34">door</wf>
+    <wf id="w629" length="7" offset="3723" para="1" sent="34">schepen</wf>
+    <wf id="w630" length="2" offset="3731" para="1" sent="34">en</wf>
+    <wf id="w631" length="5" offset="3734" para="1" sent="34">tegen</wf>
+    <wf id="w632" length="2" offset="3740" para="1" sent="34">de</wf>
+    <wf id="w633" length="8" offset="3743" para="1" sent="34">gevolgen</wf>
+    <wf id="w634" length="3" offset="3752" para="1" sent="34">van</wf>
+    <wf id="w635" length="11" offset="3756" para="1" sent="34">incidentele</wf>
+    <wf id="w636" length="8" offset="3768" para="1" sent="34">lozingen</wf>
+    <wf id="w637" length="1" offset="3777" para="1" sent="34">.</wf>
+    <wf id="w638" length="4" offset="3779" para="1" sent="35">Maar</wf>
+    <wf id="w639" length="2" offset="3784" para="1" sent="35">in</wf>
+    <wf id="w640" length="2" offset="3787" para="1" sent="35">de</wf>
+    <wf id="w641" length="4" offset="3790" para="1" sent="35">loop</wf>
+    <wf id="w642" length="3" offset="3795" para="1" sent="35">der</wf>
+    <wf id="w643" length="5" offset="3799" para="1" sent="35">jaren</wf>
+    <wf id="w644" length="4" offset="3805" para="1" sent="35">werd</wf>
+    <wf id="w645" length="3" offset="3810" para="1" sent="35">het</wf>
+    <wf id="w646" length="9" offset="3814" para="1" sent="35">vliegtuig</wf>
+    <wf id="w647" length="3" offset="3824" para="1" sent="35">een</wf>
+    <wf id="w648" length="13" offset="3828" para="1" sent="35">onvervangbaar</wf>
+    <wf id="w649" length="18" offset="3842" para="1" sent="35">observatiewerktuig</wf>
+    <wf id="w650" length="2" offset="3861" para="1" sent="35">om</wf>
+    <wf id="w651" length="3" offset="3864" para="1" sent="35">aan</wf>
+    <wf id="w652" length="2" offset="3868" para="1" sent="35">de</wf>
+    <wf id="w653" length="14" offset="3871" para="1" sent="35">wetenschappers</wf>
+    <wf id="w654" length="3" offset="3886" para="1" sent="35">een</wf>
+    <wf id="w655" length="4" offset="3890" para="1" sent="35">vlug</wf>
+    <wf id="w656" length="2" offset="3895" para="1" sent="35">en</wf>
+    <wf id="w657" length="7" offset="3898" para="1" sent="35">globaal</wf>
+    <wf id="w658" length="9" offset="3906" para="1" sent="35">overzicht</wf>
+    <wf id="w659" length="2" offset="3916" para="1" sent="35">te</wf>
+    <wf id="w660" length="6" offset="3919" para="1" sent="35">bieden</wf>
+    <wf id="w661" length="3" offset="3926" para="1" sent="35">van</wf>
+    <wf id="w662" length="2" offset="3930" para="1" sent="35">de</wf>
+    <wf id="w663" length="20" offset="3933" para="1" sent="35">natuurverschijnselen</wf>
+    <wf id="w664" length="2" offset="3954" para="1" sent="35">op</wf>
+    <wf id="w665" length="3" offset="3957" para="1" sent="35">zee</wf>
+    <wf id="w666" length="1" offset="3961" para="1" sent="35">.</wf>
+  </text>
+  <terms>
+    <term id="t_1" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--De-->
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_2" pos="N" type="open" lemma="resultaat" morphofeat="nounpl">
+      <!--resultaten-->
+      <span>
+        <target id="w2"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-31483" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_3" pos="P" type="close" lemma="na" morphofeat="prep">
+      <!--Na-->
+      <span>
+        <target id="w3"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_4" pos="O" type="open" lemma="15" morphofeat="num__ord">
+      <!--15-->
+      <span>
+        <target id="w4"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_5" pos="N" type="open" lemma="jaar" morphofeat="nounsg">
+      <!--jaar-->
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_6" pos="N" type="open" lemma="inspanning" morphofeat="nounsg">
+      <!--inspanning-->
+      <span>
+        <target id="w6"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_7" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w7"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_8" pos="N" type="open" lemma="aanwezigheid" morphofeat="nounsg">
+      <!--aanwezigheid-->
+      <span>
+        <target id="w8"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_9" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w9"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_10" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w10"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_11" pos="N" type="open" lemma="terrein" morphofeat="nounsg">
+      <!--terrein-->
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-37423" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_12" pos="V" type="open" lemma="kunnen" morphofeat="verbpressg">
+      <!--kan-->
+      <span>
+        <target id="w12"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_13" pos="G" type="open" lemma="terecht" morphofeat="adj">
+      <!--terecht-->
+      <span>
+        <target id="w13"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_14" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w14"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_15" pos="N" type="open" lemma="vraag" morphofeat="nounsg">
+      <!--vraag-->
+      <span>
+        <target id="w15"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-41761" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_16" pos="V" type="open" lemma="worden" morphofeat="verbinf">
+      <!--worden-->
+      <span>
+        <target id="w16"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_17" pos="V" type="open" lemma="stellen" morphofeat="verbpapa">
+      <!--gesteld-->
+      <span>
+        <target id="w17"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_18" pos="P" type="close" lemma="tot" morphofeat="prep">
+      <!--tot-->
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_19" pos="Q" type="close" lemma="welke" morphofeat="">
+      <!--welke-->
+      <span>
+        <target id="w19"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_20" pos="N" type="open" lemma="resultaat" morphofeat="nounpl">
+      <!--resultaten-->
+      <span>
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-31483" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_21" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w21"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_22" pos="N" type="open" lemma="programma" morphofeat="nounsg">
+      <!--programma-->
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_23" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_24" pos="N" type="open" lemma="toezicht" morphofeat="nounsg">
+      <!--toezicht-->
+      <span>
+        <target id="w24"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_25" pos="P" type="close" lemma="vanuit" morphofeat="prep">
+      <!--vanuit-->
+      <span>
+        <target id="w25"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_26" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_27" pos="N" type="open" lemma="lucht" morphofeat="nounsg">
+      <!--lucht-->
+      <span>
+        <target id="w27"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-22634" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_28" pos="A" type="open" lemma="inmiddels" morphofeat="adv">
+      <!--inmiddels-->
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_29" pos="V" type="open" lemma="hebben" morphofeat="">
+      <!--heeft-->
+      <span>
+        <target id="w29"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3129" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_30" pos="V" type="open" lemma="leiden" morphofeat="verbpapa">
+      <!--geleid-->
+      <span>
+        <target id="w30"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="c_545882" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_31" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w31"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_32" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w32"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_33" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--Op-->
+      <span>
+        <target id="w33"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_34" pos="O" type="open" lemma="6" morphofeat="num__ord">
+      <!--6-->
+      <span>
+        <target id="w34"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_35" pos="O" type="open" lemma="juni" morphofeat="">
+      <!--juni-->
+      <span>
+        <target id="w35"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_36" pos="O" type="open" lemma="2006" morphofeat="num__ord">
+      <!--2006-->
+      <span>
+        <target id="w36"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_37" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w37"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_38" pos="V" type="open" lemma="hebben" morphofeat="verbpastsg">
+      <!--had-->
+      <span>
+        <target id="w38"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3129" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_39" pos="Q" type="close" lemma="ons" morphofeat="pronposs">
+      <!--onze-->
+      <span>
+        <target id="w39"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_40" pos="N" type="open" lemma="ploeg" morphofeat="nounsg">
+      <!--ploeg-->
+      <span>
+        <target id="w40"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="o_n-107319669" resource="ODWN1.0"/>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-219491" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_41" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w41"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_42" pos="N" type="open" lemma="luchttoezicht" morphofeat="nounsg">
+      <!--luchttoezicht-->
+      <span>
+        <target id="w42"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_43" pos="A" type="open" lemma="zo" morphofeat="adv">
+      <!--zo-->
+      <span>
+        <target id="w43"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_44" pos="G" type="open" lemma="goed" morphofeat="adj">
+      <!--goed-->
+      <span>
+        <target id="w44"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-11143" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_45" pos="C" type="close" lemma="als" morphofeat="conjsubo">
+      <!--als-->
+      <span>
+        <target id="w45"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_46" pos="O" type="open" lemma="4.800" morphofeat="num__ord">
+      <!--4.800-->
+      <span>
+        <target id="w46"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_47" pos="N" type="open" lemma="ure" morphofeat="nounpl">
+      <!--uren-->
+      <span>
+        <target id="w47"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_48" pos="V" type="open" lemma="vliegen" morphofeat="verbpapa">
+      <!--gevlogen-->
+      <span>
+        <target id="w48"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-9615" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_49" pos="A" type="open" lemma="waarvan" morphofeat="adv">
+      <!--waarvan-->
+      <span>
+        <target id="w49"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_50" pos="A" type="open" lemma="ongeveer" morphofeat="adv">
+      <!--ongeveer-->
+      <span>
+        <target id="w50"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_51" pos="O" type="open" lemma="3" morphofeat="num__ord">
+      <!--3-->
+      <span>
+        <target id="w51"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_52" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w52"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_53" pos="O" type="open" lemma="500" morphofeat="num__ord">
+      <!--500-->
+      <span>
+        <target id="w53"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_54" pos="P" type="close" lemma="boven" morphofeat="prep">
+      <!--boven-->
+      <span>
+        <target id="w54"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_55" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w55"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_56" pos="N" type="open" lemma="zee" morphofeat="nounsg">
+      <!--zee-->
+      <span>
+        <target id="w56"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43839" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_57" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w57"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_58" pos="Q" type="close" lemma="zij" morphofeat="pronpers ">
+      <!--Zij-->
+      <span>
+        <target id="w58"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_59" pos="V" type="open" lemma="voeren" morphofeat="verbpastsg">
+      <!--voerde-->
+      <span>
+        <target id="w59"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-8595" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_60" pos="O" type="open" lemma="2.783" morphofeat="num__ord">
+      <!--2.783-->
+      <span>
+        <target id="w60"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_61" pos="N" type="open" lemma="vlucht" morphofeat="nounpl">
+      <!--vluchten-->
+      <span>
+        <target id="w61"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-41216" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_62" pos="P" type="close" lemma="uit" morphofeat="prep">
+      <!--uit-->
+      <span>
+        <target id="w62"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_63" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_64" pos="A" type="open" lemma="waarvan" morphofeat="adv">
+      <!--waarvan-->
+      <span>
+        <target id="w64"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_65" pos="O" type="open" lemma="12" morphofeat="num__ord">
+      <!--12-->
+      <span>
+        <target id="w65"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_66" pos="O" type="open" lemma="%" morphofeat="">
+      <!--%-->
+      <span>
+        <target id="w66"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_67" pos="D" type="close" lemma="'s" morphofeat="det__poss">
+      <!--'s-->
+      <span>
+        <target id="w67"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_68" pos="N" type="open" lemma="nacht" morphofeat="nounsg det__poss">
+      <!--nachts-->
+      <span>
+        <target id="w68"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_69" pos="C" type="close" lemma="of" morphofeat="conjcoord">
+      <!--of-->
+      <span>
+        <target id="w69"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_70" pos="P" type="close" lemma="tijdens" morphofeat="prep">
+      <!--tijdens-->
+      <span>
+        <target id="w70"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_71" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w71"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_72" pos="N" type="open" lemma="weekend" morphofeat="nounsg">
+      <!--weekend-->
+      <span>
+        <target id="w72"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_73" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w73"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_74" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--Aantal-->
+      <span>
+        <target id="w74"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_75" pos="N" type="open" lemma="vluchtuur" morphofeat="nounpl">
+      <!--vluchturen-->
+      <span>
+        <target id="w75"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_76" pos="G" type="open" lemma="jaarlijks" morphofeat="adj">
+      <!--jaarlijks-->
+      <span>
+        <target id="w76"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_77" pos="V" type="open" lemma="verdeeld" morphofeat="verbpapa">
+      <!--verdeeld-->
+      <span>
+        <target id="w77"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_78" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w78"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_79" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--Het-->
+      <span>
+        <target id="w79"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_80" pos="N" type="open" lemma="vliegtuig" morphofeat="nounsg">
+      <!--vliegtuig-->
+      <span>
+        <target id="w80"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_81" pos="V" type="open" lemma="komen" morphofeat="verbpastsg">
+      <!--kwam-->
+      <span>
+        <target id="w81"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4069" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_82" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w82"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_83" pos="N" type="open" lemma="actie" morphofeat="nounsg">
+      <!--actie-->
+      <span>
+        <target id="w83"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-2675" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_84" pos="P" type="close" lemma="bij" morphofeat="prep">
+      <!--bij-->
+      <span>
+        <target id="w84"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_85" pos="O" type="open" lemma="23" morphofeat="num__ord">
+      <!--23-->
+      <span>
+        <target id="w85"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_86" pos="N" type="open" lemma="scheepsongeluk" morphofeat="nounpl">
+      <!--scheepsongelukken-->
+      <span>
+        <target id="w86"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_87" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w87"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_88" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--Het-->
+      <span>
+        <target id="w88"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_89" pos="G" type="open" lemma="laatst" morphofeat="adj">
+      <!--laatste-->
+      <span>
+        <target id="w89"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_90" pos="V" type="open" lemma="zijn" morphofeat="verbpressg">
+      <!--is-->
+      <span>
+        <target id="w90"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_91" pos="Q" type="close" lemma="dat" morphofeat="prondemo ">
+      <!--dat-->
+      <span>
+        <target id="w91"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_92" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w92"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_93" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w93"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_94" pos="O" type="open" lemma="Tricolor" morphofeat="">
+      <!--Tricolor-->
+      <span>
+        <target id="w94"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_95" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w95"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_96" pos="Q" type="close" lemma="dat" morphofeat="pronrel ">
+      <!--dat-->
+      <span>
+        <target id="w96"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_97" pos="P" type="close" lemma="gedurende" morphofeat="prep">
+      <!--gedurende-->
+      <span>
+        <target id="w97"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_98" pos="Q" type="close" lemma="veel" morphofeat="pronindef">
+      <!--meer-->
+      <span>
+        <target id="w98"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_99" pos="C" type="close" lemma="dan" morphofeat="conjsubo">
+      <!--dan-->
+      <span>
+        <target id="w99"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_100" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w100"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_101" pos="N" type="open" lemma="jaar" morphofeat="nounsg">
+      <!--jaar-->
+      <span>
+        <target id="w101"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_102" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w102"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_103" pos="G" type="open" lemma="frans" morphofeat="adj">
+      <!--Franse-->
+      <span>
+        <target id="w103"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_104" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w104"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_105" pos="G" type="open" lemma="belgisch" morphofeat="adj">
+      <!--Belgische-->
+      <span>
+        <target id="w105"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_106" pos="N" type="open" lemma="dienst" morphofeat="nounpl">
+      <!--diensten-->
+      <span>
+        <target id="w106"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-10861" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_107" pos="V" type="open" lemma="mobiliseren" morphofeat="verbpastsg">
+      <!--mobiliseerde-->
+      <span>
+        <target id="w107"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_108" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w108"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_109" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w109"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_110" pos="Q" type="close" lemma="het" morphofeat="pronpers ">
+      <!--Het-->
+      <span>
+        <target id="w110"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_111" pos="V" type="open" lemma="komen" morphofeat="verbpastsg">
+      <!--kwam-->
+      <span>
+        <target id="w111"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4068" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_112" pos="O" type="open" lemma="13" morphofeat="num__ord">
+      <!--13-->
+      <span>
+        <target id="w112"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_113" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w113"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_114" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w114"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_115" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w115"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_116" pos="N" type="open" lemma="spoor" morphofeat="nounsg">
+      <!--spoor-->
+      <span>
+        <target id="w116"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-35139" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_117" pos="Q" type="close" lemma="die" morphofeat="pronrel ">
+      <!--die-->
+      <span>
+        <target id="w117"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_118" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w118"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_119" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w119"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_120" pos="G" type="open" lemma="internationaal" morphofeat="adj">
+      <!--internationale-->
+      <span>
+        <target id="w120"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_121" pos="N" type="open" lemma="recht" morphofeat="nounsg">
+      <!--recht-->
+      <span>
+        <target id="w121"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-30661" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_122" pos="V" type="open" lemma="zijn" morphofeat="verbprespl">
+      <!--zijn-->
+      <span>
+        <target id="w122"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10271" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_123" pos="V" type="open" lemma="toegestaan" morphofeat="verbpapa">
+      <!--toegestaan-->
+      <span>
+        <target id="w123"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_124" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w124"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_125" pos="C" type="close" lemma="omdat" morphofeat="conjsubo">
+      <!--omdat-->
+      <span>
+        <target id="w125"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_126" pos="Q" type="close" lemma="het" morphofeat="pronpers ">
+      <!--het-->
+      <span>
+        <target id="w126"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_127" pos="V" type="open" lemma="gaan" morphofeat="verbpastsg">
+      <!--ging-->
+      <span>
+        <target id="w127"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-2859" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_128" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w128"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_129" pos="A" type="open" lemma="niet" morphofeat="adv">
+      <!--niet-->
+      <span>
+        <target id="w129"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_130" pos="G" type="open" lemma="toxisch" morphofeat="adj">
+      <!--toxische-->
+      <span>
+        <target id="w130"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_131" pos="G" type="open" lemma="plantaardig" morphofeat="adj">
+      <!--plantaardige-->
+      <span>
+        <target id="w131"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_132" pos="N" type="open" lemma="oliën" morphofeat="nounpl">
+      <!--oliën-->
+      <span>
+        <target id="w132"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_133" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w133"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_134" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w134"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_135" pos="O" type="open" lemma="611" morphofeat="num__ord">
+      <!--611-->
+      <span>
+        <target id="w135"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_136" pos="N" type="open" lemma="overtreding" morphofeat="nounpl">
+      <!--overtredingen-->
+      <span>
+        <target id="w136"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_137" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w137"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_138" pos="A" type="open" lemma="waarvan" morphofeat="adv">
+      <!--waarvan-->
+      <span>
+        <target id="w138"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_139" pos="O" type="open" lemma="572" morphofeat="num__ord">
+      <!--572-->
+      <span>
+        <target id="w139"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_140" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w140"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_141" pos="V" type="open" lemma="identificeren" morphofeat="verbpapa">
+      <!--geïdentificeerd-->
+      <span>
+        <target id="w141"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3306" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_142" pos="P" type="close" lemma="als" morphofeat="prep">
+      <!--als-->
+      <span>
+        <target id="w142"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_143" pos="G" type="open" lemma="mineraal" morphofeat="adj">
+      <!--minerale-->
+      <span>
+        <target id="w143"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_144" pos="N" type="open" lemma="olierest" morphofeat="nounpl">
+      <!--olieresten-->
+      <span>
+        <target id="w144"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_145" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w145"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_146" pos="O" type="open" lemma="39" morphofeat="num__ord">
+      <!--39-->
+      <span>
+        <target id="w146"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_147" pos="P" type="close" lemma="als" morphofeat="prep">
+      <!--als-->
+      <span>
+        <target id="w147"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_148" pos="N" type="open" lemma="substantie" morphofeat="nounpl">
+      <!--substanties-->
+      <span>
+        <target id="w148"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-36529" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_149" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w149"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_150" pos="G" type="open" lemma="chemisch" morphofeat="adj">
+      <!--chemische-->
+      <span>
+        <target id="w150"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_151" pos="C" type="close" lemma="of" morphofeat="conjcoord">
+      <!--of-->
+      <span>
+        <target id="w151"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_152" pos="G" type="open" lemma="onbekend" morphofeat="adj">
+      <!--onbekende-->
+      <span>
+        <target id="w152"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_153" pos="N" type="open" lemma="oorsprong" morphofeat="nounsg">
+      <!--oorsprong-->
+      <span>
+        <target id="w153"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_154" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w154"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_155" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w155"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_156" pos="Q" type="close" lemma="er" morphofeat="prondemo pronadv">
+      <!--Er-->
+      <span>
+        <target id="w156"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_157" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w157"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_158" pos="O" type="open" lemma="31" morphofeat="num__ord">
+      <!--31-->
+      <span>
+        <target id="w158"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_159" pos="V" type="open" lemma="bezwaren" morphofeat="verbpresp">
+      <!--bezwarende-->
+      <span>
+        <target id="w159"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_160" pos="N" type="open" lemma="dossier" morphofeat="nounpl">
+      <!--dossiers-->
+      <span>
+        <target id="w160"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_161" pos="P" type="close" lemma="tegen" morphofeat="prep">
+      <!--tegen-->
+      <span>
+        <target id="w161"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_162" pos="N" type="open" lemma="schip" morphofeat="nounpl">
+      <!--schepen-->
+      <span>
+        <target id="w162"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_163" pos="V" type="open" lemma="opstellen" morphofeat="verbpapa">
+      <!--opgesteld-->
+      <span>
+        <target id="w163"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-5815" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_164" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w164"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_165" pos="O" type="open" lemma="12" morphofeat="num__ord">
+      <!--12-->
+      <span>
+        <target id="w165"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_166" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w166"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_167" pos="Q" type="close" lemma="deze" morphofeat="prondemo">
+      <!--deze-->
+      <span>
+        <target id="w167"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_168" pos="N" type="open" lemma="proces-verbaal" morphofeat="nounpl">
+      <!--processen"-"verbaal-->
+      <span>
+        <target id="w168"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_169" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w169"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_170" pos="V" type="open" lemma="overmaken" morphofeat="verbpapa">
+      <!--overgemaakt-->
+      <span>
+        <target id="w170"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_171" pos="P" type="close" lemma="aan" morphofeat="prep">
+      <!--aan-->
+      <span>
+        <target id="w171"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_172" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w172"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_173" pos="N" type="open" lemma="parket" morphofeat="nounsg">
+      <!--parket-->
+      <span>
+        <target id="w173"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-27699" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_174" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w174"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_175" pos="Q" type="close" lemma="dat" morphofeat="pronrel ">
+      <!--dat-->
+      <span>
+        <target id="w175"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_176" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w176"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_177" pos="Q" type="close" lemma="deze" morphofeat="prondemo">
+      <!--deze-->
+      <span>
+        <target id="w177"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_178" pos="N" type="open" lemma="manier" morphofeat="nounsg">
+      <!--manier-->
+      <span>
+        <target id="w178"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-23150" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_179" pos="V" type="open" lemma="kunnen" morphofeat="verbpastsg">
+      <!--kon-->
+      <span>
+        <target id="w179"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4217" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_180" pos="V" type="open" lemma="overgaan" morphofeat="verbinf">
+      <!--overgaan-->
+      <span>
+        <target id="w180"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-5985" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_181" pos="P" type="close" lemma="tot" morphofeat="prep">
+      <!--tot-->
+      <span>
+        <target id="w181"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_182" pos="N" type="open" lemma="vervolging" morphofeat="nounpl">
+      <!--vervolgingen-->
+      <span>
+        <target id="w182"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-40595" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_183" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w183"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_184" pos="O" type="open" lemma="België" morphofeat="">
+      <!--België-->
+      <span>
+        <target id="w184"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_185" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w185"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_186" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--De-->
+      <span>
+        <target id="w186"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_187" pos="G" type="open" lemma="overig" morphofeat="adj">
+      <!--overige-->
+      <span>
+        <target id="w187"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_188" pos="O" type="open" lemma="19" morphofeat="num__ord">
+      <!--19-->
+      <span>
+        <target id="w188"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_189" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w189"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_190" pos="V" type="open" lemma="overmaken" morphofeat="verbpapa">
+      <!--overgemaakt-->
+      <span>
+        <target id="w190"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_191" pos="P" type="close" lemma="aan" morphofeat="prep">
+      <!--aan-->
+      <span>
+        <target id="w191"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_192" pos="G" type="open" lemma="buitenlands" morphofeat="adj">
+      <!--buitenlandse-->
+      <span>
+        <target id="w192"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-9410" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_193" pos="N" type="open" lemma="overheid" morphofeat="nounpl">
+      <!--overheden-->
+      <span>
+        <target id="w193"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-27104" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_194" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w194"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_195" pos="C" type="close" lemma="hetzij" morphofeat="conjcoord">
+      <!--hetzij-->
+      <span>
+        <target id="w195"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_196" pos="P" type="close" lemma="aan" morphofeat="prep">
+      <!--aan-->
+      <span>
+        <target id="w196"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_197" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w197"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_198" pos="N" type="open" lemma="land" morphofeat="nounsg">
+      <!--land-->
+      <span>
+        <target id="w198"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-21293" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_199" pos="P" type="close" lemma="onder" morphofeat="prep">
+      <!--onder-->
+      <span>
+        <target id="w199"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_200" pos="Q" type="close" lemma="wie" morphofeat=" det__poss">
+      <!--wiens-->
+      <span>
+        <target id="w200"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_201" pos="N" type="open" lemma="vlag" morphofeat="nounsg">
+      <!--vlag-->
+      <span>
+        <target id="w201"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-41036" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_202" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w202"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_203" pos="N" type="open" lemma="schip" morphofeat="nounpl">
+      <!--schepen-->
+      <span>
+        <target id="w203"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_204" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w204"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_205" pos="N" type="open" lemma="kwestie" morphofeat="nounsg">
+      <!--kwestie-->
+      <span>
+        <target id="w205"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-21137" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_206" pos="V" type="open" lemma="varen" morphofeat="verbpastpl">
+      <!--voeren-->
+      <span>
+        <target id="w206"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-8676" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_207" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w207"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_208" pos="C" type="close" lemma="hetzij" morphofeat="conjcoord">
+      <!--hetzij-->
+      <span>
+        <target id="w208"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_209" pos="P" type="close" lemma="aan" morphofeat="prep">
+      <!--aan-->
+      <span>
+        <target id="w209"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_210" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w210"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_211" pos="N" type="open" lemma="land" morphofeat="nounsg">
+      <!--land-->
+      <span>
+        <target id="w211"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-21293" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_212" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w212"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_213" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w213"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_214" pos="N" type="open" lemma="haven" morphofeat="nounsg">
+      <!--haven-->
+      <span>
+        <target id="w214"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_215" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w215"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_216" pos="N" type="open" lemma="bestemming" morphofeat="nounsg">
+      <!--bestemming-->
+      <span>
+        <target id="w216"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="o_n-105456092" resource="ODWN1.0"/>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-27786" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_217" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w217"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_218" pos="O" type="open" lemma="31" morphofeat="num__ord">
+      <!--31-->
+      <span>
+        <target id="w218"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_219" pos="N" type="open" lemma="proces-verbaal" morphofeat="nounpl">
+      <!--processen"-"verbaal-->
+      <span>
+        <target id="w219"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_220" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w220"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_221" pos="O" type="open" lemma="611" morphofeat="num__ord">
+      <!--611-->
+      <span>
+        <target id="w221"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_222" pos="N" type="open" lemma="opsporing" morphofeat="nounpl">
+      <!--opsporingen-->
+      <span>
+        <target id="w222"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_223" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w223"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_224" pos="Q" type="close" lemma="dat" morphofeat="prondemo ">
+      <!--dat-->
+      <span>
+        <target id="w224"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_225" pos="V" type="open" lemma="staan" morphofeat="">
+      <!--staat-->
+      <span>
+        <target id="w225"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="c_546115" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_226" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w226"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_227" pos="A" type="open" lemma="slechts" morphofeat="adv">
+      <!--slechts-->
+      <span>
+        <target id="w227"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_228" pos="O" type="open" lemma="5" morphofeat="num__ord">
+      <!--5-->
+      <span>
+        <target id="w228"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_229" pos="N" type="open" lemma="procent" morphofeat="nounsg">
+      <!--procent-->
+      <span>
+        <target id="w229"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_230" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w230"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_231" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w231"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_232" pos="N" type="open" lemma="geval" morphofeat="nounpl">
+      <!--gevallen-->
+      <span>
+        <target id="w232"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-14902" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_233" pos="O" type="open" lemma="!" morphofeat="punc">
+      <!--!-->
+      <span>
+        <target id="w233"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_234" pos="G" type="open" lemma="spijtig" morphofeat="adj">
+      <!--Spijtig-->
+      <span>
+        <target id="w234"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_235" pos="A" type="open" lemma="genoeg" morphofeat="adv">
+      <!--genoeg-->
+      <span>
+        <target id="w235"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_236" pos="V" type="open" lemma="willen" morphofeat="verbpressg">
+      <!--wil-->
+      <span>
+        <target id="w236"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10156" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_237" pos="Q" type="close" lemma="dit" morphofeat="prondemo ">
+      <!--dit-->
+      <span>
+        <target id="w237"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_238" pos="V" type="open" lemma="zeggen" morphofeat="verbinf">
+      <!--zeggen-->
+      <span>
+        <target id="w238"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_239" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w239"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_240" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w240"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_241" pos="O" type="open" lemma="95" morphofeat="num__ord">
+      <!--95-->
+      <span>
+        <target id="w241"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_242" pos="N" type="open" lemma="procent" morphofeat="nounsg">
+      <!--procent-->
+      <span>
+        <target id="w242"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_243" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w243"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_244" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w244"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_245" pos="N" type="open" lemma="geval" morphofeat="nounpl">
+      <!--gevallen-->
+      <span>
+        <target id="w245"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-14902" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_246" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w246"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_247" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w247"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_248" pos="N" type="open" lemma="schip" morphofeat="nounsg">
+      <!--schip-->
+      <span>
+        <target id="w248"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_249" pos="Q" type="close" lemma="dat" morphofeat="pronrel ">
+      <!--dat-->
+      <span>
+        <target id="w249"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_250" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w250"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_251" pos="N" type="open" lemma="overtreding" morphofeat="nounsg">
+      <!--overtreding-->
+      <span>
+        <target id="w251"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_252" pos="V" type="open" lemma="begaan" morphofeat="verbpastsg">
+      <!--beging-->
+      <span>
+        <target id="w252"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_253" pos="A" type="open" lemma="reeds" morphofeat="adv">
+      <!--reeds-->
+      <span>
+        <target id="w253"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_254" pos="G" type="open" lemma="ver" morphofeat="adj">
+      <!--ver-->
+      <span>
+        <target id="w254"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-16209" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_255" pos="A" type="open" lemma="weg" morphofeat="adv">
+      <!--weg-->
+      <span>
+        <target id="w255"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_256" pos="V" type="open" lemma="zijn" morphofeat="verbpastsg">
+      <!--was-->
+      <span>
+        <target id="w256"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_257" pos="C" type="close" lemma="toen" morphofeat="conjsubo">
+      <!--toen-->
+      <span>
+        <target id="w257"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_258" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w258"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_259" pos="N" type="open" lemma="lozing" morphofeat="nounsg">
+      <!--lozing-->
+      <span>
+        <target id="w259"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_260" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w260"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_261" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w261"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_262" pos="N" type="open" lemma="vliegtuig" morphofeat="nounsg">
+      <!--vliegtuig-->
+      <span>
+        <target id="w262"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_263" pos="V" type="open" lemma="worden" morphofeat="verbpastsg">
+      <!--werd-->
+      <span>
+        <target id="w263"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_264" pos="V" type="open" lemma="opmerken" morphofeat="verbpapa">
+      <!--opgemerkt-->
+      <span>
+        <target id="w264"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_265" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w265"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_266" pos="O" type="open" lemma="-" morphofeat="punc">
+      <!--"-"-->
+      <span>
+        <target id="w266"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_267" pos="A" type="open" lemma="nochtans" morphofeat="adv">
+      <!--Nochtans-->
+      <span>
+        <target id="w267"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_268" pos="V" type="open" lemma="zijn" morphofeat="verbprespl">
+      <!--zijn-->
+      <span>
+        <target id="w268"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10263" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_269" pos="Q" type="close" lemma="er" morphofeat="prondemo pronadv">
+      <!--er-->
+      <span>
+        <target id="w269"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_270" pos="N" type="open" lemma="reden" morphofeat="nounpl">
+      <!--redenen-->
+      <span>
+        <target id="w270"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_271" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w271"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_272" pos="P" type="close" lemma="te" morphofeat="prep">
+      <!--te-->
+      <span>
+        <target id="w272"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_273" pos="V" type="open" lemma="denken" morphofeat="verbinf">
+      <!--denken-->
+      <span>
+        <target id="w273"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_274" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w274"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_275" pos="Q" type="close" lemma="deze" morphofeat="prondemo">
+      <!--deze-->
+      <span>
+        <target id="w275"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_276" pos="N" type="open" lemma="vervolging" morphofeat="nounpl">
+      <!--vervolgingen-->
+      <span>
+        <target id="w276"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-40595" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_277" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w277"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_278" pos="V" type="open" lemma="ontraden" morphofeat="verbpresp">
+      <!--ontradend-->
+      <span>
+        <target id="w278"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_279" pos="N" type="open" lemma="effect" morphofeat="nounsg">
+      <!--effect-->
+      <span>
+        <target id="w279"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-12056" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_280" pos="V" type="open" lemma="hebben" morphofeat="verbprespl">
+      <!--hebben-->
+      <span>
+        <target id="w280"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3129" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_281" pos="V" type="open" lemma="hebben" morphofeat="verbpapa">
+      <!--gehad-->
+      <span>
+        <target id="w281"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_282" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w282"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_283" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w283"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_284" pos="G" type="open" lemma="potentiëal" morphofeat="adj">
+      <!--potentiële-->
+      <span>
+        <target id="w284"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_285" pos="N" type="open" lemma="vervuiler" morphofeat="nounpl">
+      <!--vervuilers-->
+      <span>
+        <target id="w285"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_286" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w286"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_287" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--Het-->
+      <span>
+        <target id="w287"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_288" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--aantal-->
+      <span>
+        <target id="w288"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_289" pos="V" type="open" lemma="opmerken" morphofeat="verbpapa">
+      <!--opgemerkte-->
+      <span>
+        <target id="w289"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_290" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w290"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_291" pos="V" type="open" lemma="lopen" morphofeat="">
+      <!--loopt-->
+      <span>
+        <target id="w291"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4441" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_292" pos="A" type="open" lemma="terug" morphofeat="adv">
+      <!--terug-->
+      <span>
+        <target id="w292"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_293" pos="O" type="open" lemma=":" morphofeat="punc">
+      <!--:-->
+      <span>
+        <target id="w293"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_294" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w294"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_295" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w295"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_296" pos="N" type="open" lemma="jaar" morphofeat="nounpl">
+      <!--jaren-->
+      <span>
+        <target id="w296"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_297" pos="O" type="open" lemma="90" morphofeat="num__ord">
+      <!--90-->
+      <span>
+        <target id="w297"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_298" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w298"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_299" pos="G" type="open" lemma="jaarlijks" morphofeat="adj">
+      <!--jaarlijks-->
+      <span>
+        <target id="w299"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_300" pos="A" type="open" lemma="ongeveer" morphofeat="adv">
+      <!--ongeveer-->
+      <span>
+        <target id="w300"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_301" pos="O" type="open" lemma="50" morphofeat="num__ord">
+      <!--50-->
+      <span>
+        <target id="w301"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_302" pos="N" type="open" lemma="olielozing" morphofeat="nounpl">
+      <!--olielozingen-->
+      <span>
+        <target id="w302"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_303" pos="V" type="open" lemma="opmerken" morphofeat="verbpapa">
+      <!--opgemerkt-->
+      <span>
+        <target id="w303"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_304" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w304"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_305" pos="G" type="open" lemma="gemiddeld" morphofeat="adj">
+      <!--gemiddeld-->
+      <span>
+        <target id="w305"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_306" pos="V" type="open" lemma="zijn" morphofeat="verbpressg">
+      <!--is-->
+      <span>
+        <target id="w306"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10269" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_307" pos="Q" type="close" lemma="dat" morphofeat="prondemo ">
+      <!--dat-->
+      <span>
+        <target id="w307"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_308" pos="O" type="open" lemma="0,23" morphofeat="num__ord">
+      <!--0,23-->
+      <span>
+        <target id="w308"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_309" pos="N" type="open" lemma="opsporing" morphofeat="nounpl">
+      <!--opsporingen-->
+      <span>
+        <target id="w309"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_310" pos="P" type="close" lemma="per" morphofeat="prep">
+      <!--per-->
+      <span>
+        <target id="w310"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_311" pos="N" type="open" lemma="vlieguur" morphofeat="nounsg">
+      <!--vlieguur-->
+      <span>
+        <target id="w311"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_312" pos="C" type="close" lemma="of" morphofeat="conjcoord">
+      <!--of-->
+      <span>
+        <target id="w312"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_313" pos="O" type="open" lemma="één" morphofeat="num__ord">
+      <!--één-->
+      <span>
+        <target id="w313"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_314" pos="N" type="open" lemma="opsporing" morphofeat="nounsg">
+      <!--opsporing-->
+      <span>
+        <target id="w314"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_315" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w315"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_316" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w316"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_317" pos="O" type="open" lemma="4.5" morphofeat="num__ord">
+      <!--4.5-->
+      <span>
+        <target id="w317"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_318" pos="N" type="open" lemma="uur" morphofeat="nounsg">
+      <!--uur-->
+      <span>
+        <target id="w318"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-39337" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_319" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w319"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_320" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w320"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_321" pos="P" type="close" lemma="sinds" morphofeat="prep">
+      <!--Sinds-->
+      <span>
+        <target id="w321"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_322" pos="O" type="open" lemma="2000" morphofeat="num__ord">
+      <!--2000-->
+      <span>
+        <target id="w322"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_323" pos="V" type="open" lemma="worden" morphofeat="verbprespl">
+      <!--worden-->
+      <span>
+        <target id="w323"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_324" pos="G" type="open" lemma="jaarlijks" morphofeat="adj">
+      <!--jaarlijks-->
+      <span>
+        <target id="w324"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_325" pos="A" type="open" lemma="nog" morphofeat="adv">
+      <!--nog-->
+      <span>
+        <target id="w325"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_326" pos="A" type="open" lemma="slechts" morphofeat="adv">
+      <!--slechts-->
+      <span>
+        <target id="w326"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_327" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w327"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_328" pos="N" type="open" lemma="dertigtal" morphofeat="nounsg">
+      <!--dertigtal-->
+      <span>
+        <target id="w328"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_329" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w329"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_330" pos="V" type="open" lemma="opmerken" morphofeat="verbpapa">
+      <!--opgemerkt-->
+      <span>
+        <target id="w330"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_331" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w331"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_332" pos="Q" type="close" lemma="dit" morphofeat="prondemo ">
+      <!--dit-->
+      <span>
+        <target id="w332"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_333" pos="V" type="open" lemma="stemmen" morphofeat="">
+      <!--stemt-->
+      <span>
+        <target id="w333"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_334" pos="A" type="open" lemma="overeen" morphofeat="adv">
+      <!--overeen-->
+      <span>
+        <target id="w334"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_335" pos="P" type="close" lemma="met" morphofeat="prep">
+      <!--met-->
+      <span>
+        <target id="w335"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_336" pos="O" type="open" lemma="0,11" morphofeat="num__ord">
+      <!--0,11-->
+      <span>
+        <target id="w336"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_337" pos="N" type="open" lemma="opsporing" morphofeat="nounpl">
+      <!--opsporingen-->
+      <span>
+        <target id="w337"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_338" pos="P" type="close" lemma="per" morphofeat="prep">
+      <!--per-->
+      <span>
+        <target id="w338"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_339" pos="N" type="open" lemma="vlieguur" morphofeat="nounsg">
+      <!--vlieguur-->
+      <span>
+        <target id="w339"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_340" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w340"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_341" pos="C" type="close" lemma="of" morphofeat="conjcoord">
+      <!--of-->
+      <span>
+        <target id="w341"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_342" pos="O" type="open" lemma="één" morphofeat="num__ord">
+      <!--één-->
+      <span>
+        <target id="w342"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_343" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w343"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_344" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w344"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_345" pos="O" type="open" lemma="9" morphofeat="num__ord">
+      <!--9-->
+      <span>
+        <target id="w345"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_346" pos="N" type="open" lemma="vlieguur" morphofeat="nounpl">
+      <!--vlieguren-->
+      <span>
+        <target id="w346"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_347" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w347"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_348" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w348"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_349" pos="A" type="open" lemma="ook" morphofeat="adv">
+      <!--Ook-->
+      <span>
+        <target id="w349"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_350" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w350"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_351" pos="G" type="open" lemma="totaal" morphofeat="adj">
+      <!--totale-->
+      <span>
+        <target id="w351"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_352" pos="N" type="open" lemma="volume" morphofeat="nounsg">
+      <!--volume-->
+      <span>
+        <target id="w352"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_353" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w353"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_354" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w354"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_355" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w355"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_356" pos="V" type="open" lemma="lopen" morphofeat="">
+      <!--loopt-->
+      <span>
+        <target id="w356"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4441" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_357" pos="A" type="open" lemma="terug" morphofeat="adv">
+      <!--terug-->
+      <span>
+        <target id="w357"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_358" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w358"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_359" pos="N" type="open" lemma="localisatie" morphofeat="nounsg">
+      <!--Localisatie-->
+      <span>
+        <target id="w359"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_360" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w360"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_361" pos="N" type="open" lemma="volume" morphofeat="nounsg">
+      <!--volume-->
+      <span>
+        <target id="w361"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_362" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w362"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_363" pos="N" type="open" lemma="m³" morphofeat="nounsg">
+      <!--m³-->
+      <span>
+        <target id="w363"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_364" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w364"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_365" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w365"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_366" pos="Q" type="close" lemma="alle" morphofeat="pronindef">
+      <!--alle-->
+      <span>
+        <target id="w366"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_367" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w367"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_368" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w368"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_369" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w369"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_370" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w370"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_371" pos="N" type="open" lemma="vliegtuig" morphofeat="nounsg">
+      <!--vliegtuig-->
+      <span>
+        <target id="w371"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_372" pos="V" type="open" lemma="ontdekken" morphofeat="verbpapa">
+      <!--ontdekt-->
+      <span>
+        <target id="w372"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_373" pos="P" type="close" lemma="tussen" morphofeat="prep">
+      <!--tussen-->
+      <span>
+        <target id="w373"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_374" pos="O" type="open" lemma="1991" morphofeat="num__ord">
+      <!--1991-->
+      <span>
+        <target id="w374"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_375" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w375"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_376" pos="O" type="open" lemma="2005" morphofeat="num__ord">
+      <!--2005-->
+      <span>
+        <target id="w376"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_377" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w377"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_378" pos="G" type="open" lemma="groen" morphofeat="adj">
+      <!--Groen-->
+      <span>
+        <target id="w378"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="c_545628" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_379" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w379"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_380" pos="O" type="open" lemma="0" morphofeat="num__ord">
+      <!--0-->
+      <span>
+        <target id="w380"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_381" pos="P" type="close" lemma="tot" morphofeat="prep">
+      <!--tot-->
+      <span>
+        <target id="w381"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_382" pos="O" type="open" lemma="1" morphofeat="num__ord">
+      <!--1-->
+      <span>
+        <target id="w382"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_383" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w383"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_384" pos="G" type="open" lemma="oranje" morphofeat="adj">
+      <!--oranje-->
+      <span>
+        <target id="w384"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_385" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w385"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_386" pos="O" type="open" lemma="1" morphofeat="num__ord">
+      <!--1-->
+      <span>
+        <target id="w386"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_387" pos="P" type="close" lemma="tot" morphofeat="prep">
+      <!--tot-->
+      <span>
+        <target id="w387"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_388" pos="O" type="open" lemma="10" morphofeat="num__ord">
+      <!--10-->
+      <span>
+        <target id="w388"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_389" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w389"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_390" pos="G" type="open" lemma="rood" morphofeat="adj">
+      <!--rood-->
+      <span>
+        <target id="w390"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_391" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w391"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_392" pos="O" type="open" lemma="10" morphofeat="num__ord">
+      <!--10-->
+      <span>
+        <target id="w392"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_393" pos="P" type="close" lemma="tot" morphofeat="prep">
+      <!--tot-->
+      <span>
+        <target id="w393"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_394" pos="O" type="open" lemma="100" morphofeat="num__ord">
+      <!--100-->
+      <span>
+        <target id="w394"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_395" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--Aantal-->
+      <span>
+        <target id="w395"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_396" pos="N" type="open" lemma="opsporing" morphofeat="nounpl">
+      <!--opsporingen-->
+      <span>
+        <target id="w396"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_397" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w397"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_398" pos="N" type="open" lemma="zeeverontreiniging" morphofeat="nounsg">
+      <!--zeeverontreiniging-->
+      <span>
+        <target id="w398"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_399" pos="P" type="close" lemma="per" morphofeat="prep">
+      <!--per-->
+      <span>
+        <target id="w399"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_400" pos="N" type="open" lemma="vlieguur" morphofeat="nounsg">
+      <!--vlieguur-->
+      <span>
+        <target id="w400"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_401" pos="G" type="open" lemma="jaarlijks" morphofeat="adj">
+      <!--Jaarlijks-->
+      <span>
+        <target id="w401"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_402" pos="V" type="open" lemma="schatten" morphofeat="verbpapa">
+      <!--geschatte-->
+      <span>
+        <target id="w402"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_403" pos="N" type="open" lemma="olievolume" morphofeat="nounpl">
+      <!--olievolumes-->
+      <span>
+        <target id="w403"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_404" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w404"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_405" pos="G" type="open" lemma="illegaal" morphofeat="adj">
+      <!--illegale-->
+      <span>
+        <target id="w405"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_406" pos="N" type="open" lemma="olielozing" morphofeat="nounpl">
+      <!--olielozingen-->
+      <span>
+        <target id="w406"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_407" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w407"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_408" pos="P" type="close" lemma="volgens" morphofeat="prep">
+      <!--volgens-->
+      <span>
+        <target id="w408"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_409" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w409"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_410" pos="N" type="open" lemma="kleurencode" morphofeat="nounsg">
+      <!--kleurencode-->
+      <span>
+        <target id="w410"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_411" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w411"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_412" pos="G" type="open" lemma="blauw" morphofeat="adj">
+      <!--blauw-->
+      <span>
+        <target id="w412"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_413" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w413"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_414" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w414"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_415" pos="N" type="open" lemma="olievolume" morphofeat="nounsg">
+      <!--Olievolume-->
+      <span>
+        <target id="w415"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_416" pos="Q" type="close" lemma="dat" morphofeat="pronrel ">
+      <!--dat-->
+      <span>
+        <target id="w416"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_417" pos="A" type="open" lemma="mogelijks" morphofeat="adv">
+      <!--mogelijks-->
+      <span>
+        <target id="w417"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_418" pos="V" type="open" lemma="worden" morphofeat="verbpastsg">
+      <!--werd-->
+      <span>
+        <target id="w418"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_419" pos="V" type="open" lemma="beïnvloed" morphofeat="verbpapa">
+      <!--beïnvloed-->
+      <span>
+        <target id="w419"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_420" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w420"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_421" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w421"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_422" pos="O" type="open" lemma="Tricolor" morphofeat="">
+      <!--Tricolor-->
+      <span>
+        <target id="w422"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_423" pos="N" type="open" lemma="incident" morphofeat="nounsg">
+      <!--incident-->
+      <span>
+        <target id="w423"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-17756" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_424" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w424"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_425" pos="G" type="open" lemma="roze" morphofeat="adj">
+      <!--roze-->
+      <span>
+        <target id="w425"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_426" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w426"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_427" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w427"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_428" pos="O" type="open" lemma="1991" morphofeat="num__ord">
+      <!--1991-->
+      <span>
+        <target id="w428"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_429" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w429"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_430" pos="O" type="open" lemma="2005" morphofeat="num__ord">
+      <!--2005-->
+      <span>
+        <target id="w430"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_431" pos="V" type="open" lemma="zijn" morphofeat="verbprespl">
+      <!--zijn-->
+      <span>
+        <target id="w431"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10269" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_432" pos="N" type="open" lemma="overgangsjaren" morphofeat="nounpl">
+      <!--overgangsjaren-->
+      <span>
+        <target id="w432"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_433" pos="P" type="close" lemma="naar" morphofeat="prep">
+      <!--naar-->
+      <span>
+        <target id="w433"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_434" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w434"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_435" pos="G" type="open" lemma="nieuw" morphofeat="adj">
+      <!--nieuwe-->
+      <span>
+        <target id="w435"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_436" pos="N" type="open" lemma="programma" morphofeat="nounsg">
+      <!--programma-->
+      <span>
+        <target id="w436"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_437" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w437"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_438" pos="N" type="open" lemma="luchttoezicht" morphofeat="nounsg">
+      <!--luchttoezicht-->
+      <span>
+        <target id="w438"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_439" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--In-->
+      <span>
+        <target id="w439"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_440" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w440"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_441" pos="N" type="open" lemma="jaar" morphofeat="nounsg">
+      <!--jaar-->
+      <span>
+        <target id="w441"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_442" pos="O" type="open" lemma="1999" morphofeat="num__ord">
+      <!--1999-->
+      <span>
+        <target id="w442"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_443" pos="V" type="open" lemma="worden" morphofeat="verbpastsg">
+      <!--werd-->
+      <span>
+        <target id="w443"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_444" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w444"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_445" pos="G" type="open" lemma="streng" morphofeat="adj">
+      <!--strengere-->
+      <span>
+        <target id="w445"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-15075" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_446" pos="N" type="open" lemma="wetgeving" morphofeat="nounsg">
+      <!--wetgeving-->
+      <span>
+        <target id="w446"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_447" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w447"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_448" pos="N" type="open" lemma="kracht" morphofeat="nounsg">
+      <!--kracht-->
+      <span>
+        <target id="w448"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-20686" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_449" pos="P" type="close" lemma="inzake" morphofeat="prep">
+      <!--inzake-->
+      <span>
+        <target id="w449"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_450" pos="G" type="open" lemma="illegaal" morphofeat="adj">
+      <!--illegale-->
+      <span>
+        <target id="w450"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_451" pos="N" type="open" lemma="zeeverontreiniging" morphofeat="nounsg">
+      <!--zeeverontreiniging-->
+      <span>
+        <target id="w451"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_452" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w452"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_453" pos="N" type="open" lemma="schip" morphofeat="nounpl">
+      <!--schepen-->
+      <span>
+        <target id="w453"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_454" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w454"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_455" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--De-->
+      <span>
+        <target id="w455"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_456" pos="G" type="open" lemma="internationaal" morphofeat="adj">
+      <!--internationale-->
+      <span>
+        <target id="w456"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_457" pos="N" type="open" lemma="norm" morphofeat="nounpl">
+      <!--normen-->
+      <span>
+        <target id="w457"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="o_n-106044715" resource="ODWN1.0"/>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-185770" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_458" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w458"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_459" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w459"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_460" pos="N" type="open" lemma="olielozing" morphofeat="nounpl">
+      <!--olielozingen-->
+      <span>
+        <target id="w460"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_461" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w461"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_462" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w462"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_463" pos="O" type="open" lemma="Noordzee" morphofeat="">
+      <!--Noordzee-->
+      <span>
+        <target id="w463"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_464" pos="V" type="open" lemma="worden" morphofeat="verbpastpl">
+      <!--werden-->
+      <span>
+        <target id="w464"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_465" pos="G" type="open" lemma="streng" morphofeat="adj">
+      <!--strenger-->
+      <span>
+        <target id="w465"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-15075" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_466" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w466"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_467" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--Op-->
+      <span>
+        <target id="w467"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_468" pos="G" type="open" lemma="nationaal" morphofeat="adj">
+      <!--nationaal-->
+      <span>
+        <target id="w468"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_469" pos="N" type="open" lemma="vlak" morphofeat="nounsg">
+      <!--vlak-->
+      <span>
+        <target id="w469"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-41044" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_470" pos="V" type="open" lemma="komen" morphofeat="verbpastpl">
+      <!--kwamen-->
+      <span>
+        <target id="w470"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4066" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_471" pos="Q" type="close" lemma="er" morphofeat="prondemo pronadv">
+      <!--er-->
+      <span>
+        <target id="w471"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_472" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w472"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_473" pos="N" type="open" lemma="wet" morphofeat="nounsg">
+      <!--wet-->
+      <span>
+        <target id="w473"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43082" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_474" pos="O" type="open" lemma="&quot;" morphofeat="punc">
+      <!--"-->
+      <span>
+        <target id="w474"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_475" pos="G" type="open" lemma="marien" morphofeat="adj">
+      <!--marien-->
+      <span>
+        <target id="w475"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_476" pos="N" type="open" lemma="milieu" morphofeat="nounsg">
+      <!--milieu-->
+      <span>
+        <target id="w476"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-23846" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_477" pos="O" type="open" lemma="&quot;" morphofeat="punc">
+      <!--"-->
+      <span>
+        <target id="w477"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_478" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w478"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_479" pos="N" type="open" lemma="mmm-wet" morphofeat="nounsg">
+      <!--MMM"-"wet-->
+      <span>
+        <target id="w479"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_480" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w480"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_481" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w481"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_482" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w482"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_483" pos="N" type="open" lemma="wet" morphofeat="nounsg">
+      <!--wet-->
+      <span>
+        <target id="w483"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43082" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_484" pos="O" type="open" lemma="&quot;" morphofeat="punc">
+      <!--"-->
+      <span>
+        <target id="w484"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_485" pos="G" type="open" lemma="exclusief" morphofeat="adj">
+      <!--exclusief-->
+      <span>
+        <target id="w485"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-10460" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_486" pos="G" type="open" lemma="economisch" morphofeat="adj">
+      <!--economische-->
+      <span>
+        <target id="w486"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_487" pos="N" type="open" lemma="zone" morphofeat="nounsg">
+      <!--zone-->
+      <span>
+        <target id="w487"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-44319" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_488" pos="O" type="open" lemma="&quot;" morphofeat="punc">
+      <!--"-->
+      <span>
+        <target id="w488"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_489" pos="O" type="open" lemma="(" morphofeat="punc">
+      <!--(-->
+      <span>
+        <target id="w489"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_490" pos="N" type="open" lemma="eez-wet" morphofeat="nounsg">
+      <!--EEZ"-"wet-->
+      <span>
+        <target id="w490"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_491" pos="O" type="open" lemma=")" morphofeat="punc">
+      <!--)-->
+      <span>
+        <target id="w491"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_492" pos="Q" type="close" lemma="die" morphofeat="pronrel ">
+      <!--die-->
+      <span>
+        <target id="w492"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_493" pos="V" type="open" lemma="zorgen" morphofeat="verbpastpl">
+      <!--zorgden-->
+      <span>
+        <target id="w493"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_494" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w494"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_495" pos="N" type="open" lemma="schip" morphofeat="nounpl">
+      <!--schepen-->
+      <span>
+        <target id="w495"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_496" pos="P" type="close" lemma="binnen" morphofeat="prep">
+      <!--binnen-->
+      <span>
+        <target id="w496"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_497" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w497"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_498" pos="G" type="open" lemma="volledig" morphofeat="adj">
+      <!--volledige-->
+      <span>
+        <target id="w498"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_499" pos="G" type="open" lemma="belgisch" morphofeat="adj">
+      <!--Belgisch-->
+      <span>
+        <target id="w499"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_500" pos="N" type="open" lemma="zeegebied" morphofeat="nounsg">
+      <!--zeegebied-->
+      <span>
+        <target id="w500"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_501" pos="V" type="open" lemma="vervolgen" morphofeat="verbpapa">
+      <!--vervolgd-->
+      <span>
+        <target id="w501"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-9452" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_502" pos="V" type="open" lemma="kunnen" morphofeat="verbprespl">
+      <!--kunnen-->
+      <span>
+        <target id="w502"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_503" pos="V" type="open" lemma="worden" morphofeat="verbinf">
+      <!--worden-->
+      <span>
+        <target id="w503"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_504" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w504"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_505" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--Aantal-->
+      <span>
+        <target id="w505"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_506" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w506"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_507" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w507"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_508" pos="V" type="open" lemma="waarnemen" morphofeat="verbpapa">
+      <!--waargenomen-->
+      <span>
+        <target id="w508"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-9886" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_509" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w509"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_510" pos="Q" type="close" lemma="elke" morphofeat="pronindef">
+      <!--elke-->
+      <span>
+        <target id="w510"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_511" pos="N" type="open" lemma="zone" morphofeat="nounsg">
+      <!--zone-->
+      <span>
+        <target id="w511"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-44319" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_512" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w512"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_513" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w513"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_514" pos="N" type="open" lemma="km²" morphofeat="nounsg">
+      <!--km²-->
+      <span>
+        <target id="w514"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_515" pos="P" type="close" lemma="tussen" morphofeat="prep">
+      <!--tussen-->
+      <span>
+        <target id="w515"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_516" pos="O" type="open" lemma="1991" morphofeat="num__ord">
+      <!--1991-->
+      <span>
+        <target id="w516"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_517" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w517"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_518" pos="O" type="open" lemma="2005" morphofeat="num__ord">
+      <!--2005-->
+      <span>
+        <target id="w518"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_519" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--Aantal-->
+      <span>
+        <target id="w519"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_520" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w520"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_521" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w521"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_522" pos="V" type="open" lemma="waarnemen" morphofeat="verbpapa">
+      <!--waargenomen-->
+      <span>
+        <target id="w522"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-9886" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_523" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w523"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_524" pos="Q" type="close" lemma="elke" morphofeat="pronindef">
+      <!--elke-->
+      <span>
+        <target id="w524"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_525" pos="N" type="open" lemma="zone" morphofeat="nounsg">
+      <!--zone-->
+      <span>
+        <target id="w525"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-44319" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_526" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w526"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_527" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w527"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_528" pos="N" type="open" lemma="km²" morphofeat="nounsg">
+      <!--km²-->
+      <span>
+        <target id="w528"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_529" pos="P" type="close" lemma="tussen" morphofeat="prep">
+      <!--tussen-->
+      <span>
+        <target id="w529"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_530" pos="O" type="open" lemma="1991" morphofeat="num__ord">
+      <!--1991-->
+      <span>
+        <target id="w530"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_531" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w531"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_532" pos="O" type="open" lemma="1998" morphofeat="num__ord">
+      <!--1998-->
+      <span>
+        <target id="w532"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_533" pos="N" type="open" lemma="aantal" morphofeat="nounsg">
+      <!--Aantal-->
+      <span>
+        <target id="w533"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_534" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w534"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_535" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w535"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_536" pos="V" type="open" lemma="waarnemen" morphofeat="verbpapa">
+      <!--waargenomen-->
+      <span>
+        <target id="w536"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-9886" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_537" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w537"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_538" pos="Q" type="close" lemma="elke" morphofeat="pronindef">
+      <!--elke-->
+      <span>
+        <target id="w538"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_539" pos="N" type="open" lemma="zone" morphofeat="nounsg">
+      <!--zone-->
+      <span>
+        <target id="w539"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-44319" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_540" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w540"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_541" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w541"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_542" pos="N" type="open" lemma="km²" morphofeat="nounsg">
+      <!--km²-->
+      <span>
+        <target id="w542"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_543" pos="P" type="close" lemma="tussen" morphofeat="prep">
+      <!--tussen-->
+      <span>
+        <target id="w543"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_544" pos="O" type="open" lemma="1999" morphofeat="num__ord">
+      <!--1999-->
+      <span>
+        <target id="w544"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_545" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w545"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_546" pos="O" type="open" lemma="2005" morphofeat="num__ord">
+      <!--2005-->
+      <span>
+        <target id="w546"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_547" pos="A" type="open" lemma="daarnaast" morphofeat="adv">
+      <!--Daarnaast-->
+      <span>
+        <target id="w547"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_548" pos="V" type="open" lemma="kunnen" morphofeat="verbprespl">
+      <!--kunnen-->
+      <span>
+        <target id="w548"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_549" pos="Q" type="close" lemma="we" morphofeat="pronpers ">
+      <!--we-->
+      <span>
+        <target id="w549"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_550" pos="Q" type="close" lemma="deze" morphofeat="prondemo">
+      <!--deze-->
+      <span>
+        <target id="w550"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_551" pos="N" type="open" lemma="resultaat" morphofeat="nounpl">
+      <!--resultaten-->
+      <span>
+        <target id="w551"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-31483" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_552" pos="V" type="open" lemma="vergelijken" morphofeat="verbinf">
+      <!--vergelijken-->
+      <span>
+        <target id="w552"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_553" pos="P" type="close" lemma="met" morphofeat="prep">
+      <!--met-->
+      <span>
+        <target id="w553"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_554" pos="G" type="open" lemma="internationaal" morphofeat="adj">
+      <!--internationale-->
+      <span>
+        <target id="w554"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_555" pos="N" type="open" lemma="statistiek" morphofeat="nounpl">
+      <!--statistieken-->
+      <span>
+        <target id="w555"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-35618" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_556" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w556"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_557" pos="Q" type="close" lemma="alle" morphofeat="pronindef">
+      <!--Alle-->
+      <span>
+        <target id="w557"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_558" pos="G" type="open" lemma="europees" morphofeat="adj">
+      <!--Europese-->
+      <span>
+        <target id="w558"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_559" pos="N" type="open" lemma="toezichtvliegtuig" morphofeat="nounpl">
+      <!--toezichtvliegtuigen-->
+      <span>
+        <target id="w559"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_560" pos="Q" type="close" lemma="die" morphofeat="pronrel ">
+      <!--die-->
+      <span>
+        <target id="w560"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_561" pos="V" type="open" lemma="opereren" morphofeat="verbprespl">
+      <!--opereren-->
+      <span>
+        <target id="w561"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-5553" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_562" pos="P" type="close" lemma="boven" morphofeat="prep">
+      <!--boven-->
+      <span>
+        <target id="w562"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_563" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w563"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_564" pos="O" type="open" lemma="Noordzee" morphofeat="">
+      <!--Noordzee-->
+      <span>
+        <target id="w564"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_565" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w565"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_566" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w566"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_567" pos="G" type="open" lemma="baltisch" morphofeat="adj">
+      <!--Baltische-->
+      <span>
+        <target id="w567"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_568" pos="N" type="open" lemma="zee" morphofeat="nounsg">
+      <!--Zee-->
+      <span>
+        <target id="w568"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43840" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_569" pos="V" type="open" lemma="registreren" morphofeat="verbpastpl">
+      <!--registreerden-->
+      <span>
+        <target id="w569"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-6615" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_570" pos="A" type="open" lemma="samen" morphofeat="adv">
+      <!--samen-->
+      <span>
+        <target id="w570"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_571" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w571"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_572" pos="O" type="open" lemma="2000" morphofeat="num__ord">
+      <!--2000-->
+      <span>
+        <target id="w572"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_573" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w573"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_574" pos="O" type="open" lemma="1.233" morphofeat="num__ord">
+      <!--1.233-->
+      <span>
+        <target id="w574"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_575" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w575"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_576" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w576"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_577" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w577"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_578" pos="O" type="open" lemma="2004" morphofeat="num__ord">
+      <!--2004-->
+      <span>
+        <target id="w578"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_579" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w579"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_580" pos="A" type="open" lemma="slechts" morphofeat="adv">
+      <!--slechts-->
+      <span>
+        <target id="w580"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_581" pos="O" type="open" lemma="771" morphofeat="num__ord">
+      <!--771-->
+      <span>
+        <target id="w581"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_582" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w582"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_583" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w583"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_584" pos="N" type="open" lemma="daling" morphofeat="nounsg">
+      <!--daling-->
+      <span>
+        <target id="w584"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-10355" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_585" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w585"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_586" pos="O" type="open" lemma="37" morphofeat="num__ord">
+      <!--37-->
+      <span>
+        <target id="w586"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_587" pos="N" type="open" lemma="procent" morphofeat="nounsg">
+      <!--procent-->
+      <span>
+        <target id="w587"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_588" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w588"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_589" pos="O" type="open" lemma="vier" morphofeat="num__ord">
+      <!--vier-->
+      <span>
+        <target id="w589"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_590" pos="N" type="open" lemma="jaar" morphofeat="nounsg">
+      <!--jaar-->
+      <span>
+        <target id="w590"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_591" pos="N" type="open" lemma="tijd" morphofeat="nounsg">
+      <!--tijd-->
+      <span>
+        <target id="w591"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-37672" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_592" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w592"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_593" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--De-->
+      <span>
+        <target id="w593"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_594" pos="G" type="open" lemma="algemeen" morphofeat="adj">
+      <!--algemene-->
+      <span>
+        <target id="w594"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_595" pos="N" type="open" lemma="inspanning" morphofeat="nounsg">
+      <!--inspanning-->
+      <span>
+        <target id="w595"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_596" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w596"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_597" pos="Q" type="close" lemma="die" morphofeat="pronrel ">
+      <!--die-->
+      <span>
+        <target id="w597"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_598" pos="V" type="open" lemma="worden" morphofeat="">
+      <!--wordt-->
+      <span>
+        <target id="w598"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_599" pos="V" type="open" lemma="ondersteunen" morphofeat="verbpapa">
+      <!--ondersteund-->
+      <span>
+        <target id="w599"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-5214" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_600" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w600"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_601" pos="G" type="open" lemma="internationaal" morphofeat="adj">
+      <!--internationale-->
+      <span>
+        <target id="w601"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_602" pos="N" type="open" lemma="verdrag" morphofeat="nounpl">
+      <!--verdragen-->
+      <span>
+        <target id="w602"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_603" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w603"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_604" pos="V" type="open" lemma="werpen" morphofeat="">
+      <!--werpt-->
+      <span>
+        <target id="w604"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_605" pos="A" type="open" lemma="dus" morphofeat="adv">
+      <!--dus-->
+      <span>
+        <target id="w605"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_606" pos="G" type="open" lemma="duidelijk" morphofeat="adj">
+      <!--duidelijk-->
+      <span>
+        <target id="w606"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-10149" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_607" pos="N" type="open" lemma="vrucht" morphofeat="nounpl">
+      <!--vruchten-->
+      <span>
+        <target id="w607"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="c_545141" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_608" pos="P" type="close" lemma="af" morphofeat="prep">
+      <!--af-->
+      <span>
+        <target id="w608"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_609" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w609"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_610" pos="G" type="open" lemma="oorspronkelijk" morphofeat="adj">
+      <!--Oorspronkelijk-->
+      <span>
+        <target id="w610"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_611" pos="V" type="open" lemma="zijn" morphofeat="verbpastsg">
+      <!--was-->
+      <span>
+        <target id="w611"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_612" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w612"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_613" pos="N" type="open" lemma="programma" morphofeat="nounsg">
+      <!--programma-->
+      <span>
+        <target id="w613"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_614" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w614"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_615" pos="N" type="open" lemma="luchttoezicht" morphofeat="nounsg">
+      <!--luchttoezicht-->
+      <span>
+        <target id="w615"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_616" pos="V" type="open" lemma="bedoeld" morphofeat="verbpapa">
+      <!--bedoeld-->
+      <span>
+        <target id="w616"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_617" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w617"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_618" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w618"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_619" pos="N" type="open" lemma="rijkdom" morphofeat="nounsg">
+      <!--rijkdom-->
+      <span>
+        <target id="w619"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-240242" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_620" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w620"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_621" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w621"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_622" pos="N" type="open" lemma="zee" morphofeat="nounsg">
+      <!--zee-->
+      <span>
+        <target id="w622"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43839" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_623" pos="P" type="close" lemma="te" morphofeat="prep">
+      <!--te-->
+      <span>
+        <target id="w623"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_624" pos="V" type="open" lemma="beschermen" morphofeat="verbinf">
+      <!--beschermen-->
+      <span>
+        <target id="w624"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_625" pos="P" type="close" lemma="tegen" morphofeat="prep">
+      <!--tegen-->
+      <span>
+        <target id="w625"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_626" pos="G" type="open" lemma="operationeel" morphofeat="adj">
+      <!--operationele-->
+      <span>
+        <target id="w626"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_627" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w627"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_628" pos="P" type="close" lemma="door" morphofeat="prep">
+      <!--door-->
+      <span>
+        <target id="w628"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_629" pos="N" type="open" lemma="schip" morphofeat="nounpl">
+      <!--schepen-->
+      <span>
+        <target id="w629"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-33033" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_630" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w630"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_631" pos="P" type="close" lemma="tegen" morphofeat="prep">
+      <!--tegen-->
+      <span>
+        <target id="w631"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_632" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w632"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_633" pos="N" type="open" lemma="gevolg" morphofeat="nounpl">
+      <!--gevolgen-->
+      <span>
+        <target id="w633"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-14954" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_634" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w634"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_635" pos="G" type="open" lemma="incidenteel" morphofeat="adj">
+      <!--incidentele-->
+      <span>
+        <target id="w635"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-11894" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_636" pos="N" type="open" lemma="lozing" morphofeat="nounpl">
+      <!--lozingen-->
+      <span>
+        <target id="w636"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_637" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w637"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_638" pos="C" type="close" lemma="maar" morphofeat="conjcoord">
+      <!--Maar-->
+      <span>
+        <target id="w638"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_639" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w639"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_640" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w640"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_641" pos="N" type="open" lemma="loop" morphofeat="nounsg">
+      <!--loop-->
+      <span>
+        <target id="w641"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-22548" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_642" pos="D" type="close" lemma="de" morphofeat="det__poss">
+      <!--der-->
+      <span>
+        <target id="w642"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_643" pos="N" type="open" lemma="jaar" morphofeat="nounpl">
+      <!--jaren-->
+      <span>
+        <target id="w643"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="d_n-127172" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_644" pos="V" type="open" lemma="worden" morphofeat="verbpastsg">
+      <!--werd-->
+      <span>
+        <target id="w644"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_645" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w645"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_646" pos="N" type="open" lemma="vliegtuig" morphofeat="nounsg">
+      <!--vliegtuig-->
+      <span>
+        <target id="w646"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_647" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w647"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_648" pos="G" type="open" lemma="onvervangbaar" morphofeat="adj">
+      <!--onvervangbaar-->
+      <span>
+        <target id="w648"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_649" pos="N" type="open" lemma="observatiewerktuig" morphofeat="nounsg">
+      <!--observatiewerktuig-->
+      <span>
+        <target id="w649"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_650" pos="P" type="close" lemma="om" morphofeat="prep">
+      <!--om-->
+      <span>
+        <target id="w650"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_651" pos="P" type="close" lemma="aan" morphofeat="prep">
+      <!--aan-->
+      <span>
+        <target id="w651"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_652" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w652"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_653" pos="N" type="open" lemma="wetenschapper" morphofeat="nounpl">
+      <!--wetenschappers-->
+      <span>
+        <target id="w653"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_654" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w654"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_655" pos="G" type="open" lemma="vlug" morphofeat="adj">
+      <!--vlug-->
+      <span>
+        <target id="w655"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_656" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w656"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_657" pos="G" type="open" lemma="globaal" morphofeat="adj">
+      <!--globaal-->
+      <span>
+        <target id="w657"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_658" pos="N" type="open" lemma="overzicht" morphofeat="nounsg">
+      <!--overzicht-->
+      <span>
+        <target id="w658"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-27246" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_659" pos="P" type="close" lemma="te" morphofeat="prep">
+      <!--te-->
+      <span>
+        <target id="w659"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_660" pos="V" type="open" lemma="bieden" morphofeat="verbinf">
+      <!--bieden-->
+      <span>
+        <target id="w660"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_661" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w661"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_662" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w662"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_663" pos="N" type="open" lemma="natuurverschijnsel" morphofeat="nounpl">
+      <!--natuurverschijnselen-->
+      <span>
+        <target id="w663"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_664" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w664"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_665" pos="N" type="open" lemma="zee" morphofeat="nounsg">
+      <!--zee-->
+      <span>
+        <target id="w665"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-43839" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_666" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w666"/>
+      </span>
+      <externalReferences/>
+    </term>
+  </terms>
+</NAF>

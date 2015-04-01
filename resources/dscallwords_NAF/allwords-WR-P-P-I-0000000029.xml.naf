@@ -1,0 +1,1131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="nl" version="v3">
+  <nafHeader>
+  </nafHeader>
+  <text>
+    <wf id="w1" length="3" offset="0" para="1" sent="1">Het</wf>
+    <wf id="w2" length="6" offset="4" para="1" sent="1">nieuwe</wf>
+    <wf id="w3" length="10" offset="11" para="1" sent="1">landelijke</wf>
+    <wf id="w4" length="12" offset="22" para="1" sent="1">radiostation</wf>
+    <wf id="w5" length="1" offset="35" para="1" sent="1">4</wf>
+    <wf id="w6" length="2" offset="37" para="1" sent="1">FM</wf>
+    <wf id="w7" length="5" offset="40" para="1" sent="1">dient</wf>
+    <wf id="w8" length="3" offset="46" para="1" sent="1">bij</wf>
+    <wf id="w9" length="2" offset="50" para="1" sent="1">de</wf>
+    <wf id="w10" length="9" offset="53" para="1" sent="1">Brusselse</wf>
+    <wf id="w11" length="9" offset="63" para="1" sent="1">procureur</wf>
+    <wf id="w12" length="3" offset="73" para="1" sent="1">des</wf>
+    <wf id="w13" length="7" offset="77" para="1" sent="1">konings</wf>
+    <wf id="w14" length="3" offset="85" para="1" sent="1">een</wf>
+    <wf id="w15" length="6" offset="89" para="1" sent="1">klacht</wf>
+    <wf id="w16" length="2" offset="96" para="1" sent="1">in</wf>
+    <wf id="w17" length="5" offset="99" para="1" sent="1">tegen</wf>
+    <wf id="w18" length="5" offset="105" para="1" sent="1">Radio</wf>
+    <wf id="w19" length="7" offset="111" para="1" sent="1">Contact</wf>
+    <wf id="w20" length="6" offset="119" para="1" sent="1">wegens</wf>
+    <wf id="w21" length="6" offset="126" para="1" sent="1">laster</wf>
+    <wf id="w22" length="1" offset="133" para="1" sent="1">.</wf>
+    <wf id="w23" length="6" offset="135" para="1" sent="2">Eerder</wf>
+    <wf id="w24" length="2" offset="142" para="1" sent="2">op</wf>
+    <wf id="w25" length="2" offset="145" para="1" sent="2">de</wf>
+    <wf id="w26" length="4" offset="148" para="1" sent="2">week</wf>
+    <wf id="w27" length="3" offset="153" para="1" sent="2">had</wf>
+    <wf id="w28" length="5" offset="157" para="1" sent="2">Radio</wf>
+    <wf id="w29" length="7" offset="163" para="1" sent="2">Contact</wf>
+    <wf id="w30" length="3" offset="171" para="1" sent="2">bij</wf>
+    <wf id="w31" length="3" offset="175" para="1" sent="2">het</wf>
+    <wf id="w32" length="6" offset="179" para="1" sent="2">parket</wf>
+    <wf id="w33" length="3" offset="186" para="1" sent="2">een</wf>
+    <wf id="w34" length="6" offset="190" para="1" sent="2">klacht</wf>
+    <wf id="w35" length="9" offset="197" para="1" sent="2">ingediend</wf>
+    <wf id="w36" length="5" offset="207" para="1" sent="2">tegen</wf>
+    <wf id="w37" length="11" offset="213" para="1" sent="2">Zillionbaas</wf>
+    <wf id="w38" length="5" offset="225" para="1" sent="2">Frank</wf>
+    <wf id="w39" length="11" offset="231" para="1" sent="2">Verstraeten</wf>
+    <wf id="w40" length="1" offset="243" para="1" sent="2">.</wf>
+    <wf id="w41" length="2" offset="245" para="1" sent="3">Op</wf>
+    <wf id="w42" length="1" offset="248" para="1" sent="3">6</wf>
+    <wf id="w43" length="9" offset="250" para="1" sent="3">september</wf>
+    <wf id="w44" length="8" offset="260" para="1" sent="3">besliste</wf>
+    <wf id="w45" length="3" offset="269" para="1" sent="3">het</wf>
+    <wf id="w46" length="6" offset="273" para="1" sent="3">Vlaams</wf>
+    <wf id="w47" length="13" offset="280" para="1" sent="3">Commissariaat</wf>
+    <wf id="w48" length="4" offset="294" para="1" sent="3">voor</wf>
+    <wf id="w49" length="2" offset="299" para="1" sent="3">de</wf>
+    <wf id="w50" length="5" offset="302" para="1" sent="3">Media</wf>
+    <wf id="w51" length="3" offset="308" para="1" sent="3">dat</wf>
+    <wf id="w52" length="7" offset="312" para="1" sent="3">Q-Music</wf>
+    <wf id="w53" length="2" offset="320" para="1" sent="3">en</wf>
+    <wf id="w54" length="1" offset="323" para="1" sent="3">4</wf>
+    <wf id="w55" length="2" offset="325" para="1" sent="3">FM</wf>
+    <wf id="w56" length="3" offset="328" para="1" sent="3">een</wf>
+    <wf id="w57" length="9" offset="332" para="1" sent="3">nationale</wf>
+    <wf id="w58" length="13" offset="342" para="1" sent="3">radiolicentie</wf>
+    <wf id="w59" length="10" offset="356" para="1" sent="3">toegewezen</wf>
+    <wf id="w60" length="6" offset="367" para="1" sent="3">kregen</wf>
+    <wf id="w61" length="1" offset="374" para="1" sent="3">.</wf>
+    <wf id="w62" length="5" offset="376" para="1" sent="4">Radio</wf>
+    <wf id="w63" length="7" offset="382" para="1" sent="4">Contact</wf>
+    <wf id="w64" length="4" offset="390" para="1" sent="4">viel</wf>
+    <wf id="w65" length="3" offset="395" para="1" sent="4">uit</wf>
+    <wf id="w66" length="2" offset="399" para="1" sent="4">de</wf>
+    <wf id="w67" length="4" offset="402" para="1" sent="4">boot</wf>
+    <wf id="w68" length="1" offset="407" para="1" sent="4">.</wf>
+    <wf id="w69" length="3" offset="409" para="1" sent="5">Een</wf>
+    <wf id="w70" length="3" offset="413" para="1" sent="5">dag</wf>
+    <wf id="w71" length="4" offset="417" para="1" sent="5">voor</wf>
+    <wf id="w72" length="2" offset="422" para="1" sent="5">de</wf>
+    <wf id="w73" length="9" offset="425" para="1" sent="5">erkenning</wf>
+    <wf id="w74" length="6" offset="435" para="1" sent="5">schoot</wf>
+    <wf id="w75" length="2" offset="442" para="1" sent="5">de</wf>
+    <wf id="w76" length="13" offset="445" para="1" sent="5">aandelenkoers</wf>
+    <wf id="w77" length="3" offset="459" para="1" sent="5">van</wf>
+    <wf id="w78" length="5" offset="463" para="1" sent="5">Think</wf>
+    <wf id="w79" length="5" offset="469" para="1" sent="5">Media</wf>
+    <wf id="w80" length="1" offset="475" para="1" sent="5">,</wf>
+    <wf id="w81" length="3" offset="477" para="1" sent="5">dat</wf>
+    <wf id="w82" length="3" offset="481" para="1" sent="5">een</wf>
+    <wf id="w83" length="3" offset="485" para="1" sent="5">van</wf>
+    <wf id="w84" length="2" offset="489" para="1" sent="5">de</wf>
+    <wf id="w85" length="11" offset="492" para="1" sent="5">voornaamste</wf>
+    <wf id="w86" length="14" offset="504" para="1" sent="5">aandeelhouders</wf>
+    <wf id="w87" length="2" offset="519" para="1" sent="5">is</wf>
+    <wf id="w88" length="3" offset="522" para="1" sent="5">van</wf>
+    <wf id="w89" length="1" offset="526" para="1" sent="5">4</wf>
+    <wf id="w90" length="2" offset="528" para="1" sent="5">FM</wf>
+    <wf id="w91" length="1" offset="531" para="1" sent="5">,</wf>
+    <wf id="w92" length="3" offset="533" para="1" sent="5">met</wf>
+    <wf id="w93" length="2" offset="537" para="1" sent="5">20</wf>
+    <wf id="w94" length="7" offset="540" para="1" sent="5">procent</wf>
+    <wf id="w95" length="6" offset="548" para="1" sent="5">omhoog</wf>
+    <wf id="w96" length="1" offset="555" para="1" sent="5">.</wf>
+    <wf id="w97" length="5" offset="557" para="1" sent="6">Radio</wf>
+    <wf id="w98" length="7" offset="563" para="1" sent="6">Contact</wf>
+    <wf id="w99" length="8" offset="571" para="1" sent="6">vermoedt</wf>
+    <wf id="w100" length="3" offset="580" para="1" sent="6">dat</wf>
+    <wf id="w101" length="11" offset="584" para="1" sent="6">Verstraeten</wf>
+    <wf id="w102" length="13" offset="596" para="1" sent="6">aandeelhouder</wf>
+    <wf id="w103" length="2" offset="610" para="1" sent="6">is</wf>
+    <wf id="w104" length="3" offset="613" para="1" sent="6">van</wf>
+    <wf id="w105" length="1" offset="617" para="1" sent="6">4</wf>
+    <wf id="w106" length="2" offset="619" para="1" sent="6">FM</wf>
+    <wf id="w107" length="2" offset="622" para="1" sent="6">en</wf>
+    <wf id="w108" length="3" offset="625" para="1" sent="6">dat</wf>
+    <wf id="w109" length="3" offset="629" para="1" sent="6">hij</wf>
+    <wf id="w110" length="2" offset="633" para="1" sent="6">de</wf>
+    <wf id="w111" length="14" offset="636" para="1" sent="6">aandelenhandel</wf>
+    <wf id="w112" length="13" offset="651" para="1" sent="6">gemanipuleerd</wf>
+    <wf id="w113" length="5" offset="665" para="1" sent="6">heeft</wf>
+    <wf id="w114" length="1" offset="671" para="1" sent="6">.</wf>
+    <wf id="w115" length="7" offset="673" para="1" sent="7">Contact</wf>
+    <wf id="w116" length="6" offset="681" para="1" sent="7">diende</wf>
+    <wf id="w117" length="3" offset="688" para="1" sent="7">ook</wf>
+    <wf id="w118" length="3" offset="692" para="1" sent="7">een</wf>
+    <wf id="w119" length="6" offset="696" para="1" sent="7">tweede</wf>
+    <wf id="w120" length="6" offset="703" para="1" sent="7">klacht</wf>
+    <wf id="w121" length="2" offset="710" para="1" sent="7">in</wf>
+    <wf id="w122" length="1" offset="713" para="1" sent="7">,</wf>
+    <wf id="w123" length="2" offset="715" para="1" sent="7">op</wf>
+    <wf id="w124" length="5" offset="718" para="1" sent="7">basis</wf>
+    <wf id="w125" length="3" offset="724" para="1" sent="7">van</wf>
+    <wf id="w126" length="9" offset="728" para="1" sent="7">geruchten</wf>
+    <wf id="w127" length="4" offset="738" para="1" sent="7">over</wf>
+    <wf id="w128" length="9" offset="743" para="1" sent="7">mogelijke</wf>
+    <wf id="w129" length="6" offset="753" para="1" sent="7">fraude</wf>
+    <wf id="w130" length="3" offset="760" para="1" sent="7">bij</wf>
+    <wf id="w131" length="2" offset="764" para="1" sent="7">de</wf>
+    <wf id="w132" length="10" offset="767" para="1" sent="7">toekenning</wf>
+    <wf id="w133" length="3" offset="778" para="1" sent="7">van</wf>
+    <wf id="w134" length="2" offset="782" para="1" sent="7">de</wf>
+    <wf id="w135" length="9" offset="785" para="1" sent="7">licenties</wf>
+    <wf id="w136" length="1" offset="795" para="1" sent="7">.</wf>
+  </text>
+  <terms>
+    <term id="t_1" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--Het-->
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_2" pos="G" type="open" lemma="nieuw" morphofeat="adj">
+      <!--nieuwe-->
+      <span>
+        <target id="w2"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_a-13144" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_3" pos="G" type="open" lemma="landelijk" morphofeat="adj">
+      <!--landelijke-->
+      <span>
+        <target id="w3"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_4" pos="N" type="open" lemma="radiostation" morphofeat="nounsg">
+      <!--radiostation-->
+      <span>
+        <target id="w4"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_5" pos="O" type="open" lemma="4" morphofeat="num__ord">
+      <!--4-->
+      <span>
+        <target id="w5"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_6" pos="O" type="open" lemma="FM" morphofeat="">
+      <!--FM-->
+      <span>
+        <target id="w6"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_7" pos="V" type="open" lemma="dienen" morphofeat="">
+      <!--dient-->
+      <span>
+        <target id="w7"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_8" pos="P" type="close" lemma="bij" morphofeat="prep">
+      <!--bij-->
+      <span>
+        <target id="w8"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_9" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w9"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_10" pos="G" type="open" lemma="brussels" morphofeat="adj">
+      <!--Brusselse-->
+      <span>
+        <target id="w10"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_11" pos="N" type="open" lemma="procureur" morphofeat="nounsg">
+      <!--procureur-->
+      <span>
+        <target id="w11"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_12" pos="D" type="close" lemma="de" morphofeat="det__poss">
+      <!--des-->
+      <span>
+        <target id="w12"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_13" pos="N" type="open" lemma="koning" morphofeat="nounsg det__poss">
+      <!--konings-->
+      <span>
+        <target id="w13"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-20295" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_14" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w14"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_15" pos="N" type="open" lemma="klacht" morphofeat="nounsg">
+      <!--klacht-->
+      <span>
+        <target id="w15"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-19658" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_16" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w16"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_17" pos="P" type="close" lemma="tegen" morphofeat="prep">
+      <!--tegen-->
+      <span>
+        <target id="w17"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_18" pos="O" type="open" lemma="Radio" morphofeat="">
+      <!--Radio-->
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_19" pos="O" type="open" lemma="Contact" morphofeat="">
+      <!--Contact-->
+      <span>
+        <target id="w19"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_20" pos="P" type="close" lemma="wegens" morphofeat="prep">
+      <!--wegens-->
+      <span>
+        <target id="w20"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_21" pos="N" type="open" lemma="laster" morphofeat="nounsg">
+      <!--laster-->
+      <span>
+        <target id="w21"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_22" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w22"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_23" pos="G" type="open" lemma="eerder" morphofeat="adj">
+      <!--Eerder-->
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_24" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w24"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_25" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w25"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_26" pos="N" type="open" lemma="week" morphofeat="nounsg">
+      <!--week-->
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_27" pos="V" type="open" lemma="hebben" morphofeat="verbpastsg">
+      <!--had-->
+      <span>
+        <target id="w27"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3129" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_28" pos="O" type="open" lemma="Radio" morphofeat="">
+      <!--Radio-->
+      <span>
+        <target id="w28"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_29" pos="O" type="open" lemma="Contact" morphofeat="">
+      <!--Contact-->
+      <span>
+        <target id="w29"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_30" pos="P" type="close" lemma="bij" morphofeat="prep">
+      <!--bij-->
+      <span>
+        <target id="w30"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_31" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w31"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_32" pos="N" type="open" lemma="parket" morphofeat="nounsg">
+      <!--parket-->
+      <span>
+        <target id="w32"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-27699" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_33" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w33"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_34" pos="N" type="open" lemma="klacht" morphofeat="nounsg">
+      <!--klacht-->
+      <span>
+        <target id="w34"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-19658" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_35" pos="V" type="open" lemma="indienen" morphofeat="verbpapa">
+      <!--ingediend-->
+      <span>
+        <target id="w35"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_36" pos="P" type="close" lemma="tegen" morphofeat="prep">
+      <!--tegen-->
+      <span>
+        <target id="w36"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_37" pos="N" type="open" lemma="zillionbaas" morphofeat="nounsg">
+      <!--Zillionbaas-->
+      <span>
+        <target id="w37"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_38" pos="O" type="open" lemma="Frank" morphofeat="">
+      <!--Frank-->
+      <span>
+        <target id="w38"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_39" pos="O" type="open" lemma="Verstraeten" morphofeat="">
+      <!--Verstraeten-->
+      <span>
+        <target id="w39"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_40" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w40"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_41" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--Op-->
+      <span>
+        <target id="w41"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_42" pos="O" type="open" lemma="6" morphofeat="num__ord">
+      <!--6-->
+      <span>
+        <target id="w42"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_43" pos="O" type="open" lemma="september" morphofeat="">
+      <!--september-->
+      <span>
+        <target id="w43"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_44" pos="V" type="open" lemma="beslissen" morphofeat="verbpastsg">
+      <!--besliste-->
+      <span>
+        <target id="w44"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_45" pos="D" type="close" lemma="het" morphofeat="det__art">
+      <!--het-->
+      <span>
+        <target id="w45"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_46" pos="G" type="open" lemma="vlaams" morphofeat="adj">
+      <!--Vlaams-->
+      <span>
+        <target id="w46"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_47" pos="N" type="open" lemma="commissariaat" morphofeat="nounsg">
+      <!--Commissariaat-->
+      <span>
+        <target id="w47"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_48" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w48"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_49" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w49"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_50" pos="N" type="open" lemma="media" morphofeat="nounpl">
+      <!--Media-->
+      <span>
+        <target id="w50"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_51" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w51"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_52" pos="O" type="open" lemma="Q-Music" morphofeat="">
+      <!--Q"-"Music-->
+      <span>
+        <target id="w52"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_53" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w53"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_54" pos="O" type="open" lemma="4" morphofeat="num__ord">
+      <!--4-->
+      <span>
+        <target id="w54"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_55" pos="O" type="open" lemma="FM" morphofeat="">
+      <!--FM-->
+      <span>
+        <target id="w55"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_56" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w56"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_57" pos="G" type="open" lemma="nationaal" morphofeat="adj">
+      <!--nationale-->
+      <span>
+        <target id="w57"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_58" pos="N" type="open" lemma="radiolicentie" morphofeat="nounsg">
+      <!--radiolicentie-->
+      <span>
+        <target id="w58"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_59" pos="V" type="open" lemma="toewijzen" morphofeat="verbpapa">
+      <!--toegewezen-->
+      <span>
+        <target id="w59"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_60" pos="V" type="open" lemma="krijgen" morphofeat="verbpastpl">
+      <!--kregen-->
+      <span>
+        <target id="w60"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-4154" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_61" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w61"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_62" pos="O" type="open" lemma="Radio" morphofeat="">
+      <!--Radio-->
+      <span>
+        <target id="w62"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_63" pos="O" type="open" lemma="Contact" morphofeat="">
+      <!--Contact-->
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_64" pos="V" type="open" lemma="vallen" morphofeat="verbpastsg">
+      <!--viel-->
+      <span>
+        <target id="w64"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_65" pos="P" type="close" lemma="uit" morphofeat="prep">
+      <!--uit-->
+      <span>
+        <target id="w65"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_66" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w66"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_67" pos="N" type="open" lemma="boot" morphofeat="nounsg">
+      <!--boot-->
+      <span>
+        <target id="w67"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_68" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w68"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_69" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--Een-->
+      <span>
+        <target id="w69"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_70" pos="N" type="open" lemma="dag" morphofeat="nounsg">
+      <!--dag-->
+      <span>
+        <target id="w70"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-10302" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_71" pos="P" type="close" lemma="voor" morphofeat="prep">
+      <!--voor-->
+      <span>
+        <target id="w71"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_72" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w72"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_73" pos="N" type="open" lemma="erkenning" morphofeat="nounsg">
+      <!--erkenning-->
+      <span>
+        <target id="w73"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-12590" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_74" pos="V" type="open" lemma="schieten" morphofeat="verbpastsg">
+      <!--schoot-->
+      <span>
+        <target id="w74"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="c_546170" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_75" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w75"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_76" pos="N" type="open" lemma="aandelenkoers" morphofeat="nounsg">
+      <!--aandelenkoers-->
+      <span>
+        <target id="w76"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_77" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w77"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_78" pos="O" type="open" lemma="Think" morphofeat="">
+      <!--Think-->
+      <span>
+        <target id="w78"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_79" pos="O" type="open" lemma="Media" morphofeat="">
+      <!--Media-->
+      <span>
+        <target id="w79"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_80" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w80"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_81" pos="Q" type="close" lemma="dat" morphofeat="pronrel ">
+      <!--dat-->
+      <span>
+        <target id="w81"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_82" pos="O" type="open" lemma="een" morphofeat="num__ord">
+      <!--een-->
+      <span>
+        <target id="w82"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_83" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w83"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_84" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w84"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_85" pos="G" type="open" lemma="voornaam" morphofeat="adj">
+      <!--voornaamste-->
+      <span>
+        <target id="w85"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_86" pos="N" type="open" lemma="aandeelhouder" morphofeat="nounpl">
+      <!--aandeelhouders-->
+      <span>
+        <target id="w86"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_87" pos="V" type="open" lemma="zijn" morphofeat="verbpressg">
+      <!--is-->
+      <span>
+        <target id="w87"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10269" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_88" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w88"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_89" pos="O" type="open" lemma="4" morphofeat="num__ord">
+      <!--4-->
+      <span>
+        <target id="w89"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_90" pos="O" type="open" lemma="FM" morphofeat="">
+      <!--FM-->
+      <span>
+        <target id="w90"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_91" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w91"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_92" pos="P" type="close" lemma="met" morphofeat="prep">
+      <!--met-->
+      <span>
+        <target id="w92"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_93" pos="O" type="open" lemma="20" morphofeat="num__ord">
+      <!--20-->
+      <span>
+        <target id="w93"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_94" pos="N" type="open" lemma="procent" morphofeat="nounsg">
+      <!--procent-->
+      <span>
+        <target id="w94"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_95" pos="A" type="open" lemma="omhoog" morphofeat="adv">
+      <!--omhoog-->
+      <span>
+        <target id="w95"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_96" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w96"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_97" pos="O" type="open" lemma="Radio" morphofeat="">
+      <!--Radio-->
+      <span>
+        <target id="w97"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_98" pos="O" type="open" lemma="Contact" morphofeat="">
+      <!--Contact-->
+      <span>
+        <target id="w98"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_99" pos="V" type="open" lemma="vermoeden" morphofeat="">
+      <!--vermoedt-->
+      <span>
+        <target id="w99"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_100" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w100"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_101" pos="O" type="open" lemma="Verstraeten" morphofeat="">
+      <!--Verstraeten-->
+      <span>
+        <target id="w101"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_102" pos="N" type="open" lemma="aandeelhouder" morphofeat="nounsg">
+      <!--aandeelhouder-->
+      <span>
+        <target id="w102"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_103" pos="V" type="open" lemma="zijn" morphofeat="verbpressg">
+      <!--is-->
+      <span>
+        <target id="w103"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-10269" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_104" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w104"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_105" pos="O" type="open" lemma="4" morphofeat="num__ord">
+      <!--4-->
+      <span>
+        <target id="w105"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_106" pos="O" type="open" lemma="FM" morphofeat="">
+      <!--FM-->
+      <span>
+        <target id="w106"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_107" pos="C" type="close" lemma="en" morphofeat="conjcoord">
+      <!--en-->
+      <span>
+        <target id="w107"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_108" pos="C" type="close" lemma="dat" morphofeat="conjsubo">
+      <!--dat-->
+      <span>
+        <target id="w108"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_109" pos="Q" type="close" lemma="hij" morphofeat="pronpers ">
+      <!--hij-->
+      <span>
+        <target id="w109"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_110" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w110"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_111" pos="N" type="open" lemma="aandelenhandel" morphofeat="nounsg">
+      <!--aandelenhandel-->
+      <span>
+        <target id="w111"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_112" pos="V" type="open" lemma="manipuleren" morphofeat="verbpapa">
+      <!--gemanipuleerd-->
+      <span>
+        <target id="w112"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_113" pos="V" type="open" lemma="hebben" morphofeat="">
+      <!--heeft-->
+      <span>
+        <target id="w113"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_v-3129" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_114" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w114"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_115" pos="N" type="open" lemma="contact" morphofeat="nounsg">
+      <!--Contact-->
+      <span>
+        <target id="w115"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-9928" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_116" pos="V" type="open" lemma="dienen" morphofeat="verbpastsg">
+      <!--diende-->
+      <span>
+        <target id="w116"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_117" pos="A" type="open" lemma="ook" morphofeat="adv">
+      <!--ook-->
+      <span>
+        <target id="w117"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_118" pos="D" type="close" lemma="een" morphofeat="det__art pronindef">
+      <!--een-->
+      <span>
+        <target id="w118"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_119" pos="O" type="open" lemma="tweede" morphofeat="num__card">
+      <!--tweede-->
+      <span>
+        <target id="w119"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_120" pos="N" type="open" lemma="klacht" morphofeat="nounsg">
+      <!--klacht-->
+      <span>
+        <target id="w120"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-19658" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_121" pos="P" type="close" lemma="in" morphofeat="prep">
+      <!--in-->
+      <span>
+        <target id="w121"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_122" pos="O" type="open" lemma="," morphofeat="punc">
+      <!--,-->
+      <span>
+        <target id="w122"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_123" pos="P" type="close" lemma="op" morphofeat="prep">
+      <!--op-->
+      <span>
+        <target id="w123"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_124" pos="N" type="open" lemma="basis" morphofeat="nounsg">
+      <!--basis-->
+      <span>
+        <target id="w124"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-6030" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_125" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w125"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_126" pos="N" type="open" lemma="gerucht" morphofeat="nounpl">
+      <!--geruchten-->
+      <span>
+        <target id="w126"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_127" pos="P" type="close" lemma="over" morphofeat="prep">
+      <!--over-->
+      <span>
+        <target id="w127"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_128" pos="G" type="open" lemma="mogelijk" morphofeat="adj">
+      <!--mogelijke-->
+      <span>
+        <target id="w128"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_129" pos="N" type="open" lemma="fraude" morphofeat="nounsg">
+      <!--fraude-->
+      <span>
+        <target id="w129"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_130" pos="P" type="close" lemma="bij" morphofeat="prep">
+      <!--bij-->
+      <span>
+        <target id="w130"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_131" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w131"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_132" pos="N" type="open" lemma="toekenning" morphofeat="nounsg">
+      <!--toekenning-->
+      <span>
+        <target id="w132"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_133" pos="P" type="close" lemma="van" morphofeat="prep">
+      <!--van-->
+      <span>
+        <target id="w133"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_134" pos="D" type="close" lemma="de" morphofeat="det__art">
+      <!--de-->
+      <span>
+        <target id="w134"/>
+      </span>
+      <externalReferences/>
+    </term>
+    <term id="t_135" pos="N" type="open" lemma="licentie" morphofeat="nounpl">
+      <!--licenties-->
+      <span>
+        <target id="w135"/>
+      </span>
+      <externalReferences>
+        <externalRef annotator="unknown" annotatortype="manual" confidence="1.0" reference="r_n-22037" resource="Cornetto"/>
+      </externalReferences>
+    </term>
+    <term id="t_136" pos="O" type="open" lemma="." morphofeat="punc">
+      <!--.-->
+      <span>
+        <target id="w136"/>
+      </span>
+      <externalReferences/>
+    </term>
+  </terms>
+</NAF>
