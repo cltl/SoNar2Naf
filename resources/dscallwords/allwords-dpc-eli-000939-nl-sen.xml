@@ -1,0 +1,5105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="allwords-dpc-eli-000939-nl-sen" version="0.8.0" generator="pynlpl.formats.folia-v0.8.0.18">
+  <metadata type="native">
+    <annotations>
+      <pos-annotation set="cgn"/>
+      <lemma-annotation set="lemmas-nl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="allwords-dpc-eli-000939-nl-sen.text.1">
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.1">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.1">
+        <t>EUROPEES</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="europees"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.2">
+        <t>OPENBAAR</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="openbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.3">
+        <t>BEOORDELINGSRAPPORT</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="beoordelingsrapport"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.4">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.5">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.6">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.2">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.2.w.1">
+        <t>HUMALOG</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="HUMALOG"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.3">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.3.w.1">
+        <t>HUMALOG</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="HUMALOG"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.3.w.2">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.4">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.4.w.1">
+        <t>HUMALOG</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="HUMALOG"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.4.w.2">
+        <t>MIX</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="MIX"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.5">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.1">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.2">
+        <t>-</t>
+        <pos class="LET()"/>
+        <lemma class="-"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.3">
+        <t>samenvatting</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="samenvatting"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.4">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.5">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.6">
+        <t>publiek</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="publiek"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.6">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.1">
+        <t>Dit</t>
+        <pos class="VNW(aanw,det,stan,prenom,zonder,evon)"/>
+        <lemma class="dit"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.2">
+        <t>document</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="document"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.4">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.5">
+        <t>samenvatting</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="samenvatting"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.6">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.7">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.8">
+        <t>Europees</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="europees"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.9">
+        <t>openbaar</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="openbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.10">
+        <t>beoordelingsrapport</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="beoordelingsrapport"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.11">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.12">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.13">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.14">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.7">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.1">
+        <t>Doel</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="doel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.2">
+        <t>ervan</t>
+        <pos class="BW()"/>
+        <lemma class="ervan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.4">
+        <t>uit</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="uit"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.5">
+        <t>te</t>
+        <pos class="VZ(init)"/>
+        <lemma class="te"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.6">
+        <t>leggen</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="leggen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.7">
+        <t>hoe</t>
+        <pos class="BW()"/>
+        <lemma class="hoe"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.8">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.9">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.10">
+        <t>studies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="studie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.11">
+        <t>gebaseerde</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="baseren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.12">
+        <t>beoordeling</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="beoordeling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.13">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.14">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.15">
+        <t>Comité</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="comité"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.16">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.17">
+        <t>geneesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="geneesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.18">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.19">
+        <t>menselijk</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="menselijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.20">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.21">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.22">
+        <t>CHMP</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="CHMP"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.23">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.24">
+        <t>heeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.25">
+        <t>geleid</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="leiden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.26">
+        <t>tot</t>
+        <pos class="VZ(init)"/>
+        <lemma class="tot"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.27">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.28">
+        <t>aanbevelingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="aanbeveling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.29">
+        <t>wat</t>
+        <pos class="VNW(vb,pron,stan,vol,3o,ev)"/>
+        <lemma class="wat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.30">
+        <t>betreft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="betreffen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.31">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.32">
+        <t>gebruiksvoorwaarden</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="gebruiksvoorwaarden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.33">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.8">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.1">
+        <t>Lees</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="lezen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.2">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.3">
+        <t>bijsluiter</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bijsluiter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.4">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.5">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.6">
+        <t>onderdeel</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="onderdeel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.7">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.8">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.9">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.10">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.11">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.12">
+        <t>neem</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="nemen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.13">
+        <t>contact</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="contact"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.14">
+        <t>op</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.15">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.16">
+        <t>uw</t>
+        <pos class="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)"/>
+        <lemma class="uw"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.17">
+        <t>dokter</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="dokter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.18">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.19">
+        <t>apotheker</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="apotheker"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.20">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.21">
+        <t>als</t>
+        <pos class="VG(onder)"/>
+        <lemma class="als"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.22">
+        <t>u</t>
+        <pos class="VNW(pers,pron,nomin,vol,2b,getal)"/>
+        <lemma class="u"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.23">
+        <t>meer</t>
+        <pos class="VNW(onbep,grad,stan,prenom,zonder,agr,comp)"/>
+        <lemma class="veel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.24">
+        <t>informatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="informatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.25">
+        <t>nodig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="nodig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.26">
+        <t>heeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.27">
+        <t>over</t>
+        <pos class="VZ(init)"/>
+        <lemma class="over"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.28">
+        <t>uw</t>
+        <pos class="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)"/>
+        <lemma class="uw"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.29">
+        <t>ziekte</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="ziekte"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.30">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.31">
+        <t>behandeling</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="behandeling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.32">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.9">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.2">
+        <t>wetenschappelijke</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="wetenschappelijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.3">
+        <t>discussie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="discussie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.4">
+        <t>waarop</t>
+        <pos class="BW()"/>
+        <lemma class="waarop"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.5">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.6">
+        <t>aanbevelingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="aanbeveling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.7">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.8">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.9">
+        <t>CHMP</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="CHMP"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.10">
+        <t>zijn</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.11">
+        <t>gebaseerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="baseren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.12">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.13">
+        <t>eveneens</t>
+        <pos class="BW()"/>
+        <lemma class="eveneens"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.14">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.15">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.16">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.17">
+        <t>opgenomen</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="opnemen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.18">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.10">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.1">
+        <t>Wat</t>
+        <pos class="VNW(vb,pron,stan,vol,3o,ev)"/>
+        <lemma class="wat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.4">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.11">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.3">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.4">
+        <t>gamma</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gamma"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.5">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.6">
+        <t>oplossingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="oplossing"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.7">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.8">
+        <t>suspensies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="suspensie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.9">
+        <t>om</t>
+        <pos class="VZ(init)"/>
+        <lemma class="om"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.10">
+        <t>te</t>
+        <pos class="VZ(init)"/>
+        <lemma class="te"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.11">
+        <t>injecteren</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="injecteren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.12">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.12">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.2">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.3">
+        <t>geleverd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="leveren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.4">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.5">
+        <t>injectieflacons</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="injectieflacon"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.6">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.7">
+        <t>patronen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="patroon"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.8">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.9">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.10">
+        <t>voorgevulde</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="voorvullen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.11">
+        <t>pennen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="pen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.12">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.13">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.14">
+        <t>Pen</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Pen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.15">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.16">
+        <t>Humaject</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humaject"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.17">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.18">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.13">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.2">
+        <t>bevat</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="bevatten"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.3">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.4">
+        <t>werkzame</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="werkzaam"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.5">
+        <t>stof</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="stof"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.6">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.7">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.8">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.14">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.1">
+        <t>Het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.2">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.3">
+        <t>gamma</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gamma"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.4">
+        <t>omvat</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="omvatten"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.5">
+        <t>kortwerkende</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="kortwerken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.6">
+        <t>insulineoplossingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="insulineoplossing"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.7">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.8">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.9">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.10">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.11">
+        <t>middellangwerkende</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="middellangwerken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.12">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.13">
+        <t>suspensies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="suspensie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.14">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.15">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.16">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.17">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.18">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.19">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.20">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.21">
+        <t>combinatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="combinatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.22">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.23">
+        <t>deze</t>
+        <pos class="VNW(aanw,det,stan,prenom,met-e,rest)"/>
+        <lemma class="deze"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.24">
+        <t>twee</t>
+        <pos class="TW(hoofd,nom,zonder-n,basis)"/>
+        <lemma class="twee"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.25">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.26">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.27">
+        <t>verschillende</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="verschillende"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.28">
+        <t>verhoudingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="verhouding"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.29">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.30">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.31">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.32">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.33">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.15">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.2">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.3">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.4">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.5">
+        <t>oplossing</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="oplossing"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.16">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.2">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.3">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.4">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.5">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.6">
+        <t>protamine-suspensie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="protamine-suspensie"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.17">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.2">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.3">
+        <t>25</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="25"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.4">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.5">
+        <t>25</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="25"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.6">
+        <t>%</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="%"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.7">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.8">
+        <t>lispro-oplossing</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="lispro-oplossing"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.10">
+        <t>75</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="75"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.11">
+        <t>%</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="%"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.12">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.13">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.14">
+        <t>protamine-suspensie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="protamine-suspensie"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.18">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.2">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.3">
+        <t>50</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="50"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.4">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.5">
+        <t>50</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="50"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.6">
+        <t>%</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="%"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.7">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.8">
+        <t>lispro-oplossing</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="lispro-oplossing"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.10">
+        <t>50</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="50"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.11">
+        <t>%</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="%"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.12">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.13">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.14">
+        <t>protamine-suspensie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="protamine-suspensie"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.19">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.1">
+        <t>Wanneer</t>
+        <pos class="BW()"/>
+        <lemma class="wanneer"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.2">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.4">
+        <t>voorgeschreven</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="voorschrijven"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.5">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.20">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.2">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.3">
+        <t>gebruikt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="gebruiken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.4">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.5">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.6">
+        <t>behandeling</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="behandeling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.7">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.8">
+        <t>volwassenen</t>
+        <pos class="ADJ(nom,basis,met-e,mv-n)"/>
+        <lemma class="volwassenen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.10">
+        <t>kinderen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="kind"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.11">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.12">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.13">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.14">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.15">
+        <t>nodig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="nodig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.16">
+        <t>hebben</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.17">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.18">
+        <t>regulering</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="regulering"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.19">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.20">
+        <t>hun</t>
+        <pos class="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)"/>
+        <lemma class="hun"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.21">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.22">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.23">
+        <t>waaronder</t>
+        <pos class="BW()"/>
+        <lemma class="waaronder"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.24">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.25">
+        <t>patiënten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="patiënt"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.26">
+        <t>bij</t>
+        <pos class="VZ(init)"/>
+        <lemma class="bij"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.27">
+        <t>wie</t>
+        <pos class="VNW(vb,pron,stan,vol,3p,getal)"/>
+        <lemma class="wie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.28">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.29">
+        <t>diagnose</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diagnose"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.30">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.31">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.32">
+        <t>kort</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="kort"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.33">
+        <t>geleden</t>
+        <pos class="BW()"/>
+        <lemma class="geleden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.34">
+        <t>werd</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.35">
+        <t>gesteld</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="stellen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.36">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.21">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.1">
+        <t>Het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.2">
+        <t>geneesmiddel</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="geneesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.4">
+        <t>uitsluitend</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="uitsluitend"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.5">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.6">
+        <t>doktersvoorschrift</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="doktersvoorschrift"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.7">
+        <t>verkrijgbaar</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="verkrijgbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.8">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.22">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.1">
+        <t>Hoe</t>
+        <pos class="BW()"/>
+        <lemma class="hoe"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.2">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.4">
+        <t>gebruikt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="gebruiken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.5">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.23">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.2">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.4">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.5">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.6">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.7">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.8">
+        <t>mogen</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="mogen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.9">
+        <t>subcutaan</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="subcutaan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.10">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.11">
+        <t>onderhuids</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="onderhuids"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.12">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.13">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.14">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.15">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.16">
+        <t>via</t>
+        <pos class="VZ(init)"/>
+        <lemma class="via"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.17">
+        <t>injectie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="injectie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.18">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.19">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.20">
+        <t>bovenarm</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bovenarm"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.21">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.22">
+        <t>dijen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="dij"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.23">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.24">
+        <t>billen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="bil"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.25">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.26">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.27">
+        <t>abdomen</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="abdomen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.28">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.29">
+        <t>buik</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="buik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.30">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.31">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.24">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.2">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.3">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.4">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.5">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.6">
+        <t>via</t>
+        <pos class="VZ(init)"/>
+        <lemma class="via"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.7">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.8">
+        <t>continue</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="continu"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.9">
+        <t>infusie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="infusie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.10">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.11">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.12">
+        <t>makend</t>
+        <pos class="WW(od,vrij,zonder)"/>
+        <lemma class="maken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.13">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.14">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.15">
+        <t>insulinepomp</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insulinepomp"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.16">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.17">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.18">
+        <t>intraveneus</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="intraveneus"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.19">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.20">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.21">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.22">
+        <t>ader</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="ader"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.23">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.24">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.25">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.2">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.3">
+        <t>-</t>
+        <pos class="LET()"/>
+        <lemma class="-"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.4">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.5">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.6">
+        <t>Mix-producten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="mix-product"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.7">
+        <t>worden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.8">
+        <t>normaliter</t>
+        <pos class="BW()"/>
+        <lemma class="normaliter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.9">
+        <t>kort</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="kort"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.10">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.11">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.12">
+        <t>maaltijd</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="maaltijd"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.13">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.14">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.15">
+        <t>kunnen</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.16">
+        <t>indien</t>
+        <pos class="VG(onder)"/>
+        <lemma class="indien"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.17">
+        <t>nodig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="nodig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.18">
+        <t>kort</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="kort"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.19">
+        <t>na</t>
+        <pos class="VZ(init)"/>
+        <lemma class="na"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.20">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.21">
+        <t>maaltijd</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="maaltijd"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.22">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.23">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.24">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.26">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.2">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.3">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.4">
+        <t>gebruikt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="gebruiken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.5">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.6">
+        <t>combinatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="combinatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.7">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.8">
+        <t>langwerkende</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="langwerken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.9">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.10">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.11">
+        <t>orale</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="oraal"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.12">
+        <t>antidiabetesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="antidiabetesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.13">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.14">
+        <t>sulfonylurea</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sulfonylurea"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.15">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.16">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.27">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.2">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.3">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.4">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.5">
+        <t>gemengd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="mengen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.6">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.7">
+        <t>samen</t>
+        <pos class="BW()"/>
+        <lemma class="samen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.8">
+        <t>gegeven</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="geven"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.9">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.10">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.11">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.28">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.1">
+        <t>Hoe</t>
+        <pos class="BW()"/>
+        <lemma class="hoe"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.2">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.4">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.29">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.1">
+        <t>Diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.3">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.4">
+        <t>ziekte</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="ziekte"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.5">
+        <t>waarbij</t>
+        <pos class="BW()"/>
+        <lemma class="waarbij"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.6">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.7">
+        <t>lichaam</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="lichaam"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.8">
+        <t>niet</t>
+        <pos class="BW()"/>
+        <lemma class="niet"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.9">
+        <t>voldoende</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="voldoende"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.10">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.11">
+        <t>aanmaakt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="aanmaken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.12">
+        <t>om</t>
+        <pos class="VZ(init)"/>
+        <lemma class="om"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.13">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.14">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.15">
+        <t>te</t>
+        <pos class="VZ(init)"/>
+        <lemma class="te"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.16">
+        <t>reguleren</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="reguleren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.17">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.30">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.3">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.4">
+        <t>insulineanaloog</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="insulineanaloog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.5">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.6">
+        <t>sterk</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="sterk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.7">
+        <t>lijkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="lijken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.8">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.9">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.10">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.11">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.12">
+        <t>door</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.13">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.14">
+        <t>alvleesklier</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="alvleesklier"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.15">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.16">
+        <t>aangemaakt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="aanmaken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.17">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.31">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.2">
+        <t>werkzame</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="werkzaam"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.3">
+        <t>stof</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="stof"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.4">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.5">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.6">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.7">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.8">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.9">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.10">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.11">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.12">
+        <t>behulp</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="behulp"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.13">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.14">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.15">
+        <t>methode</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="methode"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.16">
+        <t>geproduceerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="produceren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.17">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.18">
+        <t>bekend</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="bekend"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.19">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.20">
+        <t>onder</t>
+        <pos class="VZ(init)"/>
+        <lemma class="onder"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.21">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.22">
+        <t>naam</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="naam"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.23">
+        <t>recombinante</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="recombinant"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.24">
+        <t>technologie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="technologie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.25">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.26">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.27">
+        <t>gemaakt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="maken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.28">
+        <t>door</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.29">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.30">
+        <t>bacterie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bacterie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.31">
+        <t>waaraan</t>
+        <pos class="BW()"/>
+        <lemma class="waaraan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.32">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.33">
+        <t>gen</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.34">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.35">
+        <t>DNA</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="dna"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.36">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.37">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.38">
+        <t>toegevoegd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toevoegen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.39">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.40">
+        <t>waardoor</t>
+        <pos class="BW()"/>
+        <lemma class="waardoor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.41">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.42">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.43">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.44">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.45">
+        <t>geproduceerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="produceren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.46">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.32">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.1">
+        <t>Insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.2">
+        <t>lispro</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="lispro"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.3">
+        <t>verschilt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="verschillen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.4">
+        <t>zeer</t>
+        <pos class="BW()"/>
+        <lemma class="zeer"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.5">
+        <t>weinig</t>
+        <pos class="VNW(onbep,grad,stan,vrij,zonder,basis)"/>
+        <lemma class="weinig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.6">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.7">
+        <t>humane</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="humaan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.8">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.9">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.10">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.11">
+        <t>dit</t>
+        <pos class="VNW(aanw,det,stan,prenom,zonder,evon)"/>
+        <lemma class="dit"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.12">
+        <t>verschil</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="verschil"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.13">
+        <t>houdt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="houden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.14">
+        <t>in</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.15">
+        <t>dat</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.16">
+        <t>het</t>
+        <pos class="VNW(pers,pron,stan,red,3,ev,onz)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.17">
+        <t>sneller</t>
+        <pos class="ADJ(vrij,comp,zonder)"/>
+        <lemma class="snel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.18">
+        <t>door</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.19">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.20">
+        <t>lichaam</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="lichaam"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.21">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.22">
+        <t>opgenomen</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="opnemen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.23">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.24">
+        <t>dus</t>
+        <pos class="BW()"/>
+        <lemma class="dus"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.25">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.26">
+        <t>snellere</t>
+        <pos class="ADJ(prenom,comp,met-e,stan)"/>
+        <lemma class="snel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.27">
+        <t>werking</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="werking"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.28">
+        <t>heeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.29">
+        <t>dan</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.30">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.31">
+        <t>gewone</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="gewoon"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.32">
+        <t>humane</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="humaan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.33">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.34">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.33">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.1">
+        <t>Insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.2">
+        <t>lispro-producten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="lispro-product"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.3">
+        <t>zijn</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.4">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.5">
+        <t>verscheidene</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="verscheidene"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.6">
+        <t>vormen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="vorm"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.7">
+        <t>verkrijgbaar</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="verkrijgbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.8">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.9">
+        <t>als</t>
+        <pos class="VZ(init)"/>
+        <lemma class="als"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.10">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.11">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.12">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.13">
+        <t>oplosbare</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="oplosbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.14">
+        <t>vorm</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="vorm"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.15">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.16">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.17">
+        <t>snel</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="snel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.18">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.19">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.20">
+        <t>min</t>
+        <pos class="BW()"/>
+        <lemma class="min"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.21">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.22">
+        <t>meer</t>
+        <pos class="VNW(onbep,grad,stan,vrij,zonder,comp)"/>
+        <lemma class="veel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.23">
+        <t>onmiddellijk</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="onmiddellijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.24">
+        <t>na</t>
+        <pos class="VZ(init)"/>
+        <lemma class="na"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.25">
+        <t>injectie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="injectie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.26">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.27">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.28">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.29">
+        <t>als</t>
+        <pos class="VZ(init)"/>
+        <lemma class="als"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.30">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.31">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.32">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.33">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.34">
+        <t>vorm</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="vorm"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.35">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.36">
+        <t>protamine-suspensie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="protamine-suspensie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.37">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.38">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.39">
+        <t>trager</t>
+        <pos class="ADJ(vrij,comp,zonder)"/>
+        <lemma class="traag"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.40">
+        <t>gedurende</t>
+        <pos class="VZ(init)"/>
+        <lemma class="gedurende"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.41">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.42">
+        <t>dag</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="dag"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.43">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.44">
+        <t>geabsorbeerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="absorberen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.45">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.46">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.47">
+        <t>langer</t>
+        <pos class="ADJ(vrij,comp,zonder)"/>
+        <lemma class="langer"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.48">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.49">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.34">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.2">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.4">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.5">
+        <t>mix</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.6">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.7">
+        <t>deze</t>
+        <pos class="VNW(aanw,det,stan,prenom,met-e,rest)"/>
+        <lemma class="deze"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.8">
+        <t>twee</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="twee"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.9">
+        <t>formuleringen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="formulering"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.10">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.35">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.2">
+        <t>insulineanaloog</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insulineanaloog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.3">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.4">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.5">
+        <t>dezelfde</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="dezelfde"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.6">
+        <t>manier</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="manier"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.7">
+        <t>als</t>
+        <pos class="VG(onder)"/>
+        <lemma class="als"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.8">
+        <t>natuurlijk</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="natuurlijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.9">
+        <t>aangemaakte</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="aanmaken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.10">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.11">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.12">
+        <t>zorgt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="zorgen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.13">
+        <t>ervoor</t>
+        <pos class="BW()"/>
+        <lemma class="ervoor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.14">
+        <t>dat</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.15">
+        <t>glucose</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="glucose"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.16">
+        <t>vanuit</t>
+        <pos class="VZ(init)"/>
+        <lemma class="vanuit"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.17">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.18">
+        <t>bloed</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="bloed"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.19">
+        <t>cellen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="cel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.20">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.21">
+        <t>binnendringen</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="binnendringen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.22">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.36">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.2">
+        <t>regulering</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="regulering"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.3">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.4">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.5">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.6">
+        <t>vermindert</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="verminderen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.7">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.8">
+        <t>symptomen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="symptoom"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.10">
+        <t>complicaties</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="complicatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.11">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.12">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.13">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.37">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.1">
+        <t>Hoe</t>
+        <pos class="BW()"/>
+        <lemma class="hoe"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.4">
+        <t>onderzocht</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="onderzoeken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.5">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.38">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.2">
+        <t>werd</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.3">
+        <t>oorspronkelijk</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="oorspronkelijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.4">
+        <t>onderzocht</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="onderzoeken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.5">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.6">
+        <t>acht</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="acht"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.7">
+        <t>klinische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="klinisch"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.8">
+        <t>studies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="studie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.9">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.10">
+        <t>2951</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="2951"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.11">
+        <t>suikerzieke</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="suikerziek"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.12">
+        <t>patiënten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="patiënt"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.13">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.14">
+        <t>type</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="type"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.15">
+        <t>1</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="1"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.16">
+        <t>-</t>
+        <pos class="LET()"/>
+        <lemma class="-"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.17">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.18">
+        <t>type</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="type"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.19">
+        <t>2</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="2"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.20">
+        <t>-</t>
+        <pos class="LET()"/>
+        <lemma class="-"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.21">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.22">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.39">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.2">
+        <t>werkzaamheid</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="werkzaamheid"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.3">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.4">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.5">
+        <t>werd</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.6">
+        <t>vergeleken</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="vergelijken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.7">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.8">
+        <t>die</t>
+        <pos class="VNW(aanw,pron,stan,vol,3,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.9">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.10">
+        <t>Humulin</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humulin"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.11">
+        <t>R</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="R"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.12">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.13">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.14">
+        <t>oplosbare</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="oplosbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.15">
+        <t>recombinant</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="recombinant"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.16">
+        <t>DNA</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="dna"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.17">
+        <t>humane</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="humaan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.18">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.19">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.20">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.21">
+        <t>wanneer</t>
+        <pos class="VG(onder)"/>
+        <lemma class="wanneer"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.22">
+        <t>toegevoegd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toevoegen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.23">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.24">
+        <t>één</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="één"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.25">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.26">
+        <t>twee</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="twee"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.27">
+        <t>dagelijkse</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="dagelijks"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.28">
+        <t>doses</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="dosis"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.29">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.30">
+        <t>langwerkende</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="langwerken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.31">
+        <t>insuline</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="insuline"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.32">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.40">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.1">
+        <t>In</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.2">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.3">
+        <t>studies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="studie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.4">
+        <t>werden</t>
+        <pos class="WW(pv,verl,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.5">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.6">
+        <t>gehalte</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gehalte"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.7">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.8">
+        <t>versuikerde</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="versuikeren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.9">
+        <t>hemoglobine</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="hemoglobine"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.10">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.11">
+        <t>HbA</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="HbA"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.12">
+        <t>1</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="1"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.13">
+        <t>c</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="c"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.14">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.15">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.16">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.17">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.18">
+        <t>indicatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="indicatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.19">
+        <t>geeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="geven"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.20">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.21">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.22">
+        <t>al</t>
+        <pos class="BW()"/>
+        <lemma class="al"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.23">
+        <t>dan</t>
+        <pos class="BW()"/>
+        <lemma class="dan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.24">
+        <t>niet</t>
+        <pos class="BW()"/>
+        <lemma class="niet"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.25">
+        <t>goede</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="goed"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.26">
+        <t>regulering</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="regulering"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.27">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.28">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.29">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.30">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.31">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.32">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.33">
+        <t>nuchtere</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="nuchter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.34">
+        <t>bloedsuikerwaarden</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="bloedsuikerwaard"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.35">
+        <t>gemeten</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="meten"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.36">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.41">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.1">
+        <t>Er</t>
+        <pos class="VNW(aanw,adv-pron,stan,red,3,getal)"/>
+        <lemma class="er"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.2">
+        <t>werden</t>
+        <pos class="WW(pv,verl,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.3">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.4">
+        <t>aanvullende</t>
+        <pos class="WW(od,prenom,met-e)"/>
+        <lemma class="aanvullen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.5">
+        <t>studies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="studie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.6">
+        <t>uitgevoerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="uitvoeren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.7">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.8">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.9">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.10">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.11">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.12">
+        <t>bij</t>
+        <pos class="VZ(init)"/>
+        <lemma class="bij"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.13">
+        <t>542</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="542"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.14">
+        <t>kinderen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="kind"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.15">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.16">
+        <t>adolescenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="adolescent"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.17">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.18">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.19">
+        <t>2</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="2"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.20">
+        <t>tot</t>
+        <pos class="VZ(init)"/>
+        <lemma class="tot"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.21">
+        <t>19</t>
+        <pos class="TW(hoofd,prenom,stan)"/>
+        <lemma class="19"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.22">
+        <t>jaar</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="jaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.23">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.24">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.25">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.26">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.27">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.28">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.29">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.30">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.31">
+        <t>combinatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="combinatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.32">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.33">
+        <t>sulfonylurea</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sulfonylurea"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.34">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.35">
+        <t>orale</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="oraal"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.36">
+        <t>antidiabetesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="antidiabetesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.37">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.38">
+        <t>onderzochten</t>
+        <pos class="WW(pv,verl,mv)"/>
+        <lemma class="onderzoeken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.39">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.42">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.1">
+        <t>Welke</t>
+        <pos class="VNW(vb,det,stan,prenom,met-e,rest)"/>
+        <lemma class="welke"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.2">
+        <t>voordelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="voordeel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.3">
+        <t>bleek</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="blijken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.4">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.5">
+        <t>tijdens</t>
+        <pos class="VZ(init)"/>
+        <lemma class="tijdens"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.6">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.7">
+        <t>studies</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="studie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.8">
+        <t>te</t>
+        <pos class="VZ(init)"/>
+        <lemma class="te"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.9">
+        <t>hebben</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.10">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.43">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.1">
+        <t>Er</t>
+        <pos class="VNW(aanw,adv-pron,stan,red,3,getal)"/>
+        <lemma class="er"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.2">
+        <t>waren</t>
+        <pos class="WW(pv,verl,mv)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.3">
+        <t>geen</t>
+        <pos class="VNW(onbep,det,stan,prenom,zonder,agr)"/>
+        <lemma class="geen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.4">
+        <t>statistische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="statistisch"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.5">
+        <t>verschillen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="verschil"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.6">
+        <t>merkbaar</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="merkbaar"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.7">
+        <t>tussen</t>
+        <pos class="VZ(init)"/>
+        <lemma class="tussen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.8">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.10">
+        <t>Humulin</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humulin"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.11">
+        <t>wat</t>
+        <pos class="VNW(vb,pron,stan,vol,3o,ev)"/>
+        <lemma class="wat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.12">
+        <t>betreft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="betreffen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.13">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.14">
+        <t>beheersing</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="beheersing"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.15">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.16">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.17">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.18">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.19">
+        <t>gemeten</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="meten"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.20">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.21">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.22">
+        <t>hand</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="hand"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.23">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.24">
+        <t>versuikerde</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="versuikeren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.25">
+        <t>hemoglobine</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="hemoglobine"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.26">
+        <t>of</t>
+        <pos class="VG(neven)"/>
+        <lemma class="of"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.27">
+        <t>nuchtere</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="nuchter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.28">
+        <t>bloedsuikerwaarden</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="bloedsuikerwaard"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.29">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.44">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.1">
+        <t>Welk</t>
+        <pos class="VNW(vb,det,stan,prenom,zonder,evon)"/>
+        <lemma class="welk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.2">
+        <t>risico</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="risico"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.3">
+        <t>houdt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="houden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.4">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.5">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.6">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.7">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.8">
+        <t>in</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.9">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.45">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.2">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.3">
+        <t>hypoglykemie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="hypoglykemie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.4">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.5">
+        <t>lage</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="laag"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.6">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.7">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.8">
+        <t>veroorzaken</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="veroorzaken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.9">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.46">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.1">
+        <t>Zie</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zien"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.2">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.3">
+        <t>bijsluiter</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bijsluiter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.4">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.5">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.6">
+        <t>volledige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="volledig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.7">
+        <t>beschrijving</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="beschrijving"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.8">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.9">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.10">
+        <t>gerapporteerde</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="rapporteren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.11">
+        <t>bijwerkingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="bijwerking"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.12">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.13">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.14">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.47">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.2">
+        <t>mag</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="mogen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.3">
+        <t>niet</t>
+        <pos class="BW()"/>
+        <lemma class="niet"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.4">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.5">
+        <t>gebruikt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="gebruiken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.6">
+        <t>bij</t>
+        <pos class="VZ(init)"/>
+        <lemma class="bij"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.7">
+        <t>mensen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="mensen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.8">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.9">
+        <t>overgevoelig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="overgevoelig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.10">
+        <t>zijn</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.11">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.12">
+        <t>één</t>
+        <pos class="TW(hoofd,nom,zonder-n,basis)"/>
+        <lemma class="één"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.13">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.14">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.15">
+        <t>bestanddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="bestanddeel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.16">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.48">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.1">
+        <t>Het</t>
+        <pos class="VNW(pers,pron,stan,red,3,ev,onz)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.2">
+        <t>kan</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.3">
+        <t>nodig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="nodig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.4">
+        <t>zijn</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.5">
+        <t>dat</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.6">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.7">
+        <t>dosering</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="dosering"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.8">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.9">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.10">
+        <t>moet</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="moeten"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.11">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.12">
+        <t>aangepast</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="aanpassen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.13">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.14">
+        <t>wanneer</t>
+        <pos class="VG(onder)"/>
+        <lemma class="wanneer"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.15">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.16">
+        <t>middel</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="middel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.17">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.18">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.19">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.20">
+        <t>combinatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="combinatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.21">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.22">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.23">
+        <t>aantal</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="aantal"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.24">
+        <t>geneesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="geneesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.25">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.26">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.27">
+        <t>invloed</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="invloed"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.28">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.29">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.30">
+        <t>bloedsuikerspiegel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bloedsuikerspiegel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.31">
+        <t>kunnen</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="kunnen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.32">
+        <t>hebben</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.33">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.34">
+        <t>zie</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zien"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.35">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.36">
+        <t>bijsluiter</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bijsluiter"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.37">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.38">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.39">
+        <t>volledige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="volledig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.40">
+        <t>lijst</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="lijst"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.41">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.42">
+        <t>geneesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="geneesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.43">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.44">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.49">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.1">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.2">
+        <t>Mix</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Mix"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.3">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.4">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.5">
+        <t>NPL</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="NPL"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.6">
+        <t>mogen</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="mogen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.7">
+        <t>onder</t>
+        <pos class="VZ(init)"/>
+        <lemma class="onder"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.8">
+        <t>geen</t>
+        <pos class="VNW(onbep,det,stan,prenom,zonder,agr)"/>
+        <lemma class="geen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.9">
+        <t>enkele</t>
+        <pos class="VNW(onbep,det,stan,prenom,met-e,rest)"/>
+        <lemma class="enkele"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.10">
+        <t>omstandigheid</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="omstandigheid"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.11">
+        <t>intraveneus</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="intraveneus"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.12">
+        <t>worden</t>
+        <pos class="WW(inf,vrij,zonder)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.13">
+        <t>toegediend</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toedienen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.14">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.50">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.1">
+        <t>Waarom</t>
+        <pos class="BW()"/>
+        <lemma class="waarom"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.3">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.4">
+        <t>goedgekeurd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="goedkeuren"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.5">
+        <t>?</t>
+        <pos class="LET()"/>
+        <lemma class="?"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.51">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.1">
+        <t>Het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.2">
+        <t>Comité</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="comité"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.3">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.4">
+        <t>geneesmiddelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="geneesmiddel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.5">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.6">
+        <t>menselijk</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="menselijk"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.7">
+        <t>gebruik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="gebruik"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.8">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.9">
+        <t>CHMP</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="CHMP"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.10">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.11">
+        <t>heeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.12">
+        <t>geconcludeerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="concluderen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.13">
+        <t>dat</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dat"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.14">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.15">
+        <t>voordelen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="voordeel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.16">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.17">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.18">
+        <t>groter</t>
+        <pos class="ADJ(vrij,comp,zonder)"/>
+        <lemma class="groot"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.19">
+        <t>zijn</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.20">
+        <t>dan</t>
+        <pos class="VG(onder)"/>
+        <lemma class="dan"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.21">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.22">
+        <t>risico's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="risico"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.23">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.24">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.25">
+        <t>behandeling</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="behandeling"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.26">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.27">
+        <t>diabetes</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="diabetes"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.28">
+        <t>mellitus</t>
+        <pos class="ADJ(postnom,basis,zonder)"/>
+        <lemma class="mellitus"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.29">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.52">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.1">
+        <t>Het</t>
+        <pos class="VNW(pers,pron,stan,red,3,ev,onz)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.2">
+        <t>bracht</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="brengen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.3">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.4">
+        <t>positief</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="positief"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.5">
+        <t>advies</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="advies"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.6">
+        <t>uit</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="uit"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.7">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.8">
+        <t>goedkeuring</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="goedkeuring"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.9">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.10">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.11">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.12">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.13">
+        <t>handel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="handel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.14">
+        <t>brengen</t>
+        <pos class="WW(inf,nom,zonder,zonder-n)"/>
+        <lemma class="brengen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.15">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.16">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.17">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.53">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.1">
+        <t>Overige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="overig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.2">
+        <t>informatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="informatie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.3">
+        <t>over</t>
+        <pos class="VZ(init)"/>
+        <lemma class="over"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.4">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.5">
+        <t>:</t>
+        <pos class="LET()"/>
+        <lemma class=":"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.54">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.1">
+        <t>Op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.2">
+        <t>30</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="30"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.3">
+        <t>april</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="april"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.4">
+        <t>1996</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="1996"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.5">
+        <t>verleende</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="verlenen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.6">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.7">
+        <t>Europese</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="europees"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.8">
+        <t>Commissie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="commissie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.9">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.10">
+        <t>firma</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="firma"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.11">
+        <t>Eli</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Eli"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.12">
+        <t>Lilly</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Lilly"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.13">
+        <t>Nederland</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Nederland"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.14">
+        <t>B.V</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="B.V"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.15">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.16">
+        <t>vergunning</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="vergunning"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.17">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.18">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.19">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.20">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.21">
+        <t>handel</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="handel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.22">
+        <t>brengen</t>
+        <pos class="WW(inf,nom,zonder,zonder-n)"/>
+        <lemma class="brengen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.23">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.24">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.25">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.26">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.27">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.28">
+        <t>hele</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="heel"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.29">
+        <t>Europese</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Europese"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.30">
+        <t>Unie</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Unie"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.31">
+        <t>geldig</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="geldig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.32">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.33">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.55">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.2">
+        <t>vergunning</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="vergunning"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.3">
+        <t>werd</t>
+        <pos class="WW(pv,verl,ev)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.4">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.5">
+        <t>30</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="30"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.6">
+        <t>april</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="april"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.7">
+        <t>2001</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="2001"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.8">
+        <t>hernieuwd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="hernieuwen"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.9">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.56">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.1">
+        <t>Klik</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="klikken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.2">
+        <t>hier</t>
+        <pos class="VNW(aanw,adv-pron,obl,vol,3o,getal)"/>
+        <lemma class="hier"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.3">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.4">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.5">
+        <t>volledige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="volledig"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.6">
+        <t>EPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="EPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.7">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.8">
+        <t>Humalog</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Humalog"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.9">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.57">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.1">
+        <t>Deze</t>
+        <pos class="VNW(aanw,det,stan,prenom,met-e,rest)"/>
+        <lemma class="deze"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.2">
+        <t>samenvatting</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="samenvatting"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.4">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.5">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.6">
+        <t>laatst</t>
+        <pos class="ADJ(vrij,sup,zonder)"/>
+        <lemma class="laatst"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.7">
+        <t>bijgewerkt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="bijwerken"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.8">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.9">
+        <t>1</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="1"/>
+      </w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.10">
+        <t>-2006</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="-2006"/>
+      </w>
+    </s>
+  </text>
+</FoLiA>

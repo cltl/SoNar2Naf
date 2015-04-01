@@ -1,0 +1,897 @@
+<DCOI xmlns="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:imdi="http://www.mpi.nl/IMDI/Schema/IMDI" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dcoi="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:folia="http://ilk.uvt.nl/folia" xml:id="allwords-dpc-dns-001065-nl-sen">
+  <body>
+    <text xml:id="allwords-dpc-dns-001065-nl-sen.text.1">
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.1">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.1.w.1" pos="BW()" lemma="hoe">Hoe</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.1.w.2" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.2">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.1" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">Wie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.4" pos="LET()" lemma=".">.</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="be-domein">be-domein</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.6" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.2.w.7" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.3">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.1" pos="VNW(onbep,pron,stan,vol,3p,ev)" lemma="iedereen">Iedereen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="be-domein">be-domein</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.5" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.6" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.7" pos="BW()" lemma="zowel">zowel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.8" pos="N(soort,mv,basis)" lemma="bedrijf">bedrijven</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.9" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.10" pos="N(soort,mv,basis)" lemma="organisatie">organisaties</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.11" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.12" pos="N(soort,mv,basis)" lemma="particulier">particulieren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.3.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.4">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.1" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">U</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.2" pos="WW(pv,tgw,met-t)" lemma="hoeven">hoeft</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.3" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="inwoner">inwoner</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.6" pos="SPEC(deeleigen)" lemma="België">België</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.7" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.8" pos="WW(inf,vrij,zonder)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.9" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.10" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="bedrijf">bedrijf</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.12" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.13" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.14" pos="SPEC(deeleigen)" lemma="België">België</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.15" pos="WW(vd,vrij,zonder)" lemma="vestigen">gevestigd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.16" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.17" pos="WW(inf,vrij,zonder)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.4.w.18" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.5">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.1" pos="VZ(init)" lemma="door">Door</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.2" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.4" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.5" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.6" pos="WW(pv,tgw,met-t)" lemma="bekomen">bekomt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.7" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.8" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.9" pos="ADJ(prenom,basis,zonder)" lemma="jaarlijks">jaarlijks</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.10" pos="ADJ(vrij,basis,zonder)" lemma="gebruiksrecht">gebruiksrecht</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.11" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.12" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.5.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.6">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.3" pos="WW(pv,tgw,met-t)" lemma="kunnen">kunt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.4" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.5" pos="BW()" lemma="dus">dus</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.6" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.7" pos="WW(inf,vrij,zonder)" lemma="kopen">kopen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.8" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.9" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.10" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="eigendom">eigendom</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.12" pos="WW(pv,tgw,mv)" lemma="beschouwen">beschouwen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.6.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.7">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.1" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">Wie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaamhouder">domeinnaamhouder</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.4" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.5" pos="ADJ(vrij,basis,zonder)" lemma="particulier">particulier</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.6" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="bedrijf">bedrijf</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.8" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.9" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.10" pos="ADJ(vrij,basis,zonder)" lemma="uitvoerig">uitvoerig</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.11" pos="WW(vd,vrij,zonder)" lemma="bespreken">besproken</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.12" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.13" pos="SPEC(deeleigen)" lemma="FAQ">FAQ</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.14" pos="SPEC(deeleigen)" lemma="20">20</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.7.w.15" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.8">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.3" pos="WW(pv,tgw,met-t)" lemma="kunnen">kunt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.4" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.5" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="enkel">enkel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.6" pos="WW(inf,vrij,zonder)" lemma="aanvragen">aanvragen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.7" pos="VZ(init)" lemma="via">via</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.8" pos="TW(hoofd,prenom,stan)" lemma="één">één</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.10" pos="VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)" lemma="ons">onze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="registreren">geregistreerde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.12" pos="N(soort,mv,basis)" lemma="agent">agenten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.8.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.9">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.1" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dat">Dat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.2" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.3" pos="ADJ(vrij,basis,zonder)" lemma="voornamelijk">voornamelijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.4" pos="N(soort,ev,basis,onz,stan)" lemma="internet">Internet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.5" pos="SPEC(deeleigen)" lemma="Service">Service</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.6" pos="SPEC(deeleigen)" lemma="Providers">Providers</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.7" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.8" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.9" pos="SPEC(deeleigen)" lemma="DNS">DNS</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.10" pos="SPEC(deeleigen)" lemma="België">België</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.11" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="contract">contract</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.13" pos="WW(vd,vrij,zonder)" lemma="ondertekenen">ondertekend</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.14" pos="WW(inf,vrij,zonder)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.16" pos="BW()" lemma="waardoor">waardoor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.17" pos="VNW(pers,pron,stan,red,3,mv)" lemma="ze">ze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.18" pos="WW(vd,vrij,zonder)" lemma="machtigen">gemachtigd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.19" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.20" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.21" pos="N(soort,mv,basis)" lemma="domeinnaam">domeinnamen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.22" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.23" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.9.w.24" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.10">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.1" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">U</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.2" pos="WW(pv,tgw,met-t)" lemma="vinden">vindt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="lijst">lijst</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.6" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.7" pos="N(soort,mv,basis)" lemma="agent">agenten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.8" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.9" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="website">website</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.10.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.11">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.1" pos="VG(onder)" lemma="indien">Indien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.2" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.5" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.6" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="ander">andere</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="suffix">suffix</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.9" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.10" pos="LET()" lemma=".">.</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.11" pos="SPEC(vreemd)" lemma="be">be</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.12" pos="WW(pv,tgw,met-t)" lemma="wensen">wenst</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.13" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.14" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.16" pos="WW(pv,tgw,mv)" lemma="verwijzen">verwijzen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.17" pos="VNW(pers,pron,nomin,vol,1,mv)" lemma="wij">wij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.18" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.19" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.20" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.21" pos="N(soort,ev,basis,onz,stan)" lemma="overzicht">overzicht</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.22" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.23" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.24" pos="N(soort,mv,basis)" lemma="instantie">instanties</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.25" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.26" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.27" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.28" pos="ADJ(prenom,basis,met-e,stan)" lemma="ander">andere</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.29" pos="N(soort,mv,basis)" lemma="topleveldomein">topleveldomeinen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.30" pos="ADJ(vrij,basis,zonder)" lemma="verantwoordelijk">verantwoordelijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.31" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.11.w.32" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.12">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.3" pos="N(soort,mv,basis)" lemma="aanvraag">aanvragen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.4" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="stap">stap</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.6" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.12.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="stap">stap</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.13">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.13.w.1" pos="WW(pv,tgw,ev)" lemma="kiezen">Kies</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.13.w.2" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.13.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="naam">naam</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.14">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.3" pos="WW(pv,tgw,ev)" lemma="moeten">moet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.4" pos="ADJ(vrij,basis,zonder)" lemma="uniek">uniek</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.5" pos="WW(inf,vrij,zonder)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.14.w.6" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.15">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.1" pos="VZ(init)" lemma="om">Om</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.2" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.3" pos="WW(inf,vrij,zonder)" lemma="zien">zien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.4" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.5" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.6" pos="ADJ(prenom,basis,met-e,stan)" lemma="bepalen">bepaalde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="naam">naam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.8" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.9" pos="ADJ(vrij,basis,zonder)" lemma="beschikbaar">beschikbaar</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.10" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.11" pos="WW(pv,tgw,mv)" lemma="verwijzen">verwijzen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.12" pos="VNW(pers,pron,nomin,vol,1,mv)" lemma="wij">wij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.13" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.14" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="whois-zoekfunctie">WHOIS-zoekfunctie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.16" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.17" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.18" pos="BW()" lemma="bovenaan">bovenaan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.19" pos="VNW(onbep,det,stan,prenom,met-e,evz)" lemma="elke">elke</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="bladzijde">bladzijde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.21" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.22" pos="VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)" lemma="ons">onze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.23" pos="N(soort,ev,basis,zijd,stan)" lemma="website">website</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.24" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.25" pos="VNW(aanw,adv-pron,obl,vol,3o,getal)" lemma="hier">hier</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.26" pos="WW(pv,tgw,met-t)" lemma="terugvinden">terugvindt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.15.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.16">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.1" pos="N(soort,mv,basis)" lemma="domeinnaam">Domeinnamen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.2" pos="WW(pv,tgw,mv)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.3" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="aantal">aantal</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.6" pos="ADJ(prenom,basis,met-e,stan)" lemma="technisch">technische</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.7" pos="ADJ(nom,basis,met-e,mv-n)" lemma="vereist">vereisten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.8" pos="WW(inf,vrij,zonder)" lemma="voldoen">voldoen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.16.w.9" pos="LET()" lemma=":">:</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.17">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.1" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="minimum">minimum</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.3" pos="TW(hoofd,prenom,stan)" lemma="2">2</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.4" pos="N(soort,mv,basis)" lemma="letterteken">lettertekens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.6" pos="SPEC(symb)" lemma="a">a</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.7" pos="VZ(init)" lemma="tot">tot</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.8" pos="SPEC(symb)" lemma="z">z</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.10" pos="TW(hoofd,vrij)" lemma="0">0</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.11" pos="VZ(init)" lemma="tot">tot</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.12" pos="TW(hoofd,vrij)" lemma="9">9</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.13" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.14" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.15" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.16" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.17" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.17.w.18" pos="LET()" lemma=";">;</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.18">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.18.w.1" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.18.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="maximum">maximum</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.18.w.3" pos="TW(hoofd,prenom,stan)" lemma="63">63</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.18.w.4" pos="N(soort,mv,basis)" lemma="letterteken">lettertekens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.18.w.5" pos="LET()" lemma=";">;</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.19">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.1" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.2" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.3" pos="WW(inf,vrij,zonder)" lemma="beginnen">beginnen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.4" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.5" pos="WW(inf,vrij,zonder)" lemma="eindigen">eindigen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.6" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.7" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="koppelteken">koppelteken</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.9" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.10" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.11" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.12" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.13" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.19.w.14" pos="LET()" lemma=";">;</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.20">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.1" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.2" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.3" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.4" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.5" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.6" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="3">3e</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.10" pos="TW(rang,prenom,stan)" lemma="4">4e</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="positie">positie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.20.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.21">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.1" pos="VNW(onbep,grad,stan,prenom,zonder,agr,comp)" lemma="veel">Meer</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.2" pos="N(soort,mv,basis)" lemma="detail">details</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.3" pos="WW(pv,tgw,met-t)" lemma="vinden">vindt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.4" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.5" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="algemeen">algemene</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.8" pos="N(soort,mv,basis)" lemma="voorwaarde">voorwaarden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.21.w.9" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.22">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.22.w.1" pos="WW(pv,tgw,ev)" lemma="kiezen">Kies</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.22.w.2" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.22.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.23">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.1" pos="VG(onder)" lemma="zodra">Zodra</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.2" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.5" pos="WW(vd,vrij,zonder)" lemma="kiezen">gekozen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.6" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.7" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.8" pos="WW(pv,tgw,met-t)" lemma="contacteren">contacteert</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.9" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.10" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.11" pos="WW(vd,prenom,met-e)" lemma="registreren">geregistreerde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.23.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.24">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="lijst">lijst</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.3" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.4" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.5" pos="N(soort,mv,basis)" lemma="agent">agenten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.6" pos="WW(pv,tgw,met-t)" lemma="vinden">vindt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.7" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.8" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.9" pos="VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)" lemma="ons">onze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="website">website</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.24.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.25">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.25.w.1" pos="WW(pv,tgw,ev)" lemma="lezen">Lees</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.25.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.25.w.3" pos="N(soort,mv,basis)" lemma="voorwaarde">voorwaarden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.25.w.4" pos="LET()" lemma="!">!</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.26">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.3" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.5" pos="LET()" lemma=".">.</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.6" pos="SPEC(vreemd)" lemma="be">be</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.8" pos="WW(pv,tgw,met-t)" lemma="houden">houdt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.9" pos="VZ(fin)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.10" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.11" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.12" pos="VNW(refl,pron,obl,red,3,getal)" lemma="zich">zich</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.13" pos="ADJ(vrij,basis,zonder)" lemma="uitdrukkelijk">uitdrukkelijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.14" pos="N(soort,ev,basis,onz,stan)" lemma="akkoord">akkoord</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.15" pos="WW(pv,tgw,met-t)" lemma="verklaren">verklaart</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.16" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.17" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.18" pos="ADJ(prenom,basis,met-e,stan)" lemma="algemeen">algemene</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.19" pos="N(soort,mv,basis)" lemma="voorwaarde">voorwaarden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.20" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.21" pos="N(soort,mv,basis)" lemma="eindgebruiker">eindgebruikers</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.26.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.27">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.3" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.4" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.5" pos="WW(vd,vrij,zonder)" lemma="kiezen">gekozen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.6" pos="WW(pv,tgw,met-t)" lemma="hebben">hebt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.7" pos="WW(pv,tgw,met-t)" lemma="dienen">dient</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.8" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.9" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.10" pos="N(soort,mv,basis)" lemma="voorwaarde">voorwaarden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.11" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.15" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="domein">domein</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.17" pos="VZ(fin)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.18" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.19" pos="WW(inf,vrij,zonder)" lemma="leggen">leggen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.20" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.21" pos="VG(neven)" lemma="hetzij">hetzij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.22" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.23" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.24" pos="ADJ(prenom,basis,met-e,stan)" lemma="formeel">formele</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="ondertekening">ondertekening</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.26" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.27" pos="VG(neven)" lemma="hetzij">hetzij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.28" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.29" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.30" pos="ADJ(prenom,basis,met-e,stan)" lemma="expliciet">expliciete</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="aanvaarding">aanvaarding</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.32" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.33" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.34" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.35" pos="ADJ(vrij,basis,zonder)" lemma="on-line">on-line</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.36" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.37" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.27.w.38" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.28">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.1" pos="VG(onder)" lemma="indien">Indien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.2" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.4" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.5" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.6" pos="N(soort,mv,basis)" lemma="voorwaarde">voorwaarden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.7" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.8" pos="WW(pv,verl,ev)" lemma="zullen">zou</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.9" pos="WW(inf,vrij,zonder)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.10" pos="WW(vd,vrij,zonder)" lemma="voorleggen">voorgelegd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.11" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.12" pos="WW(pv,tgw,met-t)" lemma="kunnen">kunt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.13" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.14" pos="VNW(pers,pron,stan,red,3,mv)" lemma="ze">ze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.15" pos="VNW(aanw,adv-pron,obl,vol,3o,getal)" lemma="hier">hier</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.16" pos="WW(inf,vrij,zonder)" lemma="raadplegen">raadplegen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.28.w.17" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.29">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="bezorg">Bezorg</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.3" pos="ADJ(prenom,basis,met-e,stan)" lemma="nodig">nodige</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.4" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.5" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.29.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.30">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.1" pos="WW(od,prenom,met-e)" lemma="volgen">Volgende</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.2" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.3" pos="WW(pv,tgw,met-t)" lemma="zullen">zult</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.4" pos="VNW(pr,pron,obl,vol,2,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.5" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.8" pos="WW(inf,vrij,zonder)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.9" pos="WW(inf,vrij,zonder)" lemma="bezorgen">bezorgen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.10" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.11" pos="ADJ(vrij,basis,zonder)" lemma="eventueel">eventueel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="bedrijfsnaam">bedrijfsnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.13" pos="SPEC(symb)" lemma="+">+</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="contactpersoon">contactpersoon</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.15" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.16" pos="N(soort,ev,basis,zijd,stan)" lemma="naam">naam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.17" pos="SPEC(symb)" lemma="+">+</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="tel">tel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.19" pos="SPEC(symb)" lemma="+">+</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="adres">adres</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.21" pos="SPEC(symb)" lemma="+">+</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.22" pos="ADJ(vrij,basis,zonder)" lemma="geldig">geldig</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.23" pos="SPEC(vreemd)" lemma="emailadres">emailadres</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.30.w.24" pos="LET()" lemma="!!!">!!!</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.31">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.2" pos="ADJ(prenom,basis,zonder)" lemma="geldig">geldig</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="e-mailadres">e-mailadres</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.4" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.5" pos="ADJ(vrij,basis,zonder)" lemma="uiterst">uiterst</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.6" pos="ADJ(vrij,basis,zonder)" lemma="belangrijk">belangrijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.7" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.8" pos="VG(onder)" lemma="omdat">omdat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.9" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dit">dit</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.10" pos="VNW(pr,pron,obl,vol,1,mv)" lemma="ons">ons</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.11" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="enig">enig</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.12" pos="ADJ(prenom,basis,zonder)" lemma="direct">direct</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.13" pos="N(soort,ev,basis,onz,stan)" lemma="communicatiemiddel">communicatiemiddel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.14" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.15" pos="VNW(pr,pron,obl,vol,2,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.16" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.17" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.18" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.19" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.20" pos="SPEC(afk)" lemma="oa.">oa.</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.21" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.22" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.23" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.24" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.25" pos="WW(inf,vrij,zonder)" lemma="contacteren">contacteren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.26" pos="VG(onder)" lemma="indien">indien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.27" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.28" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.30" pos="WW(pv,tgw,met-t)" lemma="wensen">wenst</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.31" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.32" pos="WW(inf,vrij,zonder)" lemma="veranderen">veranderen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.31.w.33" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.32">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.3" pos="VZ(init)" lemma="zonder">zonder</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.4" pos="WW(od,prenom,zonder)" lemma="werken">werkend</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="e-mailadres">e-mailadres</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.6" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.7" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.8" pos="SPEC(deeleigen)" lemma="DNS">DNS</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.9" pos="WW(vd,vrij,zonder)" lemma="intrekken">ingetrokken</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.10" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.32.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.33">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.1" pos="WW(pv,tgw,ev)" lemma="liggen">Let</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.2" pos="VZ(fin)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.3" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.4" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.5" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.6" pos="ADJ(vrij,basis,zonder)" lemma="belangrijk">belangrijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.7" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="voorhand">voorhand</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.9" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.10" pos="WW(inf,vrij,zonder)" lemma="weten">weten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.11" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">wie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaamhouder">domeinnaamhouder</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.13" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.14" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="privépersoon">privépersoon</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.16" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.17" pos="N(soort,ev,basis,onz,stan)" lemma="bedrijf">bedrijf</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.18" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.19" pos="WW(pv,tgw,ev)" lemma="zien">zie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.20" pos="SPEC(deeleigen)" lemma="FAQ">FAQ</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.21" pos="TW(hoofd,vrij)" lemma="20">20</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.22" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.33.w.23" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.34">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.34.w.1" pos="WW(inf,vrij,zonder)" lemma="invullen">Invullen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.34.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="formulier">formulier</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.35">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.3" pos="WW(pv,tgw,met-t)" lemma="vullen">vult</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.5" pos="ADJ(prenom,basis,zonder)" lemma="elektronisch">elektronisch</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="formulier">formulier</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.7" pos="VZ(fin)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.8" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.9" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.10" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.11" pos="WW(pv,tgw,met-t)" lemma="vullen">vult</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.12" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.13" pos="BW()" lemma="zelf">zelf</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.14" pos="VZ(fin)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.15" pos="VG(onder)" lemma="indien">indien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.18" pos="SPEC(vreemd)" lemma="on">on</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.19" pos="SPEC(vreemd)" lemma="line">line</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.20" pos="WW(pv,tgw,met-t)" lemma="gebeuren">gebeurt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.21" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.35.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.36">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.1" pos="WW(pv,tgw,ev)" lemma="controleren">Controleer</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.2" pos="ADJ(vrij,basis,zonder)" lemma="zeker">zeker</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.3" pos="VG(onder)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.5" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.6" pos="ADJ(vrij,basis,zonder)" lemma="correct">correct</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.7" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.36.w.8" pos="LET()" lemma="!!">!!</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.37">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.1" pos="ADJ(vrij,basis,zonder)" lemma="belangrijk">Belangrijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.3" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.4" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.5" pos="ADJ(vrij,basis,zonder)" lemma="zeker">zeker</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.6" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.7" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.8" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.10" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.11" pos="VNW(aanw,pron,stan,vol,3,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.15" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.16" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="tussenpersoon">tussenpersoon</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.18" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.19" pos="BW()" lemma="bv">bv</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="webdesigner">webdesigner</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.21" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.37.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.38">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.1" pos="VG(onder)" lemma="indien">Indien</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.2" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.3" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dit">dit</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.4" pos="BW()" lemma="pas">pas</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.5" pos="ADJ(vrij,comp,zonder)" lemma="later">later</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.6" pos="WW(vd,vrij,zonder)" lemma="ontdekken">ontdekt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.7" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.8" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.9" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">er</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.10" pos="BW()" lemma="wel">wel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.11" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="probleem">probleem</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.13" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.14" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.15" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.16" pos="SPEC(vreemd)" lemma="up">up</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.17" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.18" pos="WW(inf,nom,zonder,zonder-n)" lemma="daten">daten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.38.w.19" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.39">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.1" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dit">Dit</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.3" pos="BW()" lemma="enkel">enkel</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.4" pos="WW(vd,vrij,zonder)" lemma="rechtzetten">rechtgezet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.5" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.6" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="hand">hand</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="transactie">transactie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.12" pos="SPEC(deeleigen)" lemma="TRADE-DOMAIN">TRADE-DOMAIN</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.13" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.14" pos="BW()" lemma="waarvoor">waarvoor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.15" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.16" pos="BW()" lemma="opnieuw">opnieuw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.17" pos="WW(pv,tgw,met-t)" lemma="betalen">betaalt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.18" pos="VG(onder)" lemma="zoals">zoals</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.19" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.20" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.21" pos="ADJ(prenom,basis,met-e,stan)" lemma="nieuw">nieuwe</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.23" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.24" pos="BW()" lemma="waarvoor">waarvoor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.25" pos="VNW(onbep,grad,stan,prenom,met-e,mv,basis)" lemma="beide">beide</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.26" pos="N(soort,mv,basis)" lemma="partij">partijen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.27" pos="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" lemma="hun">hun</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.28" pos="N(soort,ev,basis,onz,stan)" lemma="akkoord">akkoord</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.29" pos="WW(pv,tgw,mv)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.30" pos="WW(inf,vrij,zonder)" lemma="geven">geven</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.39.w.31" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.40">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.40.w.1" pos="WW(inf,vrij,zonder)" lemma="registreren">Registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.40.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.41">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.3" pos="WW(pv,tgw,met-t)" lemma="gebeuren">gebeurt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.4" pos="ADJ(vrij,basis,zonder)" lemma="volledig">volledig</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.5" pos="ADJ(vrij,basis,zonder)" lemma="automatisch">automatisch</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.6" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.7" pos="VG(neven)" lemma="hetzij">hetzij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.8" pos="VZ(init)" lemma="via">via</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="e-mail">e-mail</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.10" pos="VG(neven)" lemma="hetzij">hetzij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.11" pos="VZ(init)" lemma="via">via</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.12" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="on-linetransactie">on-linetransactie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.41.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.42">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="formulier">formulier</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.3" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.4" pos="VNW(pr,pron,obl,vol,1,mv)" lemma="ons">ons</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.5" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.6" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.8" pos="WW(vd,vrij,zonder)" lemma="bezorgd">bezorgd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.42.w.9" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.43">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.3" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.4" pos="ADJ(vrij,basis,zonder)" lemma="automatisch">automatisch</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.5" pos="WW(vd,vrij,zonder)" lemma="registreren">geregistreerd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.6" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="periode">periode</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.10" pos="TW(hoofd,prenom,stan)" lemma="één">één</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.43.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.44">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.3" pos="WW(pv,tgw,met-t)" lemma="ontvangen">ontvangt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.4" pos="BW()" lemma="hiervan">hiervan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.5" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="bevestiging">bevestiging</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.44.w.7" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.45">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.1" pos="VG(onder)" lemma="zodra">Zodra</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.4" pos="WW(vd,vrij,zonder)" lemma="registreren">geregistreerd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.5" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.6" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.7" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.8" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.9" pos="ADJ(prenom,basis,met-e,stan)" lemma="overeenkomstig">overeenkomstige</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.10" pos="N(soort,ev,basis,onz,stan)" lemma="bedrag">bedrag</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.11" pos="ADJ(vrij,basis,zonder)" lemma="automatisch">automatisch</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="rekening">rekening</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.15" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.18" pos="WW(vd,vrij,zonder)" lemma="aftrekken">afgetrokken</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.45.w.19" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.46">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="schrijffout">schrijffout</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.3" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.6" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.7" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.8" pos="WW(vd,vrij,zonder)" lemma="wijzigen">gewijzigd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.9" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.10" pos="LET()" lemma=";">;</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.11" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="agent">agent</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.13" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.14" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.15" pos="WW(vd,vrij,zonder)" lemma="noodzaken">genoodzaakt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.17" pos="ADJ(prenom,basis,met-e,stan)" lemma="correct">correcte</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="naam">naam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.19" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.20" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.21" pos="WW(inf,vrij,zonder)" lemma="registreren">registreren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.22" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.23" pos="TW(hoofd,prenom,stan)" lemma="twee">twee</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.24" pos="N(soort,ev,basis,zijd,stan)" lemma="maal">maal</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.25" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.26" pos="WW(inf,vrij,zonder)" lemma="betalen">betalen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.46.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.47">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.47.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="activering">Activering</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.48">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.1" pos="VZ(init)" lemma="sedert">Sedert</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.2" pos="TW(hoofd,vrij)" lemma="24">24</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.3" pos="LET()" lemma="/">/</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.4" pos="SPEC(symb)" lemma="08">08</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.5" pos="LET()" lemma="/">/</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.6" pos="SPEC(symb)" lemma="05">05</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.7" pos="WW(pv,tgw,mv)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.8" pos="ADJ(vrij,basis,zonder)" lemma="nieuw">nieuw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.9" pos="WW(vd,prenom,met-e)" lemma="registreren">geregistreerde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.10" pos="N(soort,mv,basis)" lemma="domeinnaam">domeinnamen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.11" pos="ADJ(vrij,basis,zonder)" lemma="dadelijk">dadelijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.12" pos="WW(vd,vrij,zonder)" lemma="activeren">geactiveerd</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.48.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.49">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.49.w.1" pos="SPEC(deeleigen)" lemma="WHOIS">WHOIS</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.50">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.1" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">Uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.3" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.4" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="registratie">registratie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.6" pos="ADJ(vrij,basis,zonder)" lemma="onmiddellijk">onmiddellijk</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.7" pos="WW(vd,vrij,zonder)" lemma="opnemen">opgenomen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.8" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.10" pos="SPEC(deeleigen)" lemma="WHOIS-database">WHOIS-database</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.50.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.51">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.1" pos="BW()" lemma="zo">Zo</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.3" pos="VNW(onbep,pron,stan,vol,3p,ev)" lemma="iedereen">iedereen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.4" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.5" pos="N(soort,mv,basis)" lemma="gegeven">gegevens</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.6" pos="WW(inf,vrij,zonder)" lemma="raadplegen">raadplegen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.7" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.8" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dit">dit</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.9" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="bedoeling">bedoeling</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.12" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.13" pos="VNW(onbep,pron,stan,vol,3p,ev)" lemma="iedereen">iedereen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.14" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.15" pos="N(soort,ev,basis,onz,stan)" lemma="recht">recht</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.16" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.17" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.18" pos="WW(inf,vrij,zonder)" lemma="weten">weten</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.19" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">wie</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.20" pos="VZ(init)" lemma="achter">achter</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.21" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.23" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.24" pos="ADJ(prenom,basis,met-e,stan)" lemma="eventueel">eventuele</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="website">website</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.26" pos="WW(pv,tgw,met-t)" lemma="schuilgaan">schuilgaat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.51.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.52">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.1" pos="BW()" lemma="uiteraard">Uiteraard</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.2" pos="WW(inf,vrij,zonder)" lemma="staan">staan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.3" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.4" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="whois-database">WHOIS-database</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.6" pos="N(soort,mv,basis)" lemma="beperking">beperkingen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.7" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.8" pos="N(soort,mv,basis)" lemma="misbruik">misbruiken</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.9" pos="VZ(fin)" lemma="tegen">tegen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.10" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.11" pos="WW(inf,vrij,zonder)" lemma="gaan">gaan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.52.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.53">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.1" pos="VNW(pers,pron,nomin,red,3p,ev,masc)" lemma="men">Men</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.3" pos="ADJ(vrij,basis,zonder)" lemma="maximaal">maximaal</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.4" pos="TW(hoofd,prenom,stan)" lemma="1">1</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.6" pos="VZ(init)" lemma="per">per</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="seconde">seconde</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.8" pos="WW(inf,vrij,zonder)" lemma="opvragen">opvragen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.9" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.10" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="maximum">maximum</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.13" pos="TW(hoofd,prenom,stan)" lemma="100">100</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.14" pos="N(soort,mv,basis)" lemma="domein">domeinen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.15" pos="VZ(init)" lemma="per">per</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="uur">uur</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.53.w.17" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.54">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.1" pos="VNW(onbep,pron,stan,vol,3p,ev)" lemma="iedereen">Iedereen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.2" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="domeinnaam">domeinnaam</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.5" pos="WW(pv,tgw,met-t)" lemma="opvragen">opvraagt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.6" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.7" pos="WW(pv,tgw,met-t)" lemma="onderwerpen">onderwerpt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.8" pos="VNW(refl,pron,obl,red,3,getal)" lemma="zich">zich</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.9" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.11" pos="SPEC(deeleigen)" lemma="WHOIS">WHOIS</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.12" pos="SPEC(deeleigen)" lemma="Disclaimer">Disclaimer</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.54.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-dns-001065-nl-sen.s.55">
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.1" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dit">Dit</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.2" pos="WW(pv,tgw,met-t)" lemma="komen">komt</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.3" pos="BW()" lemma="erop">erop</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.4" pos="BW()" lemma="neer">neer</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.5" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.6" pos="N(soort,mv,basis)" lemma="opzoeking">opzoekingen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.7" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.8" pos="WW(inf,vrij,zonder)" lemma="mogen">mogen</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.9" pos="WW(inf,vrij,zonder)" lemma="gebeuren">gebeuren</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.10" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="commerciëal">commerciële</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.12" pos="N(soort,mv,basis)" lemma="doeleinde">doeleinden</w>
+      <w xml:id="allwords-dpc-dns-001065-nl-sen.s.55.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+  </text>
+  </body>
+</DCOI>
+

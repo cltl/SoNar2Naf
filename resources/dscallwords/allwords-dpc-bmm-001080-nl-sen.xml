@@ -1,0 +1,1848 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="allwords-dpc-bmm-001080-nl-sen" version="0.8.0" generator="pynlpl.formats.folia-v0.8.0.18">
+  <metadata type="native">
+    <annotations>
+      <pos-annotation set="cgn"/>
+      <lemma-annotation set="lemmas-nl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="allwords-dpc-bmm-001080-nl-sen.text.1">
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.1">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.1.w.1">
+        <t>Fysico-chemische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="fysico-chemisch"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.1.w.2">
+        <t>metingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="meting"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.2">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.2">
+        <t>BMM</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="BMM"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.3">
+        <t>verricht</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="verrichten"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.4">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.5">
+        <t>routinebasis</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="routinebasis"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.6">
+        <t>analyses</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="analyse"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.7">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.8">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.9">
+        <t>aantal</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="aantal"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.10">
+        <t>fysisch-chemische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="fysisch-chemisch"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.11">
+        <t>determinanten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="determinant"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.12">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.13">
+        <t>mariene</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="marien"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.14">
+        <t>matrices</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="matrix"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.15">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.16">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.17">
+        <t>hoofdzaak</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="hoofdzaak"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.18">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.19">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.20">
+        <t>kader</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="kader"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.21">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.22">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.23">
+        <t>nationale</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="nationaal"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.24">
+        <t>bijdrage</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bijdrage"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.25">
+        <t>tot</t>
+        <pos class="VZ(init)"/>
+        <lemma class="tot"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.26">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.27">
+        <t>OSPAR</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="OSPAR"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.28">
+        <t>"</t>
+        <pos class="LET()"/>
+        <lemma class="&quot;"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.29">
+        <t>Coordinated</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Coordinated"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.30">
+        <t>Environmental</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Environmental"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.31">
+        <t>Monitoring</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Monitoring"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.32">
+        <t>Programme</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Programme"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.33">
+        <t>"</t>
+        <pos class="LET()"/>
+        <lemma class="&quot;"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.34">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.35">
+        <t>OSPAR-CEMP</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="OSPAR-CEMP"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.36">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.2.w.37">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.3">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.1">
+        <t>OSPAR-CEMP</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="OSPAR-CEMP"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.2">
+        <t>DETERMINANTEN</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="determinant"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.3">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.4">
+        <t>BEPAALD</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="bepalen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.5">
+        <t>DOOR</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.6">
+        <t>DE</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.7">
+        <t>BMM</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="BMM"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.8">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.9">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.10">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.11">
+        <t>EN</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.12">
+        <t>ILVO-Visserij</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="ILVO-Visserij"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.13">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.14">
+        <t>*</t>
+        <pos class="LET()"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.15">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.3.w.16">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.4">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.1">
+        <t>Kwik</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="kwik"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.2">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.3">
+        <t>cadmium</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="cadmium"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.4">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.5">
+        <t>lood</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="lood"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.6">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.7">
+        <t>biota</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="biota"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.8">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.9">
+        <t>sedimenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sediment"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.10">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.11">
+        <t>*</t>
+        <pos class="LET()"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.12">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.4.w.13">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.5">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.1">
+        <t>PCB's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="pcb"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.2">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.3">
+        <t>biota</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="biota"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.4">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.5">
+        <t>sedimenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sediment"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.6">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.7">
+        <t>*</t>
+        <pos class="LET()"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.8">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.5.w.9">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.6">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.1">
+        <t>Polycyclische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="polycyclisch"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.2">
+        <t>aromatische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="aromatisch"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.3">
+        <t>koolwaterstoffen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="koolwaterstof"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.4">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.5">
+        <t>PAK's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="pak"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.6">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.7">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.8">
+        <t>biota</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="biota"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.9">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.10">
+        <t>sedimenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sediment"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.11">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.12">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.6.w.13">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.7">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.1">
+        <t>Nutriënten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="nutriënt"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.2">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.3">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.4">
+        <t>zeewater</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="zeewater"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.5">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.6">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.7.w.7">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.8">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.1">
+        <t>Rechtstreekse</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="rechtstreeks"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.2">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.3">
+        <t>onrechtstreekse</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="onrechtstreeks"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.4">
+        <t>eutrofiëringseffecten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="eutrofiëringseffect"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.5">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.6">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.8.w.7">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.9">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.1">
+        <t>PAK</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="PAK"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.2">
+        <t>-</t>
+        <pos class="LET()"/>
+        <lemma class="-"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.3">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.4">
+        <t>metaalspecifieke</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="metaalspecifiek"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.5">
+        <t>biologische</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="biologisch"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.6">
+        <t>effecten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="effect"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.7">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.8">
+        <t>*</t>
+        <pos class="LET()"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.9">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.9.w.10">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.10">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.1">
+        <t>Organotin</t>
+        <pos class="N(soort,ev,basis,genus,stan)"/>
+        <lemma class="organotin"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.2">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.3">
+        <t>sedimenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="sediment"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.4">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.5">
+        <t>TBT-specifieke</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="tbt-specifiek"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.6">
+        <t>effecten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="effect"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.7">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.8">
+        <t>2003</t>
+        <pos class="TW(hoofd,vrij)"/>
+        <lemma class="2003"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.9">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.10">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.11">
+        <t>*</t>
+        <pos class="SPEC(symb)"/>
+        <lemma class="*"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.10.w.12">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.11">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.1">
+        <t>Routinematige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="routinematig"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.2">
+        <t>metingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="meting"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.3">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.4">
+        <t>chlorofyl</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="chlorofyl"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.5">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.6">
+        <t>deeltjes</t>
+        <pos class="N(soort,mv,dim)"/>
+        <lemma class="deeltje"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.7">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.8">
+        <t>suspensie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="suspensie"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.9">
+        <t>vinden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="vinden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.10">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.11">
+        <t>plaats</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="plaats"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.12">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.13">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.14">
+        <t>kader</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="kader"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.15">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.16">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.17">
+        <t>ruimte-teledetectie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="ruimte-teledetectie"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.18">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.19">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.20">
+        <t>noodgevallen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="noodgeval"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.21">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.22">
+        <t>zee</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="zee"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.11.w.23">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.12">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.1">
+        <t>Naast</t>
+        <pos class="VZ(init)"/>
+        <lemma class="naast"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.2">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.3">
+        <t>routineparameters</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="routineparameter"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.4">
+        <t>heeft</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="hebben"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.5">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.6">
+        <t>BMM-laboratorium</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="bmm-laboratorium"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.7">
+        <t>ook</t>
+        <pos class="BW()"/>
+        <lemma class="ook"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.8">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.9">
+        <t>mogelijkheid</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="mogelijkheid"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.10">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.11">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.12">
+        <t>expertise</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="expertise"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.13">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.14">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.15">
+        <t>bepalen</t>
+        <pos class="WW(inf,nom,zonder,zonder-n)"/>
+        <lemma class="bepalen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.16">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.17">
+        <t>andere</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="ander"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.18">
+        <t>parameters</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="parameter"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.19">
+        <t>zoals</t>
+        <pos class="VG(onder)"/>
+        <lemma class="zoals"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.20">
+        <t>PCB's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="pcb"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.21">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.22">
+        <t>polychloorbifenylen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="polychloorbifenylen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.23">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.24">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.25">
+        <t>pesticiden</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="pesticide"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.26">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.27">
+        <t>mariene</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="marien"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.28">
+        <t>matrices</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="matrix"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.29">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.30">
+        <t>inclusief</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="inclusief"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.31">
+        <t>vogels</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="vogel"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.32">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.33">
+        <t>zeezoogdieren</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="zeezoogdier"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.12.w.34">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.13">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.1">
+        <t>Daarnaast</t>
+        <pos class="BW()"/>
+        <lemma class="daarnaast"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.2">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.3">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.4">
+        <t>opsporen</t>
+        <pos class="WW(inf,nom,zonder,zonder-n)"/>
+        <lemma class="opsporen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.5">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.6">
+        <t>vervuilende</t>
+        <pos class="WW(od,prenom,met-e)"/>
+        <lemma class="vervuilen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.7">
+        <t>stoffen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="stof"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.8">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.9">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.10">
+        <t>mariene</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="marien"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.11">
+        <t>omgeving</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="omgeving"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.12">
+        <t>een</t>
+        <pos class="LID(onbep,stan,agr)"/>
+        <lemma class="een"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.13">
+        <t>permanente</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="permanent"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.14">
+        <t>uitdaging</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="uitdaging"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.13.w.15">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.14">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.1">
+        <t>Dit</t>
+        <pos class="VNW(aanw,pron,stan,vol,3o,ev)"/>
+        <lemma class="dit"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.2">
+        <t>omvat</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="omvatten"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.3">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.4">
+        <t>ontwikkeling</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="ontwikkeling"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.5">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.6">
+        <t>nieuwe</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="nieuw"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.7">
+        <t>methodes</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="methode"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.8">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.9">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.10">
+        <t>identificatie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="identificatie"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.11">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.12">
+        <t>nieuwe</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="nieuw"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.13">
+        <t>probleemcomponenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="probleemcomponent"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.14.w.14">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.15">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.1">
+        <t>Aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.2">
+        <t>beide</t>
+        <pos class="VNW(onbep,grad,stan,prenom,met-e,mv,basis)"/>
+        <lemma class="beide"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.3">
+        <t>processen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="proces"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.4">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.5">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.6">
+        <t>BMM</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="BMM"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.7">
+        <t>actief</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="actief"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.8">
+        <t>mee</t>
+        <pos class="VZ(fin)"/>
+        <lemma class="mee"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.9">
+        <t>via</t>
+        <pos class="VZ(init)"/>
+        <lemma class="via"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.10">
+        <t>deelneming</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="deelneming"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.11">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.12">
+        <t>internationale</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="internationaal"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.13">
+        <t>workshops</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="workshop"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.14">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.15">
+        <t>samenwerking</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="samenwerking"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.16">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.17">
+        <t>andere</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="ander"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.18">
+        <t>instellingen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="instelling"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.19">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.20">
+        <t>RIKZ</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="RIKZ"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.21">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.22">
+        <t>CEFAS</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="CEFAS"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.23">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.24">
+        <t>ILVO-Visserij</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="ILVO-Visserij"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.25">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.15.w.26">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.16">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.1">
+        <t>Stalen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="staal"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.2">
+        <t>bedoeld</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="bedoeld"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.3">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.4">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.5">
+        <t>routinematige</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="routinematig"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.6">
+        <t>monitoringprogramma's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="monitoringprogramma"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.7">
+        <t>worden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.8">
+        <t>ingezameld</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="inzamelen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.9">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.10">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.11">
+        <t>onderzoeksschip</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="onderzoeksschip"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.12">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.13">
+        <t>Belgica</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Belgica"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.16.w.14">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.17">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.1">
+        <t>Deze</t>
+        <pos class="VNW(aanw,det,stan,prenom,met-e,rest)"/>
+        <lemma class="deze"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.2">
+        <t>bemonstering</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="bemonstering"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.3">
+        <t>vindt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="vinden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.4">
+        <t>plaats</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="plaats"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.5">
+        <t>volgens</t>
+        <pos class="VZ(init)"/>
+        <lemma class="volgens"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.6">
+        <t>uitgebreid</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="uitgebreid"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.7">
+        <t>gedocumenteerde</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="documenteren"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.8">
+        <t>procedures</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="procedure"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.9">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.10">
+        <t>standaard</t>
+        <pos class="ADJ(prenom,basis,zonder)"/>
+        <lemma class="standaard"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.11">
+        <t>werkingsprocedures</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="werkingsprocedure"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.12">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.17.w.13">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.18">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.1">
+        <t>Het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.2">
+        <t>BMM-laboratorium</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="bmm-laboratorium"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.3">
+        <t>is</t>
+        <pos class="WW(pv,tgw,ev)"/>
+        <lemma class="zijn"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.4">
+        <t>uitgerust</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="uitrusten"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.5">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.6">
+        <t>geavanceerde</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="geavanceerd"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.7">
+        <t>instrumenten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="instrument"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.8">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.9">
+        <t>werkt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="werken"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.10">
+        <t>volgens</t>
+        <pos class="VZ(init)"/>
+        <lemma class="volgens"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.11">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.12">
+        <t>GLP-beginselen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="glp-beginsel"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.13">
+        <t>(</t>
+        <pos class="LET()"/>
+        <lemma class="("/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.14">
+        <t>Good</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Good"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.15">
+        <t>Laboratory</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Laboratory"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.16">
+        <t>Practices</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Practices"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.17">
+        <t>)</t>
+        <pos class="LET()"/>
+        <lemma class=")"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.18">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.19">
+        <t>door</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.20">
+        <t>erkende</t>
+        <pos class="WW(vd,prenom,met-e)"/>
+        <lemma class="erkennen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.21">
+        <t>laboratoria</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="laboratorium"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.22">
+        <t>gehanteerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="hanteren"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.23">
+        <t>worden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.18.w.24">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.19">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.1">
+        <t>Dit</t>
+        <pos class="VNW(aanw,pron,stan,vol,3o,ev)"/>
+        <lemma class="dit"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.2">
+        <t>veronderstelt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="veronderstellen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.3">
+        <t>doorgedreven</t>
+        <pos class="WW(vd,prenom,zonder)"/>
+        <lemma class="doordrijven"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.4">
+        <t>kwaliteitscontrole</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="kwaliteitscontrole"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.5">
+        <t>op</t>
+        <pos class="VZ(init)"/>
+        <lemma class="op"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.6">
+        <t>alle</t>
+        <pos class="VNW(onbep,det,stan,prenom,met-e,agr)"/>
+        <lemma class="alle"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.7">
+        <t>niveaus</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="niveau"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.19.w.8">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.20">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.2">
+        <t>kwaliteit</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="kwaliteit"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.3">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.4">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.5">
+        <t>analyses</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="analyse"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.6">
+        <t>wordt</t>
+        <pos class="WW(pv,tgw,met-t)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.7">
+        <t>permanent</t>
+        <pos class="ADJ(vrij,basis,zonder)"/>
+        <lemma class="permanent"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.8">
+        <t>getoetst</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="toetsen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.9">
+        <t>via</t>
+        <pos class="VZ(init)"/>
+        <lemma class="via"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.10">
+        <t>deelneming</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="deelneming"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.11">
+        <t>aan</t>
+        <pos class="VZ(init)"/>
+        <lemma class="aan"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.12">
+        <t>internationale</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="internationaal"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.13">
+        <t>vaardigheidstestprogramma's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="vaardigheidstestprogramma"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.14">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.15">
+        <t>zoals</t>
+        <pos class="VG(onder)"/>
+        <lemma class="zoals"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.16">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.17">
+        <t>programma's</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="programma"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.18">
+        <t>die</t>
+        <pos class="VNW(betr,pron,stan,vol,persoon,getal)"/>
+        <lemma class="die"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.19">
+        <t>georganiseerd</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="organiseren"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.20">
+        <t>worden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.21">
+        <t>door</t>
+        <pos class="VZ(init)"/>
+        <lemma class="door"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.22">
+        <t>QUASIMEME</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="QUASIMEME"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.20.w.23">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+    <s xml:id="allwords-dpc-bmm-001080-nl-sen.s.21">
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.1">
+        <t>De</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.2">
+        <t>resultaten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="resultaat"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.3">
+        <t>worden</t>
+        <pos class="WW(pv,tgw,mv)"/>
+        <lemma class="worden"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.4">
+        <t>opgeslagen</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="opslaan"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.5">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.6">
+        <t>onze</t>
+        <pos class="VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)"/>
+        <lemma class="ons"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.7">
+        <t>database</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="database"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.8">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.9">
+        <t>daarna</t>
+        <pos class="BW()"/>
+        <lemma class="daarna"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.10">
+        <t>gebruikt</t>
+        <pos class="WW(vd,vrij,zonder)"/>
+        <lemma class="gebruiken"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.11">
+        <t>voor</t>
+        <pos class="VZ(init)"/>
+        <lemma class="voor"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.12">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.13">
+        <t>evalueren</t>
+        <pos class="WW(inf,nom,zonder,zonder-n)"/>
+        <lemma class="evalueren"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.14">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.15">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.16">
+        <t>kwaliteit</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="kwaliteit"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.17">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.18">
+        <t>het</t>
+        <pos class="LID(bep,stan,evon)"/>
+        <lemma class="het"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.19">
+        <t>ecosysteem</t>
+        <pos class="N(soort,ev,basis,onz,stan)"/>
+        <lemma class="ecosysteem"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.20">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.21">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.22">
+        <t>Noordzee</t>
+        <pos class="SPEC(deeleigen)"/>
+        <lemma class="Noordzee"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.23">
+        <t>,</t>
+        <pos class="LET()"/>
+        <lemma class=","/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.24">
+        <t>met</t>
+        <pos class="VZ(init)"/>
+        <lemma class="met"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.25">
+        <t>aspecten</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="aspect"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.26">
+        <t>zoals</t>
+        <pos class="VG(onder)"/>
+        <lemma class="zoals"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.27">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.28">
+        <t>ruimtelijke</t>
+        <pos class="ADJ(prenom,basis,met-e,stan)"/>
+        <lemma class="ruimtelijk"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.29">
+        <t>distributie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="distributie"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.30">
+        <t>van</t>
+        <pos class="VZ(init)"/>
+        <lemma class="van"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.31">
+        <t>vervuilende</t>
+        <pos class="WW(od,prenom,met-e)"/>
+        <lemma class="vervuilen"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.32">
+        <t>stoffen</t>
+        <pos class="N(soort,mv,basis)"/>
+        <lemma class="stof"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.33">
+        <t>en</t>
+        <pos class="VG(neven)"/>
+        <lemma class="en"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.34">
+        <t>hun</t>
+        <pos class="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)"/>
+        <lemma class="hun"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.35">
+        <t>evolutie</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="evolutie"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.36">
+        <t>in</t>
+        <pos class="VZ(init)"/>
+        <lemma class="in"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.37">
+        <t>de</t>
+        <pos class="LID(bep,stan,rest)"/>
+        <lemma class="de"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.38">
+        <t>tijd</t>
+        <pos class="N(soort,ev,basis,zijd,stan)"/>
+        <lemma class="tijd"/>
+      </w>
+      <w xml:id="allwords-dpc-bmm-001080-nl-sen.s.21.w.39">
+        <t>.</t>
+        <pos class="LET()"/>
+        <lemma class="."/>
+      </w>
+    </s>
+  </text>
+</FoLiA>

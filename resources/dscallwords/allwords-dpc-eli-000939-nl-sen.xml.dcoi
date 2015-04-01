@@ -1,0 +1,1117 @@
+<DCOI xmlns="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:imdi="http://www.mpi.nl/IMDI/Schema/IMDI" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dcoi="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:folia="http://ilk.uvt.nl/folia" xml:id="allwords-dpc-eli-000939-nl-sen">
+  <body>
+    <text xml:id="allwords-dpc-eli-000939-nl-sen.text.1">
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.1">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.1" pos="ADJ(prenom,basis,zonder)" lemma="europees">EUROPEES</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.2" pos="ADJ(prenom,basis,zonder)" lemma="openbaar">OPENBAAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="beoordelingsrapport">BEOORDELINGSRAPPORT</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.4" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.5" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.1.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.2">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.2.w.1" pos="SPEC(deeleigen)" lemma="HUMALOG">HUMALOG</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.3">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.3.w.1" pos="SPEC(deeleigen)" lemma="HUMALOG">HUMALOG</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.3.w.2" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.4">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.4.w.1" pos="SPEC(deeleigen)" lemma="HUMALOG">HUMALOG</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.4.w.2" pos="SPEC(deeleigen)" lemma="MIX">MIX</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.5">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.1" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="samenvatting">samenvatting</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.5" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.5.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="publiek">publiek</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.6">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.1" pos="VNW(aanw,det,stan,prenom,zonder,evon)" lemma="dit">Dit</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="document">document</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="samenvatting">samenvatting</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.6" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.7" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.8" pos="ADJ(prenom,basis,zonder)" lemma="europees">Europees</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.9" pos="ADJ(prenom,basis,zonder)" lemma="openbaar">openbaar</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.10" pos="N(soort,ev,basis,onz,stan)" lemma="beoordelingsrapport">beoordelingsrapport</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.11" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.12" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.13" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.6.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.7">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.1" pos="N(soort,ev,basis,onz,stan)" lemma="doel">Doel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.2" pos="BW()" lemma="ervan">ervan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.4" pos="VZ(fin)" lemma="uit">uit</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.5" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.6" pos="WW(inf,vrij,zonder)" lemma="leggen">leggen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.7" pos="BW()" lemma="hoe">hoe</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.8" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.9" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.10" pos="N(soort,mv,basis)" lemma="studie">studies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.11" pos="WW(vd,prenom,met-e)" lemma="baseren">gebaseerde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="beoordeling">beoordeling</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.13" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.14" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.15" pos="N(soort,ev,basis,onz,stan)" lemma="comité">Comité</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.16" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.17" pos="N(soort,mv,basis)" lemma="geneesmiddel">geneesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.18" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.19" pos="ADJ(prenom,basis,zonder)" lemma="menselijk">menselijk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.21" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.22" pos="SPEC(deeleigen)" lemma="CHMP">CHMP</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.23" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.24" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.25" pos="WW(vd,vrij,zonder)" lemma="leiden">geleid</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.26" pos="VZ(init)" lemma="tot">tot</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.27" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.28" pos="N(soort,mv,basis)" lemma="aanbeveling">aanbevelingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.29" pos="VNW(vb,pron,stan,vol,3o,ev)" lemma="wat">wat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.30" pos="WW(pv,tgw,met-t)" lemma="betreffen">betreft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.31" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.32" pos="N(soort,mv,basis)" lemma="gebruiksvoorwaarden">gebruiksvoorwaarden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.7.w.33" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.8">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.1" pos="WW(pv,tgw,ev)" lemma="lezen">Lees</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="bijsluiter">bijsluiter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.4" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.5" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="onderdeel">onderdeel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.7" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.8" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.9" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.10" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.11" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.12" pos="WW(pv,tgw,ev)" lemma="nemen">neem</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.13" pos="N(soort,ev,basis,onz,stan)" lemma="contact">contact</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.14" pos="VZ(fin)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.15" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.16" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="dokter">dokter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.18" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.19" pos="N(soort,ev,basis,zijd,stan)" lemma="apotheker">apotheker</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.20" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.21" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.22" pos="VNW(pers,pron,nomin,vol,2b,getal)" lemma="u">u</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.23" pos="VNW(onbep,grad,stan,prenom,zonder,agr,comp)" lemma="veel">meer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.24" pos="N(soort,ev,basis,zijd,stan)" lemma="informatie">informatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.25" pos="ADJ(vrij,basis,zonder)" lemma="nodig">nodig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.26" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.27" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.28" pos="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" lemma="uw">uw</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="ziekte">ziekte</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.30" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="behandeling">behandeling</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.8.w.32" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.9">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="wetenschappelijk">wetenschappelijke</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="discussie">discussie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.4" pos="BW()" lemma="waarop">waarop</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.6" pos="N(soort,mv,basis)" lemma="aanbeveling">aanbevelingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.7" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.8" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.9" pos="SPEC(deeleigen)" lemma="CHMP">CHMP</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.10" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.11" pos="WW(vd,vrij,zonder)" lemma="baseren">gebaseerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.12" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.13" pos="BW()" lemma="eveneens">eveneens</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.14" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.15" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.16" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.17" pos="WW(vd,vrij,zonder)" lemma="opnemen">opgenomen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.9.w.18" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.10">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.1" pos="VNW(vb,pron,stan,vol,3o,ev)" lemma="wat">Wat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.10.w.4" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.11">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.4" pos="N(soort,ev,basis,onz,stan)" lemma="gamma">gamma</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.5" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.6" pos="N(soort,mv,basis)" lemma="oplossing">oplossingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.7" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.8" pos="N(soort,mv,basis)" lemma="suspensie">suspensies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.9" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.10" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.11" pos="WW(inf,vrij,zonder)" lemma="injecteren">injecteren</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.11.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.12">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.3" pos="WW(vd,vrij,zonder)" lemma="leveren">geleverd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.4" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.5" pos="N(soort,mv,basis)" lemma="injectieflacon">injectieflacons</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.6" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.7" pos="N(soort,mv,basis)" lemma="patroon">patronen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.8" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.9" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.10" pos="ADJ(prenom,basis,met-e,stan)" lemma="voorvullen">voorgevulde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.11" pos="N(soort,mv,basis)" lemma="pen">pennen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.12" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.13" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.14" pos="SPEC(deeleigen)" lemma="Pen">Pen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.16" pos="SPEC(deeleigen)" lemma="Humaject">Humaject</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.17" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.12.w.18" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.13">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.2" pos="WW(pv,tgw,ev)" lemma="bevatten">bevat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.4" pos="ADJ(prenom,basis,met-e,stan)" lemma="werkzaam">werkzame</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="stof">stof</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.7" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.13.w.8" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.14">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.2" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="gamma">gamma</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.4" pos="WW(pv,tgw,ev)" lemma="omvatten">omvat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="kortwerken">kortwerkende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.6" pos="N(soort,mv,basis)" lemma="insulineoplossing">insulineoplossingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.7" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.8" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.9" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.10" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="middellangwerken">middellangwerkende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.13" pos="N(soort,mv,basis)" lemma="suspensie">suspensies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.14" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.15" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.16" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.17" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.18" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.19" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.20" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="combinatie">combinatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.22" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.23" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.24" pos="TW(hoofd,nom,zonder-n,basis)" lemma="twee">twee</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.25" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.26" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.27" pos="ADJ(prenom,basis,met-e,stan)" lemma="verschillende">verschillende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.28" pos="N(soort,mv,basis)" lemma="verhouding">verhoudingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.29" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.30" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.31" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.32" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.14.w.33" pos="LET()" lemma=":">:</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.15">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.2" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.4" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.15.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="oplossing">oplossing</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.16">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.2" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.3" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.5" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.16.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="protamine-suspensie">protamine-suspensie</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.17">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.2" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.3" pos="TW(hoofd,vrij)" lemma="25">25</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.4" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.5" pos="TW(hoofd,prenom,stan)" lemma="25">25</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.6" pos="SPEC(symb)" lemma="%">%</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="lispro-oplossing">lispro-oplossing</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.10" pos="TW(hoofd,prenom,stan)" lemma="75">75</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.11" pos="SPEC(symb)" lemma="%">%</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.13" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.17.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="protamine-suspensie">protamine-suspensie</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.18">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.2" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.3" pos="TW(hoofd,vrij)" lemma="50">50</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.4" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.5" pos="TW(hoofd,prenom,stan)" lemma="50">50</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.6" pos="SPEC(symb)" lemma="%">%</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="lispro-oplossing">lispro-oplossing</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.10" pos="TW(hoofd,prenom,stan)" lemma="50">50</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.11" pos="SPEC(symb)" lemma="%">%</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.13" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.18.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="protamine-suspensie">protamine-suspensie</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.19">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.1" pos="BW()" lemma="wanneer">Wanneer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.4" pos="WW(vd,vrij,zonder)" lemma="voorschrijven">voorgeschreven</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.19.w.5" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.20">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.3" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="behandeling">behandeling</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.7" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.8" pos="ADJ(nom,basis,met-e,mv-n)" lemma="volwassenen">volwassenen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.10" pos="N(soort,mv,basis)" lemma="kind">kinderen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.11" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.13" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.15" pos="ADJ(vrij,basis,zonder)" lemma="nodig">nodig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.16" pos="WW(pv,tgw,mv)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.17" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="regulering">regulering</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.19" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.20" pos="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" lemma="hun">hun</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.22" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.23" pos="BW()" lemma="waaronder">waaronder</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.24" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.25" pos="N(soort,mv,basis)" lemma="patiënt">patiënten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.26" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.27" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">wie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.28" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="diagnose">diagnose</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.30" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.32" pos="ADJ(vrij,basis,zonder)" lemma="kort">kort</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.33" pos="BW()" lemma="geleden">geleden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.34" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.35" pos="WW(vd,vrij,zonder)" lemma="stellen">gesteld</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.20.w.36" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.21">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="geneesmiddel">geneesmiddel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.4" pos="ADJ(vrij,basis,zonder)" lemma="uitsluitend">uitsluitend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.5" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="doktersvoorschrift">doktersvoorschrift</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.7" pos="ADJ(vrij,basis,zonder)" lemma="verkrijgbaar">verkrijgbaar</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.21.w.8" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.22">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.1" pos="BW()" lemma="hoe">Hoe</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.4" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.22.w.5" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.23">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.2" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.4" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.5" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.6" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.7" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.8" pos="WW(pv,tgw,mv)" lemma="mogen">mogen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.9" pos="ADJ(vrij,basis,zonder)" lemma="subcutaan">subcutaan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.10" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.11" pos="ADJ(vrij,basis,zonder)" lemma="onderhuids">onderhuids</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.12" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.13" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.14" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.16" pos="VZ(init)" lemma="via">via</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="injectie">injectie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.18" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.19" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="bovenarm">bovenarm</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.21" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.22" pos="N(soort,mv,basis)" lemma="dij">dijen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.23" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.24" pos="N(soort,mv,basis)" lemma="bil">billen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.25" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.26" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.27" pos="N(soort,ev,basis,onz,stan)" lemma="abdomen">abdomen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.28" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="buik">buik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.30" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.23.w.31" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.24">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.3" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.4" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.5" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.6" pos="VZ(init)" lemma="via">via</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.7" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.8" pos="ADJ(prenom,basis,met-e,stan)" lemma="continu">continue</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="infusie">infusie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.10" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.12" pos="WW(od,vrij,zonder)" lemma="maken">makend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.13" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.14" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="insulinepomp">insulinepomp</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.16" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.17" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.18" pos="ADJ(vrij,basis,zonder)" lemma="intraveneus">intraveneus</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.19" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.20" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.21" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="ader">ader</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.23" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.24.w.24" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.25">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.2" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.3" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.4" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.5" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.6" pos="N(soort,mv,basis)" lemma="mix-product">Mix-producten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.7" pos="WW(pv,tgw,mv)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.8" pos="BW()" lemma="normaliter">normaliter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.9" pos="ADJ(vrij,basis,zonder)" lemma="kort">kort</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.10" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.11" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="maaltijd">maaltijd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.13" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.14" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.15" pos="WW(pv,tgw,mv)" lemma="kunnen">kunnen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.16" pos="VG(onder)" lemma="indien">indien</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.17" pos="ADJ(vrij,basis,zonder)" lemma="nodig">nodig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.18" pos="ADJ(vrij,basis,zonder)" lemma="kort">kort</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.19" pos="VZ(init)" lemma="na">na</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.20" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="maaltijd">maaltijd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.22" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.23" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.25.w.24" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.26">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.3" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.4" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.5" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="combinatie">combinatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.7" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.8" pos="ADJ(prenom,basis,met-e,stan)" lemma="langwerken">langwerkende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.10" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="oraal">orale</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.12" pos="N(soort,mv,basis)" lemma="antidiabetesmiddel">antidiabetesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.13" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.14" pos="N(soort,mv,basis)" lemma="sulfonylurea">sulfonylurea</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.15" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.26.w.16" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.27">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.2" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.3" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.4" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.5" pos="WW(vd,vrij,zonder)" lemma="mengen">gemengd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.6" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.7" pos="BW()" lemma="samen">samen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.8" pos="WW(vd,vrij,zonder)" lemma="geven">gegeven</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.9" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.10" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.27.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.28">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.1" pos="BW()" lemma="hoe">Hoe</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.2" pos="WW(pv,tgw,met-t)" lemma="werken">werkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.28.w.4" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.29">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">Diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="ziekte">ziekte</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.5" pos="BW()" lemma="waarbij">waarbij</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.6" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="lichaam">lichaam</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.8" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.9" pos="ADJ(prenom,basis,zonder)" lemma="voldoende">voldoende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.11" pos="WW(pv,tgw,met-t)" lemma="aanmaken">aanmaakt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.12" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.15" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.16" pos="WW(inf,vrij,zonder)" lemma="reguleren">reguleren</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.29.w.17" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.30">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.4" pos="N(soort,ev,basis,onz,stan)" lemma="insulineanaloog">insulineanaloog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.5" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.6" pos="ADJ(vrij,basis,zonder)" lemma="sterk">sterk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.7" pos="WW(pv,tgw,met-t)" lemma="lijken">lijkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.8" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.11" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.12" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="alvleesklier">alvleesklier</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.15" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.16" pos="WW(vd,vrij,zonder)" lemma="aanmaken">aangemaakt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.30.w.17" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.31">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="werkzaam">werkzame</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="stof">stof</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.4" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.5" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.6" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.8" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.10" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.11" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="behulp">behulp</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.13" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.14" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="methode">methode</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.16" pos="WW(vd,vrij,zonder)" lemma="produceren">geproduceerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.17" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.18" pos="ADJ(vrij,basis,zonder)" lemma="bekend">bekend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.19" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.20" pos="VZ(init)" lemma="onder">onder</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.21" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="naam">naam</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.23" pos="ADJ(prenom,basis,met-e,stan)" lemma="recombinant">recombinante</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.24" pos="N(soort,ev,basis,zijd,stan)" lemma="technologie">technologie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.25" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.26" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.27" pos="WW(vd,vrij,zonder)" lemma="maken">gemaakt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.28" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.29" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.30" pos="N(soort,ev,basis,zijd,stan)" lemma="bacterie">bacterie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.31" pos="BW()" lemma="waaraan">waaraan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.32" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.33" pos="N(soort,ev,basis,onz,stan)" lemma="gen">gen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.34" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.35" pos="N(soort,ev,basis,onz,stan)" lemma="dna">DNA</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.36" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.37" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.38" pos="WW(vd,vrij,zonder)" lemma="toevoegen">toegevoegd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.39" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.40" pos="BW()" lemma="waardoor">waardoor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.41" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.42" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.43" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.44" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.45" pos="WW(vd,vrij,zonder)" lemma="produceren">geproduceerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.31.w.46" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.32">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">Insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.2" pos="ADJ(postnom,basis,zonder)" lemma="lispro">lispro</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.3" pos="WW(pv,tgw,met-t)" lemma="verschillen">verschilt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.4" pos="BW()" lemma="zeer">zeer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.5" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="weinig">weinig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.6" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="humaan">humane</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.10" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.11" pos="VNW(aanw,det,stan,prenom,zonder,evon)" lemma="dit">dit</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="verschil">verschil</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.13" pos="WW(pv,tgw,met-t)" lemma="houden">houdt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.14" pos="VZ(fin)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.15" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.16" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.17" pos="ADJ(vrij,comp,zonder)" lemma="snel">sneller</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.18" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.19" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="lichaam">lichaam</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.21" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.22" pos="WW(vd,vrij,zonder)" lemma="opnemen">opgenomen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.23" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.24" pos="BW()" lemma="dus">dus</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.25" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.26" pos="ADJ(prenom,comp,met-e,stan)" lemma="snel">snellere</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.27" pos="N(soort,ev,basis,zijd,stan)" lemma="werking">werking</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.28" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.29" pos="VG(onder)" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.30" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.31" pos="ADJ(prenom,basis,met-e,stan)" lemma="gewoon">gewone</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.32" pos="ADJ(prenom,basis,met-e,stan)" lemma="humaan">humane</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.33" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.32.w.34" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.33">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">Insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.2" pos="N(soort,mv,basis)" lemma="lispro-product">lispro-producten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.3" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.4" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="verscheidene">verscheidene</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.6" pos="N(soort,mv,basis)" lemma="vorm">vormen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.7" pos="ADJ(vrij,basis,zonder)" lemma="verkrijgbaar">verkrijgbaar</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.8" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.9" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.10" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.13" pos="ADJ(prenom,basis,met-e,stan)" lemma="oplosbaar">oplosbare</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="vorm">vorm</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.16" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.17" pos="ADJ(vrij,basis,zonder)" lemma="snel">snel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.18" pos="WW(pv,tgw,met-t)" lemma="werken">werkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.19" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.20" pos="BW()" lemma="min">min</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.21" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.22" pos="VNW(onbep,grad,stan,vrij,zonder,comp)" lemma="veel">meer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.23" pos="ADJ(vrij,basis,zonder)" lemma="onmiddellijk">onmiddellijk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.24" pos="VZ(init)" lemma="na">na</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="injectie">injectie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.26" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.27" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.28" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.29" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.30" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.31" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.32" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.33" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.34" pos="N(soort,ev,basis,zijd,stan)" lemma="vorm">vorm</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.35" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.36" pos="N(soort,ev,basis,zijd,stan)" lemma="protamine-suspensie">protamine-suspensie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.37" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.38" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.39" pos="ADJ(vrij,comp,zonder)" lemma="traag">trager</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.40" pos="VZ(init)" lemma="gedurende">gedurende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.41" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.42" pos="N(soort,ev,basis,zijd,stan)" lemma="dag">dag</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.43" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.44" pos="WW(vd,vrij,zonder)" lemma="absorberen">geabsorbeerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.45" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.46" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.47" pos="ADJ(vrij,comp,zonder)" lemma="langer">langer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.48" pos="WW(pv,tgw,met-t)" lemma="werken">werkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.33.w.49" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.34">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.2" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="mix">mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.6" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.7" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.8" pos="TW(hoofd,prenom,stan)" lemma="twee">twee</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.9" pos="N(soort,mv,basis)" lemma="formulering">formuleringen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.34.w.10" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.35">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="insulineanaloog">insulineanaloog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.3" pos="WW(pv,tgw,met-t)" lemma="werken">werkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.4" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.5" pos="ADJ(prenom,basis,zonder)" lemma="dezelfde">dezelfde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="manier">manier</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.7" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.8" pos="ADJ(vrij,basis,zonder)" lemma="natuurlijk">natuurlijk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.9" pos="WW(vd,prenom,met-e)" lemma="aanmaken">aangemaakte</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.11" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.12" pos="WW(pv,tgw,met-t)" lemma="zorgen">zorgt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.13" pos="BW()" lemma="ervoor">ervoor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.14" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="glucose">glucose</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.16" pos="VZ(init)" lemma="vanuit">vanuit</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.17" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.18" pos="N(soort,ev,basis,onz,stan)" lemma="bloed">bloed</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.19" pos="N(soort,mv,basis)" lemma="cel">cellen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.20" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.21" pos="WW(inf,vrij,zonder)" lemma="binnendringen">binnendringen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.35.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.36">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="regulering">regulering</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.3" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.6" pos="WW(pv,tgw,met-t)" lemma="verminderen">vermindert</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.8" pos="N(soort,mv,basis)" lemma="symptoom">symptomen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.10" pos="N(soort,mv,basis)" lemma="complicatie">complicaties</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.11" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.36.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.37">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.1" pos="BW()" lemma="hoe">Hoe</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.4" pos="WW(vd,vrij,zonder)" lemma="onderzoeken">onderzocht</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.37.w.5" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.38">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.2" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.3" pos="ADJ(vrij,basis,zonder)" lemma="oorspronkelijk">oorspronkelijk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.4" pos="WW(vd,vrij,zonder)" lemma="onderzoeken">onderzocht</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.5" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.6" pos="TW(hoofd,prenom,stan)" lemma="acht">acht</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="klinisch">klinische</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.8" pos="N(soort,mv,basis)" lemma="studie">studies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.9" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.10" pos="TW(hoofd,prenom,stan)" lemma="2951">2951</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="suikerziek">suikerzieke</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.12" pos="N(soort,mv,basis)" lemma="patiënt">patiënten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.13" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.14" pos="N(soort,ev,basis,onz,stan)" lemma="type">type</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.15" pos="TW(hoofd,vrij)" lemma="1">1</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.16" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.17" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.18" pos="N(soort,ev,basis,onz,stan)" lemma="type">type</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.19" pos="TW(hoofd,vrij)" lemma="2">2</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.20" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.38.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.39">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="werkzaamheid">werkzaamheid</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.3" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.4" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.5" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.6" pos="WW(vd,vrij,zonder)" lemma="vergelijken">vergeleken</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.7" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.8" pos="VNW(aanw,pron,stan,vol,3,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.10" pos="SPEC(deeleigen)" lemma="Humulin">Humulin</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.11" pos="SPEC(deeleigen)" lemma="R">R</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.12" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.13" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.14" pos="ADJ(prenom,basis,met-e,stan)" lemma="oplosbaar">oplosbare</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="recombinant">recombinant</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="dna">DNA</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.17" pos="ADJ(prenom,basis,met-e,stan)" lemma="humaan">humane</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.19" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.20" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.21" pos="VG(onder)" lemma="wanneer">wanneer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.22" pos="WW(vd,vrij,zonder)" lemma="toevoegen">toegevoegd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.23" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.24" pos="TW(hoofd,vrij)" lemma="één">één</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.25" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.26" pos="TW(hoofd,prenom,stan)" lemma="twee">twee</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.27" pos="ADJ(prenom,basis,met-e,stan)" lemma="dagelijks">dagelijkse</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.28" pos="N(soort,mv,basis)" lemma="dosis">doses</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.29" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.30" pos="ADJ(prenom,basis,met-e,stan)" lemma="langwerken">langwerkende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="insuline">insuline</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.39.w.32" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.40">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.3" pos="N(soort,mv,basis)" lemma="studie">studies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.4" pos="WW(pv,verl,mv)" lemma="worden">werden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.5" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="gehalte">gehalte</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.7" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.8" pos="WW(vd,prenom,met-e)" lemma="versuikeren">versuikerde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="hemoglobine">hemoglobine</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.10" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.11" pos="SPEC(deeleigen)" lemma="HbA">HbA</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.12" pos="TW(hoofd,prenom,stan)" lemma="1">1</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.13" pos="SPEC(symb)" lemma="c">c</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.14" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.16" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.17" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="indicatie">indicatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.19" pos="WW(pv,tgw,met-t)" lemma="geven">geeft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.20" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.21" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.22" pos="BW()" lemma="al">al</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.23" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.24" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.25" pos="ADJ(prenom,basis,met-e,stan)" lemma="goed">goede</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.26" pos="N(soort,ev,basis,zijd,stan)" lemma="regulering">regulering</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.27" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.28" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.30" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.31" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.32" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.33" pos="ADJ(prenom,basis,met-e,stan)" lemma="nuchter">nuchtere</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.34" pos="N(soort,mv,basis)" lemma="bloedsuikerwaard">bloedsuikerwaarden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.35" pos="WW(vd,vrij,zonder)" lemma="meten">gemeten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.40.w.36" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.41">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.1" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">Er</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.2" pos="WW(pv,verl,mv)" lemma="worden">werden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.3" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.4" pos="WW(od,prenom,met-e)" lemma="aanvullen">aanvullende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.5" pos="N(soort,mv,basis)" lemma="studie">studies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.6" pos="WW(vd,vrij,zonder)" lemma="uitvoeren">uitgevoerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.7" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.8" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.9" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.10" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.11" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.12" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.13" pos="TW(hoofd,prenom,stan)" lemma="542">542</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.14" pos="N(soort,mv,basis)" lemma="kind">kinderen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.15" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.16" pos="N(soort,mv,basis)" lemma="adolescent">adolescenten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.17" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.18" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.19" pos="TW(hoofd,prenom,stan)" lemma="2">2</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.20" pos="VZ(init)" lemma="tot">tot</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.21" pos="TW(hoofd,prenom,stan)" lemma="19">19</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.22" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.23" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.24" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.25" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.26" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.27" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.28" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.29" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.30" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="combinatie">combinatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.32" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.33" pos="N(soort,mv,basis)" lemma="sulfonylurea">sulfonylurea</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.34" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.35" pos="ADJ(prenom,basis,met-e,stan)" lemma="oraal">orale</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.36" pos="N(soort,mv,basis)" lemma="antidiabetesmiddel">antidiabetesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.37" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.38" pos="WW(pv,verl,mv)" lemma="onderzoeken">onderzochten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.41.w.39" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.42">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.1" pos="VNW(vb,det,stan,prenom,met-e,rest)" lemma="welke">Welke</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.2" pos="N(soort,mv,basis)" lemma="voordeel">voordelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.3" pos="WW(pv,verl,ev)" lemma="blijken">bleek</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.4" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.5" pos="VZ(init)" lemma="tijdens">tijdens</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.7" pos="N(soort,mv,basis)" lemma="studie">studies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.8" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.9" pos="WW(inf,vrij,zonder)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.42.w.10" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.43">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.1" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">Er</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.2" pos="WW(pv,verl,mv)" lemma="zijn">waren</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.3" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.4" pos="ADJ(prenom,basis,met-e,stan)" lemma="statistisch">statistische</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.5" pos="N(soort,mv,basis)" lemma="verschil">verschillen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.6" pos="ADJ(vrij,basis,zonder)" lemma="merkbaar">merkbaar</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.7" pos="VZ(init)" lemma="tussen">tussen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.8" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.9" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.10" pos="SPEC(deeleigen)" lemma="Humulin">Humulin</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.11" pos="VNW(vb,pron,stan,vol,3o,ev)" lemma="wat">wat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.12" pos="WW(pv,tgw,met-t)" lemma="betreffen">betreft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="beheersing">beheersing</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.15" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.18" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.19" pos="WW(vd,vrij,zonder)" lemma="meten">gemeten</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.20" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.21" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="hand">hand</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.23" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.24" pos="WW(vd,prenom,met-e)" lemma="versuikeren">versuikerde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="hemoglobine">hemoglobine</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.26" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.27" pos="ADJ(prenom,basis,met-e,stan)" lemma="nuchter">nuchtere</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.28" pos="N(soort,mv,basis)" lemma="bloedsuikerwaard">bloedsuikerwaarden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.43.w.29" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.44">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.1" pos="VNW(vb,det,stan,prenom,zonder,evon)" lemma="welk">Welk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="risico">risico</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.3" pos="WW(pv,tgw,met-t)" lemma="houden">houdt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.4" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.6" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.7" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.8" pos="VZ(fin)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.44.w.9" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.45">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="hypoglykemie">hypoglykemie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.4" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="laag">lage</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.7" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.8" pos="WW(inf,vrij,zonder)" lemma="veroorzaken">veroorzaken</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.45.w.9" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.46">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.1" pos="WW(pv,tgw,ev)" lemma="zien">Zie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="bijsluiter">bijsluiter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.6" pos="ADJ(prenom,basis,met-e,stan)" lemma="volledig">volledige</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="beschrijving">beschrijving</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.10" pos="WW(vd,prenom,met-e)" lemma="rapporteren">gerapporteerde</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.11" pos="N(soort,mv,basis)" lemma="bijwerking">bijwerkingen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.13" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.46.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.47">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.2" pos="WW(pv,tgw,ev)" lemma="mogen">mag</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.3" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.4" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.5" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.6" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.7" pos="N(soort,mv,basis)" lemma="mensen">mensen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.8" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.9" pos="ADJ(vrij,basis,zonder)" lemma="overgevoelig">overgevoelig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.10" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.11" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.12" pos="TW(hoofd,nom,zonder-n,basis)" lemma="één">één</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.13" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.14" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.15" pos="N(soort,mv,basis)" lemma="bestanddeel">bestanddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.47.w.16" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.48">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.1" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.2" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.3" pos="ADJ(vrij,basis,zonder)" lemma="nodig">nodig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.4" pos="WW(inf,vrij,zonder)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.5" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="dosering">dosering</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.9" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.10" pos="WW(pv,tgw,ev)" lemma="moeten">moet</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.11" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.12" pos="WW(vd,vrij,zonder)" lemma="aanpassen">aangepast</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.13" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.14" pos="VG(onder)" lemma="wanneer">wanneer</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.15" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="middel">middel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.17" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.18" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.19" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="combinatie">combinatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.21" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.22" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.23" pos="N(soort,ev,basis,onz,stan)" lemma="aantal">aantal</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.24" pos="N(soort,mv,basis)" lemma="geneesmiddel">geneesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.25" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.26" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.27" pos="N(soort,ev,basis,zijd,stan)" lemma="invloed">invloed</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.28" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.29" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.30" pos="N(soort,ev,basis,zijd,stan)" lemma="bloedsuikerspiegel">bloedsuikerspiegel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.31" pos="WW(pv,tgw,mv)" lemma="kunnen">kunnen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.32" pos="WW(inf,vrij,zonder)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.33" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.34" pos="WW(pv,tgw,ev)" lemma="zien">zie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.35" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.36" pos="N(soort,ev,basis,zijd,stan)" lemma="bijsluiter">bijsluiter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.37" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.38" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.39" pos="ADJ(prenom,basis,met-e,stan)" lemma="volledig">volledige</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.40" pos="N(soort,ev,basis,zijd,stan)" lemma="lijst">lijst</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.41" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.42" pos="N(soort,mv,basis)" lemma="geneesmiddel">geneesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.43" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.48.w.44" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.49">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.1" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.2" pos="SPEC(deeleigen)" lemma="Mix">Mix</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.3" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.4" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.5" pos="SPEC(deeleigen)" lemma="NPL">NPL</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.6" pos="WW(pv,tgw,mv)" lemma="mogen">mogen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.7" pos="VZ(init)" lemma="onder">onder</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.8" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.9" pos="VNW(onbep,det,stan,prenom,met-e,rest)" lemma="enkele">enkele</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="omstandigheid">omstandigheid</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.11" pos="ADJ(vrij,basis,zonder)" lemma="intraveneus">intraveneus</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.12" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.13" pos="WW(vd,vrij,zonder)" lemma="toedienen">toegediend</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.49.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.50">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.1" pos="BW()" lemma="waarom">Waarom</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.3" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.4" pos="WW(vd,vrij,zonder)" lemma="goedkeuren">goedgekeurd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.50.w.5" pos="LET()" lemma="?">?</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.51">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="comité">Comité</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.3" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.4" pos="N(soort,mv,basis)" lemma="geneesmiddel">geneesmiddelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.5" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.6" pos="ADJ(prenom,basis,zonder)" lemma="menselijk">menselijk</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="gebruik">gebruik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.8" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.9" pos="SPEC(deeleigen)" lemma="CHMP">CHMP</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.10" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.11" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.12" pos="WW(vd,vrij,zonder)" lemma="concluderen">geconcludeerd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.13" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.14" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.15" pos="N(soort,mv,basis)" lemma="voordeel">voordelen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.16" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.17" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.18" pos="ADJ(vrij,comp,zonder)" lemma="groot">groter</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.19" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.20" pos="VG(onder)" lemma="dan">dan</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.21" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.22" pos="N(soort,mv,basis)" lemma="risico">risico's</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.23" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.24" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="behandeling">behandeling</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.26" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.27" pos="N(soort,ev,basis,zijd,stan)" lemma="diabetes">diabetes</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.28" pos="ADJ(postnom,basis,zonder)" lemma="mellitus">mellitus</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.51.w.29" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.52">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.1" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">Het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.2" pos="WW(pv,verl,ev)" lemma="brengen">bracht</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.4" pos="ADJ(prenom,basis,zonder)" lemma="positief">positief</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="advies">advies</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.6" pos="VZ(fin)" lemma="uit">uit</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.7" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="goedkeuring">goedkeuring</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.10" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="handel">handel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.14" pos="WW(inf,nom,zonder,zonder-n)" lemma="brengen">brengen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.15" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.16" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.52.w.17" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.53">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.1" pos="ADJ(prenom,basis,met-e,stan)" lemma="overig">Overige</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="informatie">informatie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.3" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.4" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.53.w.5" pos="LET()" lemma=":">:</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.54">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.1" pos="VZ(init)" lemma="op">Op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.2" pos="TW(hoofd,vrij)" lemma="30">30</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.3" pos="SPEC(deeleigen)" lemma="april">april</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.4" pos="TW(hoofd,vrij)" lemma="1996">1996</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.5" pos="WW(pv,verl,ev)" lemma="verlenen">verleende</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="europees">Europese</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="commissie">Commissie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="firma">firma</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.11" pos="SPEC(deeleigen)" lemma="Eli">Eli</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.12" pos="SPEC(deeleigen)" lemma="Lilly">Lilly</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.13" pos="SPEC(deeleigen)" lemma="Nederland">Nederland</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.14" pos="SPEC(deeleigen)" lemma="B.V">B.V</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.15" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.16" pos="N(soort,ev,basis,zijd,stan)" lemma="vergunning">vergunning</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.17" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.18" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.19" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.20" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="handel">handel</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.22" pos="WW(inf,nom,zonder,zonder-n)" lemma="brengen">brengen</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.23" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.24" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.25" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.26" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.27" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.28" pos="ADJ(prenom,basis,met-e,stan)" lemma="heel">hele</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.29" pos="SPEC(deeleigen)" lemma="Europese">Europese</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.30" pos="SPEC(deeleigen)" lemma="Unie">Unie</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.31" pos="ADJ(vrij,basis,zonder)" lemma="geldig">geldig</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.32" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.54.w.33" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.55">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="vergunning">vergunning</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.3" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.4" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.5" pos="TW(hoofd,vrij)" lemma="30">30</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.6" pos="SPEC(deeleigen)" lemma="april">april</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.7" pos="TW(hoofd,vrij)" lemma="2001">2001</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.8" pos="WW(vd,vrij,zonder)" lemma="hernieuwen">hernieuwd</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.55.w.9" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.56">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.1" pos="WW(pv,tgw,ev)" lemma="klikken">Klik</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.2" pos="VNW(aanw,adv-pron,obl,vol,3o,getal)" lemma="hier">hier</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.3" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.4" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="volledig">volledige</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.6" pos="SPEC(deeleigen)" lemma="EPAR">EPAR</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.7" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.8" pos="SPEC(deeleigen)" lemma="Humalog">Humalog</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.56.w.9" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-dpc-eli-000939-nl-sen.s.57">
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.1" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">Deze</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="samenvatting">samenvatting</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.5" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.6" pos="ADJ(vrij,sup,zonder)" lemma="laatst">laatst</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.7" pos="WW(vd,vrij,zonder)" lemma="bijwerken">bijgewerkt</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.8" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.9" pos="TW(hoofd,vrij)" lemma="1">1</w>
+      <w xml:id="allwords-dpc-eli-000939-nl-sen.s.57.w.10" pos="SPEC(symb)" lemma="-2006">-2006</w>
+    </s>
+  </text>
+  </body>
+</DCOI>
+

@@ -1,0 +1,150 @@
+<DCOI xmlns="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:imdi="http://www.mpi.nl/IMDI/Schema/IMDI" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dcoi="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:folia="http://ilk.uvt.nl/folia" xml:id="allwords-WR-P-P-I-0000000031">
+  <body>
+    <text xml:id="allwords-WR-P-P-I-0000000031.text.1">
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.1">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="begroting">begroting</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.3" pos="TW(hoofd,vrij)" lemma="2001">2001</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.4" pos="WW(pv,tgw,ev)" lemma="sluiten">sluit</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.5" pos="VZ(fin)" lemma="af">af</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.6" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.7" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="overschot">overschot</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.10" pos="TW(hoofd,prenom,stan)" lemma="0,2">0,2</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="procent">procent</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.13" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.14" pos="ADJ(prenom,basis,zonder)" lemma="bruto">bruto</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.15" pos="ADJ(prenom,basis,zonder)" lemma="binnenlands">binnenlands</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="product">product</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.17" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.18" pos="TW(hoofd,prenom,stan)" lemma="553">553</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.19" pos="N(soort,ev,basis,onz,stan)" lemma="miljoen">miljoen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="euro">euro</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.1.w.21" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.2">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.1" pos="VZ(init)" lemma="van">Van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.3" pos="TW(hoofd,prenom,stan)" lemma="4">4</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.4" pos="N(soort,ev,basis,onz,stan)" lemma="procent">procent</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="groei">groei</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.6" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.7" pos="TW(hoofd,vrij)" lemma="2000">2000</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.8" pos="WW(pv,verl,ev)" lemma="blijven">bleef</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.9" pos="VNW(aanw,det,stan,prenom,zonder,evon)" lemma="dit">dit</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.10" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.11" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.12" pos="TW(hoofd,prenom,stan)" lemma="1,1">1,1</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.13" pos="N(soort,ev,basis,onz,stan)" lemma="procent">procent</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.14" pos="VZ(fin)" lemma="over">over</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.2.w.15" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.3">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.1" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dat">Dat</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.2" pos="WW(pv,tgw,mv)" lemma="zeggen">zeggen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="minister">minister</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.4" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="begroting">Begroting</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.6" pos="SPEC(deeleigen)" lemma="Johan">Johan</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.7" pos="SPEC(deeleigen)" lemma="Vande">Vande</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.8" pos="SPEC(deeleigen)" lemma="Lanotte">Lanotte</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.9" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.10" pos="SPEC(deeleigen)" lemma="SP.A">SP.A</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.11" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.12" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="minister">minister</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.15" pos="N(soort,mv,basis)" lemma="financiën">Financiën</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.16" pos="SPEC(deeleigen)" lemma="Didier">Didier</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.17" pos="SPEC(deeleigen)" lemma="Reynders">Reynders</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.18" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.19" pos="SPEC(deeleigen)" lemma="PRL">PRL</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.20" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.3.w.21" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.4">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="positief">positieve</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="resultaat">resultaat</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.4" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.5" pos="VZ(init)" lemma="volgens">volgens</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.7" pos="N(soort,mv,basis)" lemma="minister">ministers</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.8" pos="BW()" lemma="vooral">vooral</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.9" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.10" pos="WW(inf,vrij,zonder)" lemma="danken">danken</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.11" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.12" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.13" pos="ADJ(prenom,comp,met-e,stan)" lemma="laag">lagere</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="rente">rente</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.15" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="aflossing">aflossing</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.18" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.19" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.20" pos="N(soort,ev,basis,zijd,stan)" lemma="staatsschuld">staatsschuld</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.21" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.22" pos="ADJ(prenom,comp,met-e,stan)" lemma="hoog">hogere</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.23" pos="N(soort,mv,basis)" lemma="bijdrage">bijdragen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.24" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.25" pos="N(soort,mv,basis)" lemma="gewest">gewesten</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.26" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.27" pos="N(soort,mv,basis)" lemma="gemeenschap">gemeenschappen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.28" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.29" pos="N(soort,mv,basis)" lemma="besparing">besparingen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.30" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.31" pos="ADJ(prenom,basis,met-e,stan)" lemma="divers">diverse</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.32" pos="N(soort,mv,basis)" lemma="departement">departementen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.33" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.34" pos="ADJ(prenom,comp,met-e,stan)" lemma="goed">betere</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.35" pos="N(soort,mv,basis)" lemma="resultaat">resultaten</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.36" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.37" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.38" pos="N(soort,ev,basis,onz,stan)" lemma="domein">domein</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.39" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.40" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.41" pos="ADJ(prenom,basis,met-e,stan)" lemma="sociaal">sociale</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.42" pos="N(soort,ev,basis,zijd,stan)" lemma="zekerheid">zekerheid</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.4.w.43" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.5">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.1" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">Het</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.3" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.4" pos="BW()" lemma="maar">maar</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.6" pos="TW(rang,prenom,stan)" lemma="tweede">tweede</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.7" pos="N(soort,ev,basis,genus,stan)" lemma="keer">keer</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.8" pos="VZ(init)" lemma="sinds">sinds</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.9" pos="TW(hoofd,vrij)" lemma="1950">1950</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.10" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.11" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.12" pos="ADJ(prenom,basis,met-e,stan)" lemma="belgisch">Belgische</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="regering">regering</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.14" pos="VZ(init)" lemma="gedurende">gedurende</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.15" pos="TW(hoofd,prenom,stan)" lemma="twee">twee</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.16" pos="ADJ(prenom,basis,met-e,stan)" lemma="opeenvolgend">opeenvolgende</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.17" pos="N(soort,mv,basis)" lemma="jaar">jaren</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.18" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.19" pos="N(soort,ev,basis,zijd,stan)" lemma="begroting">begroting</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.20" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.21" pos="ADJ(prenom,basis,met-e,stan)" lemma="positief">positieve</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.22" pos="N(soort,mv,basis)" lemma="cijfer">cijfers</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.23" pos="WW(pv,tgw,ev)" lemma="kunnen">kan</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.24" pos="WW(inf,vrij,zonder)" lemma="voorleggen">voorleggen</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.5.w.25" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-WR-P-P-I-0000000031.s.6">
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.1" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.2" pos="WW(pv,tgw,ev)" lemma="zien">Zie</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.3" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.4" pos="SPEC(afk)" lemma="pag.">pag.</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.5" pos="TW(hoofd,vrij)" lemma="10">10</w>
+      <w xml:id="allwords-WR-P-P-I-0000000031.s.6.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+  </text>
+  </body>
+</DCOI>
+

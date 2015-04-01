@@ -1,0 +1,2139 @@
+<DCOI xmlns="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:imdi="http://www.mpi.nl/IMDI/Schema/IMDI" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dcoi="http://lands.let.ru.nl/projects/d-coi/ns/1.0" xmlns:folia="http://ilk.uvt.nl/folia" xml:id="allwords-wiki1400">
+  <body>
+    <text xml:id="allwords-wiki1400.text.1">
+    <s xml:id="allwords-wiki1400.s.1">
+      <w xml:id="allwords-wiki1400.s.1.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.2">
+      <w xml:id="allwords-wiki1400.s.2.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.2.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.2.w.3" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.2.w.4" pos="ADJ(prenom,basis,met-e,stan)" lemma="eendaags">eendaagse</w>
+      <w xml:id="allwords-wiki1400.s.2.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="wielerwedstrijd">wielerwedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.2.w.6" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.2.w.7" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="elk">elk</w>
+      <w xml:id="allwords-wiki1400.s.2.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="voorjaar">voorjaar</w>
+      <w xml:id="allwords-wiki1400.s.2.w.9" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.2.w.10" pos="WW(vd,vrij,zonder)" lemma="verrijden">verreden</w>
+      <w xml:id="allwords-wiki1400.s.2.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.2.w.12" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.2.w.13" pos="N(soort,ev,basis,onz,stan)" lemma="noorden">noorden</w>
+      <w xml:id="allwords-wiki1400.s.2.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.2.w.15" pos="SPEC(deeleigen)" lemma="Frankrijk">Frankrijk</w>
+      <w xml:id="allwords-wiki1400.s.2.w.16" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.3">
+      <w xml:id="allwords-wiki1400.s.3.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.3.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.3.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.3.w.4" pos="TW(hoofd,vrij)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.3.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.3.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.3.w.7" pos="TW(hoofd,prenom,stan)" lemma="vijf">vijf</w>
+      <w xml:id="allwords-wiki1400.s.3.w.8" pos="N(soort,mv,basis)" lemma="wielerklassieker">wielerklassiekers</w>
+      <w xml:id="allwords-wiki1400.s.3.w.9" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.3.w.10" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.3.w.11" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.3.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="voorjaar">voorjaar</w>
+      <w xml:id="allwords-wiki1400.s.3.w.13" pos="WW(inf,vrij,zonder)" lemma="worden">worden</w>
+      <w xml:id="allwords-wiki1400.s.3.w.14" pos="WW(vd,vrij,zonder)" lemma="verrijden">verreden</w>
+      <w xml:id="allwords-wiki1400.s.3.w.15" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.4">
+      <w xml:id="allwords-wiki1400.s.4.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.4.w.2" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-wiki1400.s.4.w.3" pos="BW()" lemma="dus">dus</w>
+      <w xml:id="allwords-wiki1400.s.4.w.4" pos="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" lemma="z'n">z'n</w>
+      <w xml:id="allwords-wiki1400.s.4.w.5" pos="N(soort,mv,basis)" lemma="streep">strepen</w>
+      <w xml:id="allwords-wiki1400.s.4.w.6" pos="WW(vd,vrij,zonder)" lemma="verdienen">verdiend</w>
+      <w xml:id="allwords-wiki1400.s.4.w.7" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.4.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="wielermonument">wielermonument</w>
+      <w xml:id="allwords-wiki1400.s.4.w.9" pos="VZ(init)" lemma="naast">naast</w>
+      <w xml:id="allwords-wiki1400.s.4.w.10" pos="SPEC(deeleigen)" lemma="Milaan-San">Milaan-San</w>
+      <w xml:id="allwords-wiki1400.s.4.w.11" pos="SPEC(deeleigen)" lemma="Remo">Remo</w>
+      <w xml:id="allwords-wiki1400.s.4.w.12" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.4.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.4.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.4.w.15" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.4.w.16" pos="SPEC(deeleigen)" lemma="Vlaanderen">Vlaanderen</w>
+      <w xml:id="allwords-wiki1400.s.4.w.17" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.4.w.18" pos="SPEC(deeleigen)" lemma="Luik-Bastenaken-Luik">Luik-Bastenaken-Luik</w>
+      <w xml:id="allwords-wiki1400.s.4.w.19" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.4.w.20" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.4.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.4.w.22" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.4.w.23" pos="SPEC(deeleigen)" lemma="Lombardije">Lombardije</w>
+      <w xml:id="allwords-wiki1400.s.4.w.24" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.5">
+      <w xml:id="allwords-wiki1400.s.5.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.5.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="eendaags">eendaagse</w>
+      <w xml:id="allwords-wiki1400.s.5.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.5.w.4" pos="WW(pv,tgw,met-t)" lemma="staan">staat</w>
+      <w xml:id="allwords-wiki1400.s.5.w.5" pos="ADJ(vrij,basis,zonder)" lemma="bekend">bekend</w>
+      <w xml:id="allwords-wiki1400.s.5.w.6" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.5.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.5.w.8" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.5.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="hel">hel</w>
+      <w xml:id="allwords-wiki1400.s.5.w.10" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.5.w.11" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.5.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="noorden">noorden</w>
+      <w xml:id="allwords-wiki1400.s.5.w.13" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.5.w.14" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.5.w.15" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.5.w.16" pos="SPEC(deeleigen)" lemma="l">l</w>
+      <w xml:id="allwords-wiki1400.s.5.w.17" pos="LET()" lemma="'">'</w>
+      <w xml:id="allwords-wiki1400.s.5.w.18" pos="SPEC(deeleigen)" lemma="enfer">enfer</w>
+      <w xml:id="allwords-wiki1400.s.5.w.19" pos="SPEC(deeleigen)" lemma="du">du</w>
+      <w xml:id="allwords-wiki1400.s.5.w.20" pos="SPEC(vreemd)" lemma="Nord">Nord</w>
+      <w xml:id="allwords-wiki1400.s.5.w.21" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.5.w.22" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.5.w.23" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.5.w.24" pos="VG(onder)" lemma="omdat">omdat</w>
+      <w xml:id="allwords-wiki1400.s.5.w.25" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.5.w.26" pos="ADJ(prenom,basis,zonder)" lemma="belangrijk">belangrijk</w>
+      <w xml:id="allwords-wiki1400.s.5.w.27" pos="N(soort,ev,basis,onz,stan)" lemma="deel">deel</w>
+      <w xml:id="allwords-wiki1400.s.5.w.28" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.5.w.29" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.5.w.30" pos="N(soort,ev,basis,zijd,stan)" lemma="koers">koers</w>
+      <w xml:id="allwords-wiki1400.s.5.w.31" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.5.w.32" pos="WW(vd,vrij,zonder)" lemma="verrijden">verreden</w>
+      <w xml:id="allwords-wiki1400.s.5.w.33" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.5.w.34" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.5.w.35" pos="N(soort,mv,basis)" lemma="kasseistrook">kasseistroken</w>
+      <w xml:id="allwords-wiki1400.s.5.w.36" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.5.w.37" pos="ADJ(vrij,basis,zonder)" lemma="karakteristiek">karakteristiek</w>
+      <w xml:id="allwords-wiki1400.s.5.w.38" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.5.w.39" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.5.w.40" pos="VNW(aanw,det,stan,prenom,zonder,evon)" lemma="dit">dit</w>
+      <w xml:id="allwords-wiki1400.s.5.w.41" pos="N(soort,ev,basis,onz,stan)" lemma="gebied">gebied</w>
+      <w xml:id="allwords-wiki1400.s.5.w.42" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.6">
+      <w xml:id="allwords-wiki1400.s.6.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.6.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="omschrijving">omschrijving</w>
+      <w xml:id="allwords-wiki1400.s.6.w.3" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.6.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="hel">hel</w>
+      <w xml:id="allwords-wiki1400.s.6.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.6.w.6" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.6.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="noorden">noorden</w>
+      <w xml:id="allwords-wiki1400.s.6.w.8" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.6.w.9" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.6.w.10" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.6.w.11" pos="TW(rang,nom,zonder-n)" lemma="eerst">eerst</w>
+      <w xml:id="allwords-wiki1400.s.6.w.12" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.6.w.13" pos="TW(hoofd,vrij)" lemma="1919">1919</w>
+      <w xml:id="allwords-wiki1400.s.6.w.14" pos="WW(vd,vrij,zonder)" lemma="gebruiken">gebruikt</w>
+      <w xml:id="allwords-wiki1400.s.6.w.15" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-wiki1400.s.6.w.16" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.6.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="journalist">journalist</w>
+      <w xml:id="allwords-wiki1400.s.6.w.18" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.6.w.19" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.6.w.20" pos="TW(rang,prenom,stan)" lemma="eerste">eerste</w>
+      <w xml:id="allwords-wiki1400.s.6.w.21" pos="N(soort,ev,basis,zijd,stan)" lemma="editie">editie</w>
+      <w xml:id="allwords-wiki1400.s.6.w.22" pos="VZ(init)" lemma="na">na</w>
+      <w xml:id="allwords-wiki1400.s.6.w.23" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.6.w.24" pos="TW(rang,prenom,stan)" lemma="eerste">Eerste</w>
+      <w xml:id="allwords-wiki1400.s.6.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="wereldoorlog">Wereldoorlog</w>
+      <w xml:id="allwords-wiki1400.s.6.w.26" pos="WW(pv,verl,ev)" lemma="volgen">volgde</w>
+      <w xml:id="allwords-wiki1400.s.6.w.27" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.6.w.28" pos="ADJ(vrij,basis,zonder)" lemma="diep">diep</w>
+      <w xml:id="allwords-wiki1400.s.6.w.29" pos="VZ(init)" lemma="onder">onder</w>
+      <w xml:id="allwords-wiki1400.s.6.w.30" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.6.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="indruk">indruk</w>
+      <w xml:id="allwords-wiki1400.s.6.w.32" pos="WW(pv,verl,ev)" lemma="zijn">was</w>
+      <w xml:id="allwords-wiki1400.s.6.w.33" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.6.w.34" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.6.w.35" pos="N(soort,mv,basis)" lemma="oorlogsverwoesting">oorlogsverwoestingen</w>
+      <w xml:id="allwords-wiki1400.s.6.w.36" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.6.w.37" pos="SPEC(deeleigen)" lemma="Noord-Frankrijk">Noord-Frankrijk</w>
+      <w xml:id="allwords-wiki1400.s.6.w.38" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.7">
+      <w xml:id="allwords-wiki1400.s.7.w.1" pos="ADJ(vrij,basis,zonder)" lemma="afhankelijk">Afhankelijk</w>
+      <w xml:id="allwords-wiki1400.s.7.w.2" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.7.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.7.w.4" pos="N(soort,mv,basis)" lemma="weersomstandigheden">weersomstandigheden</w>
+      <w xml:id="allwords-wiki1400.s.7.w.5" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.7.w.6" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-wiki1400.s.7.w.7" pos="N(soort,mv,basis)" lemma="strook">stroken</w>
+      <w xml:id="allwords-wiki1400.s.7.w.8" pos="VG(neven)" lemma="ofwel">ofwel</w>
+      <w xml:id="allwords-wiki1400.s.7.w.9" pos="ADJ(vrij,basis,zonder)" lemma="stoffig">stoffig</w>
+      <w xml:id="allwords-wiki1400.s.7.w.10" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.7.w.11" pos="VG(neven)" lemma="ofwel">ofwel</w>
+      <w xml:id="allwords-wiki1400.s.7.w.12" pos="ADJ(vrij,basis,zonder)" lemma="uiterst">uiterst</w>
+      <w xml:id="allwords-wiki1400.s.7.w.13" pos="ADJ(vrij,basis,zonder)" lemma="glad">glad</w>
+      <w xml:id="allwords-wiki1400.s.7.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.8">
+      <w xml:id="allwords-wiki1400.s.8.w.1" pos="VNW(onbep,grad,stan,prenom,zonder,agr,basis)" lemma="veel">Veel</w>
+      <w xml:id="allwords-wiki1400.s.8.w.2" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.8.w.3" pos="WW(pv,tgw,mv)" lemma="beschouwen">beschouwen</w>
+      <w xml:id="allwords-wiki1400.s.8.w.4" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.8.w.5" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.8.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.8.w.7" pos="ADJ(prenom,sup,met-e,stan)" lemma="belangrijk">belangrijkste</w>
+      <w xml:id="allwords-wiki1400.s.8.w.8" pos="ADJ(prenom,basis,met-e,stan)" lemma="eendaags">eendaagse</w>
+      <w xml:id="allwords-wiki1400.s.8.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.8.w.10" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.8.w.11" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.8.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.8.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.9">
+      <w xml:id="allwords-wiki1400.s.9.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-wiki1400.s.9.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="ander">andere</w>
+      <w xml:id="allwords-wiki1400.s.9.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="bijnaam">bijnaam</w>
+      <w xml:id="allwords-wiki1400.s.9.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.9.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.9.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.9.w.7" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.9.w.8" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.9.w.9" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.9.w.10" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.9.w.11" pos="SPEC(deeleigen)" lemma="la">la</w>
+      <w xml:id="allwords-wiki1400.s.9.w.12" pos="ADJ(prenom,basis,met-e,stan)" lemma="rein">reine</w>
+      <w xml:id="allwords-wiki1400.s.9.w.13" pos="SPEC(deeleigen)" lemma="des">des</w>
+      <w xml:id="allwords-wiki1400.s.9.w.14" pos="SPEC(deeleigen)" lemma="classiques">classiques</w>
+      <w xml:id="allwords-wiki1400.s.9.w.15" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.9.w.16" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-wiki1400.s.9.w.17" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.9.w.18" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.9.w.19" pos="SPEC(deeleigen)" lemma="la">la</w>
+      <w xml:id="allwords-wiki1400.s.9.w.20" pos="SPEC(deeleigen)" lemma="Pascale">Pascale</w>
+      <w xml:id="allwords-wiki1400.s.9.w.21" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.9.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.10">
+      <w xml:id="allwords-wiki1400.s.10.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.10.w.2" pos="N(soort,mv,basis)" lemma="textielfabrikant">textielfabrikanten</w>
+      <w xml:id="allwords-wiki1400.s.10.w.3" pos="SPEC(deeleigen)" lemma="Theo">Theo</w>
+      <w xml:id="allwords-wiki1400.s.10.w.4" pos="SPEC(deeleigen)" lemma="Vienne">Vienne</w>
+      <w xml:id="allwords-wiki1400.s.10.w.5" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.10.w.6" pos="SPEC(deeleigen)" lemma="Maurice">Maurice</w>
+      <w xml:id="allwords-wiki1400.s.10.w.7" pos="SPEC(deeleigen)" lemma="Perez">Perez</w>
+      <w xml:id="allwords-wiki1400.s.10.w.8" pos="WW(pv,verl,mv)" lemma="organiseren">organiseerden</w>
+      <w xml:id="allwords-wiki1400.s.10.w.9" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-wiki1400.s.10.w.10" pos="ADJ(prenom,basis,met-e,stan)" lemma="groot">grote</w>
+      <w xml:id="allwords-wiki1400.s.10.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="klassieker">klassieker</w>
+      <w xml:id="allwords-wiki1400.s.10.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.10.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.10.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="wielersport">wielersport</w>
+      <w xml:id="allwords-wiki1400.s.10.w.15" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.10.w.16" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.10.w.17" pos="BW()" lemma="eerst">eerst</w>
+      <w xml:id="allwords-wiki1400.s.10.w.18" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.10.w.19" pos="TW(hoofd,vrij)" lemma="1896">1896</w>
+      <w xml:id="allwords-wiki1400.s.10.w.20" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.10.w.21" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.10.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="uitzondering">uitzondering</w>
+      <w xml:id="allwords-wiki1400.s.10.w.23" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.10.w.24" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.10.w.25" pos="VNW(onbep,grad,stan,prenom,met-e,mv,basis)" lemma="beide">beide</w>
+      <w xml:id="allwords-wiki1400.s.10.w.26" pos="N(soort,mv,basis)" lemma="wereldoorlog">wereldoorlogen</w>
+      <w xml:id="allwords-wiki1400.s.10.w.27" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.10.w.28" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.10.w.29" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.10.w.30" pos="BW()" lemma="sindsdien">sindsdien</w>
+      <w xml:id="allwords-wiki1400.s.10.w.31" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="elk">elk</w>
+      <w xml:id="allwords-wiki1400.s.10.w.32" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.10.w.33" pos="WW(vd,vrij,zonder)" lemma="verrijden">verreden</w>
+      <w xml:id="allwords-wiki1400.s.10.w.34" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.11">
+      <w xml:id="allwords-wiki1400.s.11.w.1" pos="ADJ(vrij,basis,zonder)" lemma="tegenwoordig">Tegenwoordig</w>
+      <w xml:id="allwords-wiki1400.s.11.w.2" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.11.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.11.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="organisatie">organisatie</w>
+      <w xml:id="allwords-wiki1400.s.11.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.11.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.11.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.11.w.8" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.11.w.9" pos="N(soort,mv,basis)" lemma="hand">handen</w>
+      <w xml:id="allwords-wiki1400.s.11.w.10" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.11.w.11" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.11.w.12" pos="SPEC(vreemd)" lemma="Société">Société</w>
+      <w xml:id="allwords-wiki1400.s.11.w.13" pos="SPEC(deeleigen)" lemma="du">du</w>
+      <w xml:id="allwords-wiki1400.s.11.w.14" pos="SPEC(deeleigen)" lemma="Tour">Tour</w>
+      <w xml:id="allwords-wiki1400.s.11.w.15" pos="SPEC(deeleigen)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.11.w.16" pos="SPEC(deeleigen)" lemma="France">France</w>
+      <w xml:id="allwords-wiki1400.s.11.w.17" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.11.w.18" pos="SPEC(afk)" lemma="A.S.O.">A.S.O.</w>
+      <w xml:id="allwords-wiki1400.s.11.w.19" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-wiki1400.s.11.w.20" pos="SPEC(deeleigen)" lemma="Amaury">Amaury</w>
+      <w xml:id="allwords-wiki1400.s.11.w.21" pos="SPEC(deeleigen)" lemma="Sport">Sport</w>
+      <w xml:id="allwords-wiki1400.s.11.w.22" pos="SPEC(deeleigen)" lemma="Organisation">Organisation</w>
+      <w xml:id="allwords-wiki1400.s.11.w.23" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.11.w.24" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.11.w.25" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.11.w.26" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.11.w.27" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.11.w.28" pos="SPEC(deeleigen)" lemma="Ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.11.w.29" pos="SPEC(deeleigen)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.11.w.30" pos="SPEC(deeleigen)" lemma="Frankrijk">Frankrijk</w>
+      <w xml:id="allwords-wiki1400.s.11.w.31" pos="WW(pv,tgw,met-t)" lemma="organiseren">organiseert</w>
+      <w xml:id="allwords-wiki1400.s.11.w.32" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.12">
+      <w xml:id="allwords-wiki1400.s.12.w.1" pos="VZ(init)" lemma="sinds">Sinds</w>
+      <w xml:id="allwords-wiki1400.s.12.w.2" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.12.w.3" pos="WW(pv,tgw,met-t)" lemma="maken">maakt</w>
+      <w xml:id="allwords-wiki1400.s.12.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.12.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.12.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="deel">deel</w>
+      <w xml:id="allwords-wiki1400.s.12.w.7" pos="VZ(fin)" lemma="uit">uit</w>
+      <w xml:id="allwords-wiki1400.s.12.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.12.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.12.w.10" pos="SPEC(afk)" lemma="UCI">UCI</w>
+      <w xml:id="allwords-wiki1400.s.12.w.11" pos="SPEC(deeleigen)" lemma="ProTour">ProTour</w>
+      <w xml:id="allwords-wiki1400.s.12.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.13">
+      <w xml:id="allwords-wiki1400.s.13.w.1" pos="N(soort,mv,basis)" lemma="parcours">Parcours</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.14">
+      <w xml:id="allwords-wiki1400.s.14.w.1" pos="ADJ(vrij,basis,zonder)" lemma="oorspronkelijk">Oorspronkelijk</w>
+      <w xml:id="allwords-wiki1400.s.14.w.2" pos="WW(pv,verl,ev)" lemma="lopen">liep</w>
+      <w xml:id="allwords-wiki1400.s.14.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.14.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.14.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.14.w.6" pos="SPEC(deeleigen)" lemma="Parijs">Parijs</w>
+      <w xml:id="allwords-wiki1400.s.14.w.7" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-wiki1400.s.14.w.8" pos="SPEC(deeleigen)" lemma="Roubaix">Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.14.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.14.w.10" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.14.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="voorstad">voorstad</w>
+      <w xml:id="allwords-wiki1400.s.14.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.14.w.13" pos="SPEC(deeleigen)" lemma="Rijsel">Rijsel</w>
+      <w xml:id="allwords-wiki1400.s.14.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.15">
+      <w xml:id="allwords-wiki1400.s.15.w.1" pos="VZ(init)" lemma="vanwege">Vanwege</w>
+      <w xml:id="allwords-wiki1400.s.15.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.15.w.3" pos="ADJ(prenom,basis,met-e,stan)" lemma="groot">grote</w>
+      <w xml:id="allwords-wiki1400.s.15.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="afstand">afstand</w>
+      <w xml:id="allwords-wiki1400.s.15.w.5" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.15.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.15.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="startplaats">startplaats</w>
+      <w xml:id="allwords-wiki1400.s.15.w.8" pos="ADJ(vrij,basis,zonder)" lemma="noordwaarts">noordwaarts</w>
+      <w xml:id="allwords-wiki1400.s.15.w.9" pos="WW(vd,vrij,zonder)" lemma="verleggen">verlegd</w>
+      <w xml:id="allwords-wiki1400.s.15.w.10" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.16">
+      <w xml:id="allwords-wiki1400.s.16.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.16.w.2" pos="TW(hoofd,vrij)" lemma="1968">1968</w>
+      <w xml:id="allwords-wiki1400.s.16.w.3" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.16.w.4" pos="VZ(init)" lemma="onder">onder</w>
+      <w xml:id="allwords-wiki1400.s.16.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="leiding">leiding</w>
+      <w xml:id="allwords-wiki1400.s.16.w.6" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.16.w.7" pos="SPEC(deeleigen)" lemma="Jean">Jean</w>
+      <w xml:id="allwords-wiki1400.s.16.w.8" pos="SPEC(deeleigen)" lemma="Stablinski">Stablinski</w>
+      <w xml:id="allwords-wiki1400.s.16.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.16.w.10" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.16.w.11" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.16.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="startstreep">startstreep</w>
+      <w xml:id="allwords-wiki1400.s.16.w.13" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.16.w.14" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.16.w.15" pos="BW()" lemma="eerst">eerst</w>
+      <w xml:id="allwords-wiki1400.s.16.w.16" pos="WW(vd,vrij,zonder)" lemma="trekken">getrokken</w>
+      <w xml:id="allwords-wiki1400.s.16.w.17" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.16.w.18" pos="SPEC(deeleigen)" lemma="Compiègne">Compiègne</w>
+      <w xml:id="allwords-wiki1400.s.16.w.19" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.16.w.20" pos="VNW(betr,pron,stan,vol,3,ev)" lemma="dat">dat</w>
+      <w xml:id="allwords-wiki1400.s.16.w.21" pos="BW()" lemma="zowat">zowat</w>
+      <w xml:id="allwords-wiki1400.s.16.w.22" pos="TW(hoofd,prenom,stan)" lemma="80">80</w>
+      <w xml:id="allwords-wiki1400.s.16.w.23" pos="SPEC(afk)" lemma="km">km</w>
+      <w xml:id="allwords-wiki1400.s.16.w.24" pos="VZ(versm)" lemma="ten">ten</w>
+      <w xml:id="allwords-wiki1400.s.16.w.25" pos="N(soort,ev,basis,onz,stan)" lemma="noorden">noorden</w>
+      <w xml:id="allwords-wiki1400.s.16.w.26" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.16.w.27" pos="SPEC(deeleigen)" lemma="Parijs">Parijs</w>
+      <w xml:id="allwords-wiki1400.s.16.w.28" pos="WW(pv,tgw,met-t)" lemma="liggen">ligt</w>
+      <w xml:id="allwords-wiki1400.s.16.w.29" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.17">
+      <w xml:id="allwords-wiki1400.s.17.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.17.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="finish">finish</w>
+      <w xml:id="allwords-wiki1400.s.17.w.3" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.17.w.4" pos="ADJ(vrij,basis,zonder)" lemma="traditioneel">traditioneel</w>
+      <w xml:id="allwords-wiki1400.s.17.w.5" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.17.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.17.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="wielerbaan">wielerbaan</w>
+      <w xml:id="allwords-wiki1400.s.17.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.17.w.9" pos="SPEC(deeleigen)" lemma="Roubaix">Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.17.w.10" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.17.w.11" pos="VNW(vb,adv-pron,obl,vol,3o,getal)" lemma="waar">waar</w>
+      <w xml:id="allwords-wiki1400.s.17.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.17.w.13" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.17.w.14" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-wiki1400.s.17.w.15" pos="ADJ(prenom,basis,met-e,stan)" lemma="anderhalf">anderhalve</w>
+      <w xml:id="allwords-wiki1400.s.17.w.16" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">ronde</w>
+      <w xml:id="allwords-wiki1400.s.17.w.17" pos="WW(pv,tgw,mv)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-wiki1400.s.17.w.18" pos="WW(inf,vrij,zonder)" lemma="afleggen">afleggen</w>
+      <w xml:id="allwords-wiki1400.s.17.w.19" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.17.w.20" pos="TW(hoofd,prenom,stan)" lemma="1">1</w>
+      <w xml:id="allwords-wiki1400.s.17.w.21" pos="SPEC(afk)" lemma="km">km</w>
+      <w xml:id="allwords-wiki1400.s.17.w.22" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.17.w.23" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.18">
+      <w xml:id="allwords-wiki1400.s.18.w.1" pos="N(soort,mv,basis)" lemma="kassei">Kasseien</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.19">
+      <w xml:id="allwords-wiki1400.s.19.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.19.w.2" pos="WW(pv,verl,ev)" lemma="krijgen">kreeg</w>
+      <w xml:id="allwords-wiki1400.s.19.w.3" pos="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.19.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="reputatie">reputatie</w>
+      <w xml:id="allwords-wiki1400.s.19.w.5" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.19.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="kasseienkoers">kasseienkoers</w>
+      <w xml:id="allwords-wiki1400.s.19.w.7" pos="BW()" lemma="pas">pas</w>
+      <w xml:id="allwords-wiki1400.s.19.w.8" pos="VZ(init)" lemma="na">na</w>
+      <w xml:id="allwords-wiki1400.s.19.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.19.w.10" pos="TW(rang,prenom,stan)" lemma="eerste">Eerste</w>
+      <w xml:id="allwords-wiki1400.s.19.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="wereldoorlog">Wereldoorlog</w>
+      <w xml:id="allwords-wiki1400.s.19.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.20">
+      <w xml:id="allwords-wiki1400.s.20.w.1" pos="N(soort,mv,basis)" lemma="kassei">Kasseien</w>
+      <w xml:id="allwords-wiki1400.s.20.w.2" pos="WW(pv,verl,mv)" lemma="zijn">waren</w>
+      <w xml:id="allwords-wiki1400.s.20.w.3" pos="BW()" lemma="weliswaar">weliswaar</w>
+      <w xml:id="allwords-wiki1400.s.20.w.4" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-wiki1400.s.20.w.5" pos="ADJ(vrij,basis,zonder)" lemma="onbekend">onbekend</w>
+      <w xml:id="allwords-wiki1400.s.20.w.6" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.20.w.7" pos="VNW(aanw,det,stan,prenom,zonder,evon)" lemma="dat">dat</w>
+      <w xml:id="allwords-wiki1400.s.20.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="gebied">gebied</w>
+      <w xml:id="allwords-wiki1400.s.20.w.9" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.20.w.10" pos="VG(neven)" lemma="maar">maar</w>
+      <w xml:id="allwords-wiki1400.s.20.w.11" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.20.w.12" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.20.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="tijd">tijd</w>
+      <w xml:id="allwords-wiki1400.s.20.w.14" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.20.w.15" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">er</w>
+      <w xml:id="allwords-wiki1400.s.20.w.16" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-wiki1400.s.20.w.17" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.20.w.18" pos="WW(vd,vrij,zonder)" lemma="rijden">gereden</w>
+      <w xml:id="allwords-wiki1400.s.20.w.19" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.20.w.20" pos="ADJ(prenom,basis,met-e,stan)" lemma="stoffig">stoffige</w>
+      <w xml:id="allwords-wiki1400.s.20.w.21" pos="N(soort,mv,basis)" lemma="weg">wegen</w>
+      <w xml:id="allwords-wiki1400.s.20.w.22" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.20.w.23" pos="WW(vd,vrij,zonder)" lemma="maken">gemaakt</w>
+      <w xml:id="allwords-wiki1400.s.20.w.24" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.20.w.25" pos="N(soort,ev,basis,onz,stan)" lemma="puin">puin</w>
+      <w xml:id="allwords-wiki1400.s.20.w.26" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.20.w.27" pos="N(soort,ev,basis,onz,stan)" lemma="grind">grind</w>
+      <w xml:id="allwords-wiki1400.s.20.w.28" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.21">
+      <w xml:id="allwords-wiki1400.s.21.w.1" pos="VG(onder)" lemma="nadat">Nadat</w>
+      <w xml:id="allwords-wiki1400.s.21.w.2" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.21.w.3" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.21.w.4" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.21.w.5" pos="N(soort,mv,basis)" lemma="weg">wegen</w>
+      <w xml:id="allwords-wiki1400.s.21.w.6" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.21.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.21.w.8" pos="TW(rang,prenom,stan)" lemma="eerste">Eerste</w>
+      <w xml:id="allwords-wiki1400.s.21.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="wereldoorlog">Wereldoorlog</w>
+      <w xml:id="allwords-wiki1400.s.21.w.10" pos="ADJ(vrij,basis,zonder)" lemma="kapot">kapot</w>
+      <w xml:id="allwords-wiki1400.s.21.w.11" pos="WW(vd,vrij,zonder)" lemma="schieten">geschoten</w>
+      <w xml:id="allwords-wiki1400.s.21.w.12" pos="WW(pv,verl,mv)" lemma="zijn">waren</w>
+      <w xml:id="allwords-wiki1400.s.21.w.13" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.21.w.14" pos="WW(pv,verl,mv)" lemma="worden">werden</w>
+      <w xml:id="allwords-wiki1400.s.21.w.15" pos="VNW(pers,pron,stan,red,3,mv)" lemma="ze">ze</w>
+      <w xml:id="allwords-wiki1400.s.21.w.16" pos="WW(vd,vrij,zonder)" lemma="herstellen">hersteld</w>
+      <w xml:id="allwords-wiki1400.s.21.w.17" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.21.w.18" pos="N(soort,mv,basis)" lemma="kassei">kasseien</w>
+      <w xml:id="allwords-wiki1400.s.21.w.19" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.22">
+      <w xml:id="allwords-wiki1400.s.22.w.1" pos="VZ(init)" lemma="vanaf">Vanaf</w>
+      <w xml:id="allwords-wiki1400.s.22.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.22.w.3" pos="N(soort,mv,basis)" lemma="jaar">jaren</w>
+      <w xml:id="allwords-wiki1400.s.22.w.4" pos="TW(hoofd,vrij)" lemma="zestig">zestig</w>
+      <w xml:id="allwords-wiki1400.s.22.w.5" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.22.w.6" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.22.w.7" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.22.w.8" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.22.w.9" pos="N(soort,mv,basis)" lemma="kassei">kasseien</w>
+      <w xml:id="allwords-wiki1400.s.22.w.10" pos="BW()" lemma="weer">weer</w>
+      <w xml:id="allwords-wiki1400.s.22.w.11" pos="WW(vd,vrij,zonder)" lemma="verdwijnen">verdwenen</w>
+      <w xml:id="allwords-wiki1400.s.22.w.12" pos="VZ(init)" lemma="onder">onder</w>
+      <w xml:id="allwords-wiki1400.s.22.w.13" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.22.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="laag">laag</w>
+      <w xml:id="allwords-wiki1400.s.22.w.15" pos="N(soort,ev,basis,onz,stan)" lemma="asfalt">asfalt</w>
+      <w xml:id="allwords-wiki1400.s.22.w.16" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.22.w.17" pos="VG(neven)" lemma="maar">maar</w>
+      <w xml:id="allwords-wiki1400.s.22.w.18" pos="VNW(pers,pron,stan,red,3,mv)" lemma="ze">ze</w>
+      <w xml:id="allwords-wiki1400.s.22.w.19" pos="WW(pv,verl,mv)" lemma="hebben">hadden</w>
+      <w xml:id="allwords-wiki1400.s.22.w.20" pos="BW()" lemma="inmiddels">inmiddels</w>
+      <w xml:id="allwords-wiki1400.s.22.w.21" pos="VNW(aanw,det,stan,prenom,zonder,agr)" lemma="zo'n">zo'n</w>
+      <w xml:id="allwords-wiki1400.s.22.w.22" pos="ADJ(prenom,basis,zonder)" lemma="eigen">eigen</w>
+      <w xml:id="allwords-wiki1400.s.22.w.23" pos="N(soort,ev,basis,onz,stan)" lemma="karakter">karakter</w>
+      <w xml:id="allwords-wiki1400.s.22.w.24" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-wiki1400.s.22.w.25" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.22.w.26" pos="WW(vd,vrij,zonder)" lemma="geven">gegeven</w>
+      <w xml:id="allwords-wiki1400.s.22.w.27" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.22.w.28" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-wiki1400.s.22.w.29" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.22.w.30" pos="N(soort,ev,basis,zijd,stan)" lemma="organisatie">organisatie</w>
+      <w xml:id="allwords-wiki1400.s.22.w.31" pos="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" lemma="haar">haar</w>
+      <w xml:id="allwords-wiki1400.s.22.w.32" pos="ADJ(nom,sup,zonder,zonder-n)" lemma="best">best</w>
+      <w xml:id="allwords-wiki1400.s.22.w.33" pos="WW(pv,tgw,met-t)" lemma="doen">doet</w>
+      <w xml:id="allwords-wiki1400.s.22.w.34" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.22.w.35" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.22.w.36" pos="N(soort,ev,basis,zijd,stan)" lemma="omgeving">omgeving</w>
+      <w xml:id="allwords-wiki1400.s.22.w.37" pos="ADJ(prenom,basis,met-e,stan)" lemma="origineel">originele</w>
+      <w xml:id="allwords-wiki1400.s.22.w.38" pos="N(soort,mv,basis)" lemma="kasseistrook">kasseistroken</w>
+      <w xml:id="allwords-wiki1400.s.22.w.39" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.22.w.40" pos="WW(inf,vrij,zonder)" lemma="vinden">vinden</w>
+      <w xml:id="allwords-wiki1400.s.22.w.41" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.22.w.42" pos="VNW(pers,pron,stan,red,3,mv)" lemma="ze">ze</w>
+      <w xml:id="allwords-wiki1400.s.22.w.43" pos="BW()" lemma="zo">zo</w>
+      <w xml:id="allwords-wiki1400.s.22.w.44" pos="ADJ(vrij,basis,zonder)" lemma="mogelijk">mogelijk</w>
+      <w xml:id="allwords-wiki1400.s.22.w.45" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.22.w.46" pos="N(soort,ev,basis,onz,stan)" lemma="erfgoed">erfgoed</w>
+      <w xml:id="allwords-wiki1400.s.22.w.47" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.22.w.48" pos="WW(inf,vrij,zonder)" lemma="laten">laten</w>
+      <w xml:id="allwords-wiki1400.s.22.w.49" pos="WW(inf,vrij,zonder)" lemma="beschermen">beschermen</w>
+      <w xml:id="allwords-wiki1400.s.22.w.50" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.23">
+      <w xml:id="allwords-wiki1400.s.23.w.1" pos="VNW(onbep,det,stan,prenom,met-e,rest)" lemma="sommige">Sommige</w>
+      <w xml:id="allwords-wiki1400.s.23.w.2" pos="N(soort,mv,basis)" lemma="kasseienstrook">kasseienstroken</w>
+      <w xml:id="allwords-wiki1400.s.23.w.3" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.23.w.4" pos="BW()" lemma="alleen">alleen</w>
+      <w xml:id="allwords-wiki1400.s.23.w.5" pos="ADJ(vrij,basis,zonder)" lemma="toegankelijk">toegankelijk</w>
+      <w xml:id="allwords-wiki1400.s.23.w.6" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.23.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="publiek">publiek</w>
+      <w xml:id="allwords-wiki1400.s.23.w.8" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.23.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.23.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijddag">wedstrijddag</w>
+      <w xml:id="allwords-wiki1400.s.23.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.24">
+      <w xml:id="allwords-wiki1400.s.24.w.1" pos="ADJ(vrij,basis,zonder)" lemma="tegenwoordig">Tegenwoordig</w>
+      <w xml:id="allwords-wiki1400.s.24.w.2" pos="WW(pv,tgw,mv)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-wiki1400.s.24.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.24.w.4" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.24.w.5" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="elk">elk</w>
+      <w xml:id="allwords-wiki1400.s.24.w.6" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.24.w.7" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.24.w.8" pos="VNW(onbep,grad,stan,vrij,zonder,comp)" lemma="veel">meer</w>
+      <w xml:id="allwords-wiki1400.s.24.w.9" pos="VG(onder)" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.24.w.10" pos="TW(hoofd,prenom,stan)" lemma="50">50</w>
+      <w xml:id="allwords-wiki1400.s.24.w.11" pos="SPEC(symb)" lemma="km">km</w>
+      <w xml:id="allwords-wiki1400.s.24.w.12" pos="N(soort,mv,basis)" lemma="kassei">kasseien</w>
+      <w xml:id="allwords-wiki1400.s.24.w.13" pos="WW(inf,vrij,zonder)" lemma="rijden">rijden</w>
+      <w xml:id="allwords-wiki1400.s.24.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.25">
+      <w xml:id="allwords-wiki1400.s.25.w.1" pos="ADJ(prenom,basis,met-e,stan)" lemma="bekend">Bekende</w>
+      <w xml:id="allwords-wiki1400.s.25.w.2" pos="N(soort,mv,basis)" lemma="kasseienstrook">kasseienstroken</w>
+      <w xml:id="allwords-wiki1400.s.25.w.3" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.25.w.4" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.25.w.5" pos="SPEC(deeleigen)" lemma="Bos">Bos</w>
+      <w xml:id="allwords-wiki1400.s.25.w.6" pos="SPEC(deeleigen)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.25.w.7" pos="SPEC(deeleigen)" lemma="Wallers-Arenberg">Wallers-Arenberg</w>
+      <w xml:id="allwords-wiki1400.s.25.w.8" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.25.w.9" pos="SPEC(deeleigen)" lemma="Pevelenberg">Pevelenberg</w>
+      <w xml:id="allwords-wiki1400.s.25.w.10" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.25.w.11" pos="SPEC(deeleigen)" lemma="Mons-en-Pévèle">Mons-en-Pévèle</w>
+      <w xml:id="allwords-wiki1400.s.25.w.12" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.25.w.13" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.25.w.14" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.25.w.15" pos="SPEC(deeleigen)" lemma="Carrefour">Carrefour</w>
+      <w xml:id="allwords-wiki1400.s.25.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.25.w.17" pos="SPEC(deeleigen)" lemma="l">l</w>
+      <w xml:id="allwords-wiki1400.s.25.w.18" pos="LET()" lemma="'">'</w>
+      <w xml:id="allwords-wiki1400.s.25.w.19" pos="SPEC(deeleigen)" lemma="Arbre">Arbre</w>
+      <w xml:id="allwords-wiki1400.s.25.w.20" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.26">
+      <w xml:id="allwords-wiki1400.s.26.w.1" pos="VNW(onbep,det,stan,prenom,met-e,evz)" lemma="elke">Elke</w>
+      <w xml:id="allwords-wiki1400.s.26.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="kasseistrook">kasseistrook</w>
+      <w xml:id="allwords-wiki1400.s.26.w.3" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.26.w.4" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.26.w.5" pos="SPEC(afk)" lemma="fr">fr</w>
+      <w xml:id="allwords-wiki1400.s.26.w.6" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-wiki1400.s.26.w.7" pos="SPEC(vreemd)" lemma="secteur">secteur</w>
+      <w xml:id="allwords-wiki1400.s.26.w.8" pos="SPEC(vreemd)" lemma="pavé">pavé</w>
+      <w xml:id="allwords-wiki1400.s.26.w.9" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.26.w.10" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.26.w.11" pos="WW(pv,tgw,met-t)" lemma="krijgen">krijgt</w>
+      <w xml:id="allwords-wiki1400.s.26.w.12" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.26.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="gradatie">gradatie</w>
+      <w xml:id="allwords-wiki1400.s.26.w.14" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.26.w.15" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.26.w.16" pos="N(soort,ev,basis,zijd,stan)" lemma="vorm">vorm</w>
+      <w xml:id="allwords-wiki1400.s.26.w.17" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.26.w.18" pos="N(soort,mv,basis)" lemma="ster">sterren</w>
+      <w xml:id="allwords-wiki1400.s.26.w.19" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.26.w.20" pos="BW()" lemma="waarbij">waarbij</w>
+      <w xml:id="allwords-wiki1400.s.26.w.21" pos="TW(hoofd,prenom,stan)" lemma="5">5</w>
+      <w xml:id="allwords-wiki1400.s.26.w.22" pos="N(soort,mv,basis)" lemma="ster">sterren</w>
+      <w xml:id="allwords-wiki1400.s.26.w.23" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.26.w.24" pos="ADJ(prenom,sup,met-e,stan)" lemma="slecht">slechtste</w>
+      <w xml:id="allwords-wiki1400.s.26.w.25" pos="N(soort,mv,basis)" lemma="strook">stroken</w>
+      <w xml:id="allwords-wiki1400.s.26.w.26" pos="WW(inf,vrij,zonder)" lemma="aanduiden">aanduiden</w>
+      <w xml:id="allwords-wiki1400.s.26.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.27">
+      <w xml:id="allwords-wiki1400.s.27.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.27.w.2" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.27.w.3" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.27.w.4" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.27.w.5" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.27.w.6" pos="BW()" lemma="eerst">eerst</w>
+      <w xml:id="allwords-wiki1400.s.27.w.7" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.27.w.8" pos="TW(hoofd,prenom,stan)" lemma="veertig">veertig</w>
+      <w xml:id="allwords-wiki1400.s.27.w.9" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.27.w.10" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.27.w.11" pos="SPEC(deeleigen)" lemma="Bos">Bos</w>
+      <w xml:id="allwords-wiki1400.s.27.w.12" pos="SPEC(deeleigen)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.27.w.13" pos="SPEC(deeleigen)" lemma="Wallers">Wallers</w>
+      <w xml:id="allwords-wiki1400.s.27.w.14" pos="VZ(init)" lemma="buiten">buiten</w>
+      <w xml:id="allwords-wiki1400.s.27.w.15" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.27.w.16" pos="N(soort,ev,basis,onz,stan)" lemma="parcours">parcours</w>
+      <w xml:id="allwords-wiki1400.s.27.w.17" pos="WW(vd,vrij,zonder)" lemma="laten">gelaten</w>
+      <w xml:id="allwords-wiki1400.s.27.w.18" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.27.w.19" pos="VZ(init)" lemma="vanwege">vanwege</w>
+      <w xml:id="allwords-wiki1400.s.27.w.20" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.27.w.21" pos="ADJ(prenom,basis,met-e,stan)" lemma="slecht">slechte</w>
+      <w xml:id="allwords-wiki1400.s.27.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="toestand">toestand</w>
+      <w xml:id="allwords-wiki1400.s.27.w.23" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.27.w.24" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.27.w.25" pos="N(soort,mv,basis)" lemma="kassei">kasseien</w>
+      <w xml:id="allwords-wiki1400.s.27.w.26" pos="BW()" lemma="aldaar">aldaar</w>
+      <w xml:id="allwords-wiki1400.s.27.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.28">
+      <w xml:id="allwords-wiki1400.s.28.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.28.w.2" pos="TW(hoofd,vrij)" lemma="2006">2006</w>
+      <w xml:id="allwords-wiki1400.s.28.w.3" pos="WW(pv,verl,ev)" lemma="worden">werd</w>
+      <w xml:id="allwords-wiki1400.s.28.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.28.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="strook">strook</w>
+      <w xml:id="allwords-wiki1400.s.28.w.6" pos="BW()" lemma="terug">terug</w>
+      <w xml:id="allwords-wiki1400.s.28.w.7" pos="WW(vd,vrij,zonder)" lemma="opnemen">opgenomen</w>
+      <w xml:id="allwords-wiki1400.s.28.w.8" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.28.w.9" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.28.w.10" pos="N(soort,ev,basis,onz,stan)" lemma="parcours">parcours</w>
+      <w xml:id="allwords-wiki1400.s.28.w.11" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.29">
+      <w xml:id="allwords-wiki1400.s.29.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.29.w.2" pos="ADJ(prenom,sup,met-e,stan)" lemma="belangrijk">belangrijkste</w>
+      <w xml:id="allwords-wiki1400.s.29.w.3" pos="N(soort,mv,basis)" lemma="kasseistrook">kasseistroken</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.30">
+      <w xml:id="allwords-wiki1400.s.30.w.1" pos="N(soort,ev,basis,zijd,stan)" lemma="dramatiek">Dramatiek</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.31">
+      <w xml:id="allwords-wiki1400.s.31.w.1" pos="BW()" lemma="alleen">Alleen</w>
+      <w xml:id="allwords-wiki1400.s.31.w.2" pos="BW()" lemma="al">al</w>
+      <w xml:id="allwords-wiki1400.s.31.w.3" pos="VG(onder)" lemma="omdat">omdat</w>
+      <w xml:id="allwords-wiki1400.s.31.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.31.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.31.w.6" pos="WW(pv,tgw,met-t)" lemma="plaatsvinden">plaatsvindt</w>
+      <w xml:id="allwords-wiki1400.s.31.w.7" pos="VZ(init)" lemma="tijdens">tijdens</w>
+      <w xml:id="allwords-wiki1400.s.31.w.8" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.31.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="maand">maand</w>
+      <w xml:id="allwords-wiki1400.s.31.w.10" pos="SPEC(deeleigen)" lemma="april">april</w>
+      <w xml:id="allwords-wiki1400.s.31.w.11" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.31.w.12" pos="VG(onder)" lemma="terwijl">terwijl</w>
+      <w xml:id="allwords-wiki1400.s.31.w.13" pos="VNW(pers,pron,stan,red,3,ev,onz)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.31.w.14" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.31.w.15" pos="WW(pv,tgw,met-t)" lemma="regenen">regent</w>
+      <w xml:id="allwords-wiki1400.s.31.w.16" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.31.w.17" pos="BW()" lemma="nog">nog</w>
+      <w xml:id="allwords-wiki1400.s.31.w.18" pos="ADJ(vrij,basis,zonder)" lemma="behoorlijk">behoorlijk</w>
+      <w xml:id="allwords-wiki1400.s.31.w.19" pos="ADJ(vrij,basis,zonder)" lemma="koud">koud</w>
+      <w xml:id="allwords-wiki1400.s.31.w.20" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.31.w.21" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.31.w.22" pos="WW(pv,tgw,met-t)" lemma="blijven">blijft</w>
+      <w xml:id="allwords-wiki1400.s.31.w.23" pos="SPEC(deeleigen)" lemma="Paris-Roubaix">Paris-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.31.w.24" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.31.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="wielerliefhebber">wielerliefhebber</w>
+      <w xml:id="allwords-wiki1400.s.31.w.26" pos="WW(inf,vrij,zonder)" lemma="aanspreken">aanspreken</w>
+      <w xml:id="allwords-wiki1400.s.31.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.32">
+      <w xml:id="allwords-wiki1400.s.32.w.1" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">Geen</w>
+      <w xml:id="allwords-wiki1400.s.32.w.2" pos="VNW(onbep,det,stan,prenom,met-e,rest)" lemma="enkele">enkele</w>
+      <w xml:id="allwords-wiki1400.s.32.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.32.w.4" pos="WW(pv,tgw,met-t)" lemma="komen">komt</w>
+      <w xml:id="allwords-wiki1400.s.32.w.5" pos="ADJ(vrij,comp,zonder)" lemma="dichter">dichter</w>
+      <w xml:id="allwords-wiki1400.s.32.w.6" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.32.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.32.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="buurt">buurt</w>
+      <w xml:id="allwords-wiki1400.s.32.w.9" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.32.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="wielrennerij">wielrennerij</w>
+      <w xml:id="allwords-wiki1400.s.32.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.32.w.12" pos="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.32.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="oervorm">oervorm</w>
+      <w xml:id="allwords-wiki1400.s.32.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.33">
+      <w xml:id="allwords-wiki1400.s.33.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.33.w.2" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-wiki1400.s.33.w.3" pos="VNW(onbep,det,stan,prenom,met-e,rest)" lemma="enkele">enkele</w>
+      <w xml:id="allwords-wiki1400.s.33.w.4" pos="ADJ(prenom,basis,met-e,stan)" lemma="ander">andere</w>
+      <w xml:id="allwords-wiki1400.s.33.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="eendagswedstrijd">eendagswedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.33.w.6" pos="WW(pv,tgw,mv)" lemma="liggen">liggen</w>
+      <w xml:id="allwords-wiki1400.s.33.w.7" pos="N(soort,ev,basis,zijd,stan)" lemma="vreugde">vreugde</w>
+      <w xml:id="allwords-wiki1400.s.33.w.8" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.33.w.9" pos="N(soort,ev,basis,onz,stan)" lemma="verdriet">verdriet</w>
+      <w xml:id="allwords-wiki1400.s.33.w.10" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.33.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="roem">roem</w>
+      <w xml:id="allwords-wiki1400.s.33.w.12" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.33.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="dramatiek">dramatiek</w>
+      <w xml:id="allwords-wiki1400.s.33.w.14" pos="BW()" lemma="zo">zo</w>
+      <w xml:id="allwords-wiki1400.s.33.w.15" pos="VZ(init)" lemma="dichtbij">dichtbij</w>
+      <w xml:id="allwords-wiki1400.s.33.w.16" pos="VNW(recip,pron,obl,vol,persoon,mv)" lemma="elkaar">elkaar</w>
+      <w xml:id="allwords-wiki1400.s.33.w.17" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.33.w.18" pos="VZ(init)" lemma="tussen">tussen</w>
+      <w xml:id="allwords-wiki1400.s.33.w.19" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.33.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="vertrekpunt">vertrekpunt</w>
+      <w xml:id="allwords-wiki1400.s.33.w.21" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.33.w.22" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.33.w.23" pos="SPEC(deeleigen)" lemma="Place">Place</w>
+      <w xml:id="allwords-wiki1400.s.33.w.24" pos="SPEC(deeleigen)" lemma="du">du</w>
+      <w xml:id="allwords-wiki1400.s.33.w.25" pos="SPEC(deeleigen)" lemma="Palais">Palais</w>
+      <w xml:id="allwords-wiki1400.s.33.w.26" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.33.w.27" pos="SPEC(deeleigen)" lemma="Compiègne">Compiègne</w>
+      <w xml:id="allwords-wiki1400.s.33.w.28" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.33.w.29" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.33.w.30" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.33.w.31" pos="N(soort,ev,basis,zijd,stan)" lemma="aankomst">aankomst</w>
+      <w xml:id="allwords-wiki1400.s.33.w.32" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.33.w.33" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.33.w.34" pos="N(soort,ev,basis,zijd,stan)" lemma="velodroom">velodroom</w>
+      <w xml:id="allwords-wiki1400.s.33.w.35" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.33.w.36" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.33.w.37" pos="ADJ(prenom,basis,met-e,stan)" lemma="noord-frans">Noord-Franse</w>
+      <w xml:id="allwords-wiki1400.s.33.w.38" pos="SPEC(deeleigen)" lemma="Roubaix">Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.33.w.39" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.34">
+      <w xml:id="allwords-wiki1400.s.34.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.34.w.2" pos="N(soort,mv,dim)" lemma="kinderkop">kinderkopjes</w>
+      <w xml:id="allwords-wiki1400.s.34.w.3" pos="WW(pv,tgw,mv)" lemma="liggen">liggen</w>
+      <w xml:id="allwords-wiki1400.s.34.w.4" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">er</w>
+      <w xml:id="allwords-wiki1400.s.34.w.5" pos="VNW(onbep,adv-pron,obl,vol,3o,getal)" lemma="nergens">nergens</w>
+      <w xml:id="allwords-wiki1400.s.34.w.6" pos="BW()" lemma="zo">zo</w>
+      <w xml:id="allwords-wiki1400.s.34.w.7" pos="ADJ(vrij,basis,zonder)" lemma="verraderlijk">verraderlijk</w>
+      <w xml:id="allwords-wiki1400.s.34.w.8" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.34.w.9" pos="ADJ(vrij,basis,zonder)" lemma="grauw">grauw</w>
+      <w xml:id="allwords-wiki1400.s.34.w.10" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.34.w.11" pos="ADJ(vrij,basis,zonder)" lemma="grimmig">grimmig</w>
+      <w xml:id="allwords-wiki1400.s.34.w.12" pos="VZ(fin)" lemma="bij">bij</w>
+      <w xml:id="allwords-wiki1400.s.34.w.13" pos="VG(onder)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.34.w.14" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.34.w.15" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.34.w.16" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.34.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="hel">hel</w>
+      <w xml:id="allwords-wiki1400.s.34.w.18" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.34.w.19" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.34.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="noorden">noorden</w>
+      <w xml:id="allwords-wiki1400.s.34.w.21" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.34.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.35">
+      <w xml:id="allwords-wiki1400.s.35.w.1" pos="TW(hoofd,prenom,stan)" lemma="eén">Eén</w>
+      <w xml:id="allwords-wiki1400.s.35.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="blik">blik</w>
+      <w xml:id="allwords-wiki1400.s.35.w.3" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.35.w.4" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.35.w.5" pos="N(soort,ev,basis,zijd,stan)" lemma="erelijst">erelijst</w>
+      <w xml:id="allwords-wiki1400.s.35.w.6" pos="WW(pv,tgw,met-t)" lemma="maken">maakt</w>
+      <w xml:id="allwords-wiki1400.s.35.w.7" pos="ADJ(vrij,basis,zonder)" lemma="duidelijk">duidelijk</w>
+      <w xml:id="allwords-wiki1400.s.35.w.8" pos="VG(onder)" lemma="dat">dat</w>
+      <w xml:id="allwords-wiki1400.s.35.w.9" pos="BW()" lemma="enkel">enkel</w>
+      <w xml:id="allwords-wiki1400.s.35.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.35.w.11" pos="ADJ(nom,sup,met-e,mv-n)" lemma="allergrootst">allergrootsten</w>
+      <w xml:id="allwords-wiki1400.s.35.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.35.w.13" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.35.w.14" pos="ADJ(prenom,basis,met-e,stan)" lemma="onmenselijk">onmenselijke</w>
+      <w xml:id="allwords-wiki1400.s.35.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="tocht">tocht</w>
+      <w xml:id="allwords-wiki1400.s.35.w.16" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.35.w.17" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.35.w.18" pos="ADJ(prenom,basis,met-e,stan)" lemma="frans">Franse</w>
+      <w xml:id="allwords-wiki1400.s.35.w.19" pos="N(soort,mv,basis)" lemma="kasseiweg">kasseiwegen</w>
+      <w xml:id="allwords-wiki1400.s.35.w.20" pos="VZ(init)" lemma="tot">tot</w>
+      <w xml:id="allwords-wiki1400.s.35.w.21" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.35.w.22" pos="ADJ(prenom,basis,zonder)" lemma="goed">goed</w>
+      <w xml:id="allwords-wiki1400.s.35.w.23" pos="N(soort,ev,basis,onz,stan)" lemma="einde">einde</w>
+      <w xml:id="allwords-wiki1400.s.35.w.24" pos="WW(pv,verl,mv)" lemma="weten">wisten</w>
+      <w xml:id="allwords-wiki1400.s.35.w.25" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.35.w.26" pos="WW(inf,vrij,zonder)" lemma="brengen">brengen</w>
+      <w xml:id="allwords-wiki1400.s.35.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.36">
+      <w xml:id="allwords-wiki1400.s.36.w.1" pos="ADJ(vrij,basis,zonder)" lemma="heroïsch">Heroïsch</w>
+      <w xml:id="allwords-wiki1400.s.36.w.2" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.36.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.36.w.4" pos="N(soort,mv,basis)" lemma="veldslag">veldslagen</w>
+      <w xml:id="allwords-wiki1400.s.36.w.5" pos="VNW(vb,adv-pron,obl,vol,3o,getal)" lemma="waar">waar</w>
+      <w xml:id="allwords-wiki1400.s.36.w.6" pos="SPEC(deeleigen)" lemma="Octave">Octave</w>
+      <w xml:id="allwords-wiki1400.s.36.w.7" pos="SPEC(deeleigen)" lemma="Lapize">Lapize</w>
+      <w xml:id="allwords-wiki1400.s.36.w.8" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.9" pos="SPEC(deeleigen)" lemma="Gaston">Gaston</w>
+      <w xml:id="allwords-wiki1400.s.36.w.10" pos="SPEC(deeleigen)" lemma="Rebry">Rebry</w>
+      <w xml:id="allwords-wiki1400.s.36.w.11" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.12" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.36.w.13" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.36.w.14" pos="SPEC(deeleigen)" lemma="Steenbergen">Steenbergen</w>
+      <w xml:id="allwords-wiki1400.s.36.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.16" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.36.w.17" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.36.w.18" pos="SPEC(deeleigen)" lemma="Looy">Looy</w>
+      <w xml:id="allwords-wiki1400.s.36.w.19" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.20" pos="SPEC(deeleigen)" lemma="Peter">Peter</w>
+      <w xml:id="allwords-wiki1400.s.36.w.21" pos="SPEC(deeleigen)" lemma="Post">Post</w>
+      <w xml:id="allwords-wiki1400.s.36.w.22" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.23" pos="SPEC(deeleigen)" lemma="Eddy">Eddy</w>
+      <w xml:id="allwords-wiki1400.s.36.w.24" pos="SPEC(deeleigen)" lemma="Merckx">Merckx</w>
+      <w xml:id="allwords-wiki1400.s.36.w.25" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.26" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.36.w.27" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.36.w.28" pos="SPEC(deeleigen)" lemma="Vlaeminck">Vlaeminck</w>
+      <w xml:id="allwords-wiki1400.s.36.w.29" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.36.w.30" pos="BW()" lemma="alias">alias</w>
+      <w xml:id="allwords-wiki1400.s.36.w.31" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.36.w.32" pos="N(soort,ev,basis,zijd,stan)" lemma="monsieur">Monsieur</w>
+      <w xml:id="allwords-wiki1400.s.36.w.33" pos="SPEC(deeleigen)" lemma="Paris-Roubaix">Paris-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.36.w.34" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.36.w.35" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.36.w.36" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.37" pos="SPEC(deeleigen)" lemma="Francesco">Francesco</w>
+      <w xml:id="allwords-wiki1400.s.36.w.38" pos="SPEC(deeleigen)" lemma="Moser">Moser</w>
+      <w xml:id="allwords-wiki1400.s.36.w.39" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.40" pos="SPEC(deeleigen)" lemma="Hennie">Hennie</w>
+      <w xml:id="allwords-wiki1400.s.36.w.41" pos="SPEC(deeleigen)" lemma="Kuiper">Kuiper</w>
+      <w xml:id="allwords-wiki1400.s.36.w.42" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.43" pos="SPEC(deeleigen)" lemma="Sean">Sean</w>
+      <w xml:id="allwords-wiki1400.s.36.w.44" pos="SPEC(deeleigen)" lemma="Kelly">Kelly</w>
+      <w xml:id="allwords-wiki1400.s.36.w.45" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.36.w.46" pos="SPEC(deeleigen)" lemma="Bernard">Bernard</w>
+      <w xml:id="allwords-wiki1400.s.36.w.47" pos="SPEC(deeleigen)" lemma="Hinault">Hinault</w>
+      <w xml:id="allwords-wiki1400.s.36.w.48" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.36.w.49" pos="SPEC(deeleigen)" lemma="Gilbert">Gilbert</w>
+      <w xml:id="allwords-wiki1400.s.36.w.50" pos="SPEC(deeleigen)" lemma="Duclos-Lassalle">Duclos-Lassalle</w>
+      <w xml:id="allwords-wiki1400.s.36.w.51" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.36.w.52" pos="N(soort,ev,basis,zijd,stan)" lemma="triomfator">triomfator</w>
+      <w xml:id="allwords-wiki1400.s.36.w.53" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-wiki1400.s.36.w.54" pos="VZ(fin)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.36.w.55" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.36.w.56" pos="WW(vd,vrij,zonder)" lemma="komen">gekomen</w>
+      <w xml:id="allwords-wiki1400.s.36.w.57" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.37">
+      <w xml:id="allwords-wiki1400.s.37.w.1" pos="VNW(onbep,det,stan,prenom,zonder,evon)" lemma="ieder">Ieder</w>
+      <w xml:id="allwords-wiki1400.s.37.w.2" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.37.w.3" pos="WW(pv,tgw,mv)" lemma="worden">worden</w>
+      <w xml:id="allwords-wiki1400.s.37.w.4" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-wiki1400.s.37.w.5" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.37.w.6" pos="N(soort,mv,basis)" lemma="flandrien">flandriens</w>
+      <w xml:id="allwords-wiki1400.s.37.w.7" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.37.w.8" pos="WW(vd,vrij,zonder)" lemma="aanmoedigen">aangemoedigd</w>
+      <w xml:id="allwords-wiki1400.s.37.w.9" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-wiki1400.s.37.w.10" pos="TW(hoofd,nom,mv-n,basis)" lemma="duizend">duizenden</w>
+      <w xml:id="allwords-wiki1400.s.37.w.11" pos="N(soort,mv,basis)" lemma="wielerliefhebber">wielerliefhebbers</w>
+      <w xml:id="allwords-wiki1400.s.37.w.12" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.37.w.13" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.37.w.14" pos="ADJ(prenom,basis,met-e,stan)" lemma="groot">grote</w>
+      <w xml:id="allwords-wiki1400.s.37.w.15" pos="N(soort,ev,basis,dat)" lemma="getalen">getalen</w>
+      <w xml:id="allwords-wiki1400.s.37.w.16" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-wiki1400.s.37.w.17" pos="WW(vd,prenom,zonder)" lemma="verlaten">verlaten</w>
+      <w xml:id="allwords-wiki1400.s.37.w.18" pos="N(soort,mv,dim)" lemma="landweg">landweggetjes</w>
+      <w xml:id="allwords-wiki1400.s.37.w.19" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.37.w.20" pos="SPEC(deeleigen)" lemma="Troisvilles">Troisvilles</w>
+      <w xml:id="allwords-wiki1400.s.37.w.21" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.37.w.22" pos="SPEC(deeleigen)" lemma="Wallers">Wallers</w>
+      <w xml:id="allwords-wiki1400.s.37.w.23" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.37.w.24" pos="SPEC(deeleigen)" lemma="Cysoing">Cysoing</w>
+      <w xml:id="allwords-wiki1400.s.37.w.25" pos="WW(pv,tgw,mv)" lemma="afzakken">afzakken</w>
+      <w xml:id="allwords-wiki1400.s.37.w.26" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-wiki1400.s.37.w.27" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.37.w.28" pos="N(soort,ev,basis,zijd,stan)" lemma="doortocht">doortocht</w>
+      <w xml:id="allwords-wiki1400.s.37.w.29" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.37.w.30" pos="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" lemma="hun">hun</w>
+      <w xml:id="allwords-wiki1400.s.37.w.31" pos="N(soort,mv,basis)" lemma="held">helden</w>
+      <w xml:id="allwords-wiki1400.s.37.w.32" pos="VZ(fin)" lemma="mee">mee</w>
+      <w xml:id="allwords-wiki1400.s.37.w.33" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.37.w.34" pos="WW(inf,vrij,zonder)" lemma="maken">maken</w>
+      <w xml:id="allwords-wiki1400.s.37.w.35" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.38">
+      <w xml:id="allwords-wiki1400.s.38.w.1" pos="VZ(init)" lemma="voor">Voor</w>
+      <w xml:id="allwords-wiki1400.s.38.w.2" pos="VNW(vb,pron,stan,vol,3p,getal)" lemma="wie">wie</w>
+      <w xml:id="allwords-wiki1400.s.38.w.3" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.38.w.4" pos="TW(rang,nom,zonder-n)" lemma="eerste">eerste</w>
+      <w xml:id="allwords-wiki1400.s.38.w.5" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.38.w.6" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.38.w.7" pos="ADJ(vrij,basis,zonder)" lemma="onherkenbaar">onherkenbaar</w>
+      <w xml:id="allwords-wiki1400.s.38.w.8" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-wiki1400.s.38.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="stof">stof</w>
+      <w xml:id="allwords-wiki1400.s.38.w.10" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.38.w.11" pos="N(soort,ev,basis,onz,stan)" lemma="slijk">slijk</w>
+      <w xml:id="allwords-wiki1400.s.38.w.12" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.38.w.13" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.38.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="wielerbaan">wielerbaan</w>
+      <w xml:id="allwords-wiki1400.s.38.w.15" pos="WW(pv,tgw,met-t)" lemma="bereiken">bereikt</w>
+      <w xml:id="allwords-wiki1400.s.38.w.16" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.38.w.17" pos="SPEC(deeleigen)" lemma="Roubaix">Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.38.w.18" pos="WW(pv,tgw,mv)" lemma="gaan">gaan</w>
+      <w xml:id="allwords-wiki1400.s.38.w.19" pos="BW()" lemma="echter">echter</w>
+      <w xml:id="allwords-wiki1400.s.38.w.20" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.38.w.21" pos="N(soort,mv,basis)" lemma="hemelpoort">hemelpoorten</w>
+      <w xml:id="allwords-wiki1400.s.38.w.22" pos="ADJ(vrij,basis,zonder)" lemma="open">open</w>
+      <w xml:id="allwords-wiki1400.s.38.w.23" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.39">
+      <w xml:id="allwords-wiki1400.s.39.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.39.w.2" pos="ADJ(nom,basis,met-e,mv-n)" lemma="anderen">anderen</w>
+      <w xml:id="allwords-wiki1400.s.39.w.3" pos="WW(pv,tgw,mv)" lemma="spoeden">spoeden</w>
+      <w xml:id="allwords-wiki1400.s.39.w.4" pos="VNW(refl,pron,obl,red,3,getal)" lemma="zich">zich</w>
+      <w xml:id="allwords-wiki1400.s.39.w.5" pos="VZ(init)" lemma="naar">naar</w>
+      <w xml:id="allwords-wiki1400.s.39.w.6" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.39.w.7" pos="WW(vd,prenom,met-e)" lemma="verouderen">verouderde</w>
+      <w xml:id="allwords-wiki1400.s.39.w.8" pos="N(soort,mv,basis)" lemma="douche">douches</w>
+      <w xml:id="allwords-wiki1400.s.39.w.9" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-wiki1400.s.39.w.10" pos="VNW(onbep,det,stan,prenom,met-e,agr)" lemma="alle">alle</w>
+      <w xml:id="allwords-wiki1400.s.39.w.11" pos="N(soort,mv,basis)" lemma="spore">sporen</w>
+      <w xml:id="allwords-wiki1400.s.39.w.12" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.39.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="ellende">ellende</w>
+      <w xml:id="allwords-wiki1400.s.39.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.39.w.15" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.39.w.16" pos="ADJ(prenom,basis,met-e,stan)" lemma="voorbij">voorbije</w>
+      <w xml:id="allwords-wiki1400.s.39.w.17" pos="N(soort,ev,basis,zijd,stan)" lemma="tocht">tocht</w>
+      <w xml:id="allwords-wiki1400.s.39.w.18" pos="VZ(init)" lemma="door">door</w>
+      <w xml:id="allwords-wiki1400.s.39.w.19" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.39.w.20" pos="N(soort,ev,basis,onz,stan)" lemma="voorgeborgte">voorgeborgte</w>
+      <w xml:id="allwords-wiki1400.s.39.w.21" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.39.w.22" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.39.w.23" pos="N(soort,ev,basis,zijd,stan)" lemma="hel">hel</w>
+      <w xml:id="allwords-wiki1400.s.39.w.24" pos="BW()" lemma="weg">weg</w>
+      <w xml:id="allwords-wiki1400.s.39.w.25" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.39.w.26" pos="WW(inf,vrij,zonder)" lemma="spoelen">spoelen</w>
+      <w xml:id="allwords-wiki1400.s.39.w.27" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.40">
+      <w xml:id="allwords-wiki1400.s.40.w.1" pos="LET()" lemma="&quot;">"</w>
+      <w xml:id="allwords-wiki1400.s.40.w.2" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.40.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="dubbel">Dubbel</w>
+      <w xml:id="allwords-wiki1400.s.40.w.4" pos="LET()" lemma="&quot;">"</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.41">
+      <w xml:id="allwords-wiki1400.s.41.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.41.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.41.w.3" pos="BW()" lemma="soms">soms</w>
+      <w xml:id="allwords-wiki1400.s.41.w.4" pos="WW(vd,vrij,zonder)" lemma="vergelijken">vergeleken</w>
+      <w xml:id="allwords-wiki1400.s.41.w.5" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.41.w.6" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.41.w.7" pos="ADJ(prenom,basis,met-e,stan)" lemma="ander">andere</w>
+      <w xml:id="allwords-wiki1400.s.41.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="kasseiklassieker">kasseiklassieker</w>
+      <w xml:id="allwords-wiki1400.s.41.w.9" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-wiki1400.s.41.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.41.w.11" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.41.w.12" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.41.w.13" pos="SPEC(deeleigen)" lemma="Vlaanderen">Vlaanderen</w>
+      <w xml:id="allwords-wiki1400.s.41.w.14" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.41.w.15" pos="BW()" lemma="altijd">altijd</w>
+      <w xml:id="allwords-wiki1400.s.41.w.16" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.41.w.17" pos="SPEC(deeleigen)" lemma="zondag">zondag</w>
+      <w xml:id="allwords-wiki1400.s.41.w.18" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.41.w.19" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.41.w.20" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.41.w.21" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.41.w.22" pos="ADJ(prenom,basis,met-e,stan)" lemma="vlaams">Vlaamse</w>
+      <w xml:id="allwords-wiki1400.s.41.w.23" pos="N(soort,mv,basis)" lemma="weg">wegen</w>
+      <w xml:id="allwords-wiki1400.s.41.w.24" pos="WW(vd,vrij,zonder)" lemma="verrijden">verreden</w>
+      <w xml:id="allwords-wiki1400.s.41.w.25" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.41.w.26" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.42">
+      <w xml:id="allwords-wiki1400.s.42.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.42.w.2" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.42.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.42.w.4" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.42.w.5" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.42.w.6" pos="WW(vd,vrij,zonder)" lemma="typeren">getypeerd</w>
+      <w xml:id="allwords-wiki1400.s.42.w.7" pos="VZ(init)" lemma="als">als</w>
+      <w xml:id="allwords-wiki1400.s.42.w.8" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.42.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="race">race</w>
+      <w xml:id="allwords-wiki1400.s.42.w.10" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.42.w.11" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.42.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="resem">resem</w>
+      <w xml:id="allwords-wiki1400.s.42.w.13" pos="ADJ(prenom,basis,met-e,stan)" lemma="vlaams">Vlaamse</w>
+      <w xml:id="allwords-wiki1400.s.42.w.14" pos="N(soort,mv,basis)" lemma="helling">hellingen</w>
+      <w xml:id="allwords-wiki1400.s.42.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.42.w.16" pos="BW()" lemma="waarvan">waarvan</w>
+      <w xml:id="allwords-wiki1400.s.42.w.17" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.42.w.18" pos="N(soort,ev,basis,onz,stan)" lemma="merendeel">merendeel</w>
+      <w xml:id="allwords-wiki1400.s.42.w.19" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.42.w.20" pos="N(soort,mv,dim)" lemma="kinderkop">kinderkopjes</w>
+      <w xml:id="allwords-wiki1400.s.42.w.21" pos="WW(vd,vrij,zonder)" lemma="plaveien">geplaveid</w>
+      <w xml:id="allwords-wiki1400.s.42.w.22" pos="WW(pv,tgw,ev)" lemma="zijn">is</w>
+      <w xml:id="allwords-wiki1400.s.42.w.23" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.42.w.24" pos="BW()" lemma="vandaar">vandaar</w>
+      <w xml:id="allwords-wiki1400.s.42.w.25" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.42.w.26" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.42.w.27" pos="N(soort,ev,basis,zijd,stan)" lemma="kasseiklassieker">kasseiklassieker</w>
+      <w xml:id="allwords-wiki1400.s.42.w.28" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.42.w.29" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.43">
+      <w xml:id="allwords-wiki1400.s.43.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.43.w.2" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.43.w.3" pos="BW()" lemma="daarentegen">daarentegen</w>
+      <w xml:id="allwords-wiki1400.s.43.w.4" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.43.w.5" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-wiki1400.s.43.w.6" pos="VNW(onbep,det,stan,prenom,zonder,agr)" lemma="geen">geen</w>
+      <w xml:id="allwords-wiki1400.s.43.w.7" pos="N(soort,mv,basis)" lemma="helling">hellingen</w>
+      <w xml:id="allwords-wiki1400.s.43.w.8" pos="VG(neven)" lemma="maar">maar</w>
+      <w xml:id="allwords-wiki1400.s.43.w.9" pos="WW(pv,tgw,met-t)" lemma="tellen">telt</w>
+      <w xml:id="allwords-wiki1400.s.43.w.10" pos="BW()" lemma="wel">wel</w>
+      <w xml:id="allwords-wiki1400.s.43.w.11" pos="ADJ(vrij,basis,zonder)" lemma="heel">heel</w>
+      <w xml:id="allwords-wiki1400.s.43.w.12" pos="VNW(onbep,pron,stan,vol,3o,ev)" lemma="wat">wat</w>
+      <w xml:id="allwords-wiki1400.s.43.w.13" pos="N(soort,mv,basis)" lemma="kasseistrook">kasseistroken</w>
+      <w xml:id="allwords-wiki1400.s.43.w.14" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.43.w.15" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.43.w.16" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">er</w>
+      <w xml:id="allwords-wiki1400.s.43.w.17" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.43.w.18" pos="ADJ(vrij,comp,zonder)" lemma="zwaar">zwaarder</w>
+      <w xml:id="allwords-wiki1400.s.43.w.19" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.43.w.20" pos="WW(pv,tgw,ev)" lemma="lezen">lees</w>
+      <w xml:id="allwords-wiki1400.s.43.w.21" pos="ADJ(vrij,comp,zonder)" lemma="heroïsch">heroïscher</w>
+      <w xml:id="allwords-wiki1400.s.43.w.22" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.43.w.23" pos="VZ(fin)" lemma="bij">bij</w>
+      <w xml:id="allwords-wiki1400.s.43.w.24" pos="WW(pv,tgw,mv)" lemma="liggen">liggen</w>
+      <w xml:id="allwords-wiki1400.s.43.w.25" pos="VG(onder)" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.43.w.26" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.43.w.27" pos="SPEC(deeleigen)" lemma="Vlaanderen">Vlaanderen</w>
+      <w xml:id="allwords-wiki1400.s.43.w.28" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.44">
+      <w xml:id="allwords-wiki1400.s.44.w.1" pos="VNW(aanw,pron,stan,vol,3o,ev)" lemma="dat">Dat</w>
+      <w xml:id="allwords-wiki1400.s.44.w.2" pos="WW(pv,tgw,met-t)" lemma="vergen">vergt</w>
+      <w xml:id="allwords-wiki1400.s.44.w.3" pos="BW()" lemma="dus">dus</w>
+      <w xml:id="allwords-wiki1400.s.44.w.4" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.44.w.5" pos="ADJ(prenom,comp,met-e,stan)" lemma="groot">grotere</w>
+      <w xml:id="allwords-wiki1400.s.44.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="behendigheid">behendigheid</w>
+      <w xml:id="allwords-wiki1400.s.44.w.7" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.45">
+      <w xml:id="allwords-wiki1400.s.45.w.1" pos="VG(onder)" lemma="als">Als</w>
+      <w xml:id="allwords-wiki1400.s.45.w.2" pos="VNW(pers,pron,nomin,red,2v,ev)" lemma="je">je</w>
+      <w xml:id="allwords-wiki1400.s.45.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.45.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="ronde">Ronde</w>
+      <w xml:id="allwords-wiki1400.s.45.w.5" pos="WW(pv,tgw,met-t)" lemma="winnen">wint</w>
+      <w xml:id="allwords-wiki1400.s.45.w.6" pos="VG(neven)" lemma="én">én</w>
+      <w xml:id="allwords-wiki1400.s.45.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.45.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="week">week</w>
+      <w xml:id="allwords-wiki1400.s.45.w.9" pos="BW()" lemma="erna">erna</w>
+      <w xml:id="allwords-wiki1400.s.45.w.10" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.45.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.45.w.12" pos="SPEC(deeleigen)" lemma="Roubaix">Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.45.w.13" pos="WW(pv,tgw,ev)" lemma="mogen">mag</w>
+      <w xml:id="allwords-wiki1400.s.45.w.14" pos="WW(inf,vrij,zonder)" lemma="zegevieren">zegevieren</w>
+      <w xml:id="allwords-wiki1400.s.45.w.15" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.45.w.16" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.45.w.17" pos="WW(pv,tgw,ev)" lemma="hebben">heb</w>
+      <w xml:id="allwords-wiki1400.s.45.w.18" pos="VNW(pers,pron,nomin,red,2v,ev)" lemma="je">je</w>
+      <w xml:id="allwords-wiki1400.s.45.w.19" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-wiki1400.s.45.w.20" pos="BW()" lemma="zomaar">zomaar</w>
+      <w xml:id="allwords-wiki1400.s.45.w.21" pos="TW(hoofd,prenom,stan)" lemma="twee">twee</w>
+      <w xml:id="allwords-wiki1400.s.45.w.22" pos="N(soort,mv,basis)" lemma="wereldbekerkoers">wereldbekerkoersen</w>
+      <w xml:id="allwords-wiki1400.s.45.w.23" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.45.w.24" pos="TW(hoofd,prenom,stan)" lemma="één">één</w>
+      <w xml:id="allwords-wiki1400.s.45.w.25" pos="N(soort,ev,basis,zijd,stan)" lemma="week">week</w>
+      <w xml:id="allwords-wiki1400.s.45.w.26" pos="N(soort,ev,basis,zijd,stan)" lemma="tijd">tijd</w>
+      <w xml:id="allwords-wiki1400.s.45.w.27" pos="WW(vd,vrij,zonder)" lemma="winnen">gewonnen</w>
+      <w xml:id="allwords-wiki1400.s.45.w.28" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.46">
+      <w xml:id="allwords-wiki1400.s.46.w.1" pos="VNW(pers,pron,nomin,red,2v,ev)" lemma="je">Je</w>
+      <w xml:id="allwords-wiki1400.s.46.w.2" pos="WW(pv,tgw,ev)" lemma="mogen">mag</w>
+      <w xml:id="allwords-wiki1400.s.46.w.3" pos="VNW(pr,pron,obl,red,2v,getal)" lemma="je">je</w>
+      <w xml:id="allwords-wiki1400.s.46.w.4" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.46.w.5" pos="ADJ(vrij,basis,zonder)" lemma="terecht">terecht</w>
+      <w xml:id="allwords-wiki1400.s.46.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="kasseikoning">kasseikoning</w>
+      <w xml:id="allwords-wiki1400.s.46.w.7" pos="WW(inf,vrij,zonder)" lemma="noemen">noemen</w>
+      <w xml:id="allwords-wiki1400.s.46.w.8" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.46.w.9" pos="LET()" lemma="«">«</w>
+      <w xml:id="allwords-wiki1400.s.46.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.46.w.11" pos="ADJ(vrij,basis,zonder)" lemma="dubbel">dubbel</w>
+      <w xml:id="allwords-wiki1400.s.46.w.12" pos="LET()" lemma="»">»</w>
+      <w xml:id="allwords-wiki1400.s.46.w.13" pos="WW(vd,vrij,zonder)" lemma="pakken">gepakt</w>
+      <w xml:id="allwords-wiki1400.s.46.w.14" pos="WW(pv,tgw,met-t)" lemma="hebben">heeft</w>
+      <w xml:id="allwords-wiki1400.s.46.w.15" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.47">
+      <w xml:id="allwords-wiki1400.s.47.w.1" pos="LID(bep,stan,evon)" lemma="het">Het</w>
+      <w xml:id="allwords-wiki1400.s.47.w.2" pos="WW(od,prenom,met-e)" lemma="volgen">volgende</w>
+      <w xml:id="allwords-wiki1400.s.47.w.3" pos="BW()" lemma="zeer">zeer</w>
+      <w xml:id="allwords-wiki1400.s.47.w.4" pos="WW(vd,prenom,met-e)" lemma="beperken">beperkte</w>
+      <w xml:id="allwords-wiki1400.s.47.w.5" pos="N(soort,ev,dim,onz,stan)" lemma="krans">kransje</w>
+      <w xml:id="allwords-wiki1400.s.47.w.6" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-wiki1400.s.47.w.7" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.47.w.8" pos="WW(pv,verl,ev)" lemma="slagen">slaagde</w>
+      <w xml:id="allwords-wiki1400.s.47.w.9" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.47.w.10" pos="VNW(aanw,det,stan,prenom,zonder,rest)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.47.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="machtig">machtige</w>
+      <w xml:id="allwords-wiki1400.s.47.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="prestatie">prestatie</w>
+      <w xml:id="allwords-wiki1400.s.47.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.48">
+      <w xml:id="allwords-wiki1400.s.48.w.1" pos="N(soort,mv,basis)" lemma="renner">Renners</w>
+      <w xml:id="allwords-wiki1400.s.48.w.2" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.48.w.3" pos="VNW(onbep,grad,stan,prenom,met-e,mv,basis)" lemma="beide">beide</w>
+      <w xml:id="allwords-wiki1400.s.48.w.4" pos="N(soort,mv,basis)" lemma="kasseiklassieker">kasseiklassiekers</w>
+      <w xml:id="allwords-wiki1400.s.48.w.5" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.48.w.6" pos="TW(hoofd,prenom,stan)" lemma="één">één</w>
+      <w xml:id="allwords-wiki1400.s.48.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="jaar">jaar</w>
+      <w xml:id="allwords-wiki1400.s.48.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="tijd">tijd</w>
+      <w xml:id="allwords-wiki1400.s.48.w.9" pos="WW(pv,verl,mv)" lemma="winnen">wonnen</w>
+      <w xml:id="allwords-wiki1400.s.48.w.10" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.48.w.11" pos="BW()" lemma="daarmee">daarmee</w>
+      <w xml:id="allwords-wiki1400.s.48.w.12" pos="ADJ(prenom,basis,met-e,stan)" lemma="eeuwig">eeuwige</w>
+      <w xml:id="allwords-wiki1400.s.48.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="roem">roem</w>
+      <w xml:id="allwords-wiki1400.s.48.w.14" pos="WW(pv,tgw,mv)" lemma="genieten">genieten</w>
+      <w xml:id="allwords-wiki1400.s.48.w.15" pos="LET()" lemma=":">:</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.49">
+      <w xml:id="allwords-wiki1400.s.49.w.1" pos="N(soort,mv,basis)" lemma="fiets">Fietsen</w>
+      <w xml:id="allwords-wiki1400.s.49.w.2" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.49.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="materiaal">materiaal</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.50">
+      <w xml:id="allwords-wiki1400.s.50.w.1" pos="VZ(init)" lemma="door">Door</w>
+      <w xml:id="allwords-wiki1400.s.50.w.2" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.50.w.3" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.50.w.4" pos="ADJ(prenom,basis,met-e,stan)" lemma="bar">barre</w>
+      <w xml:id="allwords-wiki1400.s.50.w.5" pos="N(soort,mv,basis)" lemma="weersomstandigheden">weersomstandigheden</w>
+      <w xml:id="allwords-wiki1400.s.50.w.6" pos="BW()" lemma="waarin">waarin</w>
+      <w xml:id="allwords-wiki1400.s.50.w.7" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.50.w.8" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.50.w.9" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.50.w.10" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.50.w.11" pos="N(soort,mv,basis)" lemma="kassei">kasseien</w>
+      <w xml:id="allwords-wiki1400.s.50.w.12" pos="WW(pv,tgw,mv)" lemma="moeten">moeten</w>
+      <w xml:id="allwords-wiki1400.s.50.w.13" pos="WW(inf,vrij,zonder)" lemma="dokkeren">dokkeren</w>
+      <w xml:id="allwords-wiki1400.s.50.w.14" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.50.w.15" pos="WW(pv,tgw,mv)" lemma="kiezen">kiezen</w>
+      <w xml:id="allwords-wiki1400.s.50.w.16" pos="N(soort,mv,basis)" lemma="ploeg">ploegen</w>
+      <w xml:id="allwords-wiki1400.s.50.w.17" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.50.w.18" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.50.w.19" pos="ADJ(prenom,basis,zonder)" lemma="specifiek">specifiek</w>
+      <w xml:id="allwords-wiki1400.s.50.w.20" pos="ADJ(prenom,basis,zonder)" lemma="technisch">technisch</w>
+      <w xml:id="allwords-wiki1400.s.50.w.21" pos="N(soort,ev,basis,onz,stan)" lemma="materiaal">materiaal</w>
+      <w xml:id="allwords-wiki1400.s.50.w.22" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.51">
+      <w xml:id="allwords-wiki1400.s.51.w.1" pos="LID(onbep,stan,agr)" lemma="een">Een</w>
+      <w xml:id="allwords-wiki1400.s.51.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="specifiek">specifieke</w>
+      <w xml:id="allwords-wiki1400.s.51.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="frame">frame</w>
+      <w xml:id="allwords-wiki1400.s.51.w.4" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.51.w.5" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.51.w.6" pos="N(soort,ev,basis,zijd,stan)" lemma="wielenkeuze">wielenkeuze</w>
+      <w xml:id="allwords-wiki1400.s.51.w.7" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.51.w.8" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.51.w.9" pos="WW(od,vrij,zonder)" lemma="typeren">typerend</w>
+      <w xml:id="allwords-wiki1400.s.51.w.10" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.51.w.11" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">deze</w>
+      <w xml:id="allwords-wiki1400.s.51.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.51.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.52">
+      <w xml:id="allwords-wiki1400.s.52.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.52.w.2" pos="WW(vd,prenom,met-e)" lemma="gebruiken">gebruikte</w>
+      <w xml:id="allwords-wiki1400.s.52.w.3" pos="N(soort,mv,basis)" lemma="fiets">fietsen</w>
+      <w xml:id="allwords-wiki1400.s.52.w.4" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.52.w.5" pos="SPEC(afk)" lemma="P-R">P-R</w>
+      <w xml:id="allwords-wiki1400.s.52.w.6" pos="WW(pv,tgw,mv)" lemma="hebben">hebben</w>
+      <w xml:id="allwords-wiki1400.s.52.w.7" pos="BW()" lemma="dan">dan</w>
+      <w xml:id="allwords-wiki1400.s.52.w.8" pos="BW()" lemma="ook">ook</w>
+      <w xml:id="allwords-wiki1400.s.52.w.9" pos="VNW(onbep,grad,stan,vrij,zonder,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.52.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="weg">weg</w>
+      <w xml:id="allwords-wiki1400.s.52.w.11" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.52.w.12" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.52.w.13" pos="N(soort,ev,basis,zijd,stan)" lemma="cyclocross">cyclocross</w>
+      <w xml:id="allwords-wiki1400.s.52.w.14" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.53">
+      <w xml:id="allwords-wiki1400.s.53.w.1" pos="BW()" lemma="zo">Zo</w>
+      <w xml:id="allwords-wiki1400.s.53.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.53.w.3" pos="BW()" lemma="meestal">meestal</w>
+      <w xml:id="allwords-wiki1400.s.53.w.4" pos="WW(vd,vrij,zonder)" lemma="kiezen">gekozen</w>
+      <w xml:id="allwords-wiki1400.s.53.w.5" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.53.w.6" pos="ADJ(prenom,comp,met-e,stan)" lemma="breed">bredere</w>
+      <w xml:id="allwords-wiki1400.s.53.w.7" pos="N(soort,mv,basis)" lemma="band">banden</w>
+      <w xml:id="allwords-wiki1400.s.53.w.8" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.53.w.9" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-wiki1400.s.53.w.10" pos="ADJ(prenom,basis,met-e,stan)" lemma="specifiek">specifieke</w>
+      <w xml:id="allwords-wiki1400.s.53.w.11" pos="N(soort,mv,basis)" lemma="remsoort">remsoorten</w>
+      <w xml:id="allwords-wiki1400.s.53.w.12" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.54">
+      <w xml:id="allwords-wiki1400.s.54.w.1" pos="VNW(onbep,grad,stan,prenom,zonder,agr,basis)" lemma="veel">Veel</w>
+      <w xml:id="allwords-wiki1400.s.54.w.2" pos="N(soort,mv,basis)" lemma="ploeg">ploegen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.3" pos="WW(pv,tgw,mv)" lemma="kiezen">kiezen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.4" pos="VNW(aanw,adv-pron,stan,red,3,getal)" lemma="er">er</w>
+      <w xml:id="allwords-wiki1400.s.54.w.5" pos="VZ(fin)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.54.w.6" pos="VZ(init)" lemma="om">om</w>
+      <w xml:id="allwords-wiki1400.s.54.w.7" pos="BW()" lemma="her">her</w>
+      <w xml:id="allwords-wiki1400.s.54.w.8" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.54.w.9" pos="BW()" lemma="der">der</w>
+      <w xml:id="allwords-wiki1400.s.54.w.10" pos="VZ(init)" lemma="op">op</w>
+      <w xml:id="allwords-wiki1400.s.54.w.11" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.54.w.12" pos="N(soort,ev,basis,onz,stan)" lemma="parcours">parcours</w>
+      <w xml:id="allwords-wiki1400.s.54.w.13" pos="ADJ(prenom,basis,zonder)" lemma="extra">extra</w>
+      <w xml:id="allwords-wiki1400.s.54.w.14" pos="N(soort,ev,basis,onz,stan)" lemma="personeel">personeel</w>
+      <w xml:id="allwords-wiki1400.s.54.w.15" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.54.w.16" pos="N(soort,mv,basis)" lemma="reservewiel">reservewielen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.17" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.54.w.18" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-wiki1400.s.54.w.19" pos="BW()" lemma="soms">soms</w>
+      <w xml:id="allwords-wiki1400.s.54.w.20" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.54.w.21" pos="N(soort,mv,basis)" lemma="reservefiets">reservefietsen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.22" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.54.w.23" pos="VZ(init)" lemma="te">te</w>
+      <w xml:id="allwords-wiki1400.s.54.w.24" pos="WW(inf,vrij,zonder)" lemma="plaatsen">plaatsen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.25" pos="VG(onder)" lemma="omdat">omdat</w>
+      <w xml:id="allwords-wiki1400.s.54.w.26" pos="VNW(onbep,grad,stan,prenom,zonder,agr,basis)" lemma="veel">veel</w>
+      <w xml:id="allwords-wiki1400.s.54.w.27" pos="N(soort,mv,basis)" lemma="strook">stroken</w>
+      <w xml:id="allwords-wiki1400.s.54.w.28" pos="ADJ(vrij,basis,zonder)" lemma="vaak">vaak</w>
+      <w xml:id="allwords-wiki1400.s.54.w.29" pos="BW()" lemma="niet">niet</w>
+      <w xml:id="allwords-wiki1400.s.54.w.30" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-wiki1400.s.54.w.31" pos="ADJ(vrij,basis,zonder)" lemma="moeilijk">moeilijk</w>
+      <w xml:id="allwords-wiki1400.s.54.w.32" pos="ADJ(vrij,basis,zonder)" lemma="bereikbaar">bereikbaar</w>
+      <w xml:id="allwords-wiki1400.s.54.w.33" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.54.w.34" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.54.w.35" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.54.w.36" pos="N(soort,ev,basis,zijd,stan)" lemma="ploegwagen">ploegwagen</w>
+      <w xml:id="allwords-wiki1400.s.54.w.37" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.55">
+      <w xml:id="allwords-wiki1400.s.55.w.1" pos="BW()" lemma="zo">Zo</w>
+      <w xml:id="allwords-wiki1400.s.55.w.2" pos="WW(pv,tgw,met-t)" lemma="worden">wordt</w>
+      <w xml:id="allwords-wiki1400.s.55.w.3" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.55.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="renner">renner</w>
+      <w xml:id="allwords-wiki1400.s.55.w.5" pos="ADJ(vrij,comp,zonder)" lemma="goed">beter</w>
+      <w xml:id="allwords-wiki1400.s.55.w.6" pos="WW(vd,vrij,zonder)" lemma="assisteren">geassisteerd</w>
+      <w xml:id="allwords-wiki1400.s.55.w.7" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-wiki1400.s.55.w.8" pos="ADJ(prenom,basis,met-e,stan)" lemma="eventueel">eventuele</w>
+      <w xml:id="allwords-wiki1400.s.55.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="materiaalbreuk">materiaalbreuk</w>
+      <w xml:id="allwords-wiki1400.s.55.w.10" pos="VG(neven)" lemma="of">of</w>
+      <w xml:id="allwords-wiki1400.s.55.w.11" pos="ADJ(prenom,basis,met-e,stan)" lemma="plat">platte</w>
+      <w xml:id="allwords-wiki1400.s.55.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="band">band</w>
+      <w xml:id="allwords-wiki1400.s.55.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.56">
+      <w xml:id="allwords-wiki1400.s.56.w.1" pos="VNW(onbep,det,stan,prenom,met-e,rest)" lemma="sommige">Sommige</w>
+      <w xml:id="allwords-wiki1400.s.56.w.2" pos="N(soort,mv,basis)" lemma="toprenner">toprenners</w>
+      <w xml:id="allwords-wiki1400.s.56.w.3" pos="WW(pv,tgw,mv)" lemma="gebruiken">gebruiken</w>
+      <w xml:id="allwords-wiki1400.s.56.w.4" pos="BW()" lemma="zelfs">zelfs</w>
+      <w xml:id="allwords-wiki1400.s.56.w.5" pos="ADJ(prenom,basis,met-e,stan)" lemma="speciaal">speciale</w>
+      <w xml:id="allwords-wiki1400.s.56.w.6" pos="N(soort,mv,basis)" lemma="frame">frames</w>
+      <w xml:id="allwords-wiki1400.s.56.w.7" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.56.w.8" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.56.w.9" pos="WW(vd,vrij,zonder)" lemma="optimaliseren">geoptimaliseerd</w>
+      <w xml:id="allwords-wiki1400.s.56.w.10" pos="WW(pv,tgw,mv)" lemma="zijn">zijn</w>
+      <w xml:id="allwords-wiki1400.s.56.w.11" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.56.w.12" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.56.w.13" pos="N(soort,ev,basis,onz,stan)" lemma="dokkerwerk">dokkerwerk</w>
+      <w xml:id="allwords-wiki1400.s.56.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.56.w.15" pos="SPEC(afk)" lemma="P-R">P-R</w>
+      <w xml:id="allwords-wiki1400.s.56.w.16" pos="LET()" lemma=".">.</w>
+      <w xml:id="allwords-wiki1400.s.56.w.18" pos="VNW(aanw,det,stan,prenom,met-e,rest)" lemma="deze">Deze</w>
+      <w xml:id="allwords-wiki1400.s.56.w.19" pos="N(soort,mv,basis)" lemma="frame">frames</w>
+      <w xml:id="allwords-wiki1400.s.56.w.20" pos="WW(pv,tgw,mv)" lemma="bieden">bieden</w>
+      <w xml:id="allwords-wiki1400.s.56.w.21" pos="VNW(onbep,grad,stan,prenom,zonder,agr,comp)" lemma="veel">meer</w>
+      <w xml:id="allwords-wiki1400.s.56.w.22" pos="N(soort,ev,basis,zijd,stan)" lemma="stabiliteit">stabiliteit</w>
+      <w xml:id="allwords-wiki1400.s.56.w.23" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.56.w.24" pos="N(soort,ev,basis,onz,stan)" lemma="comfort">comfort</w>
+      <w xml:id="allwords-wiki1400.s.56.w.25" pos="VZ(init)" lemma="voor">voor</w>
+      <w xml:id="allwords-wiki1400.s.56.w.26" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.56.w.27" pos="N(soort,ev,basis,zijd,stan)" lemma="renner">renner</w>
+      <w xml:id="allwords-wiki1400.s.56.w.28" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.57">
+      <w xml:id="allwords-wiki1400.s.57.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.57.w.2" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.57.w.3" pos="WW(pv,verl,ev)" lemma="gebruiken">gebruikte</w>
+      <w xml:id="allwords-wiki1400.s.57.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="winnaar">winnaar</w>
+      <w xml:id="allwords-wiki1400.s.57.w.5" pos="SPEC(deeleigen)" lemma="Tom">Tom</w>
+      <w xml:id="allwords-wiki1400.s.57.w.6" pos="SPEC(deeleigen)" lemma="Boonen">Boonen</w>
+      <w xml:id="allwords-wiki1400.s.57.w.7" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.57.w.8" pos="SPEC(deeleigen)" lemma="TIME">TIME</w>
+      <w xml:id="allwords-wiki1400.s.57.w.9" pos="N(soort,ev,dim,onz,stan)" lemma="frame">frame</w>
+      <w xml:id="allwords-wiki1400.s.57.w.10" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.57.w.11" pos="ADJ(prenom,comp,met-e,stan)" lemma="lang">langere</w>
+      <w xml:id="allwords-wiki1400.s.57.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="wielbasis">wielbasis</w>
+      <w xml:id="allwords-wiki1400.s.57.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.58">
+      <w xml:id="allwords-wiki1400.s.58.w.1" pos="VZ(init)" lemma="in">In</w>
+      <w xml:id="allwords-wiki1400.s.58.w.2" pos="ADJ(prenom,basis,zonder)" lemma="diezelfde">diezelfde</w>
+      <w xml:id="allwords-wiki1400.s.58.w.3" pos="N(soort,ev,basis,zijd,stan)" lemma="editie">editie</w>
+      <w xml:id="allwords-wiki1400.s.58.w.4" pos="WW(pv,verl,ev)" lemma="gebruiken">gebruikte</w>
+      <w xml:id="allwords-wiki1400.s.58.w.5" pos="SPEC(deeleigen)" lemma="George">George</w>
+      <w xml:id="allwords-wiki1400.s.58.w.6" pos="SPEC(deeleigen)" lemma="Hincapie">Hincapie</w>
+      <w xml:id="allwords-wiki1400.s.58.w.7" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.58.w.8" pos="N(soort,ev,basis,onz,stan)" lemma="trek-prototype">TREK-prototype</w>
+      <w xml:id="allwords-wiki1400.s.58.w.9" pos="N(soort,ev,dim,onz,stan)" lemma="frame">frame</w>
+      <w xml:id="allwords-wiki1400.s.58.w.10" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.58.w.11" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.58.w.12" pos="TW(hoofd,prenom,stan)" lemma="2">2</w>
+      <w xml:id="allwords-wiki1400.s.58.w.13" pos="SPEC(symb)" lemma="mm">mm</w>
+      <w xml:id="allwords-wiki1400.s.58.w.14" pos="ADJ(prenom,basis,met-e,stan)" lemma="dik">dikke</w>
+      <w xml:id="allwords-wiki1400.s.58.w.15" pos="N(soort,ev,basis,zijd,stan)" lemma="vering">vering</w>
+      <w xml:id="allwords-wiki1400.s.58.w.16" pos="VZ(init)" lemma="aan">aan</w>
+      <w xml:id="allwords-wiki1400.s.58.w.17" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.58.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="zitting">zitting</w>
+      <w xml:id="allwords-wiki1400.s.58.w.19" pos="LET()" lemma=",">,</w>
+      <w xml:id="allwords-wiki1400.s.58.w.20" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.58.w.21" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.58.w.22" pos="VZ(init)" lemma="volgens">volgens</w>
+      <w xml:id="allwords-wiki1400.s.58.w.23" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.58.w.24" pos="N(soort,mv,basis)" lemma="producent">producenten</w>
+      <w xml:id="allwords-wiki1400.s.58.w.25" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.58.w.26" pos="BW()" lemma="haast">haast</w>
+      <w xml:id="allwords-wiki1400.s.58.w.27" pos="VNW(onbep,det,stan,prenom,met-e,agr)" lemma="alle">alle</w>
+      <w xml:id="allwords-wiki1400.s.58.w.28" pos="N(soort,mv,basis)" lemma="schok">schokken</w>
+      <w xml:id="allwords-wiki1400.s.58.w.29" pos="WW(pv,verl,ev)" lemma="zullen">zou</w>
+      <w xml:id="allwords-wiki1400.s.58.w.30" pos="WW(inf,vrij,zonder)" lemma="opvangen">opvangen</w>
+      <w xml:id="allwords-wiki1400.s.58.w.31" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.59">
+      <w xml:id="allwords-wiki1400.s.59.w.1" pos="BW()" lemma="al">Al</w>
+      <w xml:id="allwords-wiki1400.s.59.w.2" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.59.w.3" pos="N(soort,ev,dim,onz,stan)" lemma="tijd">tijdje</w>
+      <w xml:id="allwords-wiki1400.s.59.w.4" pos="WW(pv,tgw,mv)" lemma="kunnen">kunnen</w>
+      <w xml:id="allwords-wiki1400.s.59.w.5" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.59.w.6" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.59.w.7" pos="VZ(init)" lemma="bij">bij</w>
+      <w xml:id="allwords-wiki1400.s.59.w.8" pos="N(soort,ev,basis,zijd,stan)" lemma="bandbreuk">bandbreuk</w>
+      <w xml:id="allwords-wiki1400.s.59.w.9" pos="N(soort,ev,basis,zijd,stan)" lemma="assistentie">assistentie</w>
+      <w xml:id="allwords-wiki1400.s.59.w.10" pos="WW(inf,vrij,zonder)" lemma="vragen">vragen</w>
+      <w xml:id="allwords-wiki1400.s.59.w.11" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.59.w.12" pos="LID(onbep,stan,agr)" lemma="een">een</w>
+      <w xml:id="allwords-wiki1400.s.59.w.13" pos="ADJ(prenom,basis,met-e,stan)" lemma="neutraal">neutrale</w>
+      <w xml:id="allwords-wiki1400.s.59.w.14" pos="N(soort,ev,basis,zijd,stan)" lemma="motor">motor</w>
+      <w xml:id="allwords-wiki1400.s.59.w.15" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.59.w.16" pos="VZ(init)" lemma="tussen">tussen</w>
+      <w xml:id="allwords-wiki1400.s.59.w.17" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.59.w.18" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.59.w.19" pos="WW(pv,tgw,met-t)" lemma="laveren">laveert</w>
+      <w xml:id="allwords-wiki1400.s.59.w.20" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.60">
+      <w xml:id="allwords-wiki1400.s.60.w.1" pos="LID(bep,stan,rest)" lemma="de">De</w>
+      <w xml:id="allwords-wiki1400.s.60.w.2" pos="ADJ(prenom,basis,met-e,stan)" lemma="typisch">typische</w>
+      <w xml:id="allwords-wiki1400.s.60.w.3" pos="ADJ(prenom,basis,met-e,stan)" lemma="geel">gele</w>
+      <w xml:id="allwords-wiki1400.s.60.w.4" pos="N(soort,mv,basis)" lemma="moto">moto's</w>
+      <w xml:id="allwords-wiki1400.s.60.w.5" pos="WW(pv,tgw,mv)" lemma="voeren">voeren</w>
+      <w xml:id="allwords-wiki1400.s.60.w.6" pos="N(soort,mv,basis)" lemma="wiel">wielen</w>
+      <w xml:id="allwords-wiki1400.s.60.w.7" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.60.w.8" pos="VNW(refl,pron,obl,red,3,getal)" lemma="zich">zich</w>
+      <w xml:id="allwords-wiki1400.s.60.w.9" pos="VZ(fin)" lemma="mee">mee</w>
+      <w xml:id="allwords-wiki1400.s.60.w.10" pos="VNW(betr,pron,stan,vol,persoon,getal)" lemma="die">die</w>
+      <w xml:id="allwords-wiki1400.s.60.w.11" pos="VZ(versm)" lemma="ter">ter</w>
+      <w xml:id="allwords-wiki1400.s.60.w.12" pos="N(soort,ev,basis,zijd,stan)" lemma="beschikking">beschikking</w>
+      <w xml:id="allwords-wiki1400.s.60.w.13" pos="WW(pv,tgw,mv)" lemma="staan">staan</w>
+      <w xml:id="allwords-wiki1400.s.60.w.14" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.60.w.15" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.60.w.16" pos="N(soort,mv,basis)" lemma="renner">renners</w>
+      <w xml:id="allwords-wiki1400.s.60.w.17" pos="VZ(init)" lemma="met">met</w>
+      <w xml:id="allwords-wiki1400.s.60.w.18" pos="N(soort,ev,basis,zijd,stan)" lemma="pech">pech</w>
+      <w xml:id="allwords-wiki1400.s.60.w.19" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.61">
+      <w xml:id="allwords-wiki1400.s.61.w.1" pos="N(soort,mv,basis)" lemma="quote">Quotes</w>
+      <w xml:id="allwords-wiki1400.s.61.w.2" pos="VZ(init)" lemma="over">over</w>
+      <w xml:id="allwords-wiki1400.s.61.w.3" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.62">
+      <w xml:id="allwords-wiki1400.s.62.w.1" pos="N(soort,ev,basis,onz,stan)" lemma="overzicht">Overzicht</w>
+      <w xml:id="allwords-wiki1400.s.62.w.2" pos="N(soort,mv,basis)" lemma="winnaar">winnaars</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.63">
+      <w xml:id="allwords-wiki1400.s.63.w.1" pos="TW(hoofd,vrij)" lemma="2006">2006</w>
+      <w xml:id="allwords-wiki1400.s.63.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.63.w.3" pos="SPEC(deeleigen)" lemma="Fabian">Fabian</w>
+      <w xml:id="allwords-wiki1400.s.63.w.4" pos="SPEC(deeleigen)" lemma="Cancellara">Cancellara</w>
+      <w xml:id="allwords-wiki1400.s.63.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.63.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.64">
+      <w xml:id="allwords-wiki1400.s.64.w.1" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.64.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.64.w.3" pos="SPEC(deeleigen)" lemma="Tom">Tom</w>
+      <w xml:id="allwords-wiki1400.s.64.w.4" pos="SPEC(deeleigen)" lemma="Boonen">Boonen</w>
+      <w xml:id="allwords-wiki1400.s.64.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.64.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.65">
+      <w xml:id="allwords-wiki1400.s.65.w.1" pos="TW(hoofd,vrij)" lemma="2004">2004</w>
+      <w xml:id="allwords-wiki1400.s.65.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.65.w.3" pos="SPEC(deeleigen)" lemma="Magnus">Magnus</w>
+      <w xml:id="allwords-wiki1400.s.65.w.4" pos="SPEC(deeleigen)" lemma="Bäckstedt">Bäckstedt</w>
+      <w xml:id="allwords-wiki1400.s.65.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.65.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.66">
+      <w xml:id="allwords-wiki1400.s.66.w.1" pos="TW(hoofd,vrij)" lemma="2003">2003</w>
+      <w xml:id="allwords-wiki1400.s.66.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.66.w.3" pos="SPEC(deeleigen)" lemma="Peter">Peter</w>
+      <w xml:id="allwords-wiki1400.s.66.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.66.w.5" pos="SPEC(deeleigen)" lemma="Petegem">Petegem</w>
+      <w xml:id="allwords-wiki1400.s.66.w.6" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.66.w.7" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.67">
+      <w xml:id="allwords-wiki1400.s.67.w.1" pos="TW(hoofd,vrij)" lemma="2002">2002</w>
+      <w xml:id="allwords-wiki1400.s.67.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.67.w.3" pos="SPEC(deeleigen)" lemma="Johan">Johan</w>
+      <w xml:id="allwords-wiki1400.s.67.w.4" pos="SPEC(deeleigen)" lemma="Museeuw">Museeuw</w>
+      <w xml:id="allwords-wiki1400.s.67.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.67.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.68">
+      <w xml:id="allwords-wiki1400.s.68.w.1" pos="TW(hoofd,vrij)" lemma="2001">2001</w>
+      <w xml:id="allwords-wiki1400.s.68.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.68.w.3" pos="SPEC(deeleigen)" lemma="Servais">Servais</w>
+      <w xml:id="allwords-wiki1400.s.68.w.4" pos="SPEC(deeleigen)" lemma="Knaven">Knaven</w>
+      <w xml:id="allwords-wiki1400.s.68.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.68.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.69">
+      <w xml:id="allwords-wiki1400.s.69.w.1" pos="TW(hoofd,vrij)" lemma="2000">2000</w>
+      <w xml:id="allwords-wiki1400.s.69.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.69.w.3" pos="SPEC(deeleigen)" lemma="Johan">Johan</w>
+      <w xml:id="allwords-wiki1400.s.69.w.4" pos="SPEC(deeleigen)" lemma="Museeuw">Museeuw</w>
+      <w xml:id="allwords-wiki1400.s.69.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.69.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.70">
+      <w xml:id="allwords-wiki1400.s.70.w.1" pos="TW(hoofd,vrij)" lemma="1999">1999</w>
+      <w xml:id="allwords-wiki1400.s.70.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.70.w.3" pos="SPEC(deeleigen)" lemma="Andrea">Andrea</w>
+      <w xml:id="allwords-wiki1400.s.70.w.4" pos="SPEC(deeleigen)" lemma="Tafi">Tafi</w>
+      <w xml:id="allwords-wiki1400.s.70.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.70.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.71">
+      <w xml:id="allwords-wiki1400.s.71.w.1" pos="TW(hoofd,vrij)" lemma="1998">1998</w>
+      <w xml:id="allwords-wiki1400.s.71.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.71.w.3" pos="SPEC(deeleigen)" lemma="Franco">Franco</w>
+      <w xml:id="allwords-wiki1400.s.71.w.4" pos="SPEC(deeleigen)" lemma="Ballerini">Ballerini</w>
+      <w xml:id="allwords-wiki1400.s.71.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.71.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.72">
+      <w xml:id="allwords-wiki1400.s.72.w.1" pos="TW(hoofd,vrij)" lemma="1997">1997</w>
+      <w xml:id="allwords-wiki1400.s.72.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.72.w.3" pos="SPEC(deeleigen)" lemma="Frédéric">Frédéric</w>
+      <w xml:id="allwords-wiki1400.s.72.w.4" pos="SPEC(deeleigen)" lemma="Guesdon">Guesdon</w>
+      <w xml:id="allwords-wiki1400.s.72.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.72.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.73">
+      <w xml:id="allwords-wiki1400.s.73.w.1" pos="TW(hoofd,vrij)" lemma="1996">1996</w>
+      <w xml:id="allwords-wiki1400.s.73.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.73.w.3" pos="SPEC(deeleigen)" lemma="Johan">Johan</w>
+      <w xml:id="allwords-wiki1400.s.73.w.4" pos="SPEC(deeleigen)" lemma="Museeuw">Museeuw</w>
+      <w xml:id="allwords-wiki1400.s.73.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.73.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.74">
+      <w xml:id="allwords-wiki1400.s.74.w.1" pos="TW(hoofd,vrij)" lemma="1995">1995</w>
+      <w xml:id="allwords-wiki1400.s.74.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.74.w.3" pos="SPEC(deeleigen)" lemma="Franco">Franco</w>
+      <w xml:id="allwords-wiki1400.s.74.w.4" pos="SPEC(deeleigen)" lemma="Ballerini">Ballerini</w>
+      <w xml:id="allwords-wiki1400.s.74.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.74.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.75">
+      <w xml:id="allwords-wiki1400.s.75.w.1" pos="TW(hoofd,vrij)" lemma="1994">1994</w>
+      <w xml:id="allwords-wiki1400.s.75.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.75.w.3" pos="SPEC(deeleigen)" lemma="Andrei">Andrei</w>
+      <w xml:id="allwords-wiki1400.s.75.w.4" pos="SPEC(deeleigen)" lemma="Tchmil">Tchmil</w>
+      <w xml:id="allwords-wiki1400.s.75.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.75.w.6" pos="LET()" lemma=")">)</w>
+      <w xml:id="allwords-wiki1400.s.75.w.7" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.75.w.8" pos="LET()" lemma="*">*</w>
+      <w xml:id="allwords-wiki1400.s.75.w.9" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.76">
+      <w xml:id="allwords-wiki1400.s.76.w.1" pos="TW(hoofd,vrij)" lemma="1993">1993</w>
+      <w xml:id="allwords-wiki1400.s.76.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.76.w.3" pos="SPEC(deeleigen)" lemma="Gilbert">Gilbert</w>
+      <w xml:id="allwords-wiki1400.s.76.w.4" pos="SPEC(deeleigen)" lemma="Duclos-Lassalle">Duclos-Lassalle</w>
+      <w xml:id="allwords-wiki1400.s.76.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.76.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.77">
+      <w xml:id="allwords-wiki1400.s.77.w.1" pos="TW(hoofd,vrij)" lemma="1992">1992</w>
+      <w xml:id="allwords-wiki1400.s.77.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.77.w.3" pos="SPEC(deeleigen)" lemma="Gilbert">Gilbert</w>
+      <w xml:id="allwords-wiki1400.s.77.w.4" pos="SPEC(deeleigen)" lemma="Duclos-Lassalle">Duclos-Lassalle</w>
+      <w xml:id="allwords-wiki1400.s.77.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.77.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.78">
+      <w xml:id="allwords-wiki1400.s.78.w.1" pos="TW(hoofd,vrij)" lemma="1991">1991</w>
+      <w xml:id="allwords-wiki1400.s.78.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.78.w.3" pos="SPEC(deeleigen)" lemma="Marc">Marc</w>
+      <w xml:id="allwords-wiki1400.s.78.w.4" pos="SPEC(deeleigen)" lemma="Madiot">Madiot</w>
+      <w xml:id="allwords-wiki1400.s.78.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.78.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.79">
+      <w xml:id="allwords-wiki1400.s.79.w.1" pos="TW(hoofd,vrij)" lemma="1990">1990</w>
+      <w xml:id="allwords-wiki1400.s.79.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.79.w.3" pos="SPEC(deeleigen)" lemma="Eddy">Eddy</w>
+      <w xml:id="allwords-wiki1400.s.79.w.4" pos="SPEC(deeleigen)" lemma="Planckaert">Planckaert</w>
+      <w xml:id="allwords-wiki1400.s.79.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.79.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.80">
+      <w xml:id="allwords-wiki1400.s.80.w.1" pos="TW(hoofd,vrij)" lemma="1989">1989</w>
+      <w xml:id="allwords-wiki1400.s.80.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.80.w.3" pos="SPEC(deeleigen)" lemma="Jean-Marie">Jean-Marie</w>
+      <w xml:id="allwords-wiki1400.s.80.w.4" pos="SPEC(deeleigen)" lemma="Wampers">Wampers</w>
+      <w xml:id="allwords-wiki1400.s.80.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.80.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.81">
+      <w xml:id="allwords-wiki1400.s.81.w.1" pos="TW(hoofd,vrij)" lemma="1988">1988</w>
+      <w xml:id="allwords-wiki1400.s.81.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.81.w.3" pos="SPEC(deeleigen)" lemma="Dirk">Dirk</w>
+      <w xml:id="allwords-wiki1400.s.81.w.4" pos="SPEC(deeleigen)" lemma="Demol">Demol</w>
+      <w xml:id="allwords-wiki1400.s.81.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.81.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.82">
+      <w xml:id="allwords-wiki1400.s.82.w.1" pos="TW(hoofd,vrij)" lemma="1987">1987</w>
+      <w xml:id="allwords-wiki1400.s.82.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.82.w.3" pos="SPEC(deeleigen)" lemma="Eric">Eric</w>
+      <w xml:id="allwords-wiki1400.s.82.w.4" pos="SPEC(deeleigen)" lemma="Vanderaerden">Vanderaerden</w>
+      <w xml:id="allwords-wiki1400.s.82.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.82.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.83">
+      <w xml:id="allwords-wiki1400.s.83.w.1" pos="TW(hoofd,vrij)" lemma="1986">1986</w>
+      <w xml:id="allwords-wiki1400.s.83.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.83.w.3" pos="SPEC(deeleigen)" lemma="Sean">Sean</w>
+      <w xml:id="allwords-wiki1400.s.83.w.4" pos="SPEC(deeleigen)" lemma="Kelly">Kelly</w>
+      <w xml:id="allwords-wiki1400.s.83.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.83.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.84">
+      <w xml:id="allwords-wiki1400.s.84.w.1" pos="TW(hoofd,vrij)" lemma="1985">1985</w>
+      <w xml:id="allwords-wiki1400.s.84.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.84.w.3" pos="SPEC(deeleigen)" lemma="Marc">Marc</w>
+      <w xml:id="allwords-wiki1400.s.84.w.4" pos="SPEC(deeleigen)" lemma="Madiot">Madiot</w>
+      <w xml:id="allwords-wiki1400.s.84.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.84.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.85">
+      <w xml:id="allwords-wiki1400.s.85.w.1" pos="TW(hoofd,vrij)" lemma="1984">1984</w>
+      <w xml:id="allwords-wiki1400.s.85.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.85.w.3" pos="SPEC(deeleigen)" lemma="Sean">Sean</w>
+      <w xml:id="allwords-wiki1400.s.85.w.4" pos="SPEC(deeleigen)" lemma="Kelly">Kelly</w>
+      <w xml:id="allwords-wiki1400.s.85.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.85.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.86">
+      <w xml:id="allwords-wiki1400.s.86.w.1" pos="TW(hoofd,vrij)" lemma="1983">1983</w>
+      <w xml:id="allwords-wiki1400.s.86.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.86.w.3" pos="SPEC(deeleigen)" lemma="Hennie">Hennie</w>
+      <w xml:id="allwords-wiki1400.s.86.w.4" pos="SPEC(deeleigen)" lemma="Kuiper">Kuiper</w>
+      <w xml:id="allwords-wiki1400.s.86.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.86.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.87">
+      <w xml:id="allwords-wiki1400.s.87.w.1" pos="TW(hoofd,vrij)" lemma="1982">1982</w>
+      <w xml:id="allwords-wiki1400.s.87.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.87.w.3" pos="SPEC(deeleigen)" lemma="Jan">Jan</w>
+      <w xml:id="allwords-wiki1400.s.87.w.4" pos="SPEC(deeleigen)" lemma="Raas">Raas</w>
+      <w xml:id="allwords-wiki1400.s.87.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.87.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.88">
+      <w xml:id="allwords-wiki1400.s.88.w.1" pos="TW(hoofd,vrij)" lemma="1981">1981</w>
+      <w xml:id="allwords-wiki1400.s.88.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.88.w.3" pos="SPEC(deeleigen)" lemma="Bernard">Bernard</w>
+      <w xml:id="allwords-wiki1400.s.88.w.4" pos="SPEC(deeleigen)" lemma="Hinault">Hinault</w>
+      <w xml:id="allwords-wiki1400.s.88.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.88.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.89">
+      <w xml:id="allwords-wiki1400.s.89.w.1" pos="TW(hoofd,vrij)" lemma="1980">1980</w>
+      <w xml:id="allwords-wiki1400.s.89.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.89.w.3" pos="SPEC(deeleigen)" lemma="Francesco">Francesco</w>
+      <w xml:id="allwords-wiki1400.s.89.w.4" pos="SPEC(deeleigen)" lemma="Moser">Moser</w>
+      <w xml:id="allwords-wiki1400.s.89.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.89.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.90">
+      <w xml:id="allwords-wiki1400.s.90.w.1" pos="TW(hoofd,vrij)" lemma="1979">1979</w>
+      <w xml:id="allwords-wiki1400.s.90.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.90.w.3" pos="SPEC(deeleigen)" lemma="Francesco">Francesco</w>
+      <w xml:id="allwords-wiki1400.s.90.w.4" pos="SPEC(deeleigen)" lemma="Moser">Moser</w>
+      <w xml:id="allwords-wiki1400.s.90.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.90.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.91">
+      <w xml:id="allwords-wiki1400.s.91.w.1" pos="TW(hoofd,vrij)" lemma="1978">1978</w>
+      <w xml:id="allwords-wiki1400.s.91.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.91.w.3" pos="SPEC(deeleigen)" lemma="Francesco">Francesco</w>
+      <w xml:id="allwords-wiki1400.s.91.w.4" pos="SPEC(deeleigen)" lemma="Moser">Moser</w>
+      <w xml:id="allwords-wiki1400.s.91.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.91.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.92">
+      <w xml:id="allwords-wiki1400.s.92.w.1" pos="TW(hoofd,vrij)" lemma="1977">1977</w>
+      <w xml:id="allwords-wiki1400.s.92.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.92.w.3" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.92.w.4" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.92.w.5" pos="SPEC(deeleigen)" lemma="Vlaeminck">Vlaeminck</w>
+      <w xml:id="allwords-wiki1400.s.92.w.6" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.92.w.7" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.93">
+      <w xml:id="allwords-wiki1400.s.93.w.1" pos="TW(hoofd,vrij)" lemma="1976">1976</w>
+      <w xml:id="allwords-wiki1400.s.93.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.93.w.3" pos="SPEC(deeleigen)" lemma="Marc">Marc</w>
+      <w xml:id="allwords-wiki1400.s.93.w.4" pos="SPEC(deeleigen)" lemma="Demeyer">Demeyer</w>
+      <w xml:id="allwords-wiki1400.s.93.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.93.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.94">
+      <w xml:id="allwords-wiki1400.s.94.w.1" pos="TW(hoofd,vrij)" lemma="1975">1975</w>
+      <w xml:id="allwords-wiki1400.s.94.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.94.w.3" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.94.w.4" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.94.w.5" pos="SPEC(deeleigen)" lemma="Vlaeminck">Vlaeminck</w>
+      <w xml:id="allwords-wiki1400.s.94.w.6" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.94.w.7" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.95">
+      <w xml:id="allwords-wiki1400.s.95.w.1" pos="TW(hoofd,vrij)" lemma="1974">1974</w>
+      <w xml:id="allwords-wiki1400.s.95.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.95.w.3" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.95.w.4" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.95.w.5" pos="SPEC(deeleigen)" lemma="Vlaeminck">Vlaeminck</w>
+      <w xml:id="allwords-wiki1400.s.95.w.6" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.95.w.7" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.96">
+      <w xml:id="allwords-wiki1400.s.96.w.1" pos="TW(hoofd,vrij)" lemma="1973">1973</w>
+      <w xml:id="allwords-wiki1400.s.96.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.96.w.3" pos="SPEC(deeleigen)" lemma="Eddy">Eddy</w>
+      <w xml:id="allwords-wiki1400.s.96.w.4" pos="SPEC(deeleigen)" lemma="Merckx">Merckx</w>
+      <w xml:id="allwords-wiki1400.s.96.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.96.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.97">
+      <w xml:id="allwords-wiki1400.s.97.w.1" pos="TW(hoofd,vrij)" lemma="1972">1972</w>
+      <w xml:id="allwords-wiki1400.s.97.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.97.w.3" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.97.w.4" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.97.w.5" pos="SPEC(deeleigen)" lemma="Vlaeminck">Vlaeminck</w>
+      <w xml:id="allwords-wiki1400.s.97.w.6" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.97.w.7" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.98">
+      <w xml:id="allwords-wiki1400.s.98.w.1" pos="TW(hoofd,vrij)" lemma="1971">1971</w>
+      <w xml:id="allwords-wiki1400.s.98.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.98.w.3" pos="SPEC(deeleigen)" lemma="Roger">Roger</w>
+      <w xml:id="allwords-wiki1400.s.98.w.4" pos="SPEC(deeleigen)" lemma="Rosiers">Rosiers</w>
+      <w xml:id="allwords-wiki1400.s.98.w.5" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.98.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.99">
+      <w xml:id="allwords-wiki1400.s.99.w.1" pos="TW(hoofd,vrij)" lemma="1970">1970</w>
+      <w xml:id="allwords-wiki1400.s.99.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.99.w.3" pos="SPEC(deeleigen)" lemma="Eddy">Eddy</w>
+      <w xml:id="allwords-wiki1400.s.99.w.4" pos="SPEC(deeleigen)" lemma="Merckx">Merckx</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.100">
+      <w xml:id="allwords-wiki1400.s.100.w.1" pos="TW(hoofd,vrij)" lemma="1969">1969</w>
+      <w xml:id="allwords-wiki1400.s.100.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.100.w.3" pos="SPEC(deeleigen)" lemma="Walter">Walter</w>
+      <w xml:id="allwords-wiki1400.s.100.w.4" pos="SPEC(deeleigen)" lemma="Godefroot">Godefroot</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.101">
+      <w xml:id="allwords-wiki1400.s.101.w.1" pos="TW(hoofd,vrij)" lemma="1968">1968</w>
+      <w xml:id="allwords-wiki1400.s.101.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.101.w.3" pos="SPEC(deeleigen)" lemma="Eddy">Eddy</w>
+      <w xml:id="allwords-wiki1400.s.101.w.4" pos="SPEC(deeleigen)" lemma="Merckx">Merckx</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.102">
+      <w xml:id="allwords-wiki1400.s.102.w.1" pos="TW(hoofd,vrij)" lemma="1967">1967</w>
+      <w xml:id="allwords-wiki1400.s.102.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.102.w.3" pos="SPEC(deeleigen)" lemma="Jan">Jan</w>
+      <w xml:id="allwords-wiki1400.s.102.w.4" pos="SPEC(deeleigen)" lemma="Janssen">Janssen</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.103">
+      <w xml:id="allwords-wiki1400.s.103.w.1" pos="TW(hoofd,vrij)" lemma="1966">1966</w>
+      <w xml:id="allwords-wiki1400.s.103.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.103.w.3" pos="SPEC(deeleigen)" lemma="Felice">Felice</w>
+      <w xml:id="allwords-wiki1400.s.103.w.4" pos="SPEC(deeleigen)" lemma="Gimondi">Gimondi</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.104">
+      <w xml:id="allwords-wiki1400.s.104.w.1" pos="TW(hoofd,vrij)" lemma="1965">1965</w>
+      <w xml:id="allwords-wiki1400.s.104.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.104.w.3" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.104.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.104.w.5" pos="SPEC(deeleigen)" lemma="Looy">Looy</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.105">
+      <w xml:id="allwords-wiki1400.s.105.w.1" pos="TW(hoofd,vrij)" lemma="1964">1964</w>
+      <w xml:id="allwords-wiki1400.s.105.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.105.w.3" pos="SPEC(deeleigen)" lemma="Peter">Peter</w>
+      <w xml:id="allwords-wiki1400.s.105.w.4" pos="SPEC(deeleigen)" lemma="Post">Post</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.106">
+      <w xml:id="allwords-wiki1400.s.106.w.1" pos="TW(hoofd,vrij)" lemma="1963">1963</w>
+      <w xml:id="allwords-wiki1400.s.106.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.106.w.3" pos="SPEC(deeleigen)" lemma="Emile">Emile</w>
+      <w xml:id="allwords-wiki1400.s.106.w.4" pos="SPEC(deeleigen)" lemma="Daems">Daems</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.107">
+      <w xml:id="allwords-wiki1400.s.107.w.1" pos="TW(hoofd,vrij)" lemma="1962">1962</w>
+      <w xml:id="allwords-wiki1400.s.107.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.107.w.3" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.107.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.107.w.5" pos="SPEC(deeleigen)" lemma="Looy">Looy</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.108">
+      <w xml:id="allwords-wiki1400.s.108.w.1" pos="TW(hoofd,vrij)" lemma="1961">1961</w>
+      <w xml:id="allwords-wiki1400.s.108.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.108.w.3" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.108.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.108.w.5" pos="SPEC(deeleigen)" lemma="Looy">Looy</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.109">
+      <w xml:id="allwords-wiki1400.s.109.w.1" pos="TW(hoofd,vrij)" lemma="1960">1960</w>
+      <w xml:id="allwords-wiki1400.s.109.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.109.w.3" pos="SPEC(deeleigen)" lemma="Pino">Pino</w>
+      <w xml:id="allwords-wiki1400.s.109.w.4" pos="SPEC(deeleigen)" lemma="Cerami">Cerami</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.110">
+      <w xml:id="allwords-wiki1400.s.110.w.1" pos="TW(hoofd,vrij)" lemma="1959">1959</w>
+      <w xml:id="allwords-wiki1400.s.110.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.110.w.3" pos="SPEC(deeleigen)" lemma="Noël">Noël</w>
+      <w xml:id="allwords-wiki1400.s.110.w.4" pos="SPEC(deeleigen)" lemma="Foré">Foré</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.111">
+      <w xml:id="allwords-wiki1400.s.111.w.1" pos="TW(hoofd,vrij)" lemma="1958">1958</w>
+      <w xml:id="allwords-wiki1400.s.111.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.111.w.3" pos="SPEC(deeleigen)" lemma="Leon">Leon</w>
+      <w xml:id="allwords-wiki1400.s.111.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.111.w.5" pos="SPEC(deeleigen)" lemma="Daele">Daele</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.112">
+      <w xml:id="allwords-wiki1400.s.112.w.1" pos="TW(hoofd,vrij)" lemma="1957">1957</w>
+      <w xml:id="allwords-wiki1400.s.112.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.112.w.3" pos="SPEC(deeleigen)" lemma="Fred">Fred</w>
+      <w xml:id="allwords-wiki1400.s.112.w.4" pos="SPEC(deeleigen)" lemma="De">De</w>
+      <w xml:id="allwords-wiki1400.s.112.w.5" pos="SPEC(deeleigen)" lemma="Bruyne">Bruyne</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.113">
+      <w xml:id="allwords-wiki1400.s.113.w.1" pos="TW(hoofd,vrij)" lemma="1956">1956</w>
+      <w xml:id="allwords-wiki1400.s.113.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.113.w.3" pos="SPEC(deeleigen)" lemma="Louison">Louison</w>
+      <w xml:id="allwords-wiki1400.s.113.w.4" pos="SPEC(deeleigen)" lemma="Bobet">Bobet</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.114">
+      <w xml:id="allwords-wiki1400.s.114.w.1" pos="TW(hoofd,vrij)" lemma="1955">1955</w>
+      <w xml:id="allwords-wiki1400.s.114.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.114.w.3" pos="SPEC(deeleigen)" lemma="Jean">Jean</w>
+      <w xml:id="allwords-wiki1400.s.114.w.4" pos="SPEC(deeleigen)" lemma="Forestier">Forestier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.115">
+      <w xml:id="allwords-wiki1400.s.115.w.1" pos="TW(hoofd,vrij)" lemma="1954">1954</w>
+      <w xml:id="allwords-wiki1400.s.115.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.115.w.3" pos="SPEC(deeleigen)" lemma="Raymond">Raymond</w>
+      <w xml:id="allwords-wiki1400.s.115.w.4" pos="SPEC(deeleigen)" lemma="Impanis">Impanis</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.116">
+      <w xml:id="allwords-wiki1400.s.116.w.1" pos="TW(hoofd,vrij)" lemma="1953">1953</w>
+      <w xml:id="allwords-wiki1400.s.116.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.116.w.3" pos="SPEC(deeleigen)" lemma="Germain">Germain</w>
+      <w xml:id="allwords-wiki1400.s.116.w.4" pos="SPEC(deeleigen)" lemma="Derijcke">Derijcke</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.117">
+      <w xml:id="allwords-wiki1400.s.117.w.1" pos="TW(hoofd,vrij)" lemma="1952">1952</w>
+      <w xml:id="allwords-wiki1400.s.117.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.117.w.3" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.117.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.117.w.5" pos="SPEC(deeleigen)" lemma="Steenbergen">Steenbergen</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.118">
+      <w xml:id="allwords-wiki1400.s.118.w.1" pos="TW(hoofd,vrij)" lemma="1951">1951</w>
+      <w xml:id="allwords-wiki1400.s.118.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.118.w.3" pos="SPEC(deeleigen)" lemma="Antonio">Antonio</w>
+      <w xml:id="allwords-wiki1400.s.118.w.4" pos="SPEC(deeleigen)" lemma="Bevilacqua">Bevilacqua</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.119">
+      <w xml:id="allwords-wiki1400.s.119.w.1" pos="TW(hoofd,vrij)" lemma="1950">1950</w>
+      <w xml:id="allwords-wiki1400.s.119.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.119.w.3" pos="SPEC(deeleigen)" lemma="Fausto">Fausto</w>
+      <w xml:id="allwords-wiki1400.s.119.w.4" pos="SPEC(deeleigen)" lemma="Coppi">Coppi</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.120">
+      <w xml:id="allwords-wiki1400.s.120.w.1" pos="TW(hoofd,vrij)" lemma="1949">1949</w>
+      <w xml:id="allwords-wiki1400.s.120.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.120.w.3" pos="SPEC(deeleigen)" lemma="Serse">Serse</w>
+      <w xml:id="allwords-wiki1400.s.120.w.4" pos="SPEC(deeleigen)" lemma="Coppi">Coppi</w>
+      <w xml:id="allwords-wiki1400.s.120.w.5" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.120.w.6" pos="SPEC(deeleigen)" lemma="André">André</w>
+      <w xml:id="allwords-wiki1400.s.120.w.7" pos="SPEC(deeleigen)" lemma="Mahe">Mahe</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.121">
+      <w xml:id="allwords-wiki1400.s.121.w.1" pos="TW(hoofd,vrij)" lemma="1948">1948</w>
+      <w xml:id="allwords-wiki1400.s.121.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.121.w.3" pos="SPEC(deeleigen)" lemma="Rik">Rik</w>
+      <w xml:id="allwords-wiki1400.s.121.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.121.w.5" pos="SPEC(deeleigen)" lemma="Steenbergen">Steenbergen</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.122">
+      <w xml:id="allwords-wiki1400.s.122.w.1" pos="TW(hoofd,vrij)" lemma="1947">1947</w>
+      <w xml:id="allwords-wiki1400.s.122.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.122.w.3" pos="SPEC(deeleigen)" lemma="Georges">Georges</w>
+      <w xml:id="allwords-wiki1400.s.122.w.4" pos="SPEC(deeleigen)" lemma="Claes">Claes</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.123">
+      <w xml:id="allwords-wiki1400.s.123.w.1" pos="TW(hoofd,vrij)" lemma="1946">1946</w>
+      <w xml:id="allwords-wiki1400.s.123.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.123.w.3" pos="SPEC(deeleigen)" lemma="Georges">Georges</w>
+      <w xml:id="allwords-wiki1400.s.123.w.4" pos="SPEC(deeleigen)" lemma="Claes">Claes</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.124">
+      <w xml:id="allwords-wiki1400.s.124.w.1" pos="TW(hoofd,vrij)" lemma="1945">1945</w>
+      <w xml:id="allwords-wiki1400.s.124.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.124.w.3" pos="SPEC(deeleigen)" lemma="Paul">Paul</w>
+      <w xml:id="allwords-wiki1400.s.124.w.4" pos="SPEC(deeleigen)" lemma="Maye">Maye</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.125">
+      <w xml:id="allwords-wiki1400.s.125.w.1" pos="TW(hoofd,vrij)" lemma="1944">1944</w>
+      <w xml:id="allwords-wiki1400.s.125.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.125.w.3" pos="SPEC(deeleigen)" lemma="Maurice">Maurice</w>
+      <w xml:id="allwords-wiki1400.s.125.w.4" pos="SPEC(deeleigen)" lemma="Desimpelaere">Desimpelaere</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.126">
+      <w xml:id="allwords-wiki1400.s.126.w.1" pos="TW(hoofd,vrij)" lemma="1943">1943</w>
+      <w xml:id="allwords-wiki1400.s.126.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.126.w.3" pos="SPEC(deeleigen)" lemma="Marcel">Marcel</w>
+      <w xml:id="allwords-wiki1400.s.126.w.4" pos="SPEC(deeleigen)" lemma="Kint">Kint</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.127">
+      <w xml:id="allwords-wiki1400.s.127.w.1" pos="TW(hoofd,vrij)" lemma="1939">1939</w>
+      <w xml:id="allwords-wiki1400.s.127.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.127.w.3" pos="SPEC(deeleigen)" lemma="Emile">Emile</w>
+      <w xml:id="allwords-wiki1400.s.127.w.4" pos="SPEC(deeleigen)" lemma="Masson">Masson</w>
+      <w xml:id="allwords-wiki1400.s.127.w.5" pos="ADJ(postnom,basis,zonder)" lemma="jr">jr</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.128">
+      <w xml:id="allwords-wiki1400.s.128.w.1" pos="TW(hoofd,vrij)" lemma="1938">1938</w>
+      <w xml:id="allwords-wiki1400.s.128.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.128.w.3" pos="SPEC(deeleigen)" lemma="Lucien">Lucien</w>
+      <w xml:id="allwords-wiki1400.s.128.w.4" pos="SPEC(deeleigen)" lemma="Storme">Storme</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.129">
+      <w xml:id="allwords-wiki1400.s.129.w.1" pos="TW(hoofd,vrij)" lemma="1937">1937</w>
+      <w xml:id="allwords-wiki1400.s.129.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.129.w.3" pos="SPEC(deeleigen)" lemma="Jules">Jules</w>
+      <w xml:id="allwords-wiki1400.s.129.w.4" pos="SPEC(deeleigen)" lemma="Rossi">Rossi</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.130">
+      <w xml:id="allwords-wiki1400.s.130.w.1" pos="TW(hoofd,vrij)" lemma="1936">1936</w>
+      <w xml:id="allwords-wiki1400.s.130.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.130.w.3" pos="SPEC(deeleigen)" lemma="Georges">Georges</w>
+      <w xml:id="allwords-wiki1400.s.130.w.4" pos="SPEC(deeleigen)" lemma="Speicher">Speicher</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.131">
+      <w xml:id="allwords-wiki1400.s.131.w.1" pos="TW(hoofd,vrij)" lemma="1935">1935</w>
+      <w xml:id="allwords-wiki1400.s.131.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.131.w.3" pos="SPEC(deeleigen)" lemma="Gaston">Gaston</w>
+      <w xml:id="allwords-wiki1400.s.131.w.4" pos="SPEC(deeleigen)" lemma="Rebry">Rebry</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.132">
+      <w xml:id="allwords-wiki1400.s.132.w.1" pos="TW(hoofd,vrij)" lemma="1934">1934</w>
+      <w xml:id="allwords-wiki1400.s.132.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.132.w.3" pos="SPEC(deeleigen)" lemma="Gaston">Gaston</w>
+      <w xml:id="allwords-wiki1400.s.132.w.4" pos="SPEC(deeleigen)" lemma="Rebry">Rebry</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.133">
+      <w xml:id="allwords-wiki1400.s.133.w.1" pos="TW(hoofd,vrij)" lemma="1933">1933</w>
+      <w xml:id="allwords-wiki1400.s.133.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.133.w.3" pos="SPEC(deeleigen)" lemma="Sylvère">Sylvère</w>
+      <w xml:id="allwords-wiki1400.s.133.w.4" pos="SPEC(deeleigen)" lemma="Maes">Maes</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.134">
+      <w xml:id="allwords-wiki1400.s.134.w.1" pos="TW(hoofd,vrij)" lemma="1932">1932</w>
+      <w xml:id="allwords-wiki1400.s.134.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.134.w.3" pos="SPEC(deeleigen)" lemma="Romain">Romain</w>
+      <w xml:id="allwords-wiki1400.s.134.w.4" pos="SPEC(deeleigen)" lemma="Gijssels">Gijssels</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.135">
+      <w xml:id="allwords-wiki1400.s.135.w.1" pos="TW(hoofd,vrij)" lemma="1931">1931</w>
+      <w xml:id="allwords-wiki1400.s.135.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.135.w.3" pos="SPEC(deeleigen)" lemma="Gaston">Gaston</w>
+      <w xml:id="allwords-wiki1400.s.135.w.4" pos="SPEC(deeleigen)" lemma="Rebry">Rebry</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.136">
+      <w xml:id="allwords-wiki1400.s.136.w.1" pos="TW(hoofd,vrij)" lemma="1930">1930</w>
+      <w xml:id="allwords-wiki1400.s.136.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.136.w.3" pos="SPEC(deeleigen)" lemma="Julien">Julien</w>
+      <w xml:id="allwords-wiki1400.s.136.w.4" pos="SPEC(deeleigen)" lemma="Vervaecke">Vervaecke</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.137">
+      <w xml:id="allwords-wiki1400.s.137.w.1" pos="TW(hoofd,vrij)" lemma="1929">1929</w>
+      <w xml:id="allwords-wiki1400.s.137.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.137.w.3" pos="SPEC(deeleigen)" lemma="Charles">Charles</w>
+      <w xml:id="allwords-wiki1400.s.137.w.4" pos="SPEC(deeleigen)" lemma="Meunier">Meunier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.138">
+      <w xml:id="allwords-wiki1400.s.138.w.1" pos="TW(hoofd,vrij)" lemma="1928">1928</w>
+      <w xml:id="allwords-wiki1400.s.138.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.138.w.3" pos="SPEC(deeleigen)" lemma="André">André</w>
+      <w xml:id="allwords-wiki1400.s.138.w.4" pos="SPEC(deeleigen)" lemma="Leducq">Leducq</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.139">
+      <w xml:id="allwords-wiki1400.s.139.w.1" pos="TW(hoofd,vrij)" lemma="1927">1927</w>
+      <w xml:id="allwords-wiki1400.s.139.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.139.w.3" pos="SPEC(deeleigen)" lemma="Georges">Georges</w>
+      <w xml:id="allwords-wiki1400.s.139.w.4" pos="SPEC(deeleigen)" lemma="Ronsse">Ronsse</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.140">
+      <w xml:id="allwords-wiki1400.s.140.w.1" pos="TW(hoofd,vrij)" lemma="1926">1926</w>
+      <w xml:id="allwords-wiki1400.s.140.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.140.w.3" pos="SPEC(deeleigen)" lemma="Julien">Julien</w>
+      <w xml:id="allwords-wiki1400.s.140.w.4" pos="SPEC(deeleigen)" lemma="Delbecque">Delbecque</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.141">
+      <w xml:id="allwords-wiki1400.s.141.w.1" pos="TW(hoofd,vrij)" lemma="1925">1925</w>
+      <w xml:id="allwords-wiki1400.s.141.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.141.w.3" pos="SPEC(deeleigen)" lemma="Felix">Felix</w>
+      <w xml:id="allwords-wiki1400.s.141.w.4" pos="SPEC(deeleigen)" lemma="Sellier">Sellier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.142">
+      <w xml:id="allwords-wiki1400.s.142.w.1" pos="TW(hoofd,vrij)" lemma="1924">1924</w>
+      <w xml:id="allwords-wiki1400.s.142.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.142.w.3" pos="SPEC(deeleigen)" lemma="Jules">Jules</w>
+      <w xml:id="allwords-wiki1400.s.142.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.142.w.5" pos="SPEC(deeleigen)" lemma="Hevel">Hevel</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.143">
+      <w xml:id="allwords-wiki1400.s.143.w.1" pos="TW(hoofd,vrij)" lemma="1923">1923</w>
+      <w xml:id="allwords-wiki1400.s.143.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.143.w.3" pos="SPEC(deeleigen)" lemma="Henri">Henri</w>
+      <w xml:id="allwords-wiki1400.s.143.w.4" pos="SPEC(deeleigen)" lemma="Suter">Suter</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.144">
+      <w xml:id="allwords-wiki1400.s.144.w.1" pos="TW(hoofd,vrij)" lemma="1922">1922</w>
+      <w xml:id="allwords-wiki1400.s.144.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.144.w.3" pos="SPEC(deeleigen)" lemma="Berten">Berten</w>
+      <w xml:id="allwords-wiki1400.s.144.w.4" pos="SPEC(deeleigen)" lemma="Dejonghe">Dejonghe</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.145">
+      <w xml:id="allwords-wiki1400.s.145.w.1" pos="TW(hoofd,vrij)" lemma="1921">1921</w>
+      <w xml:id="allwords-wiki1400.s.145.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.145.w.3" pos="SPEC(deeleigen)" lemma="Henri">Henri</w>
+      <w xml:id="allwords-wiki1400.s.145.w.4" pos="SPEC(deeleigen)" lemma="Pélissier">Pélissier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.146">
+      <w xml:id="allwords-wiki1400.s.146.w.1" pos="TW(hoofd,vrij)" lemma="1920">1920</w>
+      <w xml:id="allwords-wiki1400.s.146.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.146.w.3" pos="SPEC(deeleigen)" lemma="Paul">Paul</w>
+      <w xml:id="allwords-wiki1400.s.146.w.4" pos="SPEC(deeleigen)" lemma="Deman">Deman</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.147">
+      <w xml:id="allwords-wiki1400.s.147.w.1" pos="TW(hoofd,vrij)" lemma="1919">1919</w>
+      <w xml:id="allwords-wiki1400.s.147.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.147.w.3" pos="SPEC(deeleigen)" lemma="Henri">Henri</w>
+      <w xml:id="allwords-wiki1400.s.147.w.4" pos="SPEC(deeleigen)" lemma="Pelissier">Pelissier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.148">
+      <w xml:id="allwords-wiki1400.s.148.w.1" pos="TW(hoofd,vrij)" lemma="1914">1914</w>
+      <w xml:id="allwords-wiki1400.s.148.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.148.w.3" pos="SPEC(deeleigen)" lemma="Charles">Charles</w>
+      <w xml:id="allwords-wiki1400.s.148.w.4" pos="SPEC(deeleigen)" lemma="Crupelandt">Crupelandt</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.149">
+      <w xml:id="allwords-wiki1400.s.149.w.1" pos="TW(hoofd,vrij)" lemma="1913">1913</w>
+      <w xml:id="allwords-wiki1400.s.149.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.149.w.3" pos="SPEC(deeleigen)" lemma="François">François</w>
+      <w xml:id="allwords-wiki1400.s.149.w.4" pos="SPEC(deeleigen)" lemma="Faber">Faber</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.150">
+      <w xml:id="allwords-wiki1400.s.150.w.1" pos="TW(hoofd,vrij)" lemma="1912">1912</w>
+      <w xml:id="allwords-wiki1400.s.150.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.150.w.3" pos="SPEC(deeleigen)" lemma="Charles">Charles</w>
+      <w xml:id="allwords-wiki1400.s.150.w.4" pos="SPEC(deeleigen)" lemma="Crupelandt">Crupelandt</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.151">
+      <w xml:id="allwords-wiki1400.s.151.w.1" pos="TW(hoofd,vrij)" lemma="1911">1911</w>
+      <w xml:id="allwords-wiki1400.s.151.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.151.w.3" pos="SPEC(deeleigen)" lemma="Octave">Octave</w>
+      <w xml:id="allwords-wiki1400.s.151.w.4" pos="SPEC(deeleigen)" lemma="Lapize">Lapize</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.152">
+      <w xml:id="allwords-wiki1400.s.152.w.1" pos="TW(hoofd,vrij)" lemma="1910">1910</w>
+      <w xml:id="allwords-wiki1400.s.152.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.152.w.3" pos="SPEC(deeleigen)" lemma="Octave">Octave</w>
+      <w xml:id="allwords-wiki1400.s.152.w.4" pos="SPEC(deeleigen)" lemma="Lapize">Lapize</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.153">
+      <w xml:id="allwords-wiki1400.s.153.w.1" pos="TW(hoofd,vrij)" lemma="1909">1909</w>
+      <w xml:id="allwords-wiki1400.s.153.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.153.w.3" pos="SPEC(deeleigen)" lemma="Octave">Octave</w>
+      <w xml:id="allwords-wiki1400.s.153.w.4" pos="SPEC(deeleigen)" lemma="Lapize">Lapize</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.154">
+      <w xml:id="allwords-wiki1400.s.154.w.1" pos="TW(hoofd,vrij)" lemma="1908">1908</w>
+      <w xml:id="allwords-wiki1400.s.154.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.154.w.3" pos="SPEC(deeleigen)" lemma="Cyrille">Cyrille</w>
+      <w xml:id="allwords-wiki1400.s.154.w.4" pos="SPEC(deeleigen)" lemma="Van">Van</w>
+      <w xml:id="allwords-wiki1400.s.154.w.5" pos="SPEC(deeleigen)" lemma="Hauwaert">Hauwaert</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.155">
+      <w xml:id="allwords-wiki1400.s.155.w.1" pos="TW(hoofd,vrij)" lemma="1907">1907</w>
+      <w xml:id="allwords-wiki1400.s.155.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.155.w.3" pos="SPEC(deeleigen)" lemma="Georges">Georges</w>
+      <w xml:id="allwords-wiki1400.s.155.w.4" pos="SPEC(deeleigen)" lemma="Passerieu">Passerieu</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.156">
+      <w xml:id="allwords-wiki1400.s.156.w.1" pos="TW(hoofd,vrij)" lemma="1906">1906</w>
+      <w xml:id="allwords-wiki1400.s.156.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.156.w.3" pos="SPEC(deeleigen)" lemma="Henri">Henri</w>
+      <w xml:id="allwords-wiki1400.s.156.w.4" pos="SPEC(deeleigen)" lemma="Cornet">Cornet</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.157">
+      <w xml:id="allwords-wiki1400.s.157.w.1" pos="TW(hoofd,vrij)" lemma="1905">1905</w>
+      <w xml:id="allwords-wiki1400.s.157.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.157.w.3" pos="SPEC(deeleigen)" lemma="Louis">Louis</w>
+      <w xml:id="allwords-wiki1400.s.157.w.4" pos="SPEC(deeleigen)" lemma="Trousselier">Trousselier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.158">
+      <w xml:id="allwords-wiki1400.s.158.w.1" pos="TW(hoofd,vrij)" lemma="1904">1904</w>
+      <w xml:id="allwords-wiki1400.s.158.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.158.w.3" pos="SPEC(deeleigen)" lemma="Hippolyte">Hippolyte</w>
+      <w xml:id="allwords-wiki1400.s.158.w.4" pos="SPEC(deeleigen)" lemma="Aucouturier">Aucouturier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.159">
+      <w xml:id="allwords-wiki1400.s.159.w.1" pos="TW(hoofd,vrij)" lemma="1903">1903</w>
+      <w xml:id="allwords-wiki1400.s.159.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.159.w.3" pos="SPEC(deeleigen)" lemma="Hippolyte">Hippolyte</w>
+      <w xml:id="allwords-wiki1400.s.159.w.4" pos="SPEC(deeleigen)" lemma="Aucouturier">Aucouturier</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.160">
+      <w xml:id="allwords-wiki1400.s.160.w.1" pos="TW(hoofd,vrij)" lemma="1902">1902</w>
+      <w xml:id="allwords-wiki1400.s.160.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.160.w.3" pos="SPEC(deeleigen)" lemma="Lucien">Lucien</w>
+      <w xml:id="allwords-wiki1400.s.160.w.4" pos="SPEC(deeleigen)" lemma="Lesna">Lesna</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.161">
+      <w xml:id="allwords-wiki1400.s.161.w.1" pos="TW(hoofd,vrij)" lemma="1901">1901</w>
+      <w xml:id="allwords-wiki1400.s.161.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.161.w.3" pos="SPEC(deeleigen)" lemma="Lucien">Lucien</w>
+      <w xml:id="allwords-wiki1400.s.161.w.4" pos="SPEC(deeleigen)" lemma="Lesna">Lesna</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.162">
+      <w xml:id="allwords-wiki1400.s.162.w.1" pos="TW(hoofd,vrij)" lemma="1900">1900</w>
+      <w xml:id="allwords-wiki1400.s.162.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.162.w.3" pos="SPEC(deeleigen)" lemma="Emile">Emile</w>
+      <w xml:id="allwords-wiki1400.s.162.w.4" pos="SPEC(deeleigen)" lemma="Bouhours">Bouhours</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.163">
+      <w xml:id="allwords-wiki1400.s.163.w.1" pos="TW(hoofd,vrij)" lemma="1899">1899</w>
+      <w xml:id="allwords-wiki1400.s.163.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.163.w.3" pos="SPEC(deeleigen)" lemma="Albert">Albert</w>
+      <w xml:id="allwords-wiki1400.s.163.w.4" pos="SPEC(deeleigen)" lemma="Champion">Champion</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.164">
+      <w xml:id="allwords-wiki1400.s.164.w.1" pos="TW(hoofd,vrij)" lemma="1898">1898</w>
+      <w xml:id="allwords-wiki1400.s.164.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.164.w.3" pos="SPEC(deeleigen)" lemma="Maurice">Maurice</w>
+      <w xml:id="allwords-wiki1400.s.164.w.4" pos="SPEC(deeleigen)" lemma="Garin">Garin</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.165">
+      <w xml:id="allwords-wiki1400.s.165.w.1" pos="TW(hoofd,vrij)" lemma="1897">1897</w>
+      <w xml:id="allwords-wiki1400.s.165.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.165.w.3" pos="SPEC(deeleigen)" lemma="Maurice">Maurice</w>
+      <w xml:id="allwords-wiki1400.s.165.w.4" pos="SPEC(deeleigen)" lemma="Garin">Garin</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.166">
+      <w xml:id="allwords-wiki1400.s.166.w.1" pos="TW(hoofd,vrij)" lemma="1896">1896</w>
+      <w xml:id="allwords-wiki1400.s.166.w.2" pos="LET()" lemma="-">-</w>
+      <w xml:id="allwords-wiki1400.s.166.w.3" pos="SPEC(deeleigen)" lemma="Josef">Josef</w>
+      <w xml:id="allwords-wiki1400.s.166.w.4" pos="SPEC(deeleigen)" lemma="Fischer">Fischer</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.167">
+      <w xml:id="allwords-wiki1400.s.167.w.1" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.167.w.2" pos="LET()" lemma="*">*</w>
+      <w xml:id="allwords-wiki1400.s.167.w.3" pos="LET()" lemma=")">)</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.168">
+      <w xml:id="allwords-wiki1400.s.168.w.1" pos="ADJ(vrij,comp,zonder)" lemma="later">Later</w>
+      <w xml:id="allwords-wiki1400.s.168.w.2" pos="SPEC(deeleigen)" lemma="Belg">Belg</w>
+      <w xml:id="allwords-wiki1400.s.168.w.3" pos="WW(vd,vrij,zonder)" lemma="geworden">geworden</w>
+      <w xml:id="allwords-wiki1400.s.168.w.4" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.169">
+      <w xml:id="allwords-wiki1400.s.169.w.1" pos="N(soort,mv,basis)" lemma="overwinning">Overwinningen</w>
+      <w xml:id="allwords-wiki1400.s.169.w.2" pos="VZ(init)" lemma="per">per</w>
+      <w xml:id="allwords-wiki1400.s.169.w.3" pos="N(soort,ev,basis,onz,stan)" lemma="land">land</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.170">
+      <w xml:id="allwords-wiki1400.s.170.w.1" pos="WW(pv,tgw,ev)" lemma="zien">Zie</w>
+      <w xml:id="allwords-wiki1400.s.170.w.2" pos="BW()" lemma="ook">ook</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.171">
+      <w xml:id="allwords-wiki1400.s.171.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.171.w.2" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.171.w.3" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-wiki1400.s.171.w.4" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.171.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="verloop">verloop</w>
+      <w xml:id="allwords-wiki1400.s.171.w.6" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.171.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="klassement">klassement</w>
+      <w xml:id="allwords-wiki1400.s.171.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.171.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.171.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.171.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.171.w.12" pos="TW(hoofd,vrij)" lemma="2005">2005</w>
+      <w xml:id="allwords-wiki1400.s.171.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.172">
+      <w xml:id="allwords-wiki1400.s.172.w.1" pos="SPEC(deeleigen)" lemma="Parijs-Roubaix">Parijs-Roubaix</w>
+      <w xml:id="allwords-wiki1400.s.172.w.2" pos="TW(hoofd,vrij)" lemma="2006">2006</w>
+      <w xml:id="allwords-wiki1400.s.172.w.3" pos="LET()" lemma=":">:</w>
+      <w xml:id="allwords-wiki1400.s.172.w.4" pos="LID(bep,stan,evon)" lemma="het">het</w>
+      <w xml:id="allwords-wiki1400.s.172.w.5" pos="N(soort,ev,basis,onz,stan)" lemma="verloop">verloop</w>
+      <w xml:id="allwords-wiki1400.s.172.w.6" pos="VG(neven)" lemma="en">en</w>
+      <w xml:id="allwords-wiki1400.s.172.w.7" pos="N(soort,ev,basis,onz,stan)" lemma="klassement">klassement</w>
+      <w xml:id="allwords-wiki1400.s.172.w.8" pos="VZ(init)" lemma="van">van</w>
+      <w xml:id="allwords-wiki1400.s.172.w.9" pos="LID(bep,stan,rest)" lemma="de">de</w>
+      <w xml:id="allwords-wiki1400.s.172.w.10" pos="N(soort,ev,basis,zijd,stan)" lemma="wedstrijd">wedstrijd</w>
+      <w xml:id="allwords-wiki1400.s.172.w.11" pos="VZ(init)" lemma="in">in</w>
+      <w xml:id="allwords-wiki1400.s.172.w.12" pos="TW(hoofd,vrij)" lemma="2006">2006</w>
+      <w xml:id="allwords-wiki1400.s.172.w.13" pos="LET()" lemma=".">.</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.173">
+      <w xml:id="allwords-wiki1400.s.173.w.1" pos="ADJ(prenom,basis,met-e,stan)" lemma="extern">Externe</w>
+      <w xml:id="allwords-wiki1400.s.173.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="link">link</w>
+    </s>
+    <s xml:id="allwords-wiki1400.s.174">
+      <w xml:id="allwords-wiki1400.s.174.w.1" pos="ADJ(prenom,basis,met-e,stan)" lemma="officiëal">Officiële</w>
+      <w xml:id="allwords-wiki1400.s.174.w.2" pos="N(soort,ev,basis,zijd,stan)" lemma="site">site</w>
+      <w xml:id="allwords-wiki1400.s.174.w.3" pos="LET()" lemma="(">(</w>
+      <w xml:id="allwords-wiki1400.s.174.w.4" pos="N(soort,ev,basis,zijd,stan)" lemma="editie">editie</w>
+      <w xml:id="allwords-wiki1400.s.174.w.5" pos="TW(hoofd,vrij)" lemma="2006">2006</w>
+      <w xml:id="allwords-wiki1400.s.174.w.6" pos="LET()" lemma=")">)</w>
+    </s>
+  </text>
+  </body>
+</DCOI>
+
