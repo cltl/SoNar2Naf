@@ -80,14 +80,14 @@
     <td width="15%" align="right" valign="top" class="summary">
       <span class="summary-type">&nbsp;</span>
     </td><td class="summary">
-        <a name="extention"></a><span class="summary-name">extention</span> = <code title="&quot;.bz2&quot;">&quot;.bz2&quot;</code>
+        <a href="main-module.html#path_mapping_cornetto_odwn" class="summary-name">path_mapping_cornetto_odwn</a> = <code title="os.path.join(cwd, &quot;resources/cdb_syn_FILT.xml.lu-map&quot;)">os.path.join(cwd, &quot;resources/cdb_<code class="variable-ellipsis">...</code></code>
     </td>
   </tr>
 <tr>
     <td width="15%" align="right" valign="top" class="summary">
       <span class="summary-type">&nbsp;</span>
     </td><td class="summary">
-        <a href="main-module.html#path_mapping_cornetto_odwn" class="summary-name">path_mapping_cornetto_odwn</a> = <code title="os.path.join(cwd, &quot;resources/cdb_syn_FILT.xml.lu-map&quot;)">os.path.join(cwd, &quot;resources/cdb_<code class="variable-ellipsis">...</code></code>
+        <a href="main-module.html#path_allwords_annotations" class="summary-name">path_allwords_annotations</a> = <code title="os.path.join(cwd, &quot;resources/1.3.1.ALLWORDS_DSC&quot;)">os.path.join(cwd, &quot;resources/1.3.1<code class="variable-ellipsis">...</code></code>
     </td>
   </tr>
 <tr>
@@ -101,42 +101,7 @@
     <td width="15%" align="right" valign="top" class="summary">
       <span class="summary-type">&nbsp;</span>
     </td><td class="summary">
-        <a name="args"></a><span class="summary-name">args</span> = <code title="parser.parse_args().__dict__">parser.parse_args().__dict__</code>
-    </td>
-  </tr>
-<tr>
-    <td width="15%" align="right" valign="top" class="summary">
-      <span class="summary-type">&nbsp;</span>
-    </td><td class="summary">
-        <a name="base_dir"></a><span class="summary-name">base_dir</span> = <code title="args ['base_dir']">args ['base_dir']</code>
-    </td>
-  </tr>
-<tr>
-    <td width="15%" align="right" valign="top" class="summary">
-      <span class="summary-type">&nbsp;</span>
-    </td><td class="summary">
-        <a name="output_dir"></a><span class="summary-name">output_dir</span> = <code title="args ['output_dir']">args ['output_dir']</code>
-    </td>
-  </tr>
-<tr>
-    <td width="15%" align="right" valign="top" class="summary">
-      <span class="summary-type">&nbsp;</span>
-    </td><td class="summary">
-        <a name="WORKERS"></a><span class="summary-name">WORKERS</span> = <code title="int(args ['workers'])">int(args ['workers'])</code>
-    </td>
-  </tr>
-<tr>
-    <td width="15%" align="right" valign="top" class="summary">
-      <span class="summary-type">&nbsp;</span>
-    </td><td class="summary">
-        <a name="prefix_folia"></a><span class="summary-name">prefix_folia</span> = <code title="args ['prefix_folia']">args ['prefix_folia']</code>
-    </td>
-  </tr>
-<tr>
-    <td width="15%" align="right" valign="top" class="summary">
-      <span class="summary-type">&nbsp;</span>
-    </td><td class="summary">
-        <a name="overwrite"></a><span class="summary-name">overwrite</span> = <code title="args ['overwrite']">args ['overwrite']</code>
+        <a name="args"></a><span class="summary-name">args</span> = <code title="parser.parse_args()">parser.parse_args()</code>
     </td>
   </tr>
 <tr>
@@ -150,7 +115,14 @@
     <td width="15%" align="right" valign="top" class="summary">
       <span class="summary-type">&nbsp;</span>
     </td><td class="summary">
-        <a name="paths"></a><span class="summary-name">paths</span> = <code title="utils.path_generator(base_dir, extention)">utils.path_generator(base_dir, extention)</code>
+        <a name="paths"></a><span class="summary-name">paths</span> = <code title="utils.path_generator(args.base_dir, args.extention)">utils.path_generator(args.base_dir, args.extention)</code>
+    </td>
+  </tr>
+<tr>
+    <td width="15%" align="right" valign="top" class="summary">
+      <span class="summary-type">&nbsp;</span>
+    </td><td class="summary">
+        <a href="main-module.html#mapping_allwords_annotations" class="summary-name">mapping_allwords_annotations</a> = <code title="utils.load_mapping_allwords(path_allwords_annotations)">utils.load_mapping_allwords(pat<code class="variable-ellipsis">...</code></code>
     </td>
   </tr>
 <tr>
@@ -215,6 +187,24 @@ os.path.join(cwd, &quot;resources/cdb_syn_FILT.xml.lu-map&quot;)
   </dl>
 </td></tr></table>
 </div>
+<a name="path_allwords_annotations"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <h3 class="epydoc">path_allwords_annotations</h3>
+  
+  <dl class="fields">
+  </dl>
+  <dl class="fields">
+    <dt>Value:</dt>
+      <dd><table><tr><td><pre class="variable">
+os.path.join(cwd, &quot;resources/1.3.1.ALLWORDS_DSC&quot;)
+</pre></td></tr></table>
+</dd>
+  </dl>
+</td></tr></table>
+</div>
 <a name="parser"></a>
 <div>
 <table class="details" border="1" cellpadding="3"
@@ -251,6 +241,24 @@ utils.load_mapping_cornetto_odwn(path_mapping_cornetto_odwn)
   </dl>
 </td></tr></table>
 </div>
+<a name="mapping_allwords_annotations"></a>
+<div>
+<table class="details" border="1" cellpadding="3"
+       cellspacing="0" width="100%" bgcolor="white">
+<tr><td>
+  <h3 class="epydoc">mapping_allwords_annotations</h3>
+  
+  <dl class="fields">
+  </dl>
+  <dl class="fields">
+    <dt>Value:</dt>
+      <dd><table><tr><td><pre class="variable">
+utils.load_mapping_allwords(path_allwords_annotations)
+</pre></td></tr></table>
+</dd>
+  </dl>
+</td></tr></table>
+</div>
 <br />
 <!-- ==================== NAVIGATION BAR ==================== -->
 <table class="navbar" border="0" width="100%" cellpadding="0"
@@ -275,7 +283,7 @@ utils.load_mapping_cornetto_odwn(path_mapping_cornetto_odwn)
 <table border="0" cellpadding="0" cellspacing="0" width="100%%">
   <tr>
     <td align="left" class="footer">
-    Generated by Epydoc 3.0.1 on Mon Feb 23 22:25:17 2015
+    Generated by Epydoc 3.0.1 on Wed Apr  1 18:01:00 2015
     </td>
     <td align="right" class="footer">
       <a target="mainFrame" href="http://epydoc.sourceforge.net"

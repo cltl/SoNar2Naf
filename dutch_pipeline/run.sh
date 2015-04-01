@@ -17,6 +17,7 @@ output_file=$2
 basename=$(basename $input_file)
 cwd=/${PWD#*/}
 tmp=$cwd/tmp/
+mkdir -p tmp
 tmp_folder=$tmp$basename
 base_naf=$tmp_folder/$basename
 
