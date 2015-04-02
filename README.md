@@ -28,14 +28,13 @@ Contents of this github:
 * folder 'scripts': contains python scripts to perform conversion
 * folder 'resources': contains 'base_naf.xml' which is used for the NAF conversion
 and 'cdb_syn_FILT.xml.lu-map', which is a mapping from Cornetto to ODWN1.0. It also contains
-the allwords xml files and its annotations.
+the allwords xml files and its annotations. The folder allwords_NAF contains the processed all words files with annotations in naf.
 * folder 'dutch_pipeline': contains scripts to run naf file through dutch pipeline. only created for use
 on our personal server.
 
 ## TODO list (in this order)
 TODO list includes:
-* run all words part through dutch pipeline for testing
-* run full conversion to naf
+* run full conversion to naf with pipeline (to be set up)
 
 ## Code Documentation
 All python code has been documented with the epydoc package (http://epydoc.sourceforge.net/)
