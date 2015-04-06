@@ -48,18 +48,27 @@ class Worker(threading.Thread):
                 #unzip input_file
                 if item['path'].endswith("bz2"):
                     utils.b_un_zip2(path+".bz2", False)
+                
+                try:
+                    FoliaToNaf(path, 
+                               output, 
+                               cwd,
+                               prefix_folia,
+                               mapping_cornetto_odwn,
+                               mapping_allwords)
+                    
+                    #bzip2 output_file
+                    if item['path'].endswith("bz2"):
+                        utils.b_un_zip2(output,True)
+                
+                except Exception,e:
+                    print
+                    print path
+                    print str(e)
 
-                FoliaToNaf(path, 
-                           output, 
-                           cwd,
-                           prefix_folia,
-                           mapping_cornetto_odwn,
-                           mapping_allwords)
-            
+
                 #bzip2 input_file
                 if item['path'].endswith("bz2"):
                     utils.b_un_zip2(path,  True)
                 
-                #bzip2 output_file
-                if item['path'].endswith("bz2"):
-                    utils.b_un_zip2(output,True)
+
