@@ -104,7 +104,7 @@ def output_path(input_path,base_dir,output_dir):
     directory   = os.path.dirname(output_path)
     
     #create directory if it does not exist
-    if os.path.exists(directory) == False:
+    if not os.path.exists(directory):
         os.makedirs(directory)
     
     #add .naf to output_path if needed
