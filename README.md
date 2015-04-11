@@ -31,6 +31,8 @@ and 'cdb_syn_FILT.xml.lu-map', which is a mapping from Cornetto to ODWN1.0. It a
 the allwords xml files and its annotations. The folder allwords_NAF contains the processed all words files with annotations in naf.
 * folder 'dutch_pipeline': contains scripts to run naf file through dutch pipeline. only created for use
 on our personal server.
+* the all words part of dutchsemcor has been processed, but can not be distributed due to the license of SoNaR. Please contact the authors
+of this github for more information.
 
 ## TODO list (in this order)
 TODO list includes:
